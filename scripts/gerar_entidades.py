@@ -3,7 +3,7 @@ import csv, io, json, os, re, unicodedata, urllib.request
 avisos = []
 
 # Arquivos deste repositório usados para conferir a coluna "referencias"
-OUTRAS_BASES = ("referencias.json", "personalidades.json", "glossario.json")
+OUTRAS_BASES = ("referencias.json", "personalidades.json", "glossario.json", "legislacao.json")
 
 
 def norm(s):

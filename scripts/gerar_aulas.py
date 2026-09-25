@@ -11,6 +11,7 @@ BASES = {
     "referencias": "referencias.json",
     "personas": "personalidades.json",
     "entidades": "entidades.json",
+    "legislacao": "legislacao.json",
 }
 avisos = []
 
