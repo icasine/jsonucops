@@ -10,6 +10,7 @@ Gera, todo dia às 6h (Brasília), os arquivos JSON do site ucoop.com.br a parti
 | Referências | `scripts/gerar_referencias.py` | `referencias.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/referencias.json |
 | Personas | `scripts/gerar_personalidades.py` | `personalidades.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/personalidades.json |
 | Dados | `scripts/gerar_dados.py` | `dados.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/dados.json |
+| Legislação | `scripts/gerar_legislacao.py` | `legislacao.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/legislacao.json |
 | Entidades | `scripts/gerar_entidades.py` | `entidades.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/entidades.json |
 | Aulas | `scripts/gerar_aulas.py` | `aulas.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/aulas.json |
 
@@ -17,7 +18,8 @@ Gera, todo dia às 6h (Brasília), os arquivos JSON do site ucoop.com.br a parti
 
 - Os links CSV das planilhas ficam no topo do workflow (bloco `env`). Não é preciso cadastrar segredos.
 - Cada planilha é processada num passo separado. Se uma falhar, as outras seguem e o JSON antigo dela continua valendo; o workflow termina em vermelho dizendo qual falhou.
-- Entidades e aulas rodam por último porque conferem ids nos outros JSONs (as aulas podem citar `glossario`, `calendario`, `acervo`, `referencias`, `personas` e `entidades` na coluna `base`).
+- Entidades e aulas rodam por último porque conferem ids nos outros JSONs (as aulas podem citar `glossario`, `calendario`, `acervo`, `referencias`, `personas`, `legislacao` e `entidades` na coluna `base`).
+- A legislação roda depois do glossário e das demais bases porque confere as colunas `glossario`, `relacionadas` e `outros_ids`.
 - Linhas com `publicar` diferente de "sim" ficam fora. A coluna `obs_internas` nunca vai para o JSON.
 - Avisos (id repetido, link sem http, referência inexistente etc.) aparecem no resumo da execução, em Actions.
 
