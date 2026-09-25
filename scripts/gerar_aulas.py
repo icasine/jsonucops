@@ -132,7 +132,7 @@ for base, arquivo in BASES.items():
             if i:
                 ids.add(i)
                 ids.add(re.sub(r"-\d{4}$", "", i))  # eventos anuais: lei-5764-2026 vale como lei-5764
-        if ids:  # o acervo ainda não tem coluna id; sem ids não há o que conferir
+        if ids:  # sem ids não há o que conferir
             existentes[base] = ids
     except Exception:
         avisos.append(f"Não consegui ler o JSON de {base} para conferir as referências")
