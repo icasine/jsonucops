@@ -9,7 +9,7 @@ def sim(v):
 with urllib.request.urlopen(os.environ["CSV_URL"]) as r:
     texto_csv = r.read().decode("utf-8")
 
-itens = []
+itens, ids = [], set()
 for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
     l = {(k or "").strip(): (v or "").strip() for k, v in linha.items()}
     if not l.get("titulo_pt"):
@@ -18,6 +18,12 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
         continue
 
     titulo = l["titulo_pt"]
+    ident = l.get("id_acervo", "")
+    if not ident:
+        avisos.append(f"Linha {n} ({titulo[:50]}): sem id_acervo, item gravado sem id")
+    elif ident in ids:
+        avisos.append(f"Linha {n} ({titulo[:50]}): id_acervo '{ident}' repetido, linha ignorada")
+        continue
     try:
         ano = int(float(l.get("ano", "")))
     except ValueError:
@@ -44,9 +50,10 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
         busca = f'"{l.get("titulo_orig") or titulo}" {autores}'.strip()
         url = "https://www.google.com/search?q=" + urllib.parse.quote(busca)
 
-    item = {"tipo": tipo, "origem": origem, "ano": ano, "temas": temas,
+    item = {"id": ident} if ident else {}
+    item.update({"tipo": tipo, "origem": origem, "ano": ano, "temas": temas,
             "titulo_pt": titulo, "titulo_orig": l.get("titulo_orig", ""),
-            "meta": meta, "url": url}
+            "meta": meta, "url": url})
 
     compra = l.get("link_compra", "")
     if compra:
@@ -57,6 +64,8 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
     if sim(l.get("evidenciar")):
         item["evidenciar"] = True
 
+    if ident:
+        ids.add(ident)
     itens.append(item)
 
 itens.sort(key=lambda i: (-i["ano"], i["titulo_pt"].lower()))
