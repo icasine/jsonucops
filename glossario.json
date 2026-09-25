@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "aci",
+    "termo": "ACI",
+    "grupo": "org",
+    "texto": "Principal organização global que representa e serve às cooperativas, também conhecida pela sigla em inglês ICA (International Cooperative Alliance). Fundada em Londres, em 1895, no 1º Congresso Cooperativo Internacional, teve sede em Londres, depois em Genebra, e atualmente em Bruxelas. Atua por meio de escritórios regionais na África, Américas, Ásia-Pacífico e Europa, e é quem define, em seus congressos, os princípios vigentes do cooperativismo.",
+    "abbr": "Aliança Cooperativa Internacional",
+    "relacionados": "principios-do-cooperativismo;declaracao-sobre-a-identidade-cooperativa;cooperativas-das-americas;marca-coop;dia-internacional-das-cooperativas;",
+    "tags": "sigla;internacional;aci;principios;coop-aula-02;",
+    "evidenciar": "sim"
+  },
+  {
+    "id": "adequado-tratamento-tributario",
+    "termo": "Adequado tratamento tributário",
+    "grupo": "reg",
+    "texto": "Expressão do art. 146, III, c, da Constituição, que reserva à lei complementar dar tratamento tributário adequado ao ato cooperativo. Não significa isenção ou imunidade, mas regras que respeitem a natureza própria da cooperativa. A reforma tributária criou regime específico e opcional para as cooperativas no IBS e na CBS (Lei Complementar 214/2025).",
+    "relacionados": "ato-cooperativo;ato-nao-cooperativo;ingressos-e-dispendios;",
+    "tags": "tributacao;legislacao;constituicao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "admissao-demissao-eliminacao-e-exclusao",
+    "termo": "Admissão, demissão, eliminação e exclusão",
+    "grupo": "estrut",
+    "texto": "Formas de entrada e saída do quadro social. A demissão é voluntária, a pedido do associado. A eliminação é compulsória, por infração prevista no estatuto. A exclusão decorre de situações objetivas, como perda das condições de associação ou falecimento. As hipóteses e o procedimento devem estar expressos no estatuto.",
+    "relacionados": "estatuto-social;livre-admissao;cooperado-ou-associado;dupla-qualidade;",
+    "tags": "coop-aula-01;quadro-social;estatuto;coop-aula-02;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "alphonse-desjardins",
+    "termo": "Alphonse Desjardins",
+    "grupo": "hist",
+    "texto": "Jornalista canadense (1854-1920) que fundou em 1900, em Lévis (Quebec), a primeira caisse populaire, cooperativa de crédito que deu origem ao Movimento Desjardins. O modelo chegou ao Brasil nos anos 1960, com as cooperativas de economia e crédito mútuo.",
+    "relacionados": "friedrich-wilhelm-raiffeisen;luigi-luzzatti;hermann-schulze-delitzsch;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "historia;historia-mundial;pioneiros;ramo-credito;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "aneel",
+    "termo": "ANEEL",
+    "grupo": "org",
+    "texto": "Regula e fiscaliza as cooperativas de eletrificação, que atuam como permissionárias ou autorizadas do serviço de distribuição de energia elétrica.",
+    "abbr": "Agência Nacional de Energia Elétrica",
+    "relacionados": "ramo-infraestrutura;infracoop;reguladores-setoriais;",
+    "tags": "sigla;regulacao;ramo-infraestrutura;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ano-internacional-das-cooperativas",
+    "termo": "Ano Internacional das Cooperativas",
+    "grupo": "hist",
+    "texto": "Ano proclamado pela Assembleia Geral da ONU para reconhecer a contribuição das cooperativas ao desenvolvimento. Ocorreu em 2012 e novamente em 2025, este com o tema \"Cooperativas constroem um mundo melhor\".",
+    "relacionados": "dia-internacional-das-cooperativas;aci;",
+    "tags": "calendario;internacional;coop-aula-01;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "anomalia",
+    "termo": "Anomalia",
+    "grupo": "reg",
+    "texto": "Movimento inverso ao da equiparação: a cooperativa é reconhecida como diferente, mas em contexto no qual a empresa é a forma natural de organização da produção. A cooperativa aparece como exceção que precisa ser mencionada expressamente para existir e, onde não for mencionada, presume-se excluída.",
+    "relacionados": "equiparacao;discrepancia-temporal;barreiras-silenciosas;",
+    "nota": "Conceito desenvolvido na pesquisa doutoral do professor da disciplina.",
+    "tags": "tese;regulacao;legislacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ans",
+    "termo": "ANS",
+    "grupo": "org",
+    "texto": "Regula as operadoras de planos de saúde, inclusive as cooperativas médicas e odontológicas, podendo decretar direção fiscal, alienação de carteira e liquidação extrajudicial.",
+    "abbr": "Agência Nacional de Saúde Suplementar",
+    "relacionados": "ramo-saude;reguladores-setoriais;dissolucao-e-liquidacao;",
+    "tags": "sigla;regulacao;ramo-saude;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "anteag",
+    "termo": "ANTEAG",
+    "grupo": "org",
+    "texto": "Entidade que apoiou trabalhadores na recuperação de empresas em crise sob forma autogestionária, muitas vezes cooperativas. Teve papel importante na formação da vertente solidária do cooperativismo brasileiro.",
+    "abbr": "Associação Nacional dos Trabalhadores em Empresas de Autogestão e Participação Acionária",
+    "relacionados": "autogestao;vertente-pioneira-e-vertente-solidaria;economia-solidaria;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "sigla;economia-solidaria;autogestao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "antt",
+    "termo": "ANTT",
+    "grupo": "org",
+    "texto": "Regula o transporte rodoviário interestadual de cargas e passageiros, inclusive o registro das cooperativas de transporte de cargas.",
+    "abbr": "Agência Nacional de Transportes Terrestres",
+    "relacionados": "ramo-transporte;reguladores-setoriais;",
+    "tags": "sigla;regulacao;ramo-transporte;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "anuariocoop",
+    "termo": "AnuárioCoop",
+    "grupo": "org",
+    "texto": "Publicação anual do Sistema OCB com os principais números do setor por ramo e por estado, como cooperativas, cooperados, empregos e ingressos. Retrata apenas as cooperativas registradas no sistema.",
+    "abbr": "Anuário do Cooperativismo Brasileiro",
+    "relacionados": "ocb;registro-na-ocb;",
+    "tags": "sistema-ocb;dados;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "area-de-acao",
+    "termo": "Área de ação",
+    "grupo": "estrut",
+    "texto": "Território dentro do qual a cooperativa pode admitir associados e prestar seus serviços, definido no estatuto. Historicamente, modelos como o de Raiffeisen adotavam áreas restritas, apostando no vínculo comunitário como garantia de confiança.",
+    "relacionados": "estatuto-social;livre-admissao;friedrich-wilhelm-raiffeisen;",
+    "tags": "estrutura;estatuto;ramo-credito;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "assembleia-geral",
+    "termo": "Assembleia Geral",
+    "grupo": "estrut",
+    "texto": "Órgão máximo de deliberação da cooperativa, no qual se realiza a gestão democrática. A Assembleia Geral Ordinária (AGO) ocorre anualmente, nos três primeiros meses após o término do exercício, com prestação de contas, aprovação do balanço e destinação das sobras. A Extraordinária (AGE) é convocada quando necessário, para deliberar sobre matérias específicas, inclusive reforma do estatuto.",
+    "abbr": "AGO e AGE",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "singularidade-de-voto;conselho-de-administracao-e-diretoria;conselho-fiscal;estatuto-social;sobras;",
+    "tags": "coop-aula-01;governanca;gestao-democratica;coop-aula-03;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ato-cooperativo",
+    "termo": "Ato cooperativo",
+    "grupo": "econ",
+    "texto": "Operação realizada entre a cooperativa e seus associados, entre estes e aquela, ou entre cooperativas associadas entre si, na consecução dos objetivos sociais (art. 79 da Lei 5.764/1971). Não implica operação de mercado nem contrato de compra e venda, e é justamente essa natureza que fundamenta o pedido de adequado tratamento tributário para as cooperativas.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "ato-nao-cooperativo;adequado-tratamento-tributario;ingressos-e-dispendios;lei-geral-do-cooperativismo;",
+    "tags": "economico;tributacao;legislacao;coop-aula-04;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ato-nao-cooperativo",
+    "termo": "Ato não cooperativo",
+    "grupo": "econ",
+    "texto": "Operação da cooperativa com terceiros não associados ou fora dos objetivos sociais, como a compra de produção de não cooperados para completar lotes. É admitida nos limites da lei, mas seus resultados são tributados e levados integralmente ao FATES (arts. 85 a 87 e 111 da Lei 5.764/1971).",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "ato-cooperativo;fates;adequado-tratamento-tributario;",
+    "tags": "economico;tributacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "autogestao",
+    "termo": "Autogestão",
+    "grupo": "base",
+    "texto": "Modelo em que os próprios membros administram a organização, definindo rumos, elegendo dirigentes e fiscalizando a gestão. Desafia a hierarquia tradicional de supervisão e controle e é um dos fundamentos que distinguem a cooperativa da empresa convencional.",
+    "relacionados": "economia-solidaria;anteag;cooperativismo;",
+    "tags": "conceitos-basicos;economia-solidaria;gestao-democratica;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "banco-cooperativo",
+    "termo": "Banco cooperativo",
+    "grupo": "estrut",
+    "texto": "Banco constituído como sociedade anônima e controlado por cooperativas centrais de crédito (Resolução CMN 2.788/2000). Dá às cooperativas acesso a produtos e serviços bancários que elas não poderiam oferecer sozinhas. Exemplos são o Banco Sicoob e o Banco Cooperativo Sicredi.",
+    "relacionados": "ramo-credito;sicoob;sicredi;bncc;fgcoop;",
+    "tags": "ramo-credito;estrutura;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "barreiras-silenciosas",
+    "termo": "Barreiras silenciosas",
+    "grupo": "reg",
+    "texto": "Obstáculos que não aparecem no texto da lei, como a assimetria de fiscalização, que recai com mais peso sobre os pequenos, e a omissão estatal diante de práticas anticoncorrenciais que prejudicam a diversidade produtiva.",
+    "relacionados": "equiparacao;anomalia;discrepancia-temporal;oligopsonio;",
+    "tags": "tese;regulacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "bcb",
+    "termo": "BCB",
+    "grupo": "org",
+    "texto": "Autarquia que autoriza o funcionamento, regula e fiscaliza as cooperativas de crédito, instituições financeiras desde a reforma bancária de 1964, podendo decretar sua liquidação extrajudicial.",
+    "abbr": "Banco Central do Brasil (Bacen)",
+    "relacionados": "cmn;sncc;ramo-credito;reguladores-setoriais;",
+    "tags": "sigla;regulacao;ramo-credito;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "bncc",
+    "termo": "BNCC",
+    "grupo": "org",
+    "texto": "Banco estatal criado em 1951 a partir da Caixa de Crédito Cooperativo (1943) para financiar cooperativas. Sua extinção, no início dos anos 1990, levou o setor a criar seus próprios bancos cooperativos.",
+    "abbr": "Banco Nacional de Crédito Cooperativo",
+    "relacionados": "banco-cooperativo;fases-do-cooperativismo-brasileiro;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "sigla;historia-brasil;ramo-credito;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "capital-social",
+    "termo": "Capital social",
+    "grupo": "econ",
+    "texto": "Soma das quotas-partes integralizadas pelos associados. É variável e destina-se ao desenvolvimento das atividades da cooperativa. Além de custear a operação, influencia a capacidade da cooperativa de oferecer garantias em operações de crédito.",
+    "relacionados": "quota-parte;subscricao;integralizacao;juros-ao-capital;impenhorabilidade-das-quotas-partes;",
+    "tags": "economico;capital;coop-aula-04;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "central-ou-federacao",
+    "termo": "Central ou federação",
+    "grupo": "estrut",
+    "texto": "Cooperativa de segundo grau, constituída por no mínimo três cooperativas singulares (art. 6º, II, da Lei 5.764/1971). Presta serviços comuns às filiadas, como tecnologia, negociação, representação e produtos, permitindo ganhos de escala que uma singular isolada não alcançaria. Central e federação são figuras equivalentes na lei, e a escolha do nome é tradição de cada ramo.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "cooperativa-singular;confederacao;intercooperacao;banco-cooperativo;",
+    "tags": "estrutura;graus;intercooperacao;coop-aula-06;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "charles-gide",
+    "termo": "Charles Gide",
+    "grupo": "hist",
+    "texto": "Economista francês (1847-1932), ligado à Escola de Nîmes, cujos ensinamentos difundiram a doutrina cooperativista, inclusive no Brasil, onde já se lia sobre cooperativismo nos jornais antes do surgimento das primeiras cooperativas nacionais. Sistematizou a ambição de que o cooperativismo alcançasse também a produção industrial e o setor primário.",
+    "relacionados": "rochdale;doutrina-cooperativista;robert-owen;",
+    "tags": "historia;historia-mundial;pensadores;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cmn",
+    "termo": "CMN",
+    "grupo": "org",
+    "texto": "Órgão máximo do Sistema Financeiro Nacional, que edita as resoluções sobre constituição e funcionamento das cooperativas de crédito, aplicadas e fiscalizadas pelo Banco Central.",
+    "abbr": "Conselho Monetário Nacional",
+    "relacionados": "bcb;sncc;",
+    "tags": "sigla;regulacao;ramo-credito;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cnc",
+    "termo": "CNC",
+    "grupo": "org",
+    "texto": "Órgão estatal criado pelo Decreto-Lei 59/1966 e mantido pela Lei 5.764/1971 para orientar e controlar a política cooperativista. Simboliza a fase de centralismo estatal e foi esvaziado depois que a Constituição de 1988 vedou a interferência do Estado nas cooperativas.",
+    "abbr": "Conselho Nacional de Cooperativismo",
+    "relacionados": "fases-do-cooperativismo-brasileiro;pnc;liberdade-de-criacao-e-nao-intervencao;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "sigla;historia-brasil;regulacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cncoop",
+    "termo": "CNCoop",
+    "grupo": "org",
+    "texto": "Braço de representação sindical patronal do cooperativismo brasileiro, integrante do Sistema OCB, responsável pela defesa dos interesses das cooperativas nas relações de trabalho e nas negociações coletivas do setor.",
+    "abbr": "Confederação Nacional das Cooperativas",
+    "relacionados": "sistema-ocb;ocb;sescoop;",
+    "tags": "sigla;sistema-ocb;representacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "concrab",
+    "termo": "CONCRAB",
+    "grupo": "org",
+    "texto": "Articula as cooperativas de assentamentos da reforma agrária, ligada ao MST, e atua fora do Sistema OCB.",
+    "abbr": "Confederação das Cooperativas de Reforma Agrária do Brasil",
+    "relacionados": "unicopas;unicafes;ramo-agropecuario;",
+    "tags": "sigla;economia-solidaria;ramo-agropecuario;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "confebras",
+    "termo": "CONFEBRAS",
+    "grupo": "org",
+    "texto": "Confederação criada em 1986 que reúne cooperativas de crédito de diferentes sistemas, atuando na representação e na educação cooperativista do ramo. Organiza o Concred, congresso brasileiro do cooperativismo de crédito.",
+    "abbr": "Confederação Brasileira das Cooperativas de Crédito",
+    "relacionados": "ramo-credito;confederacao;",
+    "tags": "sigla;ramo-credito;representacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "confederacao",
+    "termo": "Confederação",
+    "grupo": "estrut",
+    "texto": "Cooperativa de terceiro grau, constituída por no mínimo três centrais ou federações, da mesma ou de diferentes modalidades (art. 6º, III, da Lei 5.764/1971). Orienta e coordena atividades cujo porte ultrapasse a capacidade ou a conveniência das centrais e federações. Não se confunde com as entidades de representação, como a OCB, que não são cooperativas.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "central-ou-federacao;cooperativa-singular;ocb;confebras;",
+    "tags": "estrutura;graus;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "conselho-de-administracao-e-diretoria",
+    "termo": "Conselho de Administração e Diretoria",
+    "grupo": "estrut",
+    "texto": "Órgãos responsáveis pela administração da cooperativa, eleitos pela assembleia entre os associados, com mandato de até quatro anos e renovação obrigatória de no mínimo um terço do Conselho de Administração. Os dirigentes respondem pelos prejuízos decorrentes de atos praticados com culpa ou dolo, e há vedações quanto a parentesco e a voto em situações de conflito de interesse.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "assembleia-geral;conselho-fiscal;estatuto-social;",
+    "tags": "governanca;gestao-democratica;coop-aula-03;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "conselho-fiscal",
+    "termo": "Conselho Fiscal",
+    "grupo": "estrut",
+    "texto": "Órgão de fiscalização da gestão, independente da administração, formado por três membros efetivos e três suplentes eleitos anualmente pela assembleia, permitida a reeleição de apenas um terço. Sua existência é o que permite que o controle democrático não dependa apenas da confiança nos dirigentes.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "assembleia-geral;conselho-de-administracao-e-diretoria;",
+    "tags": "governanca;gestao-democratica;coop-aula-03;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "coop2coop",
+    "termo": "Coop2Coop",
+    "grupo": "econ",
+    "texto": "Comércio realizado entre cooperativas em âmbito internacional, fortalecendo economicamente tanto as produtoras quanto as consumidoras. Aproxima-se do movimento de comércio justo e é uma das expressões mais concretas do princípio da intercooperação.",
+    "relacionados": "intercooperacao;aci;",
+    "tags": "intercooperacao;internacional;comercio-justo;coop-aula-06;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cooperado-ou-associado",
+    "termo": "Cooperado ou associado",
+    "grupo": "base",
+    "texto": "Membro da cooperativa. Reúne tripla qualidade: é dono, usuário e beneficiário da atividade. Todos possuem os mesmos direitos e deveres, independentemente da quantidade de quotas-partes que detenham.",
+    "relacionados": "dupla-qualidade;quota-parte;admissao-demissao-eliminacao-e-exclusao;singularidade-de-voto;",
+    "tags": "conceitos-basicos;quadro-social;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cooperar",
+    "termo": "Cooperar",
+    "grupo": "base",
+    "texto": "Trabalhar em conjunto por objetivos comuns, com participação ativa, compartilhamento equitativo de responsabilidades e benefícios, e decisões tomadas coletivamente. Cooperar não é apenas somar esforços: é organizar-se de modo que o resultado do esforço conjunto retorne a quem o produziu.",
+    "relacionados": "cooperativismo;intercooperacao;",
+    "tags": "conceitos-basicos;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cooperativa",
+    "termo": "Cooperativa",
+    "grupo": "base",
+    "texto": "Associação autônoma de pessoas unidas voluntariamente para atender necessidades econômicas, sociais e culturais comuns, por meio de uma empresa de propriedade conjunta e controlada democraticamente. É sociedade de pessoas, não de capital.",
+    "relacionados": "cooperativismo;cooperado-ou-associado;declaracao-sobre-a-identidade-cooperativa;sociedade-simples;",
+    "tags": "conceitos-basicos;identidade;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cooperativa-de-plataforma",
+    "termo": "Cooperativa de plataforma",
+    "grupo": "econ",
+    "texto": "Cooperativa que opera plataforma digital de propriedade e gestão dos próprios trabalhadores ou usuários, como alternativa aos aplicativos controlados por capital. A expressão foi popularizada por Trebor Scholz a partir de 2014.",
+    "relacionados": "ramo-trabalho-producao-de-bens-e-servicos;autogestao;",
+    "tags": "trabalho;inovacao;ramo-trabalho;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cooperativa-singular",
+    "termo": "Cooperativa singular",
+    "grupo": "estrut",
+    "texto": "Cooperativa de primeiro grau, constituída diretamente por pessoas físicas, em regra no mínimo vinte, admitidas excepcionalmente pessoas jurídicas (art. 6º, I, da Lei 5.764/1971). É o nível em que o cooperado se associa e vota, e a base de todo o sistema cooperativo. Nas cooperativas de trabalho, o mínimo é de sete associados.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "central-ou-federacao;confederacao;lei-das-cooperativas-de-trabalho;",
+    "tags": "estrutura;graus;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cooperativa-social",
+    "termo": "Cooperativa social",
+    "grupo": "estrut",
+    "texto": "Cooperativa voltada à inserção no mercado de trabalho de pessoas em desvantagem, como pessoas com deficiência, egressos do sistema prisional e dependentes químicos, disciplinada pela Lei 9.867/1999.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l9867.htm",
+    "relacionados": "economia-solidaria;ramo-trabalho-producao-de-bens-e-servicos;",
+    "tags": "legislacao;comunidade;coop-aula-07;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cooperativas-das-americas",
+    "termo": "Cooperativas das Américas",
+    "grupo": "org",
+    "texto": "Escritório regional da ACI para o continente americano, responsável pela articulação do movimento cooperativista nas Américas.",
+    "relacionados": "aci;",
+    "tags": "internacional;aci;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cooperativismo",
+    "termo": "Cooperativismo",
+    "grupo": "base",
+    "texto": "Sistema econômico e social baseado na cooperação e na propriedade conjunta dos meios de produção e consumo pelos seus membros. Atua dentro do capitalismo, mas não se rege pelos princípios e valores do sistema capitalista, o que explica por que seu vocabulário é distinto.",
+    "relacionados": "cooperativa;doutrina-cooperativista;economia-solidaria;",
+    "tags": "conceitos-basicos;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "copac",
+    "termo": "COPAC",
+    "grupo": "org",
+    "texto": "Comitê que reúne ONU, ACI, OIT e FAO para promover as cooperativas. Define com a ACI o tema anual do Dia Internacional das Cooperativas.",
+    "abbr": "Committee for the Promotion and Advancement of Cooperatives",
+    "relacionados": "aci;dia-internacional-das-cooperativas;recomendacao-193-da-oit;",
+    "tags": "sigla;internacional;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "cresol",
+    "termo": "Cresol",
+    "grupo": "org",
+    "texto": "Sistema de cooperativas de crédito com origem na agricultura familiar do Paraná, articulado com movimentos populares, que capta recursos no município para reaplicá-los localmente.",
+    "abbr": "Cooperativas de Crédito Rural com Interação Solidária",
+    "relacionados": "ramo-credito;sicoob;sicredi;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "sigla;ramo-credito;economia-solidaria;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "declaracao-sobre-a-identidade-cooperativa",
+    "termo": "Declaração sobre a Identidade Cooperativa",
+    "grupo": "hist",
+    "texto": "Documento aprovado pela ACI em 1995, no congresso do centenário em Manchester, que reúne a definição de cooperativa, os valores e os sete princípios em vigor. É a principal referência mundial sobre o que é uma cooperativa.",
+    "relacionados": "aci;principios-do-cooperativismo;valores-do-cooperativismo;cooperativa;",
+    "tags": "aci;principios;valores;historia-mundial;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "decreto-22239-1932",
+    "termo": "Decreto nº 22.239/1932",
+    "grupo": "reg",
+    "texto": "Primeira lei cooperativista brasileira, de 19 de dezembro de 1932, que deu às cooperativas estrutura jurídica própria e abriu a fase de consolidação do cooperativismo no país. Foi revogado pelo Decreto-Lei 59/1966.",
+    "links": "https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d22239.htm",
+    "relacionados": "fases-do-cooperativismo-brasileiro;cnc;lei-geral-do-cooperativismo;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "legislacao;historia-brasil;coop-aula-03;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "denacoop",
+    "termo": "DENACOOP",
+    "grupo": "org",
+    "texto": "Órgão do Ministério da Agricultura dedicado ao fomento do cooperativismo e do associativismo rural, com apoio técnico e financeiro a cooperativas e a programas de educação cooperativista.",
+    "abbr": "Departamento Nacional de Cooperativismo",
+    "relacionados": "ramo-agropecuario;pnc;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "sigla;politicas-publicas;ramo-agropecuario;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "desmutualizacao",
+    "termo": "Desmutualização",
+    "grupo": "econ",
+    "texto": "Conversão de uma cooperativa ou mútua em sociedade de capital, ou transferência de seu negócio principal para empresas não cooperativas. O cooperado deixa de ser dono do empreendimento e passa a ser apenas fornecedor ou cliente. A venda da Itambé pela CCPR é exemplo discutido no Brasil.",
+    "relacionados": "equiparacao;ramo-agropecuario;oligopsonio;",
+    "tags": "economico;autonomia;coop-aula-05;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "dia-c",
+    "termo": "Dia C",
+    "grupo": "org",
+    "texto": "Programa nacional que mobiliza cooperativas em ações voluntárias nas áreas de saúde, educação, meio ambiente e assistência social. As ações são desenvolvidas ao longo do ano e apresentadas em uma data de celebração coletiva. É a expressão institucional do 7º princípio no Brasil.",
+    "abbr": "Dia de Cooperar",
+    "relacionados": "somoscoop;sistema-ocb;",
+    "tags": "sistema-ocb;comunidade;coop-aula-07;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "dia-internacional-das-cooperativas",
+    "termo": "Dia Internacional das Cooperativas",
+    "grupo": "hist",
+    "texto": "Celebrado no primeiro sábado de julho. Criado pela ACI na década de 1920, passou a ser reconhecido pela ONU a partir de 1995 (Resolução 47/90). Cada ano tem um tema definido pela ACI e pelo COPAC.",
+    "abbr": "Coops Day",
+    "relacionados": "aci;copac;ano-internacional-das-cooperativas;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "calendario;aci;internacional;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "discrepancia-temporal",
+    "termo": "Discrepância temporal",
+    "grupo": "reg",
+    "texto": "O tempo operando como obstáculo: atraso nas atualizações legislativas, demora entre a promulgação de uma norma favorável e sua aplicação efetiva, e distância entre a inovação cooperativa e sua regulamentação. Em certos casos, o próprio tempo de espera funciona como instrumento de marginalização.",
+    "relacionados": "equiparacao;anomalia;barreiras-silenciosas;",
+    "nota": "Conceito desenvolvido na pesquisa doutoral do professor da disciplina.",
+    "tags": "tese;regulacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "dissolucao-e-liquidacao",
+    "termo": "Dissolução e liquidação",
+    "grupo": "estrut",
+    "texto": "Formas de encerramento da cooperativa, por decisão da assembleia ou por via judicial (arts. 63 a 78 da Lei 5.764/1971). A cooperativa não se sujeita à falência nem à recuperação judicial (art. 2º, II, da Lei 11.101/2005). Nos ramos regulados, a liquidação pode ser extrajudicial, decretada pelo Banco Central ou pela ANS.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "reguladores-setoriais;bcb;ans;desmutualizacao;",
+    "tags": "estrutura;legislacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "doutrina-cooperativista",
+    "termo": "Doutrina cooperativista",
+    "grupo": "base",
+    "texto": "Conjunto de orientações éticas e políticas que fundamentam a ação cooperativa, como solidariedade, democracia, equidade e autonomia. Situa-se no plano do \"dever ser\": é um ideal que orienta práticas mesmo diante das imperfeições concretas, servindo como paradigma de correção e aperfeiçoamento.",
+    "relacionados": "principios-do-cooperativismo;valores-do-cooperativismo;charles-gide;",
+    "tags": "conceitos-basicos;doutrina;coop-aula-05;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "dupla-qualidade",
+    "termo": "Dupla qualidade",
+    "grupo": "base",
+    "texto": "Característica do cooperado que é, ao mesmo tempo, sócio da cooperativa e usuário de seus serviços. É o critério mais usado pela doutrina e pela jurisprudência para distinguir a cooperativa verdadeira da falsa. Na sala de aula aparece também como tripla qualidade: dono, usuário e beneficiário.",
+    "relacionados": "cooperado-ou-associado;falsa-cooperativa;ato-cooperativo;",
+    "tags": "conceitos-basicos;quadro-social;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "economia-solidaria",
+    "termo": "Economia solidária",
+    "grupo": "base",
+    "texto": "Modo de produção e distribuição alternativo ao modelo capitalista, focado na socialização dos meios de produção e na gestão democrática. Abrange cooperativas, associações, grupos informais e redes de troca, com ênfase em autogestão, sustentabilidade e responsabilidade social.",
+    "relacionados": "autogestao;vertente-pioneira-e-vertente-solidaria;senaes;unisol-brasil;itcp;",
+    "tags": "economia-solidaria;conceitos-basicos;coop-aula-02;coop-aula-08;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "equiparacao",
+    "termo": "Equiparação",
+    "grupo": "reg",
+    "texto": "Tratamento da cooperativa como se fosse sociedade empresarial comum, submetendo-a ao mesmo conjunto de regras. Ignora a gestão democrática, a distribuição proporcional ao uso e a ausência de finalidade lucrativa, produzindo desvantagem competitiva e, progressivamente, moldando a cooperativa nos contornos da empresa.",
+    "relacionados": "anomalia;discrepancia-temporal;barreiras-silenciosas;desmutualizacao;",
+    "nota": "Conceito desenvolvido na pesquisa doutoral do professor da disciplina.",
+    "tags": "tese;regulacao;legislacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "estatuto-social",
+    "termo": "Estatuto Social",
+    "grupo": "estrut",
+    "texto": "Documento jurídico obrigatório que estabelece identidade, organização e funcionamento da cooperativa: denominação, sede, área de ação, objeto social, direitos e deveres dos associados, condições de admissão e saída, valor da quota-parte, critérios de rateio de sobras e perdas, estrutura de administração e fiscalização, regras das assembleias e possibilidade de criação de fundos adicionais.",
+    "relacionados": "assembleia-geral;area-de-acao;admissao-demissao-eliminacao-e-exclusao;",
+    "nota": "Muitas decisões que parecem \"da lei\" são, na verdade, escolhas do estatuto, inclusive a forma de distribuir sobras.",
+    "tags": "estrutura;estatuto;governanca;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "expansao-cooperativa",
+    "termo": "Expansão cooperativa",
+    "grupo": "hist",
+    "texto": "Proposta de um oitavo princípio, defendida por teóricos como Paul Lambert, Alicia Drimer e Dionísio Aranzadi. Não trata de crescimento numérico, mas de aspiração política: afirmar o cooperativismo como modelo viável e pluralista de organização econômica e social.",
+    "relacionados": "principios-do-cooperativismo;",
+    "tags": "historia;principios;pensadores;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "falsa-cooperativa",
+    "termo": "Falsa cooperativa",
+    "grupo": "reg",
+    "texto": "Entidade constituída sob forma cooperativa para mascarar relação de emprego, fraudar direitos trabalhistas ou precarizar o trabalho, apelidada no debate público de \"coopergato\". Não é um tipo de cooperativa: é uma fraude que se utiliza da forma cooperativa, vedada expressamente pela Lei 12.690/2012. Identificadas irregularidades, pode ser alvo de ações civis públicas, termos de ajustamento de conduta ou processos administrativos e judiciais.",
+    "relacionados": "fiscalizacao-trabalhista;mpt;lei-das-cooperativas-de-trabalho;dupla-qualidade;ramo-trabalho-producao-de-bens-e-servicos;",
+    "nota": "É uma das razões do estigma que recai injustamente sobre cooperativas legítimas, sobretudo as do ramo trabalho.",
+    "tags": "ramo-trabalho;trabalho;regulacao;coop-aula-08;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "fases-do-cooperativismo-brasileiro",
+    "termo": "Fases do cooperativismo brasileiro",
+    "grupo": "hist",
+    "texto": "Periodização proposta por Waldírio Bulgarelli e aprofundada por José Odelso Schneider: implantação, consolidação parcial, centralismo estatal, renovação das estruturas e liberalização. Cada fase expressa uma configuração distinta da relação entre Estado e cooperativas.",
+    "relacionados": "decreto-22239-1932;cnc;lei-geral-do-cooperativismo;pnc;",
+    "tags": "historia;historia-brasil;coop-aula-03;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "fates",
+    "termo": "FATES",
+    "grupo": "econ",
+    "texto": "Fundo obrigatório e indivisível, formado por no mínimo 5% das sobras líquidas, voltado à assistência técnica, educacional e social aos cooperados, seus familiares e, quando o estatuto previr, aos empregados (art. 28, II, da Lei 5.764/1971). Nas cooperativas de crédito pode alcançar a comunidade da área de atuação. Resultados de operações com não cooperados devem ser integralmente destinados a ele (art. 87).",
+    "abbr": "Fundo de Assistência Técnica, Educacional e Social",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "fundo-de-reserva;fundo-indivisivel;ato-nao-cooperativo;sobras;",
+    "tags": "sigla;economico;fundos;coop-aula-01;coop-aula-04;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "fgcoop",
+    "termo": "FGCoop",
+    "grupo": "reg",
+    "texto": "Associação civil sem fins lucrativos que preserva a estabilidade do cooperativismo de crédito, monitorando riscos e oferecendo camada adicional de segurança aos depositantes. A adesão é obrigatória para as cooperativas singulares de crédito e para os bancos cooperativos.",
+    "abbr": "Fundo Garantidor do Cooperativismo de Crédito",
+    "relacionados": "ramo-credito;sncc;banco-cooperativo;bcb;",
+    "tags": "sigla;ramo-credito;regulacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "fiscalizacao-trabalhista",
+    "termo": "Fiscalização trabalhista",
+    "grupo": "reg",
+    "texto": "Cabe principalmente ao Ministério do Trabalho e Emprego, que realiza auditorias e inspeções para verificar o cumprimento das normas legais, e ao Ministério Público do Trabalho, que atua diante de denúncias ou indícios de fraude na constituição ou no funcionamento de uma cooperativa.",
+    "relacionados": "falsa-cooperativa;mpt;lei-das-cooperativas-de-trabalho;",
+    "tags": "regulacao;trabalho;ramo-trabalho;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "frencoop",
+    "termo": "FRENCOOP",
+    "grupo": "org",
+    "texto": "Bloco suprapartidário de parlamentares que atuam na defesa dos interesses do cooperativismo no Congresso Nacional. Historicamente relevante em momentos de disputa legislativa que ameaçaram a existência de cooperativas em determinados setores.",
+    "abbr": "Frente Parlamentar do Cooperativismo",
+    "relacionados": "ocb;sistema-ocb;",
+    "tags": "sigla;representacao;legislacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "friedrich-wilhelm-raiffeisen",
+    "termo": "Friedrich Wilhelm Raiffeisen",
+    "grupo": "hist",
+    "texto": "Alemão (1818-1888), criador em 1864 da cooperativa de crédito rural que deu origem ao modelo Raiffeisen, voltado ao apoio de comunidades rurais, com responsabilidade ilimitada dos associados e área de atuação restrita. O modelo inspirou diretamente a primeira cooperativa de crédito brasileira ainda em atividade, fundada por Theodor Amstad em 1902.",
+    "relacionados": "hermann-schulze-delitzsch;luigi-luzzatti;theodor-amstad;area-de-acao;",
+    "tags": "historia;historia-mundial;pioneiros;ramo-credito;coop-aula-01;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "fundo-de-reserva",
+    "termo": "Fundo de Reserva",
+    "grupo": "econ",
+    "texto": "Fundo obrigatório e indivisível, formado por no mínimo 10% das sobras líquidas (art. 28, I, da Lei 5.764/1971), destinado a reparar perdas e atender ao desenvolvimento da cooperativa. É o primeiro recurso acionado diante de prejuízo. Muitas cooperativas retêm percentual bem acima do mínimo legal.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "fates;fundo-indivisivel;perdas-e-rateio;sobras;",
+    "tags": "economico;fundos;coop-aula-04;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "fundo-indivisivel",
+    "termo": "Fundo indivisível",
+    "grupo": "econ",
+    "texto": "Fundo cujo recurso não é repartido entre os cooperados: pertence à cooperativa e nela deve ser aplicado. A indivisibilidade existe para que quem sai não leve consigo parte do fundo. É o mecanismo que torna a cooperativa intergeracional.",
+    "relacionados": "fundo-de-reserva;fates;",
+    "tags": "economico;fundos;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "hermann-schulze-delitzsch",
+    "termo": "Hermann Schulze-Delitzsch",
+    "grupo": "hist",
+    "texto": "Alemão (1808-1883), pioneiro das cooperativas de crédito urbanas, a partir de 1850, conhecidas como \"bancos populares\", voltadas a artesãos e pequenos comerciantes das cidades.",
+    "relacionados": "friedrich-wilhelm-raiffeisen;luigi-luzzatti;",
+    "tags": "historia;historia-mundial;pioneiros;ramo-credito;coop-aula-01;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "impenhorabilidade-das-quotas-partes",
+    "termo": "Impenhorabilidade das quotas-partes",
+    "grupo": "econ",
+    "texto": "Proteção que impede que as quotas do associado sejam objeto de penhora judicial para quitação de dívidas pessoais, preservando a estabilidade financeira e a continuidade das atividades da cooperativa.",
+    "relacionados": "quota-parte;capital-social;",
+    "tags": "economico;capital;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "infracoop",
+    "termo": "INFRACOOP",
+    "grupo": "org",
+    "texto": "Representa cooperativas e federações estaduais do Ramo Infraestrutura, especialmente as de eletrificação e desenvolvimento rural, articulando-se junto ao Congresso, aos ministérios e ao setor elétrico.",
+    "abbr": "Confederação Nacional das Cooperativas de Infraestrutura",
+    "relacionados": "ramo-infraestrutura;aneel;confederacao;",
+    "tags": "sigla;ramo-infraestrutura;representacao;coop-aula-03;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ingressos-e-dispendios",
+    "termo": "Ingressos e dispêndios",
+    "grupo": "econ",
+    "texto": "Termos da contabilidade cooperativa para as entradas e saídas de recursos decorrentes dos atos cooperativos, usados em lugar de receitas e despesas, que pressupõem operação de mercado.",
+    "relacionados": "ato-cooperativo;sobras;anuariocoop;",
+    "tags": "economico;tributacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "integralizacao",
+    "termo": "Integralização",
+    "grupo": "econ",
+    "texto": "Pagamento efetivo das quotas subscritas. Pode ser em dinheiro, em bens avaliados e aprovados pela assembleia, ou por retenção percentual sobre o movimento financeiro do associado. Algumas cooperativas adotam integralização mensal de valor reduzido, que funciona como poupança do próprio cooperado.",
+    "relacionados": "subscricao;quota-parte;capital-social;",
+    "tags": "economico;capital;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "intercooperacao",
+    "termo": "Intercooperação",
+    "grupo": "base",
+    "texto": "Cooperação entre cooperativas, em nível local, nacional e internacional, para ampliar eficiência, acesso a mercados e capacidade de atender aos membros. Não significa prestar serviços gratuitamente a outra cooperativa: significa valorização recíproca da atividade de cada uma, para que ambas cresçam.",
+    "relacionados": "central-ou-federacao;coop2coop;principios-do-cooperativismo;",
+    "tags": "principios;intercooperacao;coop-aula-06;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "itcp",
+    "termo": "ITCP",
+    "grupo": "org",
+    "texto": "Programa, em geral sediado em universidades, que apoia a formação e o desenvolvimento de cooperativas populares e empreendimentos de economia solidária. A primeira surgiu na UFRJ, em 1995, e depois formou-se uma rede nacional.",
+    "abbr": "Incubadora Tecnológica de Cooperativas Populares",
+    "relacionados": "economia-solidaria;senaes;vertente-pioneira-e-vertente-solidaria;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "sigla;economia-solidaria;educacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "juros-ao-capital",
+    "termo": "Juros ao capital",
+    "grupo": "econ",
+    "texto": "Remuneração limitada que a cooperativa pode pagar sobre as quotas-partes integralizadas, até 12% ao ano (art. 24, § 3º, da Lei 5.764/1971). Nas cooperativas de crédito, o teto é a taxa Selic (art. 7º da Lei Complementar 130/2009). O limite existe para que o capital sirva à cooperativa, e não o contrário.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "quota-parte;capital-social;rochdale;",
+    "tags": "economico;capital;coop-aula-04;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "lei-complementar-213-2025",
+    "termo": "Lei Complementar 213/2025",
+    "grupo": "reg",
+    "texto": "Lei que autorizou as sociedades cooperativas a operar seguros, criando a base legal do Ramo Seguros e encerrando a restrição histórica ao seguro cooperativo no Brasil.",
+    "relacionados": "ramo-seguros;susep;",
+    "tags": "legislacao;ramo-seguros;coop-aula-06;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "lei-das-cooperativas-de-trabalho",
+    "termo": "Lei das Cooperativas de Trabalho",
+    "grupo": "reg",
+    "texto": "Lei 12.690/2012, que disciplina as cooperativas de trabalho, exige no mínimo sete associados, assegura garantias mínimas ao cooperado, como retirada não inferior ao piso da categoria, e proíbe o uso da cooperativa para intermediação de mão de obra subordinada. Criou também o PRONACOOP.",
+    "links": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12690.htm",
+    "relacionados": "ramo-trabalho-producao-de-bens-e-servicos;falsa-cooperativa;pronacoop;",
+    "tags": "legislacao;trabalho;ramo-trabalho;coop-aula-08;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "lei-geral-do-cooperativismo",
+    "termo": "Lei Geral do Cooperativismo",
+    "grupo": "reg",
+    "texto": "Lei nº 5.764, de 16 de dezembro de 1971, principal norma que define a política nacional e o regime jurídico das sociedades cooperativas. Editada durante o regime militar, iniciou uma reconciliação com os princípios cooperativistas ao mesmo tempo em que preservou instrumentos de controle estatal.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "pnc;ato-cooperativo;fases-do-cooperativismo-brasileiro;sociedade-simples;",
+    "tags": "legislacao;historia-brasil;coop-aula-03;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "liberdade-de-criacao-e-nao-intervencao",
+    "termo": "Liberdade de criação e não intervenção",
+    "grupo": "reg",
+    "texto": "Garantia do art. 5º, XVIII, da Constituição: a criação de cooperativas independe de autorização, vedada a interferência estatal em seu funcionamento. Marca o fim da fase de controle estatal. A Constituição também determina que a lei apoie e estimule o cooperativismo (art. 174, § 2º).",
+    "relacionados": "cnc;registro-na-ocb;fases-do-cooperativismo-brasileiro;",
+    "tags": "legislacao;constituicao;autonomia;coop-aula-05;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "livre-admissao",
+    "termo": "Livre admissão",
+    "grupo": "estrut",
+    "texto": "Modalidade em que a cooperativa pode admitir qualquer pessoa de sua área de ação, sem exigência de vínculo profissional ou setorial específico. Contrasta com cooperativas de vínculo, restritas a determinada categoria, como profissionais de saúde, servidores de um órgão ou produtores de uma cultura.",
+    "relacionados": "area-de-acao;admissao-demissao-eliminacao-e-exclusao;",
+    "tags": "estrutura;ramo-credito;quadro-social;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "luigi-luzzatti",
+    "termo": "Luigi Luzzatti",
+    "grupo": "hist",
+    "texto": "Italiano (1841-1927), fundador em 1865, em Milão, de um modelo de cooperativa de crédito que permitia a associação de pessoas sem vínculo específico entre si, como moradores de um mesmo bairro. O modelo Luzzatti chegou ao Brasil com a cooperativa fundada por Theodor Amstad em Lajeado (RS), em 1906.",
+    "relacionados": "friedrich-wilhelm-raiffeisen;hermann-schulze-delitzsch;livre-admissao;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "historia;historia-mundial;pioneiros;ramo-credito;coop-aula-01;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "marca-coop",
+    "termo": "Marca .coop",
+    "grupo": "org",
+    "texto": "Domínio digital exclusivo de cooperativas, funcionando como credencial de pertencimento ao movimento cooperativista na internet. Acompanha o Co-operative Marque, logomarca global lançada pela ACI em 2013 para consolidar a identidade visual do cooperativismo em escala mundial.",
+    "relacionados": "aci;somoscoop;",
+    "tags": "aci;identidade;coop-aula-02;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "mondragon",
+    "termo": "Mondragón",
+    "grupo": "hist",
+    "texto": "Complexo cooperativo industrial do País Basco, na Espanha, iniciado em 1956 sob inspiração do padre José María Arizmendiarrieta. É o caso mais estudado de grupo cooperativo de trabalho e produção no mundo.",
+    "relacionados": "ramo-trabalho-producao-de-bens-e-servicos;intercooperacao;",
+    "tags": "historia;historia-mundial;ramo-trabalho;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "mpt",
+    "termo": "MPT",
+    "grupo": "org",
+    "texto": "Ramo do Ministério Público que atua contra fraudes trabalhistas, inclusive falsas cooperativas, por meio de inquéritos, termos de ajustamento de conduta e ações civis públicas.",
+    "abbr": "Ministério Público do Trabalho",
+    "relacionados": "falsa-cooperativa;fiscalizacao-trabalhista;",
+    "tags": "sigla;regulacao;trabalho;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "mutualismo",
+    "termo": "Mutualismo",
+    "grupo": "base",
+    "texto": "Princípio de ajuda recíproca em que os riscos e custos de um são partilhados pelo conjunto. É a lógica que sustenta as cooperativas de crédito e de seguros: quem não sofre o dano contribui para amparar quem sofre.",
+    "relacionados": "ramo-seguros;ramo-credito;",
+    "tags": "conceitos-basicos;ramo-credito;ramo-seguros;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "neutralidade-politica-e-indiscriminacao",
+    "termo": "Neutralidade política e indiscriminação",
+    "grupo": "base",
+    "texto": "Característica prevista no art. 4º, IX, da Lei 5.764/1971: neutralidade política e indiscriminação religiosa, racial e social. Herdada das regras de Rochdale, garante que a cooperativa seja aberta a todos e não se torne instrumento partidário ou religioso.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "rochdale;principios-do-cooperativismo;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "principios;legislacao;historia;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "nova-petropolis",
+    "termo": "Nova Petrópolis",
+    "grupo": "hist",
+    "texto": "Município gaúcho onde Theodor Amstad fundou, em 1902, a cooperativa de crédito hoje chamada Sicredi Pioneira. Foi declarado por lei federal Capital Nacional do Cooperativismo.",
+    "relacionados": "theodor-amstad;sicredi;",
+    "tags": "historia;historia-brasil;ramo-credito;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ocb",
+    "termo": "OCB",
+    "grupo": "org",
+    "texto": "Entidade nacional de representação do cooperativismo brasileiro, criada em 1969 e reconhecida pela Lei 5.764/1971 como órgão de representação do setor. Articula a defesa dos interesses das cooperativas junto aos poderes públicos, produz dados e estudos sobre o setor e é ligada à ACI.",
+    "abbr": "Organização das Cooperativas Brasileiras",
+    "relacionados": "sistema-ocb;oce;registro-na-ocb;anuariocoop;aci;",
+    "tags": "sigla;sistema-ocb;representacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "oce",
+    "termo": "OCE",
+    "grupo": "org",
+    "texto": "Entidade de representação do cooperativismo em cada estado e no Distrito Federal, filiada à OCB e responsável pelo registro e acompanhamento das cooperativas locais. Exemplos são a OCEMG, a OCEPAR, a OCERGS e a OCESP.",
+    "abbr": "Organização das Cooperativas do Estado",
+    "relacionados": "ocb;ocemg;registro-na-ocb;",
+    "tags": "sigla;sistema-ocb;representacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ocemg",
+    "termo": "OCEMG",
+    "grupo": "org",
+    "texto": "Entidade estadual de representação do cooperativismo mineiro, integrante do Sistema OCB. Junto com o SESCOOP/MG, forma o Sistema OCEMG, responsável por registro, representação, formação e monitoramento das cooperativas do estado. Cada unidade da federação possui organização equivalente, como a OCESP em São Paulo e a OCEPAR no Paraná.",
+    "abbr": "Organização das Cooperativas do Estado de Minas Gerais",
+    "relacionados": "oce;ocb;sescoop;",
+    "tags": "sigla;sistema-ocb;minas-gerais;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "oligopsonio",
+    "termo": "Oligopsônio",
+    "grupo": "reg",
+    "texto": "Situação de mercado com poucos compradores para muitos vendedores. É risco concreto para a autonomia cooperativa: uma cooperativa altamente dependente de um único comprador pode ter suas decisões comprometidas por interesses que não são os dos cooperados.",
+    "relacionados": "barreiras-silenciosas;desmutualizacao;",
+    "tags": "mercado;autonomia;coop-aula-05;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "perdas-e-rateio",
+    "termo": "Perdas e rateio",
+    "grupo": "econ",
+    "texto": "Perdas são os prejuízos apurados no exercício. Não sendo suficiente o Fundo de Reserva para cobri-los, são rateados entre os associados, em regra proporcionalmente ao uso dos serviços, podendo o estatuto prever rateio igualitário para despesas gerais.",
+    "relacionados": "fundo-de-reserva;pro-rata;sobras;",
+    "tags": "economico;resultados;coop-aula-04;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "pnc",
+    "termo": "PNC",
+    "grupo": "reg",
+    "texto": "Arcabouço legal destinado a coordenar e estimular o desenvolvimento do cooperativismo, integrando as práticas cooperativas ao planejamento nacional por meio de assistência técnica e incentivos. Foi concebida em período de centralismo estatal, e carrega vestígios de uma era em que o cooperativismo era mais instrumento do Estado do que expressão autônoma da sociedade.",
+    "abbr": "Política Nacional de Cooperativismo",
+    "relacionados": "lei-geral-do-cooperativismo;cnc;fases-do-cooperativismo-brasileiro;",
+    "tags": "sigla;legislacao;politicas-publicas;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "principios-do-cooperativismo",
+    "termo": "Princípios do cooperativismo",
+    "grupo": "base",
+    "texto": "Os sete princípios da ACI, na redação de 1995: 1) adesão voluntária e livre, 2) gestão democrática pelos membros, 3) participação econômica dos membros, 4) autonomia e independência, 5) educação, formação e informação, 6) intercooperação e 7) interesse pela comunidade.",
+    "relacionados": "valores-do-cooperativismo;declaracao-sobre-a-identidade-cooperativa;aci;rochdale;",
+    "nota": "Os valores não mudam. Os princípios são periodicamente revisados nos congressos da ACI para refletir esses valores em cada época.",
+    "tags": "principios;aci;conceitos-basicos;coop-aula-01;coop-aula-02;coop-aula-03;coop-aula-04;coop-aula-05;coop-aula-06;coop-aula-07;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "pro-rata",
+    "termo": "Pro rata",
+    "grupo": "econ",
+    "texto": "Critério de distribuição proporcional: quem mais movimentou a cooperativa recebe maior parcela das sobras e responde por maior parcela das perdas. É a regra geral. A distribuição igualitária é possível, mas depende de previsão estatutária expressa.",
+    "relacionados": "sobras;retorno;perdas-e-rateio;",
+    "tags": "economico;resultados;coop-aula-04;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "pronacoop",
+    "termo": "PRONACOOP",
+    "grupo": "reg",
+    "texto": "Programa criado pela Lei 12.690/2012 para apoiar o desenvolvimento e a melhoria do desempenho das cooperativas de trabalho.",
+    "abbr": "Programa Nacional de Fomento às Cooperativas de Trabalho",
+    "links": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12690.htm",
+    "relacionados": "lei-das-cooperativas-de-trabalho;ramo-trabalho-producao-de-bens-e-servicos;",
+    "tags": "sigla;politicas-publicas;ramo-trabalho;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "quota-parte",
+    "termo": "Quota-parte",
+    "grupo": "econ",
+    "texto": "Valor, em dinheiro ou bens, que o associado integraliza para ingressar na cooperativa, tornando-se coproprietário. Em regra, nenhum associado pode subscrever mais de um terço do total das quotas (art. 24, § 1º, da Lei 5.764/1971). É vedada a transferência a terceiros não associados, o que preserva a identidade coletiva do quadro social.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "capital-social;subscricao;integralizacao;juros-ao-capital;impenhorabilidade-das-quotas-partes;",
+    "tags": "economico;capital;coop-aula-04;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ramo-agropecuario",
+    "termo": "Ramo Agropecuário",
+    "grupo": "ramos",
+    "texto": "Organiza produtores rurais para assistência técnica, industrialização e comercialização da produção. Historicamente é o ramo mais expressivo do cooperativismo brasileiro, o maior em faturamento, e o que mais influenciou a formatação da legislação nacional.",
+    "relacionados": "central-ou-federacao;desmutualizacao;ramo-credito;",
+    "tags": "ramos;ramo-agropecuario;coop-aula-04;",
+    "evidenciar": "sim"
+  },
+  {
+    "id": "ramo-consumo",
+    "termo": "Ramo Consumo",
+    "grupo": "ramos",
+    "texto": "Reúne pessoas para adquirir produtos ou serviços em melhores condições, como supermercados, farmácias, cooperativas educacionais e de turismo. O que caracteriza o ramo não é o produto vendido, mas o fato de consumidores se unirem para obter melhor prestação. Foi com uma cooperativa de consumo, em Rochdale, que nasceu o cooperativismo moderno.",
+    "relacionados": "rochdale;retorno;",
+    "tags": "ramos;ramo-consumo;coop-aula-01;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ramo-credito",
+    "termo": "Ramo Crédito",
+    "grupo": "ramos",
+    "texto": "Oferece serviços financeiros com gestão democrática e sem finalidade lucrativa, buscando inclusão financeira e educação econômica. As cooperativas de crédito são instituições financeiras autorizadas e supervisionadas pelo Banco Central, e as singulares organizam-se em sistemas nacionais que operam bancos cooperativos próprios. É o maior ramo em número de cooperados.",
+    "relacionados": "sncc;banco-cooperativo;fgcoop;bcb;sicoob;sicredi;cresol;",
+    "tags": "ramos;ramo-credito;coop-aula-02;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ramo-infraestrutura",
+    "termo": "Ramo Infraestrutura",
+    "grupo": "ramos",
+    "texto": "Presta serviços essenciais, como energia, telecomunicações, saneamento, habitação e irrigação, especialmente onde outros agentes não têm interesse em atuar. Aqui o cooperado participa para receber o serviço, não para executá-lo. As cooperativas de eletrificação são reguladas pela ANEEL.",
+    "relacionados": "infracoop;aneel;",
+    "tags": "ramos;ramo-infraestrutura;coop-aula-03;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ramo-saude",
+    "termo": "Ramo Saúde",
+    "grupo": "ramos",
+    "texto": "Reúne cooperativas médicas, odontológicas e de outras áreas da saúde humana, atuando na saúde suplementar e em parcerias com o setor público. O cooperativismo de saúde brasileiro é reconhecido como o maior do mundo. As cooperativas que operam planos de saúde são reguladas pela ANS.",
+    "relacionados": "ans;",
+    "tags": "ramos;ramo-saude;coop-aula-05;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ramo-seguros",
+    "termo": "Ramo Seguros",
+    "grupo": "ramos",
+    "texto": "Permite que cooperados compartilhem riscos, com produtos de seguro voltados à inclusão e à educação securitária. É o ramo mais recente no Brasil, reconhecido pelo Sistema OCB em 2025, depois que a Lei Complementar 213/2025 autorizou o seguro cooperativo e encerrou décadas de restrição legal. No mundo, o seguro cooperativo é centenário e consolidado. É regulado pela SUSEP.",
+    "relacionados": "lei-complementar-213-2025;susep;mutualismo;",
+    "tags": "ramos;ramo-seguros;coop-aula-06;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ramo-trabalho-producao-de-bens-e-servicos",
+    "termo": "Ramo Trabalho, Produção de Bens e Serviços",
+    "grupo": "ramos",
+    "texto": "Reúne profissionais que buscam autonomia e melhores condições de trabalho, prestando serviços especializados ou produzindo bens em comum. É o ramo que exige maior atenção quanto à integridade do modelo, pela ocorrência histórica de falsas cooperativas. As cooperativas de trabalho são disciplinadas pela Lei 12.690/2012.",
+    "relacionados": "lei-das-cooperativas-de-trabalho;falsa-cooperativa;pronacoop;cooperativa-de-plataforma;",
+    "tags": "ramos;ramo-trabalho;trabalho;coop-aula-08;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "ramo-transporte",
+    "termo": "Ramo Transporte",
+    "grupo": "ramos",
+    "texto": "Organiza profissionais de transporte de passageiros, cargas, entregas e turismo. Os cooperados são donos dos veículos. Muitas dessas cooperativas organizam a distribuição do trabalho por sistemas de fila, assegurando repartição equitativa das oportunidades.",
+    "relacionados": "antt;",
+    "tags": "ramos;ramo-transporte;coop-aula-07;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "recomendacao-193-da-oit",
+    "termo": "Recomendação 193 da OIT",
+    "grupo": "reg",
+    "texto": "Recomendação da Organização Internacional do Trabalho, de 2002, sobre a promoção das cooperativas. É a principal referência normativa internacional do setor e incorpora a definição, os valores e os princípios da ACI.",
+    "relacionados": "aci;declaracao-sobre-a-identidade-cooperativa;copac;",
+    "tags": "internacional;legislacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "registro-na-ocb",
+    "termo": "Registro na OCB",
+    "grupo": "reg",
+    "texto": "Registro da cooperativa na OCB ou na organização estadual, previsto no art. 107 da Lei 5.764/1971. Com a Constituição de 1988, a jurisprudência passou a entender que não é condição de existência da cooperativa. Na prática, quem não se registra fica fora dos serviços do Sescoop e dos dados oficiais do setor.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "ocb;oce;liberdade-de-criacao-e-nao-intervencao;anuariocoop;",
+    "tags": "legislacao;sistema-ocb;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "reguladores-setoriais",
+    "termo": "Reguladores setoriais",
+    "grupo": "reg",
+    "texto": "Órgãos que regulam a atuação de cooperativas conforme o ramo: o Banco Central e o Conselho Monetário Nacional, no crédito, a SUSEP, nos seguros, a ANEEL, na energia, a ANTT, no transporte, e a ANS, na saúde suplementar. Cada um impõe exigências prudenciais e operacionais próprias.",
+    "relacionados": "bcb;cmn;susep;aneel;antt;ans;",
+    "tags": "regulacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "retorno",
+    "termo": "Retorno",
+    "grupo": "econ",
+    "texto": "Nome tradicional da devolução das sobras aos associados, proporcional às operações que cada um realizou com a cooperativa (art. 4º, VII, da Lei 5.764/1971). Vem da prática dos Pioneiros de Rochdale de devolver o excedente conforme as compras, e não conforme o capital.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "sobras;pro-rata;rochdale;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "economico;resultados;historia;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "robert-owen",
+    "termo": "Robert Owen",
+    "grupo": "hist",
+    "texto": "Industrial e reformador galês (1771-1858), considerado precursor do cooperativismo. Nas fábricas de New Lanark, na Escócia, melhorou as condições de trabalho e criou escolas, e suas ideias influenciaram diretamente os Pioneiros de Rochdale.",
+    "relacionados": "rochdale;charles-gide;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "historia;historia-mundial;pensadores;coop-aula-01;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "rochdale",
+    "termo": "Rochdale",
+    "grupo": "hist",
+    "texto": "Cidade industrial no norte da Inglaterra onde, em 1844, 28 trabalhadores fundaram a Rochdale Equitable Pioneers Society, cooperativa de consumo considerada o marco inaugural do cooperativismo moderno. Suas regras, como adesão livre, um associado um voto, retorno proporcional às compras, juros limitados ao capital, vendas à vista, neutralidade política e religiosa e educação dos membros, estão na raiz dos princípios que fundamentam o movimento até hoje.",
+    "relacionados": "ramo-consumo;robert-owen;retorno;neutralidade-politica-e-indiscriminacao;principios-do-cooperativismo;",
+    "tags": "historia;historia-mundial;pioneiros;ramo-consumo;coop-aula-01;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "senaes",
+    "termo": "SENAES",
+    "grupo": "org",
+    "texto": "Órgão federal criado em 2003, no Ministério do Trabalho e Emprego, sob a coordenação de Paul Singer, para formular políticas públicas de economia solidária, incluindo o apoio a cooperativas populares.",
+    "abbr": "Secretaria Nacional de Economia Solidária",
+    "relacionados": "economia-solidaria;itcp;vertente-pioneira-e-vertente-solidaria;",
+    "tags": "sigla;economia-solidaria;politicas-publicas;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "sescoop",
+    "termo": "SESCOOP",
+    "grupo": "org",
+    "texto": "Serviço social autônomo criado em 1998, voltado à formação profissional, promoção social e monitoramento da gestão das cooperativas brasileiras. Integra o chamado \"Sistema S\" e materializa institucionalmente o 5º princípio, educação, formação e informação.",
+    "abbr": "Serviço Nacional de Aprendizagem do Cooperativismo",
+    "relacionados": "sistema-ocb;ocb;cncoop;",
+    "tags": "sigla;sistema-ocb;educacao;coop-aula-01;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "sicoob",
+    "termo": "Sicoob",
+    "grupo": "org",
+    "texto": "Maior sistema de cooperativas de crédito do país em número de singulares, organizado em três níveis (singulares, centrais e confederação) e com banco cooperativo próprio, o Banco Sicoob.",
+    "abbr": "Sistema de Cooperativas de Crédito do Brasil",
+    "relacionados": "ramo-credito;banco-cooperativo;sicredi;cresol;",
+    "tags": "sigla;ramo-credito;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "sicredi",
+    "termo": "Sicredi",
+    "grupo": "org",
+    "texto": "Sistema de cooperativas de crédito com origem no Rio Grande do Sul, organizado em singulares, centrais e confederação, com banco cooperativo próprio. Reúne a cooperativa pioneira fundada por Theodor Amstad em 1902.",
+    "abbr": "Sistema de Crédito Cooperativo",
+    "relacionados": "ramo-credito;banco-cooperativo;sicoob;theodor-amstad;",
+    "tags": "sigla;ramo-credito;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "singularidade-de-voto",
+    "termo": "Singularidade de voto",
+    "grupo": "estrut",
+    "texto": "Regra segundo a qual cada associado tem um único voto na assembleia, qualquer que seja o número de suas quotas-partes (art. 4º, V, da Lei 5.764/1971). Traduz a gestão democrática: um membro, um voto. Centrais, federações e confederações, exceto as de crédito, podem adotar voto proporcional.",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "relacionados": "assembleia-geral;cooperado-ou-associado;principios-do-cooperativismo;",
+    "tags": "governanca;gestao-democratica;principios;coop-aula-03;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "sistema-ocb",
+    "termo": "Sistema OCB",
+    "grupo": "org",
+    "texto": "Conjunto formado pela OCB (representação institucional), pelo SESCOOP (formação e promoção social) e pela CNCoop (representação sindical). Cada estado possui uma organização estadual correspondente.",
+    "relacionados": "ocb;sescoop;cncoop;oce;",
+    "tags": "sistema-ocb;representacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "sncc",
+    "termo": "SNCC",
+    "grupo": "reg",
+    "texto": "Estrutura que organiza o cooperativismo de crédito brasileiro dentro do Sistema Financeiro Nacional, disciplinada pela Lei Complementar 130/2009, principal marco legal do setor.",
+    "abbr": "Sistema Nacional de Crédito Cooperativo",
+    "links": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp130.htm",
+    "relacionados": "ramo-credito;bcb;cmn;fgcoop;banco-cooperativo;",
+    "tags": "sigla;ramo-credito;legislacao;coop-aula-02;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "sobras",
+    "termo": "Sobras",
+    "grupo": "econ",
+    "texto": "Resultado positivo do exercício, apurado após as destinações obrigatórias aos fundos. Diferentemente do lucro, que remunera o capital investido, as sobras retornam ao cooperado proporcionalmente à utilização que fez dos serviços.",
+    "relacionados": "retorno;pro-rata;fundo-de-reserva;fates;perdas-e-rateio;",
+    "tags": "economico;resultados;coop-aula-04;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "sociedade-cooperativa-economica-de-ouro-preto",
+    "termo": "Sociedade Cooperativa Econômica dos Funcionários Públicos de Ouro Preto",
+    "grupo": "hist",
+    "texto": "Fundada em 27 de outubro de 1889, em Ouro Preto (MG), é apontada por Diva Benevides Pinho como a mais antiga cooperativa de que se tem notícia no Brasil. Seus estatutos revelam forte influência dos Pioneiros de Rochdale. A primazia é disputada com outras experiências do início da República.",
+    "relacionados": "rochdale;fases-do-cooperativismo-brasileiro;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "historia;historia-brasil;minas-gerais;coop-aula-03;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "sociedade-simples",
+    "termo": "Sociedade simples",
+    "grupo": "reg",
+    "texto": "Natureza jurídica atribuída à cooperativa pelo Código Civil de 2002 (art. 982, parágrafo único), qualquer que seja seu objeto. Mesmo assim, seus atos constitutivos são arquivados na Junta Comercial. A convivência entre o Código Civil (arts. 1.093 a 1.096) e a Lei 5.764/1971 é fonte permanente de debate doutrinário.",
+    "relacionados": "cooperativa;lei-geral-do-cooperativismo;equiparacao;",
+    "tags": "legislacao;natureza-juridica;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "somoscoop",
+    "termo": "SomosCoop",
+    "grupo": "org",
+    "texto": "Marca-movimento criada pelo Sistema OCB para dar identidade comum e visibilidade ao cooperativismo brasileiro perante a sociedade, reunindo cooperativas de todos os ramos sob uma mesma comunicação.",
+    "relacionados": "sistema-ocb;dia-c;marca-coop;",
+    "tags": "sistema-ocb;comunicacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "subscricao",
+    "termo": "Subscrição",
+    "grupo": "econ",
+    "texto": "Ato pelo qual o cooperado se compromete formalmente a adquirir quotas-partes, no ingresso ou em aumento de capital. É promessa de contribuição, distinta do pagamento efetivo.",
+    "relacionados": "integralizacao;quota-parte;capital-social;",
+    "tags": "economico;capital;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "susep",
+    "termo": "SUSEP",
+    "grupo": "org",
+    "texto": "Autarquia que fiscaliza o mercado de seguros e, com o Conselho Nacional de Seguros Privados (CNSP), regulamenta as cooperativas de seguros autorizadas pela Lei Complementar 213/2025.",
+    "abbr": "Superintendência de Seguros Privados",
+    "relacionados": "ramo-seguros;lei-complementar-213-2025;reguladores-setoriais;",
+    "tags": "sigla;regulacao;ramo-seguros;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "theodor-amstad",
+    "termo": "Theodor Amstad",
+    "grupo": "hist",
+    "texto": "Padre jesuíta suíço (1851-1938), fundador em 1902, em Linha Imperial, atual Nova Petrópolis (RS), da primeira cooperativa de crédito do Brasil ainda em atividade, no modelo Raiffeisen, hoje Sicredi Pioneira. Declarado Patrono do Cooperativismo Brasileiro pela Lei 13.926/2019.",
+    "relacionados": "nova-petropolis;friedrich-wilhelm-raiffeisen;luigi-luzzatti;sicredi;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "historia;historia-brasil;pioneiros;ramo-credito;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "unicafes",
+    "termo": "UNICAFES",
+    "grupo": "org",
+    "texto": "Entidade nacional criada em 2005 que representa cooperativas da agricultura familiar e da economia solidária, fora do Sistema OCB.",
+    "abbr": "União Nacional das Cooperativas da Agricultura Familiar e Economia Solidária",
+    "relacionados": "unicopas;concrab;unisol-brasil;",
+    "tags": "sigla;economia-solidaria;ramo-agropecuario;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "unicopas",
+    "termo": "UNICOPAS",
+    "grupo": "org",
+    "texto": "Articulação nacional que reúne entidades do cooperativismo solidário, como Unisol, Unicafes e Concrab.",
+    "abbr": "União Nacional das Organizações Cooperativistas Solidárias",
+    "relacionados": "unisol-brasil;unicafes;concrab;",
+    "tags": "sigla;economia-solidaria;representacao;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "unisol-brasil",
+    "termo": "Unisol Brasil",
+    "grupo": "org",
+    "texto": "Entidade que representa cooperativas de trabalho, produção e economia solidária fora do Sistema OCB, com origem ligada ao movimento sindical.",
+    "abbr": "Central de Cooperativas e Empreendimentos Solidários",
+    "relacionados": "unicopas;unicafes;economia-solidaria;",
+    "tags": "sigla;economia-solidaria;ramo-trabalho;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "valores-do-cooperativismo",
+    "termo": "Valores do cooperativismo",
+    "grupo": "base",
+    "texto": "Valores fundamentais: autoajuda, responsabilidade própria, democracia, igualdade, equidade e solidariedade. Valores éticos: honestidade, transparência, responsabilidade social e preocupação pelos outros.",
+    "relacionados": "principios-do-cooperativismo;declaracao-sobre-a-identidade-cooperativa;",
+    "tags": "valores;aci;conceitos-basicos;",
+    "evidenciar": "não"
+  },
+  {
+    "id": "vertente-pioneira-e-vertente-solidaria",
+    "termo": "Vertente pioneira e vertente solidária",
+    "grupo": "hist",
+    "texto": "Distinção proposta por Diva Benevides Pinho entre o cooperativismo tradicional, de inspiração rochdaleana e hoje empresarial, e o cooperativismo solidário, formado a partir dos anos 1990 por cooperativas populares, empresas autogeridas e empreendimentos de economia solidária.",
+    "relacionados": "economia-solidaria;itcp;anteag;senaes;",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tags": "historia-brasil;economia-solidaria;coop-aula-08;",
+    "evidenciar": "não"
+  }
+]
