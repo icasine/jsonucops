@@ -1,0 +1,116 @@
+name: Atualizar JSONs das planilhas
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # todo dia às 6h de Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-jsons
+  cancel-in-progress: false
+
+# Links CSV das planilhas publicadas na web (Arquivo > Compartilhar > Publicar na web).
+# Para trocar uma planilha, basta trocar o link aqui.
+env:
+  CSV_GLOSSARIO: https://docs.google.com/spreadsheets/d/e/2PACX-1vTtXWPHduR0HDuoJCikn1tx4X4J32BkzRn7G2UP6NxvDHl3uVWjUioqHnIK5VJJO70xFdZes901aPOX/pub?gid=816130385&single=true&output=csv
+  CSV_CALENDARIO: https://docs.google.com/spreadsheets/d/e/2PACX-1vQz6w6qaEgjGnBv6_aL0lB82vKIxunVx_dGPHd_coLEt2tJl_SefK2_h-nfmq3SeE8U_R-Aj32uGvuI/pub?gid=1735213564&single=true&output=csv
+  CSV_ACERVO: https://docs.google.com/spreadsheets/d/e/2PACX-1vS8ZcUcH_n5-VrW_kzKJjaJvTSZvCXsqm4nR80_31wbwe5IH1Dlt1akJK969-DEtfmF-RaHvXXfXW2r/pub?gid=713055122&single=true&output=csv
+  CSV_REFERENCIAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vS4vThFyPtktlDrc19iMSSYXr6oAQtdK7uFnZKcpAuftdGjCY22Nv3Mhy35HQvK2gYy_JfVZwtT0yR4/pub?gid=1444902567&single=true&output=csv
+  CSV_PERSONAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vR2r3XK87gQ3aJE5vuP29stlMBcyeuC-1CpDAOxrHo6ILWXUpa9fsbB5CXlDyYBMWqGjFU14zcJhlWL/pub?gid=0&single=true&output=csv
+  CSV_DADOS: https://docs.google.com/spreadsheets/d/e/2PACX-1vTuXpJQeUPO8rTyo0w_rJxsIsjka-Pj0MGAGGHUWYCeylD1NJBO3QEgUtRqbl16lDtqdSDYXe1pVDN5/pub?gid=0&single=true&output=csv
+  CSV_ENTIDADES: https://docs.google.com/spreadsheets/d/e/2PACX-1vSa-R98zGNJ3g2gSoKZ84r901NV49logSeNxf1SU3HA1bkxJyfsY3L9eLiw_ams_9g2Ts7j72yyQEbu/pub?gid=983056787&single=true&output=csv
+  CSV_AULAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vRDA3ujhYoB73ObE83HfDmo6rgxO_nPSUTzd6IneHIQjc597gemFKfZonU5DbwAbAyv3AZfeUFeOvyt/pub?gid=1749439585&single=true&output=csv
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Cada passo é independente: se uma planilha falhar, as outras seguem
+      # e o JSON antigo daquela planilha continua no repositório.
+      - name: Gerar glossario.json
+        id: glossario
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_GLOSSARIO }}" }
+        run: python scripts/gerar_glossario.py
+
+      - name: Gerar eventos.json (calendário)
+        id: calendario
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_CALENDARIO }}" }
+        run: python scripts/gerar_eventos.py
+
+      - name: Gerar artigos.json (acervo)
+        id: acervo
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_ACERVO }}" }
+        run: python scripts/gerar_acervo.py
+
+      - name: Gerar referencias.json
+        id: referencias
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_REFERENCIAS }}" }
+        run: python scripts/gerar_referencias.py
+
+      - name: Gerar personalidades.json (personas)
+        id: personas
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_PERSONAS }}" }
+        run: python scripts/gerar_personalidades.py
+
+      - name: Gerar dados.json
+        id: dados
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_DADOS }}" }
+        run: python scripts/gerar_dados.py
+
+      # Entidades e aulas por último, porque conferem ids nos JSONs acima
+      - name: Gerar entidades.json
+        id: entidades
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_ENTIDADES }}" }
+        run: python scripts/gerar_entidades.py
+
+      - name: Gerar aulas.json
+        id: aulas
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_AULAS }}" }
+        run: python scripts/gerar_aulas.py
+
+      - name: Salvar se houve mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.json
+          if git diff --staged --quiet; then
+            echo "Nenhum JSON mudou."
+          else
+            git commit -m "Atualiza JSONs das planilhas"
+            git pull origin main --rebase
+            git push
+          fi
+
+      - name: Avisar se alguma planilha falhou
+        if: always()
+        run: |
+          falhas=""
+          [ "${{ steps.glossario.outcome }}" = "failure" ] && falhas="$falhas glossario"
+          [ "${{ steps.calendario.outcome }}" = "failure" ] && falhas="$falhas calendario"
+          [ "${{ steps.acervo.outcome }}" = "failure" ] && falhas="$falhas acervo"
+          [ "${{ steps.referencias.outcome }}" = "failure" ] && falhas="$falhas referencias"
+          [ "${{ steps.personas.outcome }}" = "failure" ] && falhas="$falhas personas"
+          [ "${{ steps.dados.outcome }}" = "failure" ] && falhas="$falhas dados"
+          [ "${{ steps.entidades.outcome }}" = "failure" ] && falhas="$falhas entidades"
+          [ "${{ steps.aulas.outcome }}" = "failure" ] && falhas="$falhas aulas"
+          if [ -n "$falhas" ]; then
+            echo "::error::Falharam:$falhas (os JSONs antigos dessas planilhas foram mantidos)"
+            exit 1
+          fi
+          echo "Todas as planilhas foram lidas."
