@@ -1,6 +1,6 @@
 # jsonucops
 
-Gera, todo dia às 6h (Brasília), os arquivos JSON do site ucoop.com.br a partir das planilhas publicadas no Google Sheets. Tudo roda num único workflow: `.github/workflows/atualizar-jsons.yml`.
+Gera, todo dia às 6h e às 18h (Brasília), os arquivos JSON do site ucoop.com.br a partir das planilhas publicadas no Google Sheets. Tudo roda num único workflow: `.github/workflows/atualizar-jsons.yml`.
 
 | Planilha | Script | Arquivo gerado | Link para o site |
 |---|---|---|---|
