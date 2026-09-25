@@ -22,6 +22,7 @@ env:
   CSV_PERSONAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vR2r3XK87gQ3aJE5vuP29stlMBcyeuC-1CpDAOxrHo6ILWXUpa9fsbB5CXlDyYBMWqGjFU14zcJhlWL/pub?gid=0&single=true&output=csv
   CSV_DADOS: https://docs.google.com/spreadsheets/d/e/2PACX-1vTuXpJQeUPO8rTyo0w_rJxsIsjka-Pj0MGAGGHUWYCeylD1NJBO3QEgUtRqbl16lDtqdSDYXe1pVDN5/pub?gid=0&single=true&output=csv
   CSV_ENTIDADES: https://docs.google.com/spreadsheets/d/e/2PACX-1vSa-R98zGNJ3g2gSoKZ84r901NV49logSeNxf1SU3HA1bkxJyfsY3L9eLiw_ams_9g2Ts7j72yyQEbu/pub?gid=983056787&single=true&output=csv
+  CSV_LEGISLACAO: https://docs.google.com/spreadsheets/d/e/2PACX-1vSCcYZXb9AgzAX2AhswTfKygVj7HkYkVgMld1D0i7OPg3WSiA-H3b18aXhGvYLAjWDnrUqIceaznHf6/pub?gid=679031369&single=true&output=csv
   CSV_AULAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vRDA3ujhYoB73ObE83HfDmo6rgxO_nPSUTzd6IneHIQjc597gemFKfZonU5DbwAbAyv3AZfeUFeOvyt/pub?gid=1749439585&single=true&output=csv
 
 jobs:
@@ -71,6 +72,12 @@ jobs:
         env: { CSV_URL: "${{ env.CSV_DADOS }}" }
         run: python scripts/gerar_dados.py
 
+      - name: Gerar legislacao.json
+        id: legislacao
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_LEGISLACAO }}" }
+        run: python scripts/gerar_legislacao.py
+
       # Entidades e aulas por último, porque conferem ids nos JSONs acima
       - name: Gerar entidades.json
         id: entidades
@@ -107,6 +114,7 @@ jobs:
           [ "${{ steps.referencias.outcome }}" = "failure" ] && falhas="$falhas referencias"
           [ "${{ steps.personas.outcome }}" = "failure" ] && falhas="$falhas personas"
           [ "${{ steps.dados.outcome }}" = "failure" ] && falhas="$falhas dados"
+          [ "${{ steps.legislacao.outcome }}" = "failure" ] && falhas="$falhas legislacao"
           [ "${{ steps.entidades.outcome }}" = "failure" ] && falhas="$falhas entidades"
           [ "${{ steps.aulas.outcome }}" = "failure" ] && falhas="$falhas aulas"
           if [ -n "$falhas" ]; then
