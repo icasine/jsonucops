@@ -35,8 +35,20 @@
             "base": "glossario",
             "ids": [
               "cooperar",
-              "cooperado",
+              "cooperado-ou-associado",
               "autogestao"
+            ]
+          },
+          {
+            "tipo": "card",
+            "titulo": "Assista",
+            "texto": "Veja a revolução industrial",
+            "fonte": "Youtube",
+            "links": [
+              {
+                "texto": "",
+                "url": "https://www.youtube.com/watch?v=m_KTF3iNrY0"
+              }
             ]
           }
         ]
