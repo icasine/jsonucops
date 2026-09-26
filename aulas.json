@@ -40,13 +40,16 @@
             ]
           },
           {
-            "tipo": "card",
-            "titulo": "Assista",
+            "tipo": "subtitulo",
+            "titulo": "Veja o vídeo"
+          },
+          {
+            "tipo": "cooperativa",
             "texto": "Veja a revolução industrial",
             "fonte": "Youtube",
             "links": [
               {
-                "texto": "",
+                "texto": "LInk",
                 "url": "https://www.youtube.com/watch?v=m_KTF3iNrY0"
               }
             ]
