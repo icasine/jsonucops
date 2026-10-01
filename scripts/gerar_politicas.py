@@ -1,3 +1,3 @@
 from simples import gerar
 
-gerar("personalidades")
+gerar("politicas")

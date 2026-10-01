@@ -1,142 +1,84 @@
-from comum import ajustar, data_partes
-import csv, io, json, os, urllib.request
-from datetime import date, datetime, timedelta
+"""Gera eventos.json a partir da aba Eventos.
+
+Chaves = nomes das colunas (ver comum.py). Campos calculados acrescentados,
+para o calendário e a linha do tempo:
+  ano, mes, dia      lidos de data_inicio ("21-dez-1844", "jun-2003", "1825"...)
+  precisao           "dia", "mes" ou "ano"
+  start, end, allDay datas ISO (só quando a data_inicio tem dia); end exclusivo
+  ano_fim_num        ano lido de data_fim
+Eventos com recorrencia = anual são repetidos ano a ano até recorrencia_ate
+(ou 2 anos à frente), com id_evento-AAAA, ano_origem e edicao.
+"""
+from datetime import date, timedelta
+from comum import avisos, converter, data_partes, gravar, ler_csv, nao
 
 ANO_ATUAL = date.today().year
 ANOS_A_FRENTE = 2
-avisos = []
 
-def ler_planilha():
-    with urllib.request.urlopen(os.environ["CSV_URL"]) as r:
-        texto = r.read().decode("utf-8")
-    for n, linha in enumerate(csv.DictReader(io.StringIO(texto)), start=2):
-        l = {(k or "").strip(): (v or "").strip() for k, v in linha.items()}
-        l = ajustar(l, "eventos")
-        l["_linha"] = n
-        yield l
-
-def inteiro(v):
-    try:
-        return int(float(v))
-    except (ValueError, TypeError):
-        return None
-
-def hora(v):
-    return v[:5] if v else ""
-
-def ler_data(v):
-    a, m, d = data_partes(v)
-    if a and m and d:
-        try:
-            return date(a, m, d)
-        except ValueError:
-            return None
-    for formato in ("%Y-%m-%d", "%d/%m/%Y"):
-        try:
-            return datetime.strptime(v, formato).date()
-        except ValueError:
-            pass
-    return None
-
-def base(l, ident):
-    return {
-        "id": ident,
-        "title": l["titulo"],
-        "extendedProps": {
-            "tipo": l.get("tipo", ""),
-            "categoria": l.get("categoria", ""),
-            "tags": [t.strip() for t in l.get("tags", "").split(",") if t.strip()],
-            "local": l.get("local", ""),
-            "resumo": l.get("resumo", ""),
-            "descricao": l.get("descricao", ""),
-            "link": l.get("link", ""),
-            "imagem": l.get("imagem", "") or l.get("foto", ""),
-            "fonte": l.get("fonte", ""),
-            "ref_imagem": l.get("ref_imagem", ""),
-            "relembrar": l.get("relembrar", "").lower() == "sim",
-            "evidenciar": any(l.get(c, "").strip().lower() in ("sim", "s", "true", "1", "x") for c in ("evidenciar", "destaque", "destacar")),
-        },
-    }
-
-def com_data(ev, l, inicio, fim):
-    h_ini, h_fim = hora(l.get("hora_inicio", "")), hora(l.get("hora_fim", ""))
-    ev["allDay"] = not h_ini
-    ev["start"] = inicio.isoformat() + (f"T{h_ini}" if h_ini else "")
-    if fim is None and h_fim:
-        fim = inicio
-    if fim:
-        if h_ini:
-            ev["end"] = f"{fim.isoformat()}T{h_fim or h_ini}"
-        else:
-            ev["end"] = (fim + timedelta(days=1)).isoformat()  # fim exclusivo no FullCalendar
-    return ev
-
-linhas = [l for l in ler_planilha()
-          if l.get("publicar", "").lower() == "sim" and l.get("titulo")]
-substituidos = {l["substitui"] for l in linhas if l.get("substitui")}
-saida = []
-
-for l in linhas:
-    if l.get("data_inicio"):
-        ano, mes, dia = data_partes(l["data_inicio"])
-        if not ano:
-            avisos.append(f'Linha {l["_linha"]} ({l.get("id")}): data_inicio "{l["data_inicio"]}" não reconhecida, ignorada')
-            continue
-    else:
-        ano, mes, dia = inteiro(l.get("ano", "")), inteiro(l.get("mes", "")), inteiro(l.get("dia", ""))
-
-    if not ano:
-        avisos.append(f'Linha {l["_linha"]} ({l.get("id")}): sem ano, ignorada')
+linhas = []
+for n, l in ler_csv():
+    if not l.get("titulo") or nao(l.get("publicar")) or (l.get("publicar", "") == "" and "publicar" in l):
         continue
+    linhas.append((n, l))
+substituidos = {l["substitui"] for _, l in linhas if l.get("substitui")}
 
-    # Datas incompletas: vão para o JSON sem "start", para o painel de memória e a linha do tempo
+saida = []
+for n, l in linhas:
+    onde = f"Linha {n} ({l.get('id_evento')})"
+    ev = converter(l, onde)
+    ano, mes, dia = data_partes(l.get("data_inicio"))
+    if not ano:
+        avisos.append(f"{onde}: data_inicio '{l.get('data_inicio')}' não reconhecida, ignorada")
+        continue
+    fa, fm, fd = data_partes(l.get("data_fim"))
+    if l.get("data_fim") and not fa:
+        avisos.append(f"{onde}: data_fim '{l.get('data_fim')}' não reconhecida")
+    ev.update(ano=ano, mes=mes, dia=dia, ano_fim_num=fa)
+
     if not (mes and dia):
-        ev = base(l, l["id"])
-        ev["extendedProps"].update(precisao="mes" if mes else "ano", ano=ano, mes=mes)
-        if l.get("data_fim"):
-            ev["extendedProps"]["ano_fim"] = data_partes(l["data_fim"])[0]
+        ev["precisao"] = "mes" if mes else "ano"
         saida.append(ev)
         continue
-
     try:
         inicio = date(ano, mes, dia)
     except ValueError:
-        avisos.append(f'Linha {l["_linha"]} ({l.get("id")}): data inválida {dia}/{mes}/{ano}')
+        avisos.append(f"{onde}: data inválida {dia}/{mes}/{ano}")
         continue
+    fim = None
+    if fa and fm and fd:
+        try:
+            fim = date(fa, fm, fd)
+        except ValueError:
+            avisos.append(f"{onde}: data_fim inválida")
+    ev["precisao"] = "dia"
 
-    fim = ler_data(l["data_fim"]) if l.get("data_fim") else None
+    def datar(e, ini, fi):
+        e["allDay"] = True
+        e["start"] = ini.isoformat()
+        if fi:
+            e["end"] = (fi + timedelta(days=1)).isoformat()  # fim exclusivo no FullCalendar
+        return e
 
     if l.get("recorrencia", "").lower() != "anual":
-        ev = com_data(base(l, l["id"]), l, inicio, fim)
-        ev["extendedProps"]["precisao"] = "dia"
-        saida.append(ev)
+        saida.append(datar(ev, inicio, fim))
         continue
-
-    ate = inteiro(l.get("recorrencia_ate", "")) or ANO_ATUAL + ANOS_A_FRENTE
+    ate = ev.get("recorrencia_ate") or ANO_ATUAL + ANOS_A_FRENTE
     duracao = (fim - inicio) if fim else None
     for a in range(ano, ate + 1):
-        ident = f'{l["id"]}-{a}'
+        ident = f"{l['id_evento']}-{a}"
         if ident in substituidos:
             continue
         try:
             ini = inicio.replace(year=a)
         except ValueError:
             continue  # 29 de fevereiro em ano não bissexto
-        ev = com_data(base(l, ident), l, ini, ini + duracao if duracao is not None else None)
-        ev["extendedProps"].update(precisao="dia", ano_origem=ano, edicao=a - ano)
-        saida.append(ev)
+        e = dict(ev, id_evento=ident, ano_origem=ano, edicao=a - ano)
+        saida.append(datar(e, ini, ini + duracao if duracao is not None else None))
+
 
 def ordem(e):
-    if "start" in e:
-        return e["start"]
-    p = e["extendedProps"]
-    return f'{p["ano"]:04d}-{(p["mes"] or 1):02d}'
+    return e.get("start") or f"{e['ano']:04d}-{(e['mes'] or 1):02d}"
+
 
 saida.sort(key=ordem)
-
-with open("eventos.json", "w", encoding="utf-8") as f:
-    json.dump(saida, f, ensure_ascii=False, indent=2)
-
-for a in avisos:
-    print(f"::warning::{a}")
-print(f"{len(saida)} itens gravados em eventos.json")
+gravar("eventos.json", saida, f"{len(saida)} itens gravados em eventos.json")
