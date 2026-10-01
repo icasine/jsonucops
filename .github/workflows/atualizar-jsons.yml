@@ -3,7 +3,9 @@ name: Atualizar JSONs das planilhas
 on:
   schedule:
     - cron: "0 9 * * *" # todo dia às 6h de Brasília
+    - cron: "0 15 * * *" # todo dia às 12h de Brasília
     - cron: "0 21 * * *" # todo dia às 18h de Brasília
+    - cron: "0 3 * * *" # todo dia às 0h de Brasília
   workflow_dispatch:
 
 permissions:
@@ -13,18 +15,21 @@ concurrency:
   group: atualizar-jsons
   cancel-in-progress: false
 
+# Todas as abas vêm da planilha unificada (jsonucops _uni); Políticas gera legislacao.json.
 # Links CSV das planilhas publicadas na web (Arquivo > Compartilhar > Publicar na web).
 # Para trocar uma planilha, basta trocar o link aqui.
 env:
-  CSV_GLOSSARIO: https://docs.google.com/spreadsheets/d/e/2PACX-1vTtXWPHduR0HDuoJCikn1tx4X4J32BkzRn7G2UP6NxvDHl3uVWjUioqHnIK5VJJO70xFdZes901aPOX/pub?gid=816130385&single=true&output=csv
-  CSV_CALENDARIO: https://docs.google.com/spreadsheets/d/e/2PACX-1vQz6w6qaEgjGnBv6_aL0lB82vKIxunVx_dGPHd_coLEt2tJl_SefK2_h-nfmq3SeE8U_R-Aj32uGvuI/pub?gid=1735213564&single=true&output=csv
-  CSV_ACERVO: https://docs.google.com/spreadsheets/d/e/2PACX-1vS8ZcUcH_n5-VrW_kzKJjaJvTSZvCXsqm4nR80_31wbwe5IH1Dlt1akJK969-DEtfmF-RaHvXXfXW2r/pub?gid=757372690&single=true&output=csv
-  CSV_REFERENCIAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vS4vThFyPtktlDrc19iMSSYXr6oAQtdK7uFnZKcpAuftdGjCY22Nv3Mhy35HQvK2gYy_JfVZwtT0yR4/pub?gid=1761919231&single=true&output=csv
-  CSV_PERSONAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vR2r3XK87gQ3aJE5vuP29stlMBcyeuC-1CpDAOxrHo6ILWXUpa9fsbB5CXlDyYBMWqGjFU14zcJhlWL/pub?gid=0&single=true&output=csv
-  CSV_DADOS: https://docs.google.com/spreadsheets/d/e/2PACX-1vTuXpJQeUPO8rTyo0w_rJxsIsjka-Pj0MGAGGHUWYCeylD1NJBO3QEgUtRqbl16lDtqdSDYXe1pVDN5/pub?gid=0&single=true&output=csv
-  CSV_ENTIDADES: https://docs.google.com/spreadsheets/d/e/2PACX-1vSa-R98zGNJ3g2gSoKZ84r901NV49logSeNxf1SU3HA1bkxJyfsY3L9eLiw_ams_9g2Ts7j72yyQEbu/pub?gid=983056787&single=true&output=csv
-  CSV_LEGISLACAO: https://docs.google.com/spreadsheets/d/e/2PACX-1vSCcYZXb9AgzAX2AhswTfKygVj7HkYkVgMld1D0i7OPg3WSiA-H3b18aXhGvYLAjWDnrUqIceaznHf6/pub?gid=679031369&single=true&output=csv
-  CSV_AULAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vRDA3ujhYoB73ObE83HfDmo6rgxO_nPSUTzd6IneHIQjc597gemFKfZonU5DbwAbAyv3AZfeUFeOvyt/pub?gid=1749439585&single=true&output=csv
+  CSV_GLOSSARIO: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=241704941&single=true&output=csv
+  CSV_CALENDARIO: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=1577044784&single=true&output=csv
+  CSV_ACERVO: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=1162851248&single=true&output=csv
+  CSV_REFERENCIAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=1312179170&single=true&output=csv
+  CSV_PERSONAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=1545420504&single=true&output=csv
+  CSV_DADOS: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=1385159613&single=true&output=csv
+  CSV_ENTIDADES: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=1191365067&single=true&output=csv
+  CSV_LEGISLACAO: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=963808734&single=true&output=csv
+  CSV_AULAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=1749439585&single=true&output=csv
+  CSV_TESE: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=817455841&single=true&output=csv
+  CSV_HISTORIAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=960209600&single=true&output=csv
 
 jobs:
   atualizar:
@@ -73,7 +78,7 @@ jobs:
         env: { CSV_URL: "${{ env.CSV_DADOS }}" }
         run: python scripts/gerar_dados.py
 
-      - name: Gerar legislacao.json
+      - name: Gerar legislacao.json (políticas)
         id: legislacao
         continue-on-error: true
         env: { CSV_URL: "${{ env.CSV_LEGISLACAO }}" }
@@ -91,6 +96,18 @@ jobs:
         continue-on-error: true
         env: { CSV_URL: "${{ env.CSV_AULAS }}" }
         run: python scripts/gerar_aulas.py
+
+      - name: Gerar tese.json
+        id: tese
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_TESE }}" }
+        run: python scripts/gerar_tese.py
+
+      - name: Gerar historias.json
+        id: historias
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_HISTORIAS }}" }
+        run: python scripts/gerar_historias.py
 
       - name: Salvar se houve mudança
         run: |
@@ -118,6 +135,8 @@ jobs:
           [ "${{ steps.legislacao.outcome }}" = "failure" ] && falhas="$falhas legislacao"
           [ "${{ steps.entidades.outcome }}" = "failure" ] && falhas="$falhas entidades"
           [ "${{ steps.aulas.outcome }}" = "failure" ] && falhas="$falhas aulas"
+          [ "${{ steps.tese.outcome }}" = "failure" ] && falhas="$falhas tese"
+          [ "${{ steps.historias.outcome }}" = "failure" ] && falhas="$falhas historias"
           if [ -n "$falhas" ]; then
             echo "::error::Falharam:$falhas (os JSONs antigos dessas planilhas foram mantidos)"
             exit 1
