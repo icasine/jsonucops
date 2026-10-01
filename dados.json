@@ -1,6 +1,6 @@
 [
   {
-    "id": "brasil-1945-geral",
+    "id": "dad-brasil-1945-geral",
     "ano": 1945,
     "geral": false,
     "ramo": "Geral",
@@ -18,7 +18,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1945-consumo",
+    "id": "dad-brasil-1945-consumo",
     "ano": 1945,
     "geral": false,
     "ramo": "Consumo",
@@ -36,7 +36,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1945-agropecuario",
+    "id": "dad-brasil-1945-agropecuario",
     "ano": 1945,
     "geral": false,
     "ramo": "Agropecuário",
@@ -54,7 +54,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1945-credito",
+    "id": "dad-brasil-1945-credito",
     "ano": 1945,
     "geral": false,
     "ramo": "Crédito",
@@ -72,7 +72,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1950-geral",
+    "id": "dad-brasil-1950-geral",
     "ano": 1950,
     "geral": false,
     "ramo": "Geral",
@@ -90,7 +90,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1950-consumo",
+    "id": "dad-brasil-1950-consumo",
     "ano": 1950,
     "geral": false,
     "ramo": "Consumo",
@@ -108,7 +108,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1950-agropecuario",
+    "id": "dad-brasil-1950-agropecuario",
     "ano": 1950,
     "geral": false,
     "ramo": "Agropecuário",
@@ -126,7 +126,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1950-credito",
+    "id": "dad-brasil-1950-credito",
     "ano": 1950,
     "geral": false,
     "ramo": "Crédito",
@@ -144,7 +144,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1955-geral",
+    "id": "dad-brasil-1955-geral",
     "ano": 1955,
     "geral": false,
     "ramo": "Geral",
@@ -162,7 +162,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1955-consumo",
+    "id": "dad-brasil-1955-consumo",
     "ano": 1955,
     "geral": false,
     "ramo": "Consumo",
@@ -180,7 +180,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1955-agropecuario",
+    "id": "dad-brasil-1955-agropecuario",
     "ano": 1955,
     "geral": false,
     "ramo": "Agropecuário",
@@ -198,7 +198,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1955-credito",
+    "id": "dad-brasil-1955-credito",
     "ano": 1955,
     "geral": false,
     "ramo": "Crédito",
@@ -216,7 +216,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1960-geral",
+    "id": "dad-brasil-1960-geral",
     "ano": 1960,
     "geral": false,
     "ramo": "Geral",
@@ -234,7 +234,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1960-consumo",
+    "id": "dad-brasil-1960-consumo",
     "ano": 1960,
     "geral": false,
     "ramo": "Consumo",
@@ -252,7 +252,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1960-agropecuario",
+    "id": "dad-brasil-1960-agropecuario",
     "ano": 1960,
     "geral": false,
     "ramo": "Agropecuário",
@@ -270,7 +270,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1960-credito",
+    "id": "dad-brasil-1960-credito",
     "ano": 1960,
     "geral": false,
     "ramo": "Crédito",
@@ -288,7 +288,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1963-geral",
+    "id": "dad-brasil-1963-geral",
     "ano": 1963,
     "geral": false,
     "ramo": "Geral",
@@ -306,7 +306,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1963-consumo",
+    "id": "dad-brasil-1963-consumo",
     "ano": 1963,
     "geral": false,
     "ramo": "Consumo",
@@ -324,7 +324,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1963-agropecuario",
+    "id": "dad-brasil-1963-agropecuario",
     "ano": 1963,
     "geral": false,
     "ramo": "Agropecuário",
@@ -342,7 +342,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1963-credito",
+    "id": "dad-brasil-1963-credito",
     "ano": 1963,
     "geral": false,
     "ramo": "Crédito",
@@ -360,7 +360,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1987-geral",
+    "id": "dad-brasil-1987-geral",
     "ano": 1987,
     "geral": false,
     "ramo": "Geral",
@@ -378,7 +378,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1987-agropecuario",
+    "id": "dad-brasil-1987-agropecuario",
     "ano": 1987,
     "geral": false,
     "ramo": "Agropecuário",
@@ -396,7 +396,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1988-geral",
+    "id": "dad-brasil-1988-geral",
     "ano": 1988,
     "geral": false,
     "ramo": "Geral",
@@ -414,7 +414,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1988-agropecuario",
+    "id": "dad-brasil-1988-agropecuario",
     "ano": 1988,
     "geral": false,
     "ramo": "Agropecuário",
@@ -432,7 +432,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1988-credito",
+    "id": "dad-brasil-1988-credito",
     "ano": 1988,
     "geral": false,
     "ramo": "Crédito",
@@ -450,7 +450,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1990-geral",
+    "id": "dad-brasil-1990-geral",
     "ano": 1990,
     "geral": false,
     "ramo": "Geral",
@@ -468,7 +468,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1991-geral",
+    "id": "dad-brasil-1991-geral",
     "ano": 1991,
     "geral": false,
     "ramo": "Geral",
@@ -486,7 +486,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1991-agropecuario",
+    "id": "dad-brasil-1991-agropecuario",
     "ano": 1991,
     "geral": false,
     "ramo": "Agropecuário",
@@ -504,7 +504,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1991-credito",
+    "id": "dad-brasil-1991-credito",
     "ano": 1991,
     "geral": false,
     "ramo": "Crédito",
@@ -522,7 +522,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1992-geral",
+    "id": "dad-brasil-1992-geral",
     "ano": 1992,
     "geral": false,
     "ramo": "Geral",
@@ -540,7 +540,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1992-agropecuario",
+    "id": "dad-brasil-1992-agropecuario",
     "ano": 1992,
     "geral": false,
     "ramo": "Agropecuário",
@@ -558,7 +558,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1992-credito",
+    "id": "dad-brasil-1992-credito",
     "ano": 1992,
     "geral": false,
     "ramo": "Crédito",
@@ -576,7 +576,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1993-geral",
+    "id": "dad-brasil-1993-geral",
     "ano": 1993,
     "geral": false,
     "ramo": "Geral",
@@ -594,7 +594,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1993-agropecuario",
+    "id": "dad-brasil-1993-agropecuario",
     "ano": 1993,
     "geral": false,
     "ramo": "Agropecuário",
@@ -612,7 +612,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1993-credito",
+    "id": "dad-brasil-1993-credito",
     "ano": 1993,
     "geral": false,
     "ramo": "Crédito",
@@ -630,7 +630,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1994-geral",
+    "id": "dad-brasil-1994-geral",
     "ano": 1994,
     "geral": false,
     "ramo": "Geral",
@@ -648,7 +648,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1995-geral",
+    "id": "dad-brasil-1995-geral",
     "ano": 1995,
     "geral": false,
     "ramo": "Geral",
@@ -666,7 +666,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1995-agropecuario",
+    "id": "dad-brasil-1995-agropecuario",
     "ano": 1995,
     "geral": false,
     "ramo": "Agropecuário",
@@ -684,7 +684,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1995-credito",
+    "id": "dad-brasil-1995-credito",
     "ano": 1995,
     "geral": false,
     "ramo": "Crédito",
@@ -702,7 +702,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1996-geral",
+    "id": "dad-brasil-1996-geral",
     "ano": 1996,
     "geral": false,
     "ramo": "Geral",
@@ -720,7 +720,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1996-agropecuario",
+    "id": "dad-brasil-1996-agropecuario",
     "ano": 1996,
     "geral": false,
     "ramo": "Agropecuário",
@@ -738,7 +738,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-1996-credito",
+    "id": "dad-brasil-1996-credito",
     "ano": 1996,
     "geral": false,
     "ramo": "Crédito",
@@ -756,7 +756,7 @@
     "note": ""
   },
   {
-    "id": "brasil-1997-geral",
+    "id": "dad-brasil-1997-geral",
     "ano": 1997,
     "geral": false,
     "ramo": "Geral",
@@ -774,7 +774,7 @@
     "note": ""
   },
   {
-    "id": "brasil-1997-agropecuario",
+    "id": "dad-brasil-1997-agropecuario",
     "ano": 1997,
     "geral": false,
     "ramo": "Agropecuário",
@@ -792,7 +792,7 @@
     "note": ""
   },
   {
-    "id": "brasil-1997-credito",
+    "id": "dad-brasil-1997-credito",
     "ano": 1997,
     "geral": false,
     "ramo": "Crédito",
@@ -810,7 +810,7 @@
     "note": ""
   },
   {
-    "id": "brasil-1998-geral",
+    "id": "dad-brasil-1998-geral",
     "ano": 1998,
     "geral": false,
     "ramo": "Geral",
@@ -828,7 +828,7 @@
     "note": ""
   },
   {
-    "id": "brasil-1998-agropecuario",
+    "id": "dad-brasil-1998-agropecuario",
     "ano": 1998,
     "geral": false,
     "ramo": "Agropecuário",
@@ -846,7 +846,7 @@
     "note": ""
   },
   {
-    "id": "brasil-1998-credito",
+    "id": "dad-brasil-1998-credito",
     "ano": 1998,
     "geral": false,
     "ramo": "Crédito",
@@ -864,7 +864,7 @@
     "note": ""
   },
   {
-    "id": "brasil-1999-geral",
+    "id": "dad-brasil-1999-geral",
     "ano": 1999,
     "geral": false,
     "ramo": "Geral",
@@ -882,7 +882,7 @@
     "note": ""
   },
   {
-    "id": "brasil-1999-agropecuario",
+    "id": "dad-brasil-1999-agropecuario",
     "ano": 1999,
     "geral": false,
     "ramo": "Agropecuário",
@@ -900,7 +900,7 @@
     "note": ""
   },
   {
-    "id": "brasil-1999-credito",
+    "id": "dad-brasil-1999-credito",
     "ano": 1999,
     "geral": false,
     "ramo": "Crédito",
@@ -918,7 +918,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2000-geral",
+    "id": "dad-brasil-2000-geral",
     "ano": 2000,
     "geral": false,
     "ramo": "Geral",
@@ -936,7 +936,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2000-agropecuario",
+    "id": "dad-brasil-2000-agropecuario",
     "ano": 2000,
     "geral": false,
     "ramo": "Agropecuário",
@@ -954,7 +954,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2000-credito",
+    "id": "dad-brasil-2000-credito",
     "ano": 2000,
     "geral": false,
     "ramo": "Crédito",
@@ -972,7 +972,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2001-geral",
+    "id": "dad-brasil-2001-geral",
     "ano": 2001,
     "geral": false,
     "ramo": "Geral",
@@ -990,7 +990,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2002-geral",
+    "id": "dad-brasil-2002-geral",
     "ano": 2002,
     "geral": false,
     "ramo": "Geral",
@@ -1008,7 +1008,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2002-agropecuario",
+    "id": "dad-brasil-2002-agropecuario",
     "ano": 2002,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1026,7 +1026,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2002-credito",
+    "id": "dad-brasil-2002-credito",
     "ano": 2002,
     "geral": false,
     "ramo": "Crédito",
@@ -1044,7 +1044,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2003-geral",
+    "id": "dad-brasil-2003-geral",
     "ano": 2003,
     "geral": false,
     "ramo": "Geral",
@@ -1062,7 +1062,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2004-geral",
+    "id": "dad-brasil-2004-geral",
     "ano": 2004,
     "geral": false,
     "ramo": "Geral",
@@ -1080,7 +1080,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2004-agropecuario",
+    "id": "dad-brasil-2004-agropecuario",
     "ano": 2004,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1098,7 +1098,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2004-credito",
+    "id": "dad-brasil-2004-credito",
     "ano": 2004,
     "geral": false,
     "ramo": "Crédito",
@@ -1116,7 +1116,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2005-geral",
+    "id": "dad-brasil-2005-geral",
     "ano": 2005,
     "geral": false,
     "ramo": "Geral",
@@ -1134,7 +1134,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2005-agropecuario",
+    "id": "dad-brasil-2005-agropecuario",
     "ano": 2005,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1152,7 +1152,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2005-credito",
+    "id": "dad-brasil-2005-credito",
     "ano": 2005,
     "geral": false,
     "ramo": "Crédito",
@@ -1170,7 +1170,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2006-geral",
+    "id": "dad-brasil-2006-geral",
     "ano": 2006,
     "geral": false,
     "ramo": "Geral",
@@ -1188,7 +1188,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2006-agropecuario",
+    "id": "dad-brasil-2006-agropecuario",
     "ano": 2006,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1206,7 +1206,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2006-credito",
+    "id": "dad-brasil-2006-credito",
     "ano": 2006,
     "geral": false,
     "ramo": "Crédito",
@@ -1224,7 +1224,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2007-geral",
+    "id": "dad-brasil-2007-geral",
     "ano": 2007,
     "geral": false,
     "ramo": "Geral",
@@ -1242,7 +1242,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2007-agropecuario",
+    "id": "dad-brasil-2007-agropecuario",
     "ano": 2007,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1260,7 +1260,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2007-credito",
+    "id": "dad-brasil-2007-credito",
     "ano": 2007,
     "geral": false,
     "ramo": "Crédito",
@@ -1278,7 +1278,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2008-geral",
+    "id": "dad-brasil-2008-geral",
     "ano": 2008,
     "geral": false,
     "ramo": "Geral",
@@ -1296,7 +1296,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2008-agropecuario",
+    "id": "dad-brasil-2008-agropecuario",
     "ano": 2008,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1314,7 +1314,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2008-credito",
+    "id": "dad-brasil-2008-credito",
     "ano": 2008,
     "geral": false,
     "ramo": "Crédito",
@@ -1332,7 +1332,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2009-geral",
+    "id": "dad-brasil-2009-geral",
     "ano": 2009,
     "geral": false,
     "ramo": "Geral",
@@ -1350,7 +1350,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2009-agropecuario",
+    "id": "dad-brasil-2009-agropecuario",
     "ano": 2009,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1368,7 +1368,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2009-credito",
+    "id": "dad-brasil-2009-credito",
     "ano": 2009,
     "geral": false,
     "ramo": "Crédito",
@@ -1386,7 +1386,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2010-geral",
+    "id": "dad-brasil-2010-geral",
     "ano": 2010,
     "geral": false,
     "ramo": "Geral",
@@ -1404,7 +1404,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2010-agropecuario",
+    "id": "dad-brasil-2010-agropecuario",
     "ano": 2010,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1422,7 +1422,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2010-credito",
+    "id": "dad-brasil-2010-credito",
     "ano": 2010,
     "geral": false,
     "ramo": "Crédito",
@@ -1440,7 +1440,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2011-geral",
+    "id": "dad-brasil-2011-geral",
     "ano": 2011,
     "geral": false,
     "ramo": "Geral",
@@ -1458,7 +1458,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2011-agropecuario",
+    "id": "dad-brasil-2011-agropecuario",
     "ano": 2011,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1476,7 +1476,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2011-credito",
+    "id": "dad-brasil-2011-credito",
     "ano": 2011,
     "geral": false,
     "ramo": "Crédito",
@@ -1494,7 +1494,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2012-geral",
+    "id": "dad-brasil-2012-geral",
     "ano": 2012,
     "geral": false,
     "ramo": "Geral",
@@ -1512,7 +1512,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2012-agropecuario",
+    "id": "dad-brasil-2012-agropecuario",
     "ano": 2012,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1530,7 +1530,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2012-credito",
+    "id": "dad-brasil-2012-credito",
     "ano": 2012,
     "geral": false,
     "ramo": "Crédito",
@@ -1549,7 +1549,7 @@
     "pac": 3723
   },
   {
-    "id": "brasil-2013-geral",
+    "id": "dad-brasil-2013-geral",
     "ano": 2013,
     "geral": false,
     "ramo": "Geral",
@@ -1567,7 +1567,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2013-agropecuario",
+    "id": "dad-brasil-2013-agropecuario",
     "ano": 2013,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1585,7 +1585,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2013-credito",
+    "id": "dad-brasil-2013-credito",
     "ano": 2013,
     "geral": false,
     "ramo": "Crédito",
@@ -1604,7 +1604,7 @@
     "pac": 3947
   },
   {
-    "id": "brasil-2014-geral",
+    "id": "dad-brasil-2014-geral",
     "ano": 2014,
     "geral": false,
     "ramo": "Geral",
@@ -1622,7 +1622,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2014-agropecuario",
+    "id": "dad-brasil-2014-agropecuario",
     "ano": 2014,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1640,7 +1640,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2014-credito",
+    "id": "dad-brasil-2014-credito",
     "ano": 2014,
     "geral": false,
     "ramo": "Crédito",
@@ -1659,7 +1659,7 @@
     "pac": 4213
   },
   {
-    "id": "brasil-2015-geral",
+    "id": "dad-brasil-2015-geral",
     "ano": 2015,
     "geral": false,
     "ramo": "Geral",
@@ -1677,7 +1677,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2015-agropecuario",
+    "id": "dad-brasil-2015-agropecuario",
     "ano": 2015,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1695,7 +1695,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2015-credito",
+    "id": "dad-brasil-2015-credito",
     "ano": 2015,
     "geral": false,
     "ramo": "Crédito",
@@ -1714,7 +1714,7 @@
     "pac": 4470
   },
   {
-    "id": "brasil-2016-credito",
+    "id": "dad-brasil-2016-credito",
     "ano": 2016,
     "geral": false,
     "ramo": "Crédito",
@@ -1733,7 +1733,7 @@
     "pac": 4687
   },
   {
-    "id": "brasil-2017-geral",
+    "id": "dad-brasil-2017-geral",
     "ano": 2017,
     "geral": false,
     "ramo": "Geral",
@@ -1751,7 +1751,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2017-agropecuario",
+    "id": "dad-brasil-2017-agropecuario",
     "ano": 2017,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1769,7 +1769,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2017-credito",
+    "id": "dad-brasil-2017-credito",
     "ano": 2017,
     "geral": false,
     "ramo": "Crédito",
@@ -1788,7 +1788,7 @@
     "pac": 4935
   },
   {
-    "id": "brasil-2018-geral",
+    "id": "dad-brasil-2018-geral",
     "ano": 2018,
     "geral": false,
     "ramo": "Geral",
@@ -1806,7 +1806,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2018-agropecuario",
+    "id": "dad-brasil-2018-agropecuario",
     "ano": 2018,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1824,7 +1824,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2018-credito",
+    "id": "dad-brasil-2018-credito",
     "ano": 2018,
     "geral": false,
     "ramo": "Crédito",
@@ -1843,7 +1843,7 @@
     "pac": 5390
   },
   {
-    "id": "brasil-2019-agropecuario",
+    "id": "dad-brasil-2019-agropecuario",
     "ano": 2019,
     "geral": false,
     "ramo": "Agropecuário",
@@ -1865,12 +1865,12 @@
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "note": "Não há informações extras",
     "ref_id": [
-      "theodor-amstad"
+      "per-theodor-amstad"
     ],
     "ref_tipo": ""
   },
   {
-    "id": "brasil-2019-consumo",
+    "id": "dad-brasil-2019-consumo",
     "ano": 2019,
     "geral": false,
     "ramo": "Consumo",
@@ -1892,7 +1892,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2019-credito",
+    "id": "dad-brasil-2019-credito",
     "ano": 2019,
     "geral": false,
     "ramo": "Crédito",
@@ -1917,7 +1917,7 @@
     "pac": 6050
   },
   {
-    "id": "brasil-2019-infraestrutura",
+    "id": "dad-brasil-2019-infraestrutura",
     "ano": 2019,
     "geral": false,
     "ramo": "Infraestrutura",
@@ -1940,7 +1940,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2019-saude",
+    "id": "dad-brasil-2019-saude",
     "ano": 2019,
     "geral": false,
     "ramo": "Saúde",
@@ -1962,12 +1962,12 @@
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "note": "Não há informações extras",
     "ref_id": [
-      "friedrich-raiffeisen"
+      "per-friedrich-raiffeisen"
     ],
     "ref_tipo": ""
   },
   {
-    "id": "brasil-2019-trabalhoebensdeconsumo",
+    "id": "dad-brasil-2019-trabalhoebensdeconsumo",
     "ano": 2019,
     "geral": false,
     "ramo": "Trabalho e Bens de Consumo",
@@ -1990,7 +1990,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2019-transporte",
+    "id": "dad-brasil-2019-transporte",
     "ano": 2019,
     "geral": false,
     "ramo": "Transporte",
@@ -2012,12 +2012,12 @@
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "note": "Não há informações extras",
     "ref_id": [
-      "theodor-amstad"
+      "per-theodor-amstad"
     ],
     "ref_tipo": ""
   },
   {
-    "id": "brasil-2019-geral",
+    "id": "dad-brasil-2019-geral",
     "ano": 2019,
     "geral": false,
     "ramo": "Geral",
@@ -2035,7 +2035,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2020-agropecuario",
+    "id": "dad-brasil-2020-agropecuario",
     "ano": 2020,
     "geral": false,
     "ramo": "Agropecuário",
@@ -2053,7 +2053,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2020-consumo",
+    "id": "dad-brasil-2020-consumo",
     "ano": 2020,
     "geral": false,
     "ramo": "Consumo",
@@ -2071,7 +2071,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2020-credito",
+    "id": "dad-brasil-2020-credito",
     "ano": 2020,
     "geral": false,
     "ramo": "Crédito",
@@ -2090,7 +2090,7 @@
     "pac": 6483
   },
   {
-    "id": "brasil-2020-infraestrutura",
+    "id": "dad-brasil-2020-infraestrutura",
     "ano": 2020,
     "geral": false,
     "ramo": "Infraestrutura",
@@ -2108,7 +2108,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2020-saude",
+    "id": "dad-brasil-2020-saude",
     "ano": 2020,
     "geral": false,
     "ramo": "Saúde",
@@ -2126,7 +2126,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2020-trabalhoebensdeconsumo",
+    "id": "dad-brasil-2020-trabalhoebensdeconsumo",
     "ano": 2020,
     "geral": false,
     "ramo": "Trabalho e Bens de Consumo",
@@ -2144,7 +2144,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2020-transporte",
+    "id": "dad-brasil-2020-transporte",
     "ano": 2020,
     "geral": false,
     "ramo": "Transporte",
@@ -2166,7 +2166,7 @@
     "ref_tipo": ""
   },
   {
-    "id": "brasil-2020-geral",
+    "id": "dad-brasil-2020-geral",
     "ano": 2020,
     "geral": false,
     "ramo": "Geral",
@@ -2184,7 +2184,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2021-agropecuario",
+    "id": "dad-brasil-2021-agropecuario",
     "ano": 2021,
     "geral": false,
     "ramo": "Agropecuário",
@@ -2202,7 +2202,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2021-consumo",
+    "id": "dad-brasil-2021-consumo",
     "ano": 2021,
     "geral": false,
     "ramo": "Consumo",
@@ -2220,7 +2220,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2021-credito",
+    "id": "dad-brasil-2021-credito",
     "ano": 2021,
     "geral": false,
     "ramo": "Crédito",
@@ -2239,7 +2239,7 @@
     "pac": 7252
   },
   {
-    "id": "brasil-2021-infraestrutura",
+    "id": "dad-brasil-2021-infraestrutura",
     "ano": 2021,
     "geral": false,
     "ramo": "Infraestrutura",
@@ -2257,7 +2257,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2021-saude",
+    "id": "dad-brasil-2021-saude",
     "ano": 2021,
     "geral": false,
     "ramo": "Saúde",
@@ -2275,7 +2275,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2021-trabalhoebensdeconsumo",
+    "id": "dad-brasil-2021-trabalhoebensdeconsumo",
     "ano": 2021,
     "geral": false,
     "ramo": "Trabalho e Bens de Consumo",
@@ -2292,12 +2292,12 @@
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "note": "Não há informações extras",
     "ref_id": [
-      "friedrich-raiffeisen"
+      "per-friedrich-raiffeisen"
     ],
     "ref_tipo": ""
   },
   {
-    "id": "brasil-2021-transporte",
+    "id": "dad-brasil-2021-transporte",
     "ano": 2021,
     "geral": false,
     "ramo": "Transporte",
@@ -2315,7 +2315,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2021-geral",
+    "id": "dad-brasil-2021-geral",
     "ano": 2021,
     "geral": false,
     "ramo": "Geral",
@@ -2332,12 +2332,12 @@
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "note": "Não há informações extras",
     "ref_id": [
-      "friedrich-raiffeisen"
+      "per-friedrich-raiffeisen"
     ],
     "ref_tipo": ""
   },
   {
-    "id": "brasil-2022-agropecuario",
+    "id": "dad-brasil-2022-agropecuario",
     "ano": 2022,
     "geral": false,
     "ramo": "Agropecuário",
@@ -2354,12 +2354,12 @@
     "link": "https://somoscooperativismo.coop.br/anuariocoop",
     "note": "Não há informações extras",
     "ref_id": [
-      "friedrich-raiffeisen"
+      "per-friedrich-raiffeisen"
     ],
     "ref_tipo": ""
   },
   {
-    "id": "brasil-2022-consumo",
+    "id": "dad-brasil-2022-consumo",
     "ano": 2022,
     "geral": false,
     "ramo": "Consumo",
@@ -2377,7 +2377,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2022-credito",
+    "id": "dad-brasil-2022-credito",
     "ano": 2022,
     "geral": false,
     "ramo": "Crédito",
@@ -2396,7 +2396,7 @@
     "pac": 8333
   },
   {
-    "id": "brasil-2022-infraestrutura",
+    "id": "dad-brasil-2022-infraestrutura",
     "ano": 2022,
     "geral": false,
     "ramo": "Infraestrutura",
@@ -2414,7 +2414,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2022-saude",
+    "id": "dad-brasil-2022-saude",
     "ano": 2022,
     "geral": false,
     "ramo": "Saúde",
@@ -2432,7 +2432,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2022-trabalhoebensdeconsumo",
+    "id": "dad-brasil-2022-trabalhoebensdeconsumo",
     "ano": 2022,
     "geral": false,
     "ramo": "Trabalho e Bens de Consumo",
@@ -2450,7 +2450,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2022-transporte",
+    "id": "dad-brasil-2022-transporte",
     "ano": 2022,
     "geral": false,
     "ramo": "Transporte",
@@ -2468,7 +2468,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2022-geral",
+    "id": "dad-brasil-2022-geral",
     "ano": 2022,
     "geral": false,
     "ramo": "Geral",
@@ -2486,7 +2486,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2023-agropecuario",
+    "id": "dad-brasil-2023-agropecuario",
     "ano": 2023,
     "geral": false,
     "ramo": "Agropecuário",
@@ -2504,7 +2504,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2023-consumo",
+    "id": "dad-brasil-2023-consumo",
     "ano": 2023,
     "geral": false,
     "ramo": "Consumo",
@@ -2522,7 +2522,7 @@
     "note": "Não há informações extras"
   },
   {
-    "id": "brasil-2023-credito",
+    "id": "dad-brasil-2023-credito",
     "ano": 2023,
     "geral": false,
     "ramo": "Crédito",
@@ -2541,7 +2541,7 @@
     "pac": 9048
   },
   {
-    "id": "brasil-2023-infraestrutura",
+    "id": "dad-brasil-2023-infraestrutura",
     "ano": 2023,
     "geral": false,
     "ramo": "Infraestrutura",
@@ -2559,7 +2559,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2023-saude",
+    "id": "dad-brasil-2023-saude",
     "ano": 2023,
     "geral": false,
     "ramo": "Saúde",
@@ -2577,7 +2577,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2023-trabalhoebensdeconsumo",
+    "id": "dad-brasil-2023-trabalhoebensdeconsumo",
     "ano": 2023,
     "geral": false,
     "ramo": "Trabalho e Bens de Consumo",
@@ -2595,7 +2595,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2023-transporte",
+    "id": "dad-brasil-2023-transporte",
     "ano": 2023,
     "geral": false,
     "ramo": "Transporte",
@@ -2613,7 +2613,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2023-geral",
+    "id": "dad-brasil-2023-geral",
     "ano": 2023,
     "geral": false,
     "ramo": "Geral",
@@ -2631,7 +2631,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2024-agropecuario",
+    "id": "dad-brasil-2024-agropecuario",
     "ano": 2024,
     "geral": false,
     "ramo": "Agropecuário",
@@ -2649,7 +2649,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2024-consumo",
+    "id": "dad-brasil-2024-consumo",
     "ano": 2024,
     "geral": false,
     "ramo": "Consumo",
@@ -2667,7 +2667,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2024-credito",
+    "id": "dad-brasil-2024-credito",
     "ano": 2024,
     "geral": false,
     "ramo": "Crédito",
@@ -2686,7 +2686,7 @@
     "pac": 9472
   },
   {
-    "id": "brasil-2024-infraestrutura",
+    "id": "dad-brasil-2024-infraestrutura",
     "ano": 2024,
     "geral": false,
     "ramo": "Infraestrutura",
@@ -2704,7 +2704,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2024-saude",
+    "id": "dad-brasil-2024-saude",
     "ano": 2024,
     "geral": false,
     "ramo": "Saúde",
@@ -2722,7 +2722,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2024-trabalhoebensdeconsumo",
+    "id": "dad-brasil-2024-trabalhoebensdeconsumo",
     "ano": 2024,
     "geral": false,
     "ramo": "Trabalho e Bens de Consumo",
@@ -2740,7 +2740,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2024-transporte",
+    "id": "dad-brasil-2024-transporte",
     "ano": 2024,
     "geral": false,
     "ramo": "Transporte",
@@ -2758,7 +2758,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2024-geral",
+    "id": "dad-brasil-2024-geral",
     "ano": 2024,
     "geral": false,
     "ramo": "Geral",
@@ -2776,7 +2776,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2025-agropecuario",
+    "id": "dad-brasil-2025-agropecuario",
     "ano": 2025,
     "geral": false,
     "ramo": "Agropecuário",
@@ -2794,7 +2794,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2025-consumo",
+    "id": "dad-brasil-2025-consumo",
     "ano": 2025,
     "geral": false,
     "ramo": "Consumo",
@@ -2812,7 +2812,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2025-credito",
+    "id": "dad-brasil-2025-credito",
     "ano": 2025,
     "geral": false,
     "ramo": "Crédito",
@@ -2831,7 +2831,7 @@
     "pac": 9822
   },
   {
-    "id": "brasil-2025-infraestrutura",
+    "id": "dad-brasil-2025-infraestrutura",
     "ano": 2025,
     "geral": false,
     "ramo": "Infraestrutura",
@@ -2849,7 +2849,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2025-saude",
+    "id": "dad-brasil-2025-saude",
     "ano": 2025,
     "geral": false,
     "ramo": "Saúde",
@@ -2867,7 +2867,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2025-trabalhoebensdeconsumo",
+    "id": "dad-brasil-2025-trabalhoebensdeconsumo",
     "ano": 2025,
     "geral": false,
     "ramo": "Trabalho e Bens de Consumo",
@@ -2885,7 +2885,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2025-transporte",
+    "id": "dad-brasil-2025-transporte",
     "ano": 2025,
     "geral": false,
     "ramo": "Transporte",
@@ -2903,7 +2903,7 @@
     "note": ""
   },
   {
-    "id": "brasil-2025-geral",
+    "id": "dad-brasil-2025-geral",
     "ano": 2025,
     "geral": false,
     "ramo": "Geral",

@@ -29,17 +29,6 @@
             ]
           },
           {
-            "tipo": "referencia",
-            "titulo": "Veja no glossário",
-            "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyvO35Xn05b1j2Cma-CwPP8SkDdABZi7qtIHEPg69xf2MUrG12TrVcDRYUVAjKJrJqRids6RJaZUNhRtyTb-5Q1WrdcqP3pQuunaspjAXlt4J_2fwNOgn9WryqYnWxAJK1vth42X-KI-A-y_y8h4YDsbY3IC2jsHM2rxlPnIN2prAsuA/s1600/Captura%20de%20tela_18-9-2026_20579_www.ucoop.com.br.jpeg",
-            "base": "glossario",
-            "ids": [
-              "cooperar",
-              "cooperado-ou-associado",
-              "autogestao"
-            ]
-          },
-          {
             "tipo": "subtitulo",
             "titulo": "Veja o vídeo"
           }
@@ -129,7 +118,8 @@
             "titulo": "No calendário",
             "base": "calendario",
             "ids": [
-              "rochdale-1844"
+              "eve-rochdale-1844",
+              "eve-ano-internacional-coop2"
             ]
           },
           {
@@ -155,11 +145,9 @@
           {
             "tipo": "referencia",
             "titulo": "Personagens no glossário",
-            "base": "glossario",
+            "base": "personas",
             "ids": [
-              "friedrich-wilhelm-raiffeisen",
-              "herman-schulze-delitzsch",
-              "luigi-luzzatti"
+              "per-schulze-delitzsch"
             ]
           }
         ]
@@ -312,8 +300,7 @@
             "titulo": "Conceito no glossário",
             "base": "glossario",
             "ids": [
-              "equiparacao",
-              "consumo"
+              "glo-ramo-consumo"
             ]
           },
           {
@@ -396,6 +383,7 @@
       "autoajuda"
     ],
     "imagem": "",
+    "ref_imagem": "",
     "evidenciar": false
   },
   {
@@ -484,7 +472,7 @@
             "titulo": "No calendário",
             "base": "calendario",
             "ids": [
-              "misso-pellizzetti-1885"
+              "eve-misso-pellizzetti-1885"
             ]
           }
         ]
@@ -541,9 +529,9 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "livre-admissao",
-              "admissao-demissao-eliminacao-e-exclusao",
-              "estatuto-social"
+              "glo-livre-admissao",
+              "glo-admissao-demissao-eliminacao-e-exclusao",
+              "glo-estatuto-social"
             ]
           }
         ]
@@ -683,14 +671,20 @@
           },
           {
             "tipo": "referencia",
+            "titulo": "Personagens",
+            "base": "personas",
+            "ids": [
+              "per-theodor-amstad",
+              "per-friedrich-raiffeisen",
+              "per-luigi-luzzatti"
+            ]
+          },
+          {
+            "tipo": "referencia",
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "credito",
-              "sncc",
-              "fgcoop",
-              "central-ou-federacao",
-              "confederacao"
+              "glo-ramo-credito"
             ]
           },
           {
@@ -734,6 +728,7 @@
       "theodor amstad"
     ],
     "imagem": "",
+    "ref_imagem": "",
     "evidenciar": false
   },
   {
@@ -821,8 +816,18 @@
             "titulo": "No calendário",
             "base": "calendario",
             "ids": [
-              "primeira-brasil-1889",
-              "garantia-cf1891-1891"
+              "eve-primeira-brasil-1889",
+              "eve-garantia-cf1891-1891"
+            ]
+          },
+          {
+            "tipo": "referencia",
+            "titulo": "Autores e personagens",
+            "base": "personas",
+            "ids": [
+              "per-charles-gide",
+              "per-waldirio-bulgarelli",
+              "per-jose-schneider"
             ]
           }
         ]
@@ -871,9 +876,9 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "assembleia-geral",
-              "conselho-de-administracao-e-diretoria",
-              "conselho-fiscal"
+              "glo-assembleia-geral",
+              "glo-conselho-de-administracao-e-diretoria",
+              "glo-conselho-fiscal"
             ]
           }
         ]
@@ -1019,9 +1024,7 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "infraestrutura",
-              "infracoop",
-              "reguladores-setoriais"
+              "glo-ramo-infraestrutura"
             ]
           },
           {
@@ -1029,7 +1032,7 @@
             "titulo": "No calendário",
             "base": "calendario",
             "ids": [
-              "cooperativa-sp-1891"
+              "eve-cooperativa-sp-1891"
             ]
           }
         ]
@@ -1078,6 +1081,7 @@
       "infraestrutura"
     ],
     "imagem": "",
+    "ref_imagem": "",
     "evidenciar": false
   },
   {
@@ -1236,10 +1240,10 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "fundo-indivisivel",
-              "pro-rata",
-              "impenhorabilidade-das-quotas-partes",
-              "ato-cooperativo"
+              "glo-fundo-indivisivel",
+              "glo-pro-rata",
+              "glo-impenhorabilidade-das-quotas-partes",
+              "glo-ato-cooperativo"
             ]
           }
         ]
@@ -1388,7 +1392,7 @@
             "titulo": "No calendário",
             "base": "calendario",
             "ids": [
-              "primeira-brasil-1892"
+              "eve-primeira-brasil-1892"
             ]
           },
           {
@@ -1396,8 +1400,7 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "agropecuario",
-              "ato-cooperativo"
+              "glo-ramo-agropecuario"
             ]
           },
           {
@@ -1449,6 +1452,7 @@
       "agropecuário"
     ],
     "imagem": "",
+    "ref_imagem": "",
     "evidenciar": false
   },
   {
@@ -1505,7 +1509,7 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "oligopsonio"
+              "glo-oligopsonio"
             ]
           }
         ]
@@ -1581,7 +1585,7 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "doutrina-cooperativista"
+              "glo-doutrina-cooperativista"
             ]
           }
         ]
@@ -1627,8 +1631,17 @@
             "titulo": "Veja também",
             "base": "glossario",
             "ids": [
-              "economia-solidaria",
-              "autogestao"
+              "glo-economia-solidaria",
+              "glo-autogestao"
+            ]
+          },
+          {
+            "tipo": "referencia",
+            "titulo": "Personagens",
+            "base": "personas",
+            "ids": [
+              "per-paul-singer",
+              "per-jose-schneider"
             ]
           }
         ]
@@ -1675,8 +1688,7 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "saude",
-              "reguladores-setoriais"
+              "glo-ramo-saude"
             ]
           },
           {
@@ -1769,6 +1781,7 @@
       "unimed"
     ],
     "imagem": "",
+    "ref_imagem": "",
     "evidenciar": false
   },
   {
@@ -1844,10 +1857,9 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "intercooperacao",
-              "cooperativa-singular",
-              "central-ou-federacao",
-              "coop2coop"
+              "glo-intercooperacao",
+              "glo-cooperativa-singular",
+              "glo-central-ou-federacao"
             ]
           }
         ]
@@ -1903,13 +1915,10 @@
           },
           {
             "tipo": "referencia",
-            "titulo": "Veja no glossário",
-            "base": "glossario",
+            "titulo": "Personagens",
+            "base": "personas",
             "ids": [
-              "principios-do-cooperativismo",
-              "valores-do-cooperativismo",
-              "expansao-cooperativa",
-              "aci"
+              "per-ian-macpherson"
             ]
           }
         ]
@@ -2023,8 +2032,7 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "seguros",
-              "mutualismo"
+              "glo-ramo-seguros"
             ]
           }
         ]
@@ -2066,6 +2074,7 @@
       "seguros"
     ],
     "imagem": "",
+    "ref_imagem": "",
     "evidenciar": false
   },
   {
@@ -2124,16 +2133,6 @@
             "texto": "A cooperativa não está apenas na comunidade. Ela é parte da comunidade, e o que ela faz ou deixa de fazer repercute na vida de quem nunca foi cooperado.",
             "tags": [
               "interesse pela comunidade"
-            ]
-          },
-          {
-            "tipo": "referencia",
-            "titulo": "Veja no glossário",
-            "base": "glossario",
-            "ids": [
-              "dia-c",
-              "fates",
-              "sistema-ocb"
             ]
           }
         ]
@@ -2334,8 +2333,7 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "transporte",
-              "equiparacao"
+              "glo-ramo-transporte"
             ]
           }
         ]
@@ -2357,6 +2355,7 @@
       "transporte"
     ],
     "imagem": "",
+    "ref_imagem": "",
     "evidenciar": false
   },
   {
@@ -2407,16 +2406,6 @@
             "tags": [
               "pnc",
               "constituição"
-            ]
-          },
-          {
-            "tipo": "referencia",
-            "titulo": "Veja no glossário",
-            "base": "glossario",
-            "ids": [
-              "pnc",
-              "lei-geral-do-cooperativismo",
-              "frencoop"
             ]
           }
         ]
@@ -2492,10 +2481,10 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "equiparacao",
-              "anomalia",
-              "discrepancia-temporal",
-              "barreiras-silenciosas"
+              "glo-equiparacao",
+              "glo-anomalia",
+              "glo-discrepancia-temporal",
+              "glo-barreiras-silenciosas"
             ]
           }
         ]
@@ -2562,9 +2551,7 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "trabalho-producao-de-bens-e-servicos",
-              "falsa-cooperativa",
-              "fiscalizacao-trabalhista"
+              "glo-ramo-trabalho-producao-de-bens-e-servicos"
             ]
           }
         ]
@@ -2601,8 +2588,8 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ids": [
-              "principios-do-cooperativismo",
-              "valores-do-cooperativismo"
+              "glo-principios-do-cooperativismo",
+              "glo-valores-do-cooperativismo"
             ]
           }
         ]
@@ -2635,6 +2622,7 @@
       "princípios"
     ],
     "imagem": "",
+    "ref_imagem": "",
     "evidenciar": false
   }
 ]
