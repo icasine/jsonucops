@@ -15,7 +15,7 @@ concurrency:
   group: atualizar-jsons
   cancel-in-progress: false
 
-# Todas as abas vêm da planilha unificada (jsonucops _uni); Políticas gera legislacao.json.
+# Todas as abas vêm da planilha unificada (jsonucops _uni); cada aba gera <aba>.json; as chaves do JSON são os nomes das colunas.
 # Links CSV das planilhas publicadas na web (Arquivo > Compartilhar > Publicar na web).
 # Para trocar uma planilha, basta trocar o link aqui.
 env:
@@ -48,13 +48,13 @@ jobs:
         env: { CSV_URL: "${{ env.CSV_GLOSSARIO }}" }
         run: python scripts/gerar_glossario.py
 
-      - name: Gerar eventos.json (calendário)
+      - name: Gerar eventos.json
         id: calendario
         continue-on-error: true
         env: { CSV_URL: "${{ env.CSV_CALENDARIO }}" }
         run: python scripts/gerar_eventos.py
 
-      - name: Gerar artigos.json (acervo)
+      - name: Gerar acervo.json
         id: acervo
         continue-on-error: true
         env: { CSV_URL: "${{ env.CSV_ACERVO }}" }
@@ -66,7 +66,7 @@ jobs:
         env: { CSV_URL: "${{ env.CSV_REFERENCIAS }}" }
         run: python scripts/gerar_referencias.py
 
-      - name: Gerar personalidades.json (personas)
+      - name: Gerar personalidades.json
         id: personas
         continue-on-error: true
         env: { CSV_URL: "${{ env.CSV_PERSONAS }}" }
@@ -78,11 +78,11 @@ jobs:
         env: { CSV_URL: "${{ env.CSV_DADOS }}" }
         run: python scripts/gerar_dados.py
 
-      - name: Gerar legislacao.json (políticas)
-        id: legislacao
+      - name: Gerar politicas.json
+        id: politicas
         continue-on-error: true
         env: { CSV_URL: "${{ env.CSV_LEGISLACAO }}" }
-        run: python scripts/gerar_legislacao.py
+        run: python scripts/gerar_politicas.py
 
       # Entidades e aulas por último, porque conferem ids nos JSONs acima
       - name: Gerar entidades.json
@@ -132,7 +132,7 @@ jobs:
           [ "${{ steps.referencias.outcome }}" = "failure" ] && falhas="$falhas referencias"
           [ "${{ steps.personas.outcome }}" = "failure" ] && falhas="$falhas personas"
           [ "${{ steps.dados.outcome }}" = "failure" ] && falhas="$falhas dados"
-          [ "${{ steps.legislacao.outcome }}" = "failure" ] && falhas="$falhas legislacao"
+          [ "${{ steps.politicas.outcome }}" = "failure" ] && falhas="$falhas politicas"
           [ "${{ steps.entidades.outcome }}" = "failure" ] && falhas="$falhas entidades"
           [ "${{ steps.aulas.outcome }}" = "failure" ] && falhas="$falhas aulas"
           [ "${{ steps.tese.outcome }}" = "failure" ] && falhas="$falhas tese"
