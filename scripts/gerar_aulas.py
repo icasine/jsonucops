@@ -1,3 +1,4 @@
+from comum import ajustar, data_partes
 import csv, io, json, os, re, unicodedata, urllib.request
 
 TIPOS = {"aula", "secao", "card", "citacao", "subtitulo", "cooperativa", "referencia", "recurso"}
@@ -12,7 +13,13 @@ BASES = {
     "personas": "personalidades.json",
     "entidades": "entidades.json",
     "legislacao": "legislacao.json",
+    "dados": "dados.json",
+    "historias": "historias.json",
+    "tese": "tese.json",
 }
+# Nomes alternativos aceitos na coluna base
+APELIDOS = {"personalidades": "personas", "eventos": "calendario", "politicas": "legislacao",
+           "artigos": "acervo", "historia": "historias"}
 avisos = []
 
 def norm(s):
@@ -45,6 +52,7 @@ with urllib.request.urlopen(os.environ["CSV_URL"]) as r:
 aulas, ordem = {}, []
 for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
     l = {(k or "").strip(): (v or "").strip() for k, v in linha.items()}
+    l = ajustar(l, "aulas")
     aid, tipo = l.get("aula_id", ""), l.get("tipo_bloco", "").lower()
     if not aid and not tipo:
         continue
@@ -67,7 +75,7 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
     if tipo == "aula":
         a.update({"titulo": l.get("titulo", ""), "rotulo": l.get("rotulo", ""), "complemento": l.get("complemento", ""),
                   "resumo": l.get("resumo", ""), "tags": lista(l.get("tags")), "buscar_tags": lista(l.get("buscar_tags")),
-                  "imagem": l.get("imagem", ""), "evidenciar": sim(l.get("evidenciar")), "publicar": publicar})
+                  "imagem": l.get("imagem", ""), "ref_imagem": l.get("ref_imagem", ""), "evidenciar": sim(l.get("evidenciar")), "publicar": publicar})
         continue
 
     if tipo == "secao":
@@ -102,7 +110,7 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
         avisos.append(f"{onde}: seção {num} não existe (falta a linha secao antes deste bloco), ignorado"); continue
 
     bloco = {"tipo": tipo}
-    for campo in ("titulo", "texto", "fonte", "imagem"):
+    for campo in ("titulo", "rotulo", "complemento", "texto", "fonte", "imagem", "ref_imagem"):
         if l.get(campo):
             bloco[campo] = l[campo]
     links = ler_links(l.get("links"), onde)
@@ -114,6 +122,7 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
         bloco["evidenciar"] = True
     if tipo == "referencia":
         base = l.get("base", "").lower()
+        base = APELIDOS.get(base, base)
         ids = lista(l.get("ref_id"))
         if base not in BASES or not ids:
             avisos.append(f"{onde}: referência precisa de base (" + ", ".join(BASES) + ") e ref_id, ignorada"); continue

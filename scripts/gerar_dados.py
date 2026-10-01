@@ -1,3 +1,4 @@
+from comum import ajustar, data_partes
 import csv
 import io
 import json
@@ -73,6 +74,7 @@ for n, linha in enumerate(leitor, start=2):
         (k or "").strip(): (v or "").strip()
         for k, v in linha.items()
     }
+    l = ajustar(l, "dados")
 
     ano_val = l.get("ano", "").strip()
 

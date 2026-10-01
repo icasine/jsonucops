@@ -1,3 +1,4 @@
+from comum import ajustar, data_partes
 import csv
 import datetime
 import io
@@ -54,6 +55,7 @@ ano_atual = datetime.date.today().year
 
 for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
     l = {(k or "").strip(): (v or "").strip() for k, v in linha.items()}
+    l = ajustar(l, "personalidades")
     pid = l.get("id", "")
     title = l.get("title", "")
     
@@ -115,6 +117,7 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
         "resumo": l.get("resumo", ""),
         "descricao": l.get("descricao", ""),
         "imagem": img,
+        "ref_imagem": l.get("ref_imagem", ""),
         "tags": lista(l.get("tags")),
         "fonte": l.get("fonte", ""),
         "link": links[0]["url"] if links else "",

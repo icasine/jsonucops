@@ -1,3 +1,4 @@
+from comum import ajustar, data_partes
 import csv, io, json, os, urllib.parse, urllib.request
 
 ORIGENS = {"nacional": "N", "internacional": "I", "n": "N", "i": "I"}
@@ -12,6 +13,7 @@ with urllib.request.urlopen(os.environ["CSV_URL"]) as r:
 itens, ids = [], set()
 for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
     l = {(k or "").strip(): (v or "").strip() for k, v in linha.items()}
+    l = ajustar(l, "acervo")
     if not l.get("titulo_pt"):
         continue
     if l.get("publicar", "sim").lower() != "sim":
@@ -54,6 +56,9 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
     item.update({"tipo": tipo, "origem": origem, "ano": ano, "temas": temas,
             "titulo_pt": titulo, "titulo_orig": l.get("titulo_orig", ""),
             "meta": meta, "url": url})
+    tags = [t.strip() for t in l.get("tags", "").replace(",", ";").split(";") if t.strip()]
+    if tags:
+        item["tags"] = tags
 
     compra = l.get("link_compra", "")
     if compra:

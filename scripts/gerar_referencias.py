@@ -1,3 +1,4 @@
+from comum import ajustar, data_partes
 import csv, io, json, os, re, unicodedata, urllib.request
 
 avisos = []
@@ -18,6 +19,7 @@ with urllib.request.urlopen(os.environ["CSV_URL"]) as r:
 itens, ids = [], set()
 for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
     l = {(k or "").strip(): (v or "").strip() for k, v in linha.items()}
+    l = ajustar(l, "referencias")
     ref = l.get("referencia", "")
     if not ref or l.get("publicar", "sim").lower() in ("não", "nao"):
         continue

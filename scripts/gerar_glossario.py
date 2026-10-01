@@ -1,6 +1,10 @@
+from comum import ajustar, data_partes
 import csv, io, json, os, re, unicodedata, urllib.request
 
 GRUPOS = {"base", "org", "estrut", "econ", "ramos", "hist", "reg"}
+# Na planilha nova o grupo vem por extenso
+NOMES_GRUPOS = {"fundamentos": "base", "organizacoes": "org", "estrutura": "estrut", "economia": "econ",
+                "ramos": "ramos", "historia": "hist", "regulacao": "reg"}
 avisos = []
 
 def norm(s):
@@ -16,6 +20,7 @@ with urllib.request.urlopen(os.environ["CSV_URL"]) as r:
 itens, ids = [], set()
 for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
     l = {(k or "").strip(): (v or "").strip() for k, v in linha.items()}
+    l = ajustar(l, "glossario")
     if l.get("publicar", "").lower() != "sim" or not l.get("termo"):
         continue
 
@@ -26,7 +31,7 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
         avisos.append(f"Linha {n} ({l['termo']}): id '{ident}' repetido, linha ignorada")
         continue
 
-    grupo = l.get("grupo", "").lower()
+    grupo = NOMES_GRUPOS.get(norm(l.get("grupo")), l.get("grupo", "").lower())
     if grupo not in GRUPOS:
         avisos.append(f"Linha {n} ({l['termo']}): grupo '{grupo}' não existe, linha ignorada")
         continue
@@ -35,7 +40,7 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
         avisos.append(f"Linha {n} ({l['termo']}): sem texto")
 
     item = {"id": ident, "termo": l["termo"], "grupo": grupo, "texto": l.get("texto", "")}
-    for campo in ("abbr", "links", "relacionados", "nota", "tags", "evidenciar", "imagem"):
+    for campo in ("abbr", "links", "relacionados", "nota", "fonte", "tags", "referencia_ucoop", "evidenciar", "imagem", "ref_imagem"):
         if l.get(campo):
             item[campo] = l[campo]
 

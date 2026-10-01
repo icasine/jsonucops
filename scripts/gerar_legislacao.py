@@ -1,3 +1,4 @@
+from comum import ajustar, data_partes
 import csv, io, json, os, re, unicodedata, urllib.request
 
 avisos = []
@@ -74,6 +75,7 @@ with urllib.request.urlopen(os.environ["CSV_URL"]) as r:
 itens, ids = [], set()
 for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
     l = {(k or "").strip(): (v or "").strip() for k, v in linha.items()}
+    l = ajustar(l, "politicas")
     titulo = l.get("titulo", "")
     if not titulo and not l.get("id"):
         continue
@@ -158,6 +160,7 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
         "link": links[0]["url"] if links else "",
         "links": links,
         "imagem": imagem,
+        "ref_imagem": l.get("ref_imagem", ""),
         "tags": lista(l.get("tags")),
         "glossario": lista(l.get("glossario")),
         "relacionadas": lista(l.get("relacionadas")),

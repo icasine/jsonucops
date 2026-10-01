@@ -1,3 +1,4 @@
+from comum import ajustar, data_partes
 import csv, io, json, os, urllib.request
 from datetime import date, datetime, timedelta
 
@@ -10,19 +11,26 @@ def ler_planilha():
         texto = r.read().decode("utf-8")
     for n, linha in enumerate(csv.DictReader(io.StringIO(texto)), start=2):
         l = {(k or "").strip(): (v or "").strip() for k, v in linha.items()}
+        l = ajustar(l, "eventos")
         l["_linha"] = n
         yield l
 
 def inteiro(v):
     try:
         return int(float(v))
-    except ValueError:
+    except (ValueError, TypeError):
         return None
 
 def hora(v):
     return v[:5] if v else ""
 
 def ler_data(v):
+    a, m, d = data_partes(v)
+    if a and m and d:
+        try:
+            return date(a, m, d)
+        except ValueError:
+            return None
     for formato in ("%Y-%m-%d", "%d/%m/%Y"):
         try:
             return datetime.strptime(v, formato).date()
@@ -44,6 +52,7 @@ def base(l, ident):
             "link": l.get("link", ""),
             "imagem": l.get("imagem", "") or l.get("foto", ""),
             "fonte": l.get("fonte", ""),
+            "ref_imagem": l.get("ref_imagem", ""),
             "relembrar": l.get("relembrar", "").lower() == "sim",
             "evidenciar": any(l.get(c, "").strip().lower() in ("sim", "s", "true", "1", "x") for c in ("evidenciar", "destaque", "destacar")),
         },
@@ -68,7 +77,13 @@ substituidos = {l["substitui"] for l in linhas if l.get("substitui")}
 saida = []
 
 for l in linhas:
-    ano, mes, dia = inteiro(l.get("ano", "")), inteiro(l.get("mes", "")), inteiro(l.get("dia", ""))
+    if l.get("data_inicio"):
+        ano, mes, dia = data_partes(l["data_inicio"])
+        if not ano:
+            avisos.append(f'Linha {l["_linha"]} ({l.get("id")}): data_inicio "{l["data_inicio"]}" não reconhecida, ignorada')
+            continue
+    else:
+        ano, mes, dia = inteiro(l.get("ano", "")), inteiro(l.get("mes", "")), inteiro(l.get("dia", ""))
 
     if not ano:
         avisos.append(f'Linha {l["_linha"]} ({l.get("id")}): sem ano, ignorada')
@@ -78,6 +93,8 @@ for l in linhas:
     if not (mes and dia):
         ev = base(l, l["id"])
         ev["extendedProps"].update(precisao="mes" if mes else "ano", ano=ano, mes=mes)
+        if l.get("data_fim"):
+            ev["extendedProps"]["ano_fim"] = data_partes(l["data_fim"])[0]
         saida.append(ev)
         continue
 
