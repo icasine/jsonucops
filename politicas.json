@@ -1,0 +1,2489 @@
+[
+  {
+    "id_politica": "pol-decreto-979-1903",
+    "titulo": "Sindicatos agrícolas e cooperativas rurais",
+    "sigla": "",
+    "tema": "marco-legal",
+    "nivel": "federal",
+    "orgao": "Presidência da República",
+    "norma_origem": "Decreto nº 979/1903",
+    "localidade": "Brasil",
+    "texto": "Primeira norma brasileira a mencionar cooperativas, ao facultar aos sindicatos agrícolas a organização de caixas rurais de crédito e cooperativas de produção e consumo.",
+    "importancia": "média",
+    "nota_prof": null,
+    "comentario": "",
+    "situacao": "superada",
+    "data_criacao": "06/01/1903",
+    "ano_inicio": 1903,
+    "data_revogacao": "",
+    "ano_fim": 1932,
+    "tags": [
+      "legislacao",
+      "historia-brasil",
+      "ramo-agropecuario",
+      "implantacao"
+    ],
+    "glossario": [
+      "glo-fases-do-cooperativismo-brasileiro"
+    ],
+    "relacionadas": [
+      "pol-decreto-1637-1907",
+      "pol-decreto-22239-1932"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: PINHO, Diva Benevides. O cooperativismo no Brasil: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-decreto-1637-1907",
+    "titulo": "Sindicatos profissionais e sociedades cooperativas",
+    "sigla": "",
+    "tema": "marco-legal",
+    "nivel": "federal",
+    "orgao": "Presidência da República",
+    "norma_origem": "Decreto nº 1.637/1907",
+    "localidade": "Brasil",
+    "texto": "Tratou da organização de sindicatos e cooperativas, permitindo que as cooperativas adotassem a forma de sociedade anônima, em nome coletivo ou em comandita. Não havia ainda um tipo societário próprio.",
+    "importancia": "média",
+    "nota_prof": null,
+    "comentario": "",
+    "situacao": "superada",
+    "data_criacao": "05/01/1907",
+    "ano_inicio": 1907,
+    "data_revogacao": "",
+    "ano_fim": 1932,
+    "tags": [
+      "legislacao",
+      "historia-brasil",
+      "implantacao"
+    ],
+    "glossario": [
+      "glo-fases-do-cooperativismo-brasileiro"
+    ],
+    "relacionadas": [
+      "pol-decreto-979-1903",
+      "pol-decreto-22239-1932"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: PINHO, 2004.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-decreto-22239-1932",
+    "titulo": "Primeira lei cooperativista",
+    "sigla": "",
+    "tema": "marco-legal",
+    "nivel": "federal",
+    "orgao": "Presidência da República (Governo Provisório)",
+    "norma_origem": "Decreto nº 22.239/1932",
+    "localidade": "Brasil",
+    "texto": "Deu às cooperativas estrutura jurídica própria, com base nos princípios de Rochdale, e abriu a fase de consolidação parcial do cooperativismo brasileiro.",
+    "importancia": "alta",
+    "nota_prof": 7,
+    "comentario": "Marco fundador do tipo societário cooperativo. Teve vigência acidentada, revogado em 1938 e restabelecido em 1945, até ser substituído pelo Decreto-Lei 59/1966.",
+    "situacao": "revogada",
+    "data_criacao": "19/12/1932",
+    "ano_inicio": 1932,
+    "data_revogacao": "21/11/1966",
+    "ano_fim": 1966,
+    "tags": [
+      "legislacao",
+      "historia-brasil",
+      "consolidacao-parcial",
+      "coop-aula-03"
+    ],
+    "glossario": [
+      "glo-fases-do-cooperativismo-brasileiro",
+      "glo-lei-geral-do-cooperativismo"
+    ],
+    "relacionadas": [
+      "pol-decreto-lei-59-1966"
+    ],
+    "outros_ids": [
+      "ent-cnc"
+    ],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d22239.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d22239.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-bncc-extincao-1990",
+    "titulo": "Extinção do Banco Nacional de Crédito Cooperativo",
+    "sigla": "BNCC",
+    "tema": "credito-financiamento",
+    "nivel": "federal",
+    "orgao": "Governo Federal",
+    "norma_origem": "",
+    "localidade": "Brasil",
+    "texto": "O BNCC, criado em 1951 a partir da Caixa de Crédito Cooperativo (1943), financiava cooperativas. Sua extinção, no Governo Collor, retirou do setor o banco público próprio e levou à criação dos bancos cooperativos.",
+    "importancia": "alta",
+    "nota_prof": 3,
+    "comentario": "A extinção se insere no desmonte do aparato estatal de apoio ao cooperativismo no início dos anos 1990.",
+    "situacao": "extinta",
+    "data_criacao": "",
+    "ano_inicio": 1951,
+    "data_revogacao": "",
+    "ano_fim": 1990,
+    "tags": [
+      "credito",
+      "historia-brasil",
+      "ramo-credito",
+      "desestatizacao"
+    ],
+    "glossario": [
+      "glo-banco-cooperativo",
+      "glo-ramo-credito"
+    ],
+    "relacionadas": [],
+    "outros_ids": [
+      "ent-bncc"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-4595-1964",
+    "titulo": "Reforma bancária e cooperativas de crédito",
+    "sigla": "",
+    "tema": "regulacao-setorial",
+    "nivel": "federal",
+    "orgao": "Conselho Monetário Nacional e Banco Central",
+    "norma_origem": "Lei nº 4.595/1964",
+    "localidade": "Brasil",
+    "texto": "Incluiu as cooperativas de crédito no Sistema Financeiro Nacional como instituições financeiras, sujeitas à autorização e fiscalização do Banco Central.",
+    "importancia": "alta",
+    "nota_prof": 5,
+    "comentario": "Deu segurança institucional ao ramo, mas veio acompanhada de forte restrição: nos anos seguintes o governo cassou o funcionamento de centenas de cooperativas de crédito.",
+    "situacao": "vigente",
+    "data_criacao": "31/12/1964",
+    "ano_inicio": 1964,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "legislacao",
+      "ramo-credito",
+      "centralismo-estatal"
+    ],
+    "glossario": [
+      "glo-ramo-credito"
+    ],
+    "relacionadas": [
+      "pol-lei-complementar-130-2009"
+    ],
+    "outros_ids": [
+      "ent-bacen",
+      "ent-cmn"
+    ],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/leis/l4595.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4595.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-decreto-lei-59-1966",
+    "titulo": "Política Nacional de Cooperativismo e Conselho Nacional de Cooperativismo",
+    "sigla": "PNC / CNC",
+    "tema": "marco-legal",
+    "nivel": "federal",
+    "orgao": "Presidência da República",
+    "norma_origem": "Decreto-Lei nº 59/1966",
+    "localidade": "Brasil",
+    "texto": "Deu designação normativa expressa à Política Nacional de Cooperativismo, criou o CNC e submeteu as cooperativas a forte controle estatal. Foi regulamentado pelo Decreto 60.597/1967. A PNC é o arcabouço destinado a coordenar e estimular o desenvolvimento do cooperativismo, integrando as práticas cooperativas ao planejamento nacional por meio de assistência técnica e incentivos. Concebida em período de centralismo estatal, carrega vestígios de uma era em que o cooperativismo era mais instrumento do Estado do que expressão autônoma da sociedade. Continua definida nos arts. 1º e 2º da Lei 5.764/1971.",
+    "importancia": "alta",
+    "nota_prof": 2,
+    "comentario": "Expressão mais clara da fase de centralismo estatal: soma a cultura paternalista de Vargas à força centralizadora do regime militar.",
+    "situacao": "revogada",
+    "data_criacao": "21/11/1966",
+    "ano_inicio": 1966,
+    "data_revogacao": "16/12/1971",
+    "ano_fim": 1971,
+    "tags": [
+      "legislacao",
+      "historia-brasil",
+      "centralismo-estatal",
+      "pnc",
+      "coop-aula-08"
+    ],
+    "glossario": [
+      "glo-fases-do-cooperativismo-brasileiro"
+    ],
+    "relacionadas": [
+      "pol-decreto-22239-1932",
+      "pol-lei-5764-1971"
+    ],
+    "outros_ids": [
+      "ent-cnc"
+    ],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0059.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0059.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-5764-1971",
+    "titulo": "Lei Geral do Cooperativismo",
+    "sigla": "",
+    "tema": "marco-legal",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 5.764/1971",
+    "localidade": "Brasil",
+    "texto": "Define a Política Nacional de Cooperativismo e institui o regime jurídico das sociedades cooperativas, com ato cooperativo, graus, fundos obrigatórios e representação pela OCB.",
+    "importancia": "alta",
+    "nota_prof": 6,
+    "comentario": "Iniciou reconciliação com os princípios cooperativistas, mas preservou instrumentos de controle estatal. Continua sendo a base da PNC em 2025, com trechos superados pela Constituição de 1988.",
+    "situacao": "vigente",
+    "data_criacao": "16/12/1971",
+    "ano_inicio": 1971,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "legislacao",
+      "pnc",
+      "marco-legal",
+      "coop-aula-03"
+    ],
+    "glossario": [
+      "glo-lei-geral-do-cooperativismo",
+      "glo-ato-cooperativo"
+    ],
+    "relacionadas": [
+      "pol-decreto-lei-59-1966",
+      "pol-constituicao-1988"
+    ],
+    "outros_ids": [
+      "ent-ocb"
+    ],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": true,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-pronacoop-1976",
+    "titulo": "1º Programa Nacional de Cooperativismo",
+    "sigla": "PRONACOOP",
+    "tema": "fomento",
+    "nivel": "federal",
+    "orgao": "Governo Federal (Ministério da Agricultura)",
+    "norma_origem": "",
+    "localidade": "Brasil",
+    "texto": "Primeiro programa nacional voltado ao cooperativismo, no período da renovação das estruturas, com foco no cooperativismo agrícola.",
+    "importancia": "média",
+    "nota_prof": null,
+    "comentario": "A sigla PRONACOOP é polissêmica e também designa o programa das cooperativas de trabalho (2012) e o PRONACOOP Social (2013).",
+    "situacao": "extinta",
+    "data_criacao": "",
+    "ano_inicio": 1976,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "fomento",
+      "historia-brasil",
+      "ramo-agropecuario"
+    ],
+    "glossario": [
+      "glo-fases-do-cooperativismo-brasileiro"
+    ],
+    "relacionadas": [
+      "pol-pronacoop-2012",
+      "pol-pronacoop-social-2013",
+      "pol-decreto-lei-59-1966"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-constituicao-1988",
+    "titulo": "Constituição Federal: cooperativismo",
+    "sigla": "",
+    "tema": "marco-legal",
+    "nivel": "federal",
+    "orgao": "Assembleia Nacional Constituinte",
+    "norma_origem": "Constituição Federal de 1988 (arts. 5º, XVIII, 146, III, c, 174, §§ 2º a 4º, e 187, VI)",
+    "localidade": "Brasil",
+    "texto": "Garante a criação de cooperativas sem autorização e veda a interferência estatal, determina adequado tratamento tributário ao ato cooperativo, manda a lei apoiar e estimular o cooperativismo e o inclui na política agrícola.",
+    "importancia": "alta",
+    "nota_prof": 9,
+    "comentario": "Promessa constitucional de apoio e estímulo que a legislação infraconstitucional e as políticas públicas cumpriram só parcialmente.",
+    "situacao": "vigente",
+    "data_criacao": "05/10/1988",
+    "ano_inicio": 1988,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "legislacao",
+      "constituicao",
+      "liberalizacao",
+      "coop-aula-05"
+    ],
+    "glossario": [
+      "glo-liberdade-de-criacao-e-nao-intervencao",
+      "glo-adequado-tratamento-tributario",
+      "glo-ato-cooperativo"
+    ],
+    "relacionadas": [
+      "pol-lei-5764-1971",
+      "pol-ec-132-2023"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": true,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-8171-1991",
+    "titulo": "Lei de Política Agrícola",
+    "sigla": "",
+    "tema": "fomento",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 8.171/1991",
+    "localidade": "Brasil",
+    "texto": "Inclui o estímulo ao cooperativismo entre os instrumentos da política agrícola e reafirma a tradição agrícola da PNC.",
+    "importancia": "média",
+    "nota_prof": 5,
+    "comentario": "O artigo que tratava de incentivos fiscais e creditícios às cooperativas foi vetado, sob o argumento de que programas anteriores não tiveram bons resultados.",
+    "situacao": "vigente",
+    "data_criacao": "17/01/1991",
+    "ano_inicio": 1991,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "legislacao",
+      "ramo-agropecuario"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-decreto-lei-59-1966"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/leis/l8171.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8171.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-onu-resolucao-47-90",
+    "titulo": "Dia Internacional das Cooperativas (ONU)",
+    "sigla": "",
+    "tema": "comemorativa",
+    "nivel": "internacional",
+    "orgao": "Assembleia Geral da ONU",
+    "norma_origem": "Resolução ONU nº 47/90 (1992)",
+    "localidade": "Mundo",
+    "texto": "Reconhece o Dia Internacional das Cooperativas, celebrado no primeiro sábado de julho desde 1995.",
+    "importancia": "baixa",
+    "nota_prof": null,
+    "comentario": "",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 1992,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "calendario",
+      "internacional"
+    ],
+    "glossario": [],
+    "relacionadas": [
+      "pol-onu-ano-internacional"
+    ],
+    "outros_ids": [
+      "eve-primeiro-dia-internacional",
+      "ent-aci",
+      "ent-copac"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-8666-1993",
+    "titulo": "Lei de Licitações de 1993",
+    "sigla": "",
+    "tema": "compras-publicas",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 8.666/1993",
+    "localidade": "Brasil",
+    "texto": "A ausência da palavra \"cooperativa\" no art. 3º abriu margem para questionar a participação de cooperativas em licitações, situação corrigida pela Lei 12.349/2010.",
+    "importancia": "média",
+    "nota_prof": 3,
+    "comentario": "Exemplo de barreira silenciosa: a omissão do texto virou obstáculo que só foi superado por luta judicial e alteração legislativa anos depois.",
+    "situacao": "revogada",
+    "data_criacao": "21/06/1993",
+    "ano_inicio": 1993,
+    "data_revogacao": "30/12/2023",
+    "ano_fim": 2023,
+    "tags": [
+      "compras-publicas",
+      "barreira"
+    ],
+    "glossario": [
+      "glo-barreiras-silenciosas",
+      "glo-anomalia"
+    ],
+    "relacionadas": [
+      "pol-lei-12349-2010",
+      "pol-lei-14133-2021"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-8949-1994",
+    "titulo": "Cooperativas e vínculo de emprego (CLT, art. 442)",
+    "sigla": "",
+    "tema": "trabalho",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 8.949/1994",
+    "localidade": "Brasil",
+    "texto": "Acrescentou parágrafo ao art. 442 da CLT afirmando que não há vínculo de emprego entre a cooperativa e seus associados, nem entre estes e os tomadores de serviço.",
+    "importancia": "alta",
+    "nota_prof": 4,
+    "comentario": "Buscou segurança na contratação de cooperativas, mas foi usada para mascarar relações de emprego e ajudou a disseminar as falsas cooperativas.",
+    "situacao": "vigente",
+    "data_criacao": "09/12/1994",
+    "ano_inicio": 1994,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "trabalho",
+      "ramo-trabalho",
+      "legislacao"
+    ],
+    "glossario": [
+      "glo-falsa-cooperativa",
+      "glo-fiscalizacao-trabalhista"
+    ],
+    "relacionadas": [
+      "pol-lei-12690-2012"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-pronaf-1995",
+    "titulo": "Programa Nacional de Fortalecimento da Agricultura Familiar",
+    "sigla": "PRONAF",
+    "tema": "credito-financiamento",
+    "nivel": "federal",
+    "orgao": "MDA / Banco Central / bancos públicos",
+    "norma_origem": "Resolução CMN nº 2.191/1995 e Decreto nº 1.946/1996",
+    "localidade": "Brasil",
+    "texto": "Linha de crédito rural para a agricultura familiar, operada por bancos públicos e cooperativas de crédito, com modalidades de investimento acessíveis a cooperativas.",
+    "importancia": "alta",
+    "nota_prof": 7,
+    "comentario": "Política estruturante para as cooperativas da agricultura familiar e de crédito rural. As cooperativas aparecem como operadoras e como tomadoras.",
+    "situacao": "vigente",
+    "data_criacao": "24/08/1995",
+    "ano_inicio": 1995,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "credito",
+      "ramo-agropecuario",
+      "ramo-credito",
+      "agricultura-familiar"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario",
+      "glo-ramo-credito"
+    ],
+    "relacionadas": [
+      "pol-paa-2003"
+    ],
+    "outros_ids": [
+      "ent-cresol"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-9074-1995",
+    "titulo": "Regularização das cooperativas de eletrificação rural",
+    "sigla": "",
+    "tema": "regulacao-setorial",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional e ANEEL",
+    "norma_origem": "Lei nº 9.074/1995 (origem na MP nº 1.017/1995)",
+    "localidade": "Brasil",
+    "texto": "Exigiu a regularização das cooperativas de eletrificação rural perante o novo modelo do setor elétrico, e sua área de atuação passou a ser gradativamente incorporada pelas distribuidoras.",
+    "importancia": "média",
+    "nota_prof": 3,
+    "comentario": "O ônus da adaptação recaiu sobre as cooperativas. A bancada cooperativista evitou a simples extinção ou encampação, mas a regularização foi difícil e excludente.",
+    "situacao": "vigente",
+    "data_criacao": "07/07/1995",
+    "ano_inicio": 1995,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "regulacao",
+      "ramo-infraestrutura",
+      "desestatizacao"
+    ],
+    "glossario": [
+      "glo-ramo-infraestrutura",
+      "glo-equiparacao"
+    ],
+    "relacionadas": [],
+    "outros_ids": [
+      "ent-aneel"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-proninc-1997",
+    "titulo": "Programa Nacional de Incubadoras de Cooperativas Populares",
+    "sigla": "PRONINC",
+    "tema": "economia-solidaria",
+    "nivel": "federal",
+    "orgao": "MTE / SENAES / Finep / universidades",
+    "norma_origem": "Decreto nº 7.357/2010",
+    "localidade": "Brasil",
+    "texto": "Apoia incubadoras universitárias que formam e acompanham cooperativas populares e empreendimentos de economia solidária. Lançado em 1997 e estruturado legalmente em 2010. As Incubadoras Tecnológicas de Cooperativas Populares (ITCPs), a primeira criada na UFRJ em 1995, formaram depois uma rede nacional.",
+    "importancia": "média",
+    "nota_prof": 7,
+    "comentario": "Continuou nos governos seguintes, sobretudo com Paul Singer na SENAES, mas teve recursos reduzidos a partir de 2016.",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 1997,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "economia-solidaria",
+      "educacao"
+    ],
+    "glossario": [
+      "glo-economia-solidaria"
+    ],
+    "relacionadas": [
+      "pol-senaes-2003"
+    ],
+    "outros_ids": [
+      "ent-senaes"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-9532-1997",
+    "titulo": "Tributação das cooperativas de consumo",
+    "sigla": "",
+    "tema": "tributacao",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 9.532/1997, art. 69",
+    "localidade": "Brasil",
+    "texto": "Sujeitou as cooperativas de consumo que vendem a não associados às mesmas normas de incidência de tributos federais aplicáveis às empresas em geral.",
+    "importancia": "média",
+    "nota_prof": 2,
+    "comentario": "Caso claro de equiparação, na contramão do adequado tratamento tributário previsto no art. 146, III, c, da Constituição.",
+    "situacao": "vigente",
+    "data_criacao": "10/12/1997",
+    "ano_inicio": 1997,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "tributacao",
+      "ramo-consumo",
+      "barreira"
+    ],
+    "glossario": [
+      "glo-equiparacao",
+      "glo-adequado-tratamento-tributario",
+      "glo-ramo-consumo"
+    ],
+    "relacionadas": [
+      "pol-ec-132-2023"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-sescoop-1998",
+    "titulo": "Criação do Serviço Nacional de Aprendizagem do Cooperativismo",
+    "sigla": "SESCOOP",
+    "tema": "educacao-formacao",
+    "nivel": "federal",
+    "orgao": "Governo Federal / Sistema OCB",
+    "norma_origem": "Medida Provisória nº 1.715/1998 (atual MP nº 2.168-40/2001)",
+    "localidade": "Brasil",
+    "texto": "Criou um serviço social autônomo do Sistema S para formação profissional, promoção social e monitoramento das cooperativas, financiado por contribuição sobre a folha das cooperativas.",
+    "importancia": "alta",
+    "nota_prof": 8,
+    "comentario": "Materializa institucionalmente o 5º princípio. Alcança apenas as cooperativas registradas no Sistema OCB.",
+    "situacao": "vigente",
+    "data_criacao": "03/09/1998",
+    "ano_inicio": 1998,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "educacao",
+      "sistema-ocb",
+      "coop-aula-01"
+    ],
+    "glossario": [
+      "glo-registro-na-ocb"
+    ],
+    "relacionadas": [
+      "pol-recoop-1998"
+    ],
+    "outros_ids": [
+      "ent-sescoop",
+      "ent-sistema-ocb"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": true,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-recoop-1998",
+    "titulo": "Programa de Revitalização de Cooperativas de Produção Agropecuária",
+    "sigla": "RECOOP",
+    "tema": "credito-financiamento",
+    "nivel": "federal",
+    "orgao": "Governo Federal / BNDES",
+    "norma_origem": "Medida Provisória nº 1.715/1998",
+    "localidade": "Brasil",
+    "texto": "Crédito para dar liquidez às cooperativas agropecuárias, permitindo renegociar e pagar dívidas e retomar a produção.",
+    "importancia": "média",
+    "nota_prof": 4,
+    "comentario": "Não foi benefício acessível e amplo: exigia auditoria independente, projeto de reestruturação e viabilidade, requisitos que poucas cooperativas cumpriam.",
+    "situacao": "extinta",
+    "data_criacao": "03/09/1998",
+    "ano_inicio": 1998,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "credito",
+      "ramo-agropecuario"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-sescoop-1998",
+      "pol-pesa-1998"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-pesa-1998",
+    "titulo": "Programa Especial de Saneamento de Ativos",
+    "sigla": "PESA",
+    "tema": "credito-financiamento",
+    "nivel": "federal",
+    "orgao": "Conselho Monetário Nacional",
+    "norma_origem": "Resolução CMN nº 2.471/1998",
+    "localidade": "Brasil",
+    "texto": "Renegociação de dívidas rurais de maior valor, utilizada também por cooperativas agropecuárias endividadas.",
+    "importancia": "baixa",
+    "nota_prof": null,
+    "comentario": "",
+    "situacao": "extinta",
+    "data_criacao": "",
+    "ano_inicio": 1998,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "credito",
+      "ramo-agropecuario"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-recoop-1998"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-9867-1999",
+    "titulo": "Cooperativas sociais",
+    "sigla": "",
+    "tema": "trabalho",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 9.867/1999",
+    "localidade": "Brasil",
+    "texto": "Cria as cooperativas sociais, voltadas à inserção no mercado de trabalho de pessoas em desvantagem, como pessoas com deficiência e egressos do sistema prisional.",
+    "importancia": "média",
+    "nota_prof": 5,
+    "comentario": "Modelo pouco adotado no Brasil: eram apenas 10 cooperativas especiais registradas em 2018.",
+    "situacao": "vigente",
+    "data_criacao": "10/11/1999",
+    "ano_inicio": 1999,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "trabalho",
+      "comunidade",
+      "coop-aula-07"
+    ],
+    "glossario": [
+      "glo-cooperativa-social"
+    ],
+    "relacionadas": [
+      "pol-pronacoop-social-2013",
+      "pol-lei-13019-2014"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/leis/l9867.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9867.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-codigo-civil-2002",
+    "titulo": "Cooperativas no Código Civil",
+    "sigla": "",
+    "tema": "marco-legal",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 10.406/2002, arts. 982 e 1.093 a 1.096",
+    "localidade": "Brasil",
+    "texto": "Classifica a cooperativa como sociedade simples, qualquer que seja o objeto, e fixa suas características essenciais, ressalvada a legislação especial.",
+    "importancia": "média",
+    "nota_prof": 6,
+    "comentario": "A convivência com a Lei 5.764/1971 é fonte permanente de controvérsia doutrinária.",
+    "situacao": "vigente",
+    "data_criacao": "10/01/2002",
+    "ano_inicio": 2002,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "legislacao",
+      "natureza-juridica"
+    ],
+    "glossario": [
+      "glo-sociedade-simples",
+      "glo-lei-geral-do-cooperativismo"
+    ],
+    "relacionadas": [
+      "pol-lei-5764-1971"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-prodecoop-2002",
+    "titulo": "Programa de Desenvolvimento Cooperativo para Agregação de Valor à Produção Agropecuária",
+    "sigla": "PRODECOOP",
+    "tema": "credito-financiamento",
+    "nivel": "federal",
+    "orgao": "BNDES / MAPA",
+    "norma_origem": "",
+    "localidade": "Brasil",
+    "texto": "Linha do BNDES para investimentos de cooperativas agropecuárias em industrialização e agregação de valor.",
+    "importancia": "alta",
+    "nota_prof": 6,
+    "comentario": "Um dos programas de crédito tradicionais mantidos em todos os governos seguintes.",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 2002,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "credito",
+      "ramo-agropecuario",
+      "bndes"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-procap-agro-2009"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-oit-recomendacao-193",
+    "titulo": "Recomendação 193 sobre a promoção das cooperativas",
+    "sigla": "",
+    "tema": "marco-legal",
+    "nivel": "internacional",
+    "orgao": "Organização Internacional do Trabalho",
+    "norma_origem": "Recomendação OIT nº 193/2002",
+    "localidade": "Mundo",
+    "texto": "Principal referência normativa internacional sobre cooperativas, aprovada pela Conferência Internacional do Trabalho em 2002. Orienta os governos a reconhecer a importância das cooperativas, criar marco jurídico e políticas públicas que favoreçam seu desenvolvimento sem comprometer sua autonomia e evitar o uso da forma cooperativa para burlar direitos trabalhistas. Incorpora a identidade cooperativa da ACI.",
+    "importancia": "alta",
+    "nota_prof": 9,
+    "comentario": "Parâmetro útil para avaliar a PNC brasileira. Substituiu a Recomendação nº 127/1966 e, por não ser convenção, não tem força vinculante.",
+    "situacao": "vigente",
+    "data_criacao": "20/06/2002",
+    "ano_inicio": 2002,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "internacional",
+      "legislacao"
+    ],
+    "glossario": [
+      "glo-declaracao-sobre-a-identidade-cooperativa"
+    ],
+    "relacionadas": [],
+    "outros_ids": [
+      "ent-aci",
+      "ent-copac"
+    ],
+    "links": [
+      {
+        "texto": "https://www.ilo.org/pt-pt/resource/r193-sobre-promocao-de-cooperativas",
+        "url": "https://www.ilo.org/pt-pt/resource/r193-sobre-promocao-de-cooperativas"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": true,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-resolucao-cmn-3106-2003",
+    "titulo": "Cooperativas de crédito de livre admissão",
+    "sigla": "",
+    "tema": "regulacao-setorial",
+    "nivel": "federal",
+    "orgao": "Conselho Monetário Nacional",
+    "norma_origem": "Resolução CMN nº 3.106/2003",
+    "localidade": "Brasil",
+    "texto": "Permitiu a constituição de cooperativas de crédito de livre admissão de associados, abrindo o ramo a quem não tinha vínculo profissional comum.",
+    "importancia": "alta",
+    "nota_prof": 8,
+    "comentario": "Reverteu décadas de restrição e antecedeu o marco legal da LC 130/2009.",
+    "situacao": "superada",
+    "data_criacao": "25/06/2003",
+    "ano_inicio": 2003,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "regulacao",
+      "ramo-credito"
+    ],
+    "glossario": [
+      "glo-livre-admissao",
+      "glo-ramo-credito"
+    ],
+    "relacionadas": [
+      "pol-lei-complementar-130-2009"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-plano-brasil-cooperativo-2003",
+    "titulo": "Plano Brasil Cooperativo",
+    "sigla": "",
+    "tema": "fomento",
+    "nivel": "federal",
+    "orgao": "MAPA / Grupo de Trabalho Interministerial",
+    "norma_origem": "",
+    "localidade": "Brasil",
+    "texto": "Plano elaborado por grupo interministerial para articular ações federais de apoio ao cooperativismo. Reproduzido no Anexo A do ebook.",
+    "importancia": "média",
+    "nota_prof": 3,
+    "comentario": "Demorou um ano para ser finalizado, mais um para organizar a implantação, e acabou esquecido no período de austeridade, até nos arquivos do Ministério da Agricultura.",
+    "situacao": "sem execução",
+    "data_criacao": "",
+    "ano_inicio": 2003,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "fomento",
+      "pnc"
+    ],
+    "glossario": [
+      "glo-discrepancia-temporal"
+    ],
+    "relacionadas": [
+      "pol-procap-cred-2006",
+      "pol-decreto-lei-59-1966"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": true,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-paa-2003",
+    "titulo": "Programa de Aquisição de Alimentos",
+    "sigla": "PAA",
+    "tema": "compras-publicas",
+    "nivel": "federal",
+    "orgao": "MDS / MDA / Conab",
+    "norma_origem": "Lei nº 10.696/2003, art. 19",
+    "localidade": "Brasil",
+    "texto": "Compra pública de alimentos da agricultura familiar. Em 2011 passou a apoiar a formação de estoques pelas cooperativas da agricultura familiar.",
+    "importancia": "alta",
+    "nota_prof": 7,
+    "comentario": "As regras limitavam a participação das cooperativas pelo número de agricultores cadastrados, sem vantagem específica para a participação coletiva.",
+    "situacao": "revogada",
+    "data_criacao": "02/07/2003",
+    "ano_inicio": 2003,
+    "data_revogacao": "09/08/2021",
+    "ano_fim": 2021,
+    "tags": [
+      "compras-publicas",
+      "ramo-agropecuario",
+      "agricultura-familiar"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-programa-alimenta-brasil-2021",
+      "pol-paa-2023"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.696.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.696.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-senaes-2003",
+    "titulo": "Secretaria Nacional de Economia Solidária",
+    "sigla": "SENAES",
+    "tema": "economia-solidaria",
+    "nivel": "federal",
+    "orgao": "Ministério do Trabalho e Emprego",
+    "norma_origem": "Lei nº 10.683/2003",
+    "localidade": "Brasil",
+    "texto": "Secretaria criada para formular políticas públicas de economia solidária, incluindo apoio a cooperativas populares. Foi esvaziada a partir de 2016 e recriada em 2023.",
+    "importancia": "alta",
+    "nota_prof": 7,
+    "comentario": "Com Paul Singer à frente (2003 a 2016), foi o principal espaço da vertente solidária no Estado brasileiro.",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 2003,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "economia-solidaria",
+      "trabalho",
+      "coop-aula-08"
+    ],
+    "glossario": [
+      "glo-economia-solidaria",
+      "glo-vertente-pioneira-e-vertente-solidaria"
+    ],
+    "relacionadas": [
+      "pol-proninc-1997"
+    ],
+    "outros_ids": [
+      "ent-senaes"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-mg-lei-15075-2004",
+    "titulo": "Política Estadual de Apoio ao Cooperativismo",
+    "sigla": "",
+    "tema": "fomento",
+    "nivel": "estadual",
+    "orgao": "Governo de Minas Gerais",
+    "norma_origem": "Lei estadual nº 15.075/2004",
+    "localidade": "Minas Gerais",
+    "texto": "Institui a política mineira de apoio ao cooperativismo. Regulamentada pelo Decreto 44.009/2005, que tratou do Conselho Estadual de Cooperativismo (CECOOP).",
+    "importancia": "alta",
+    "nota_prof": null,
+    "comentario": "",
+    "situacao": "vigente",
+    "data_criacao": "05/04/2004",
+    "ano_inicio": 2004,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "minas-gerais",
+      "fomento"
+    ],
+    "glossario": [],
+    "relacionadas": [
+      "pol-mg-lei-24189-2022"
+    ],
+    "outros_ids": [
+      "ent-ocemg"
+    ],
+    "links": [
+      {
+        "texto": "https://www.almg.gov.br/legislacao-mineira/LEI/15075/2004/",
+        "url": "https://www.almg.gov.br/legislacao-mineira/LEI/15075/2004/"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-coopergenero-2004",
+    "titulo": "Programa CooperGênero",
+    "sigla": "CooperGênero",
+    "tema": "educacao-formacao",
+    "nivel": "federal",
+    "orgao": "Ministério da Agricultura",
+    "norma_origem": "",
+    "localidade": "Brasil",
+    "texto": "Programa de promoção da participação das mulheres nas cooperativas, com ações de capacitação e sensibilização.",
+    "importancia": "média",
+    "nota_prof": 5,
+    "comentario": "Transcorreu por vários governos, mas a partir de 2015 perdeu orçamento e espaço político, restando ações pontuais de capacitação.",
+    "situacao": "extinta",
+    "data_criacao": "",
+    "ano_inicio": 2004,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "genero",
+      "educacao"
+    ],
+    "glossario": [],
+    "relacionadas": [],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-11101-2005",
+    "titulo": "Exclusão das cooperativas da falência e da recuperação judicial",
+    "sigla": "",
+    "tema": "marco-legal",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 11.101/2005, art. 2º, II",
+    "localidade": "Brasil",
+    "texto": "Exclui as cooperativas do regime de falência e de recuperação judicial, restando apenas a liquidação prevista na Lei 5.764/1971.",
+    "importancia": "alta",
+    "nota_prof": 3,
+    "comentario": "Sem instrumento de reestruturação, cooperativas em crise se arrastam em liquidações de mais de uma década, como no caso da Cotrijuí.",
+    "situacao": "vigente",
+    "data_criacao": "09/02/2005",
+    "ano_inicio": 2005,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "legislacao",
+      "crise",
+      "barreira"
+    ],
+    "glossario": [
+      "glo-dissolucao-e-liquidacao",
+      "glo-anomalia"
+    ],
+    "relacionadas": [
+      "pol-lei-5764-1971"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-procap-cred-2006",
+    "titulo": "Programa de Capitalização das Cooperativas de Crédito",
+    "sigla": "PROCAP-CRED",
+    "tema": "credito-financiamento",
+    "nivel": "federal",
+    "orgao": "CMN / BNDES",
+    "norma_origem": "Resolução CMN nº 3.346/2006",
+    "localidade": "Brasil",
+    "texto": "Linha para capitalização de cooperativas de crédito, pensada no grupo interministerial do Plano Brasil Cooperativo.",
+    "importancia": "média",
+    "nota_prof": 6,
+    "comentario": "",
+    "situacao": "extinta",
+    "data_criacao": "",
+    "ano_inicio": 2006,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "credito",
+      "ramo-credito",
+      "capital"
+    ],
+    "glossario": [
+      "glo-capital-social",
+      "glo-ramo-credito"
+    ],
+    "relacionadas": [
+      "pol-procap-agro-2009",
+      "pol-plano-brasil-cooperativo-2003"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-procap-agro-2009",
+    "titulo": "Programa de Capitalização de Cooperativas Agropecuárias",
+    "sigla": "PROCAP-AGRO",
+    "tema": "credito-financiamento",
+    "nivel": "federal",
+    "orgao": "CMN / BNDES",
+    "norma_origem": "Resolução CMN nº 3.739/2009",
+    "localidade": "Brasil",
+    "texto": "Linha do BNDES para capitalização de cooperativas agropecuárias e integralização de quotas-partes pelos cooperados.",
+    "importancia": "alta",
+    "nota_prof": 6,
+    "comentario": "Estendeu ao agropecuário, três anos depois, o que o crédito já tinha desde 2006.",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 2009,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "credito",
+      "ramo-agropecuario",
+      "capital",
+      "bndes"
+    ],
+    "glossario": [
+      "glo-capital-social",
+      "glo-integralizacao",
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-procap-cred-2006",
+      "pol-prodecoop-2002"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-pnae-2009",
+    "titulo": "Programa Nacional de Alimentação Escolar: compra da agricultura familiar",
+    "sigla": "PNAE",
+    "tema": "compras-publicas",
+    "nivel": "federal",
+    "orgao": "FNDE / Ministério da Educação",
+    "norma_origem": "Lei nº 11.947/2009, art. 14",
+    "localidade": "Brasil",
+    "texto": "Determina que no mínimo 30% dos recursos da alimentação escolar sejam usados na compra de produtos da agricultura familiar, com espaço para as cooperativas.",
+    "importancia": "alta",
+    "nota_prof": 8,
+    "comentario": "Política de compra pública que dá mercado estável às cooperativas da agricultura familiar.",
+    "situacao": "vigente",
+    "data_criacao": "16/06/2009",
+    "ano_inicio": 2009,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "compras-publicas",
+      "ramo-agropecuario",
+      "agricultura-familiar"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-paa-2003"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11947.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11947.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-complementar-130-2009",
+    "titulo": "Sistema Nacional de Crédito Cooperativo",
+    "sigla": "SNCC",
+    "tema": "regulacao-setorial",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei Complementar nº 130/2009",
+    "localidade": "Brasil",
+    "texto": "Marco legal do cooperativismo de crédito. Encerrou as cooperativas mistas com seção de crédito e foi atualizado pela Lei Complementar 196/2022.",
+    "importancia": "alta",
+    "nota_prof": 9,
+    "comentario": "Culminância de uma sequência de avanços regulatórios do ramo. É o setor em que a PNC mais avançou juridicamente.",
+    "situacao": "vigente",
+    "data_criacao": "17/04/2009",
+    "ano_inicio": 2009,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "legislacao",
+      "ramo-credito",
+      "coop-aula-02"
+    ],
+    "glossario": [
+      "glo-sncc",
+      "glo-ramo-credito",
+      "glo-juros-ao-capital"
+    ],
+    "relacionadas": [
+      "pol-resolucao-cmn-3106-2003",
+      "pol-fgcoop-2012"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp130.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp130.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": true,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-12349-2010",
+    "titulo": "Participação de cooperativas em licitações",
+    "sigla": "",
+    "tema": "compras-publicas",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 12.349/2010",
+    "localidade": "Brasil",
+    "texto": "Alterou a Lei 8.666/1993 para vedar cláusulas que restringissem a participação de cooperativas nas licitações.",
+    "importancia": "média",
+    "nota_prof": 7,
+    "comentario": "Superou uma barreira que durava desde 1993, depois de longa luta judicial.",
+    "situacao": "vigente",
+    "data_criacao": "15/12/2010",
+    "ano_inicio": 2010,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "compras-publicas"
+    ],
+    "glossario": [
+      "glo-barreiras-silenciosas"
+    ],
+    "relacionadas": [
+      "pol-lei-8666-1993",
+      "pol-lei-14133-2021"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-pnater-2010",
+    "titulo": "Política Nacional de Assistência Técnica e Extensão Rural",
+    "sigla": "PNATER",
+    "tema": "assistencia-tecnica",
+    "nivel": "federal",
+    "orgao": "MDA",
+    "norma_origem": "Lei nº 12.188/2010",
+    "localidade": "Brasil",
+    "texto": "Organiza a assistência técnica e extensão rural para a agricultura familiar e reforma agrária, com o apoio ao cooperativismo entre seus objetivos. Complementada pela criação da ANATER (Lei 12.897/2013).",
+    "importancia": "média",
+    "nota_prof": 5,
+    "comentario": "A Frente Parlamentar de ATER considera o orçamento insuficiente para a prestação do serviço.",
+    "situacao": "vigente",
+    "data_criacao": "11/01/2010",
+    "ano_inicio": 2010,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "assistencia-tecnica",
+      "ramo-agropecuario",
+      "agricultura-familiar"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-brasil-mais-cooperativo-2019"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-pnrs-2010",
+    "titulo": "Política Nacional de Resíduos Sólidos",
+    "sigla": "PNRS",
+    "tema": "trabalho",
+    "nivel": "federal",
+    "orgao": "Ministério do Meio Ambiente",
+    "norma_origem": "Lei nº 12.305/2010",
+    "localidade": "Brasil",
+    "texto": "Institui a política de resíduos sólidos e prevê como instrumento a criação e o apoio a cooperativas de catadores de materiais recicláveis.",
+    "importancia": "média",
+    "nota_prof": 6,
+    "comentario": "Consolida as cooperativas de catadores numa função difícil e pouco atraente, com dispensa de licitação para contratá-las.",
+    "situacao": "vigente",
+    "data_criacao": "02/08/2010",
+    "ano_inicio": 2010,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "trabalho",
+      "ramo-trabalho",
+      "meio-ambiente"
+    ],
+    "glossario": [
+      "glo-ramo-trabalho-producao-de-bens-e-servicos"
+    ],
+    "relacionadas": [],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-mcmv-cooperativas-2011",
+    "titulo": "Cooperativas no Minha Casa Minha Vida",
+    "sigla": "",
+    "tema": "fomento",
+    "nivel": "federal",
+    "orgao": "Ministério das Cidades",
+    "norma_origem": "Lei nº 11.977/2009, alterada pela Lei nº 12.424/2011",
+    "localidade": "Brasil",
+    "texto": "Autorizou cooperativas a operar o Programa Minha Casa Minha Vida.",
+    "importancia": "baixa",
+    "nota_prof": null,
+    "comentario": "",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 2011,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "habitacao"
+    ],
+    "glossario": [],
+    "relacionadas": [],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-onu-ano-internacional",
+    "titulo": "Anos Internacionais das Cooperativas (2012 e 2025)",
+    "sigla": "",
+    "tema": "comemorativa",
+    "nivel": "internacional",
+    "orgao": "Assembleia Geral da ONU",
+    "norma_origem": "Resoluções ONU nº 64/136 e nº 78/175",
+    "localidade": "Mundo",
+    "texto": "Anos proclamados pela ONU para reconhecer a contribuição das cooperativas. Em 2025, o tema foi \"Cooperativas constroem um mundo melhor\".",
+    "importancia": "média",
+    "nota_prof": null,
+    "comentario": "",
+    "situacao": "encerrada",
+    "data_criacao": "",
+    "ano_inicio": 2012,
+    "data_revogacao": "",
+    "ano_fim": 2025,
+    "tags": [
+      "calendario",
+      "internacional",
+      "coop-aula-01"
+    ],
+    "glossario": [],
+    "relacionadas": [
+      "pol-onu-resolucao-47-90"
+    ],
+    "outros_ids": [
+      "eve-ano-internacional-coop2"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-dia-nacional-coop-credito-2012",
+    "titulo": "Dia Nacional do Cooperativismo de Crédito",
+    "sigla": "",
+    "tema": "comemorativa",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 12.620/2012",
+    "localidade": "Brasil",
+    "texto": "Institui 28 de dezembro como Dia Nacional do Cooperativismo de Crédito.",
+    "importancia": "baixa",
+    "nota_prof": null,
+    "comentario": "",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 2012,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "calendario",
+      "ramo-credito"
+    ],
+    "glossario": [
+      "glo-ramo-credito"
+    ],
+    "relacionadas": [],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-fgcoop-2012",
+    "titulo": "Fundo Garantidor do Cooperativismo de Crédito",
+    "sigla": "FGCoop",
+    "tema": "regulacao-setorial",
+    "nivel": "federal",
+    "orgao": "Conselho Monetário Nacional",
+    "norma_origem": "Resoluções CMN nº 4.150/2012 e nº 4.284/2013",
+    "localidade": "Brasil",
+    "texto": "Implementou o fundo garantidor que protege depositantes das cooperativas de crédito e dos bancos cooperativos. O FGCoop é uma associação civil sem fins lucrativos, com sede em Brasília, que monitora riscos e oferece camada adicional de segurança aos depositantes, com garantia de até R$ 250 mil por CPF ou CNPJ em cada instituição. A adesão é obrigatória para as cooperativas singulares de crédito e para os bancos cooperativos que captam depósitos. O fundo começou a operar em 2014.",
+    "importancia": "alta",
+    "nota_prof": 8,
+    "comentario": "Chegou depois das demais instituições financeiras, mas equiparou a proteção dos depositantes.",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 2012,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "regulacao",
+      "ramo-credito"
+    ],
+    "glossario": [
+      "glo-ramo-credito"
+    ],
+    "relacionadas": [
+      "pol-lei-complementar-130-2009"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-12690-2012",
+    "titulo": "Lei das Cooperativas de Trabalho",
+    "sigla": "",
+    "tema": "trabalho",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 12.690/2012",
+    "localidade": "Brasil",
+    "texto": "Disciplina as cooperativas de trabalho, garante direitos mínimos aos cooperados, veda a intermediação de mão de obra subordinada e cria o PRONACOOP.",
+    "importancia": "alta",
+    "nota_prof": 7,
+    "comentario": "Normativa própria para um ramo negligenciado e estigmatizado pelas fraudes, editada no Ano Internacional das Cooperativas.",
+    "situacao": "vigente",
+    "data_criacao": "19/07/2012",
+    "ano_inicio": 2012,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "legislacao",
+      "trabalho",
+      "ramo-trabalho",
+      "coop-aula-08"
+    ],
+    "glossario": [
+      "glo-lei-das-cooperativas-de-trabalho",
+      "glo-falsa-cooperativa"
+    ],
+    "relacionadas": [
+      "pol-pronacoop-2012",
+      "pol-lei-8949-1994"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12690.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12690.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": true,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-pronacoop-2012",
+    "titulo": "Programa Nacional de Fomento às Cooperativas de Trabalho",
+    "sigla": "PRONACOOP",
+    "tema": "trabalho",
+    "nivel": "federal",
+    "orgao": "Ministério do Trabalho e Emprego",
+    "norma_origem": "Lei nº 12.690/2012",
+    "localidade": "Brasil",
+    "texto": "Programa criado pela Lei 12.690/2012, das cooperativas de trabalho, para apoiar o desenvolvimento e a melhoria do desempenho dessas cooperativas.",
+    "importancia": "média",
+    "nota_prof": 2,
+    "comentario": "Não foram localizadas ações específicas com esse nome, nem decreto regulamentador.",
+    "situacao": "sem execução",
+    "data_criacao": "19/07/2012",
+    "ano_inicio": 2012,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "trabalho",
+      "ramo-trabalho"
+    ],
+    "glossario": [
+      "glo-lei-das-cooperativas-de-trabalho"
+    ],
+    "relacionadas": [
+      "pol-lei-12690-2012",
+      "pol-pronacoop-1976",
+      "pol-pronacoop-social-2013"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-pronacoop-social-2013",
+    "titulo": "Programa Nacional de Apoio ao Associativismo e Cooperativismo Social",
+    "sigla": "PRONACOOP Social",
+    "tema": "trabalho",
+    "nivel": "federal",
+    "orgao": "Ministério do Trabalho e Emprego",
+    "norma_origem": "Decreto nº 8.163/2013",
+    "localidade": "Brasil",
+    "texto": "Programa de apoio às cooperativas sociais da Lei 9.867/1999.",
+    "importancia": "média",
+    "nota_prof": 4,
+    "comentario": "Encerrado pela revogação em massa de decretos feita pelo Decreto 10.087/2019.",
+    "situacao": "revogada",
+    "data_criacao": "20/12/2013",
+    "ano_inicio": 2013,
+    "data_revogacao": "05/11/2019",
+    "ano_fim": 2019,
+    "tags": [
+      "trabalho",
+      "comunidade"
+    ],
+    "glossario": [
+      "glo-cooperativa-social"
+    ],
+    "relacionadas": [
+      "pol-lei-9867-1999",
+      "pol-pronacoop-2012"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-13019-2014",
+    "titulo": "Marco Regulatório das Organizações da Sociedade Civil",
+    "sigla": "MROSC",
+    "tema": "fomento",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 13.019/2014, alterada pela Lei nº 13.204/2015",
+    "localidade": "Brasil",
+    "texto": "Permite que cooperativas sociais e outras cooperativas previstas em lei celebrem termos de fomento, colaboração e acordos de cooperação com o poder público.",
+    "importancia": "média",
+    "nota_prof": 6,
+    "comentario": "Aplica-se só a algumas cooperativas, e não a todas, ponto que costuma gerar confusão.",
+    "situacao": "vigente",
+    "data_criacao": "31/07/2014",
+    "ano_inicio": 2014,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "fomento",
+      "comunidade"
+    ],
+    "glossario": [
+      "glo-cooperativa-social"
+    ],
+    "relacionadas": [
+      "pol-lei-9867-1999"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13019.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13019.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-sao-roque-de-minas-lei-1661-2015",
+    "titulo": "Educação cooperativista na rede municipal de ensino",
+    "sigla": "",
+    "tema": "educacao-formacao",
+    "nivel": "municipal",
+    "orgao": "Prefeitura de São Roque de Minas",
+    "norma_origem": "Lei municipal nº 1.661/2015",
+    "localidade": "São Roque de Minas/MG",
+    "texto": "Institui a temática da educação cooperativista, empreendedora e financeira na rede municipal de ensino.",
+    "importancia": "média",
+    "nota_prof": 8,
+    "comentario": "Exemplo concreto de política municipal ligada ao 5º princípio, num município com forte presença cooperativista.",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 2015,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "educacao",
+      "minas-gerais",
+      "coop-aula-01"
+    ],
+    "glossario": [],
+    "relacionadas": [],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": true,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-13606-2018",
+    "titulo": "Renegociação de dívidas repassadas por cooperativas de crédito",
+    "sigla": "",
+    "tema": "credito-financiamento",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 13.606/2018, art. 28 (depois art. 28-A)",
+    "localidade": "Brasil",
+    "texto": "Previa a renegociação de operações de crédito rural já provisionadas por cooperativas de crédito junto a agências de fomento oficiais.",
+    "importancia": "baixa",
+    "nota_prof": 3,
+    "comentario": "Vetado, veto derrubado, revogado por medida provisória e revigorado na conversão, com o veto novamente derrubado em 2019. Mais de um ano de insegurança para os mutuários.",
+    "situacao": "vigente",
+    "data_criacao": "09/01/2018",
+    "ano_inicio": 2018,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "credito",
+      "ramo-credito"
+    ],
+    "glossario": [
+      "glo-discrepancia-temporal"
+    ],
+    "relacionadas": [],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-brasil-mais-cooperativo-2019",
+    "titulo": "Programa Brasil Mais Cooperativo",
+    "sigla": "",
+    "tema": "assistencia-tecnica",
+    "nivel": "federal",
+    "orgao": "Ministério da Agricultura / ANATER",
+    "norma_origem": "Portaria MAPA nº 129/2019",
+    "localidade": "Brasil",
+    "texto": "Assistência técnica a cooperativas rurais, com cerca de R$ 9 milhões, para ajudá-las a acessar o PNAE e o PAA e a organizar a gestão.",
+    "importancia": "média",
+    "nota_prof": 5,
+    "comentario": "A pandemia de COVID-19 atrapalhou bastante a execução.",
+    "situacao": "extinta",
+    "data_criacao": "",
+    "ano_inicio": 2019,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "assistencia-tecnica",
+      "ramo-agropecuario"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-pnater-2010",
+      "pol-pnae-2009"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-roda-bem-caminhoneiro-2019",
+    "titulo": "Projeto Roda Bem Caminhoneiro",
+    "sigla": "",
+    "tema": "fomento",
+    "nivel": "federal",
+    "orgao": "Governo Federal / UNICAFES",
+    "norma_origem": "Termo de Colaboração SICONV nº 895503/2019",
+    "localidade": "Brasil",
+    "texto": "Projeto de apoio à criação de cooperativas de caminhoneiros, com infraestrutura, capacitação a distância e assessoria técnica, executado pela UNICAFES.",
+    "importancia": "baixa",
+    "nota_prof": 4,
+    "comentario": "Também prejudicado pela pandemia.",
+    "situacao": "extinta",
+    "data_criacao": "",
+    "ano_inicio": 2019,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "fomento",
+      "ramo-transporte"
+    ],
+    "glossario": [
+      "glo-ramo-transporte"
+    ],
+    "relacionadas": [
+      "pol-ctc-2021"
+    ],
+    "outros_ids": [
+      "ent-unicafes"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-patrono-amstad-2019",
+    "titulo": "Theodor Amstad, Patrono do Cooperativismo Brasileiro",
+    "sigla": "",
+    "tema": "comemorativa",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 13.926/2019",
+    "localidade": "Brasil",
+    "texto": "Declara o padre Theodor Amstad Patrono do Cooperativismo Brasileiro.",
+    "importancia": "baixa",
+    "nota_prof": null,
+    "comentario": "",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 2019,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "calendario",
+      "historia-brasil"
+    ],
+    "glossario": [],
+    "relacionadas": [],
+    "outros_ids": [
+      "per-theodor-amstad",
+      "ent-nova-petropolis"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-ctc-2021",
+    "titulo": "Cooperativa de Transporte Rodoviário de Cargas (CTC)",
+    "sigla": "CTC",
+    "tema": "regulacao-setorial",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional / ANTT",
+    "norma_origem": "Lei nº 11.442/2007, alterada em 2021",
+    "localidade": "Brasil",
+    "texto": "Incluiu a Cooperativa de Transporte Rodoviário de Cargas como categoria própria para o exercício da atividade de transporte de cargas, 14 anos depois da lei.",
+    "importancia": "média",
+    "nota_prof": 6,
+    "comentario": "Uma tentativa anterior, em 2015, trazia requisitos desproporcionais, como 20 veículos em nome próprio ou dos cooperados.",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 2021,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "regulacao",
+      "ramo-transporte"
+    ],
+    "glossario": [
+      "glo-ramo-transporte",
+      "glo-discrepancia-temporal"
+    ],
+    "relacionadas": [
+      "pol-roda-bem-caminhoneiro-2019"
+    ],
+    "outros_ids": [
+      "ent-antt"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-14133-2021",
+    "titulo": "Nova Lei de Licitações",
+    "sigla": "",
+    "tema": "compras-publicas",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei nº 14.133/2021",
+    "localidade": "Brasil",
+    "texto": "Admite expressamente a participação de cooperativas em licitações, com requisitos próprios, e mantém a dispensa para contratar cooperativas de catadores de baixa renda.",
+    "importancia": "média",
+    "nota_prof": 7,
+    "comentario": "Cooperativas mencionadas expressamente, porque sem a menção a participação voltaria a ser obstaculizada.",
+    "situacao": "vigente",
+    "data_criacao": "01/04/2021",
+    "ano_inicio": 2021,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "compras-publicas"
+    ],
+    "glossario": [
+      "glo-anomalia"
+    ],
+    "relacionadas": [
+      "pol-lei-8666-1993",
+      "pol-lei-12349-2010"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-programa-alimenta-brasil-2021",
+    "titulo": "Programa Alimenta Brasil",
+    "sigla": "PAB",
+    "tema": "compras-publicas",
+    "nivel": "federal",
+    "orgao": "Ministério da Cidadania",
+    "norma_origem": "Medida Provisória nº 1.061/2021 (Lei nº 14.284/2021)",
+    "localidade": "Brasil",
+    "texto": "Substituiu o PAA, mantendo como finalidade apenas apoiar a formação de estoques pelas cooperativas da agricultura familiar.",
+    "importancia": "média",
+    "nota_prof": 4,
+    "comentario": "",
+    "situacao": "revogada",
+    "data_criacao": "09/08/2021",
+    "ano_inicio": 2021,
+    "data_revogacao": "20/07/2023",
+    "ano_fim": 2023,
+    "tags": [
+      "compras-publicas",
+      "ramo-agropecuario"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-paa-2003",
+      "pol-paa-2023"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-14195-2021",
+    "titulo": "Tentativa de equiparação das cooperativas às sociedades empresárias",
+    "sigla": "",
+    "tema": "marco-legal",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional / Presidência da República",
+    "norma_origem": "Lei nº 14.195/2021 (dispositivos vetados)",
+    "localidade": "Brasil",
+    "texto": "Na conversão da MP 1.040/2021, o Congresso incluiu dispositivos que obrigariam as sociedades, inclusive as cooperativas, a se adaptar em cinco anos à estrutura empresarial. Os artigos foram vetados.",
+    "importancia": "alta",
+    "nota_prof": 0,
+    "comentario": "Exemplo extremo de equiparação: o risco foi afastado apenas pelo veto.",
+    "situacao": "vetada",
+    "data_criacao": "26/08/2021",
+    "ano_inicio": 2021,
+    "data_revogacao": "26/08/2021",
+    "ano_fim": 2021,
+    "tags": [
+      "legislacao",
+      "barreira"
+    ],
+    "glossario": [
+      "glo-equiparacao"
+    ],
+    "relacionadas": [],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-complementar-196-2022",
+    "titulo": "Atualização do marco do cooperativismo de crédito",
+    "sigla": "",
+    "tema": "regulacao-setorial",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Lei Complementar nº 196/2022",
+    "localidade": "Brasil",
+    "texto": "Alterou a LC 130/2009 para atender à evolução das cooperativas de crédito, na regulação e na organização sistêmica.",
+    "importancia": "alta",
+    "nota_prof": 8,
+    "comentario": "",
+    "situacao": "vigente",
+    "data_criacao": "24/08/2022",
+    "ano_inicio": 2022,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "legislacao",
+      "ramo-credito"
+    ],
+    "glossario": [
+      "glo-sncc",
+      "glo-ramo-credito"
+    ],
+    "relacionadas": [
+      "pol-lei-complementar-130-2009"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-mg-lei-24189-2022",
+    "titulo": "Política Estadual de Cooperativismo da Agricultura Familiar e Agroindústria",
+    "sigla": "PECOOPERAF",
+    "tema": "fomento",
+    "nivel": "estadual",
+    "orgao": "Governo de Minas Gerais",
+    "norma_origem": "Lei estadual nº 24.189/2022",
+    "localidade": "Minas Gerais",
+    "texto": "Apoia cooperativas com pelo menos 50% de agricultores familiares, com capacitação, crédito e assistência técnica, e permite tratamento preferencial no acesso a recursos públicos. Alterou a Lei 15.075/2004.",
+    "importancia": "média",
+    "nota_prof": null,
+    "comentario": "",
+    "situacao": "vigente",
+    "data_criacao": "20/06/2022",
+    "ano_inicio": 2022,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "minas-gerais",
+      "ramo-agropecuario",
+      "agricultura-familiar"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-mg-lei-15075-2004"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/24189/2022/",
+        "url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/24189/2022/"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-estrutura-ministerial-2023",
+    "titulo": "Competência sobre cooperativismo em três ministérios",
+    "sigla": "",
+    "tema": "institucional",
+    "nivel": "federal",
+    "orgao": "Presidência da República",
+    "norma_origem": "Lei nº 14.600/2023 (MP nº 1.154/2023)",
+    "localidade": "Brasil",
+    "texto": "Distribuiu a competência sobre cooperativismo entre os Ministérios do Desenvolvimento Agrário, do Trabalho e Emprego e da Agricultura e Pecuária.",
+    "importancia": "média",
+    "nota_prof": null,
+    "comentario": "Resta observar se a divisão vai gerar articulação ou dispersão.",
+    "situacao": "vigente",
+    "data_criacao": "19/06/2023",
+    "ano_inicio": 2023,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "institucional",
+      "pnc"
+    ],
+    "glossario": [],
+    "relacionadas": [
+      "pol-senaes-2003",
+      "pol-decreto-lei-59-1966"
+    ],
+    "outros_ids": [],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-paa-2023",
+    "titulo": "Programa de Aquisição de Alimentos (reinstituído)",
+    "sigla": "PAA",
+    "tema": "compras-publicas",
+    "nivel": "federal",
+    "orgao": "MDS / MDA / Conab",
+    "norma_origem": "Lei nº 14.628/2023",
+    "localidade": "Brasil",
+    "texto": "Reinstituiu o PAA e, pela primeira vez, incluiu a finalidade expressa de incentivar o cooperativismo.",
+    "importancia": "alta",
+    "nota_prof": 8,
+    "comentario": "",
+    "situacao": "vigente",
+    "data_criacao": "20/07/2023",
+    "ano_inicio": 2023,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "compras-publicas",
+      "ramo-agropecuario",
+      "agricultura-familiar"
+    ],
+    "glossario": [
+      "glo-ramo-agropecuario"
+    ],
+    "relacionadas": [
+      "pol-paa-2003",
+      "pol-programa-alimenta-brasil-2021"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14628.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14628.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-ec-132-2023",
+    "titulo": "Regime específico das cooperativas na reforma tributária",
+    "sigla": "",
+    "tema": "tributacao",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional",
+    "norma_origem": "Emenda Constitucional nº 132/2023 e Lei Complementar nº 214/2025, arts. 271 e 272",
+    "localidade": "Brasil",
+    "texto": "Autoriza regime específico e opcional para as cooperativas no IBS e na CBS, com alíquota zero nas operações entre cooperativa e associado.",
+    "importancia": "alta",
+    "nota_prof": null,
+    "comentario": "O setor pode ganhar na lei o que vinha perdendo nos tribunais sobre o ato cooperativo. O regime depende de opção formal.",
+    "situacao": "vigente",
+    "data_criacao": "20/12/2023",
+    "ano_inicio": 2023,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "tributacao",
+      "constituicao"
+    ],
+    "glossario": [
+      "glo-adequado-tratamento-tributario",
+      "glo-ato-cooperativo"
+    ],
+    "relacionadas": [
+      "pol-constituicao-1988",
+      "pol-lei-9532-1997"
+    ],
+    "outros_ids": [],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": true,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-bh-lei-11893-2025",
+    "titulo": "Dia Municipal do Cooperativismo de Belo Horizonte",
+    "sigla": "",
+    "tema": "comemorativa",
+    "nivel": "municipal",
+    "orgao": "Câmara Municipal e Prefeitura de Belo Horizonte",
+    "norma_origem": "Lei municipal nº 11.893/2025",
+    "localidade": "Belo Horizonte/MG",
+    "texto": "Institui 4 de julho como Dia Municipal do Cooperativismo em Belo Horizonte, por iniciativa da Frente Parlamentar do Cooperativismo da Câmara Municipal.",
+    "importancia": "baixa",
+    "nota_prof": null,
+    "comentario": "",
+    "situacao": "vigente",
+    "data_criacao": "",
+    "ano_inicio": 2025,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "calendario",
+      "minas-gerais"
+    ],
+    "glossario": [],
+    "relacionadas": [],
+    "outros_ids": [
+      "ent-frencoop"
+    ],
+    "links": [],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_politica": "pol-lei-complementar-213-2025",
+    "titulo": "Seguro cooperativo",
+    "sigla": "",
+    "tema": "regulacao-setorial",
+    "nivel": "federal",
+    "orgao": "Congresso Nacional / SUSEP",
+    "norma_origem": "Lei Complementar nº 213/2025",
+    "localidade": "Brasil",
+    "texto": "Alterou o Decreto-Lei nº 73/1966 para autorizar as cooperativas a operar em qualquer ramo de seguros, salvo os vedados em regulamento, e disciplinou a proteção patrimonial mutualista sob supervisão da SUSEP. Deu base ao Ramo Seguros.",
+    "importancia": "alta",
+    "nota_prof": null,
+    "comentario": "Encerra décadas de vedação ao seguro cooperativo. Vale confrontar com o art. 5º da Lei 5.764/1971. Antes, o art. 24 do Decreto-Lei 73/1966 limitava as cooperativas aos seguros agrícolas, de saúde e de acidentes do trabalho.",
+    "situacao": "vigente",
+    "data_criacao": "15/01/2025",
+    "ano_inicio": 2025,
+    "data_revogacao": "",
+    "ano_fim": null,
+    "tags": [
+      "legislacao",
+      "ramo-seguros",
+      "coop-aula-06"
+    ],
+    "glossario": [
+      "glo-ramo-seguros"
+    ],
+    "relacionadas": [],
+    "outros_ids": [
+      "ent-susep"
+    ],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp213.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp213.htm"
+      }
+    ],
+    "ref_imagem": "",
+    "imagem": "",
+    "nota": "Fonte: URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
+    "evidenciar": true,
+    "conferido": false,
+    "publicar": "sim"
+  }
+]

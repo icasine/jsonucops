@@ -1,44 +1,7 @@
 [
   {
-    "id": "dad-brasil-1945-geral",
+    "id_dados": "dad-brasil-1945-agropecuario",
     "ano": 1945,
-    "geral": false,
-    "ramo": "Geral",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 2493,
-    "cooperados": 323169,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-1945-consumo",
-    "ano": 1945,
-    "geral": false,
-    "ramo": "Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 1002,
-    "cooperados": 122320,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-1945-agropecuario",
-    "ano": 1945,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -47,16 +10,42 @@
     "cidade": "",
     "cooperativas": 1067,
     "cooperados": 105543,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1945-credito",
+    "id_dados": "dad-brasil-1945-consumo",
     "ano": 1945,
-    "geral": false,
+    "ramo": "Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 1002,
+    "cooperados": 122320,
+    "empregos": null,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
+    "fonte": "Pinho, 1966.",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-1945-credito",
+    "ano": 1945,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -65,52 +54,42 @@
     "cidade": "",
     "cooperativas": 366,
     "cooperados": 73333,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1950-geral",
-    "ano": 1950,
-    "geral": false,
+    "id_dados": "dad-brasil-1945-geral",
+    "ano": 1945,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 3710,
-    "cooperados": 598157,
-    "empregos": 0,
+    "cooperativas": 2493,
+    "cooperados": 323169,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1950-consumo",
+    "id_dados": "dad-brasil-1950-agropecuario",
     "ano": 1950,
-    "geral": false,
-    "ramo": "Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 1702,
-    "cooperados": 299889,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-1950-agropecuario",
-    "ano": 1950,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -119,16 +98,42 @@
     "cidade": "",
     "cooperativas": 1461,
     "cooperados": 145142,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1950-credito",
+    "id_dados": "dad-brasil-1950-consumo",
     "ano": 1950,
-    "geral": false,
+    "ramo": "Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 1702,
+    "cooperados": 299889,
+    "empregos": null,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
+    "fonte": "Pinho, 1966.",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-1950-credito",
+    "ano": 1950,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -137,52 +142,42 @@
     "cidade": "",
     "cooperativas": 452,
     "cooperados": 126579,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1955-geral",
-    "ano": 1955,
-    "geral": false,
+    "id_dados": "dad-brasil-1950-geral",
+    "ano": 1950,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 3565,
-    "cooperados": 723662,
-    "empregos": 0,
+    "cooperativas": 3710,
+    "cooperados": 598157,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1955-consumo",
+    "id_dados": "dad-brasil-1955-agropecuario",
     "ano": 1955,
-    "geral": false,
-    "ramo": "Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 1726,
-    "cooperados": 333160,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-1955-agropecuario",
-    "ano": 1955,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -191,16 +186,42 @@
     "cidade": "",
     "cooperativas": 1289,
     "cooperados": 180320,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1955-credito",
+    "id_dados": "dad-brasil-1955-consumo",
     "ano": 1955,
-    "geral": false,
+    "ramo": "Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 1726,
+    "cooperados": 333160,
+    "empregos": null,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
+    "fonte": "Pinho, 1966.",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-1955-credito",
+    "ano": 1955,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -209,52 +230,42 @@
     "cidade": "",
     "cooperativas": 438,
     "cooperados": 173307,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1960-geral",
-    "ano": 1960,
-    "geral": false,
+    "id_dados": "dad-brasil-1955-geral",
+    "ano": 1955,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 4627,
-    "cooperados": 1873150,
-    "empregos": 0,
+    "cooperativas": 3565,
+    "cooperados": 723662,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1960-consumo",
+    "id_dados": "dad-brasil-1960-agropecuario",
     "ano": 1960,
-    "geral": false,
-    "ramo": "Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 2228,
-    "cooperados": 919065,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-1960-agropecuario",
-    "ano": 1960,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -263,16 +274,42 @@
     "cidade": "",
     "cooperativas": 1739,
     "cooperados": 406486,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1960-credito",
+    "id_dados": "dad-brasil-1960-consumo",
     "ano": 1960,
-    "geral": false,
+    "ramo": "Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 2228,
+    "cooperados": 919065,
+    "empregos": null,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
+    "fonte": "Pinho, 1966.",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-1960-credito",
+    "ano": 1960,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -281,52 +318,42 @@
     "cidade": "",
     "cooperativas": 502,
     "cooperados": 503940,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1963-geral",
-    "ano": 1963,
-    "geral": false,
+    "id_dados": "dad-brasil-1960-geral",
+    "ano": 1960,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 5515,
-    "cooperados": 2879461,
-    "empregos": 0,
+    "cooperativas": 4627,
+    "cooperados": 1873150,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1963-consumo",
+    "id_dados": "dad-brasil-1963-agropecuario",
     "ano": 1963,
-    "geral": false,
-    "ramo": "Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 2703,
-    "cooperados": 1539444,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-1963-agropecuario",
-    "ano": 1963,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -335,16 +362,42 @@
     "cidade": "",
     "cooperativas": 2040,
     "cooperados": 646269,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1963-credito",
+    "id_dados": "dad-brasil-1963-consumo",
     "ano": 1963,
-    "geral": false,
+    "ramo": "Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 2703,
+    "cooperados": 1539444,
+    "empregos": null,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
+    "fonte": "Pinho, 1966.",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-1963-credito",
+    "ano": 1963,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -353,34 +406,42 @@
     "cidade": "",
     "cooperativas": 531,
     "cooperados": 630316,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Pinho, 1966.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1987-geral",
-    "ano": 1987,
-    "geral": false,
+    "id_dados": "dad-brasil-1963-geral",
+    "ano": 1963,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 3388,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperativas": 5515,
+    "cooperados": 2879461,
+    "empregos": null,
+    "pac": null,
     "tags": [],
-    "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1990/assoc1990_aeb_04.pdf",
-    "note": "Não há informações extras"
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
+    "fonte": "Pinho, 1966.",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1987-agropecuario",
+    "id_dados": "dad-brasil-1987-agropecuario",
     "ano": 1987,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -388,35 +449,53 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 1224,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1990/assoc1990_aeb_04.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1990/assoc1990_aeb_04.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1990/assoc1990_aeb_04.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1988-geral",
-    "ano": 1988,
-    "geral": false,
+    "id_dados": "dad-brasil-1987-geral",
+    "ano": 1987,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 4406,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperativas": 3388,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1990/assoc1990_aeb_04.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1990/assoc1990_aeb_04.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1991/assoc1991_aeb_01.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1988-agropecuario",
+    "id_dados": "dad-brasil-1988-agropecuario",
     "ano": 1988,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -425,16 +504,25 @@
     "cidade": "",
     "cooperativas": 1742,
     "cooperados": 1258646,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1991/assoc1991_aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1991/assoc1991_aeb_01.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1991/assoc1991_aeb_01.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1988-credito",
+    "id_dados": "dad-brasil-1988-credito",
     "ano": 1988,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -443,16 +531,52 @@
     "cidade": "",
     "cooperativas": 662,
     "cooperados": 742705,
-    "empregos": 0,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1991/assoc1991_aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1991/assoc1991_aeb_01.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1991/assoc1991_aeb_01.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1990-geral",
+    "id_dados": "dad-brasil-1988-geral",
+    "ano": 1988,
+    "ramo": "Geral",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 4406,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1991/assoc1991_aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1991/assoc1991_aeb_01.pdf"
+      }
+    ],
+    "fonte": "IBGE (Autorizadas)",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-1990-geral",
     "ano": 1990,
-    "geral": false,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -460,35 +584,21 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 3440,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Ninaut, Evandro Scheid. História e evolução do cooperativismo Brasileiro. Apresentação de Slides. 5º Seminário Banco Central sobre Microfinanças. OCB, 2006.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1991-geral",
+    "id_dados": "dad-brasil-1991-agropecuario",
     "ano": 1991,
-    "geral": false,
-    "ramo": "Geral",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 3529,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1992/assoc1992_aeb_01.pdf",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-1991-agropecuario",
-    "ano": 1991,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -496,17 +606,26 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 1438,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1992/assoc1992_aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1992/assoc1992_aeb_01.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1992/assoc1992_aeb_01.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1991-credito",
+    "id_dados": "dad-brasil-1991-credito",
     "ano": 1991,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -514,35 +633,53 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 724,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1992/assoc1992_aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1992/assoc1992_aeb_01.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1992/assoc1992_aeb_01.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1992-geral",
-    "ano": 1992,
-    "geral": false,
+    "id_dados": "dad-brasil-1991-geral",
+    "ano": 1991,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 3548,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperativas": 3529,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1992/assoc1992_aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1992/assoc1992_aeb_01.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1993/assoc1993m_aeb_01.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1992-agropecuario",
+    "id_dados": "dad-brasil-1992-agropecuario",
     "ano": 1992,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -550,17 +687,26 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 1393,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1993/assoc1993m_aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1993/assoc1993m_aeb_01.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1993/assoc1993m_aeb_01.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1992-credito",
+    "id_dados": "dad-brasil-1992-credito",
     "ano": 1992,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -568,35 +714,53 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 741,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1993/assoc1993m_aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1993/assoc1993m_aeb_01.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1993/assoc1993m_aeb_01.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1993-geral",
-    "ano": 1993,
-    "geral": false,
+    "id_dados": "dad-brasil-1992-geral",
+    "ano": 1992,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 3608,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperativas": 3548,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1993/assoc1993m_aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1993/assoc1993m_aeb_01.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1994/assoc1994aeb_01.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1993-agropecuario",
+    "id_dados": "dad-brasil-1993-agropecuario",
     "ano": 1993,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -604,17 +768,26 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 1344,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1994/assoc1994aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1994/assoc1994aeb_01.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1994/assoc1994aeb_01.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1993-credito",
+    "id_dados": "dad-brasil-1993-credito",
     "ano": 1993,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -622,17 +795,53 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 786,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1994/assoc1994aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1994/assoc1994aeb_01.pdf"
+      }
+    ],
     "fonte": "IBGE (Autorizadas)",
-    "link": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1994/assoc1994aeb_01.pdf",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1994-geral",
+    "id_dados": "dad-brasil-1993-geral",
+    "ano": 1993,
+    "ramo": "Geral",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 3608,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1994/assoc1994aeb_01.pdf",
+        "url": "https://seculoxx.ibge.gov.br/images/seculoxx/arquivos_download/associativismo/1994/assoc1994aeb_01.pdf"
+      }
+    ],
+    "fonte": "IBGE (Autorizadas)",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-1994-geral",
     "ano": 1994,
-    "geral": false,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -640,35 +849,21 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 3701,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Ninaut, 2006.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1995-geral",
+    "id_dados": "dad-brasil-1995-agropecuario",
     "ano": 1995,
-    "geral": false,
-    "ramo": "Geral",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 3928,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "Ninaut, 2006.",
-    "link": "",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-1995-agropecuario",
-    "ano": 1995,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -676,17 +871,21 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 1362,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1995-credito",
+    "id_dados": "dad-brasil-1995-credito",
     "ano": 1995,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -694,35 +893,43 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 834,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1996-geral",
-    "ano": 1996,
-    "geral": false,
+    "id_dados": "dad-brasil-1995-geral",
+    "ano": 1995,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 4263,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperativas": 3928,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Ninaut, 2006.",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1996-agropecuario",
+    "id_dados": "dad-brasil-1996-agropecuario",
     "ano": 1996,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -730,17 +937,21 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 1401,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1996-credito",
+    "id_dados": "dad-brasil-1996-credito",
     "ano": 1996,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -748,35 +959,43 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 861,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1997-geral",
-    "ano": 1997,
-    "geral": false,
+    "id_dados": "dad-brasil-1996-geral",
+    "ano": 1996,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 4851,
-    "cooperados": 3876744,
-    "empregos": 151129,
+    "cooperativas": 4263,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Ninaut, 2006.",
-    "link": "",
-    "note": ""
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1997-agropecuario",
+    "id_dados": "dad-brasil-1997-agropecuario",
     "ano": 1997,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -786,15 +1005,19 @@
     "cooperativas": 1388,
     "cooperados": 915639,
     "empregos": 114967,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1997-credito",
+    "id_dados": "dad-brasil-1997-credito",
     "ano": 1997,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -804,33 +1027,41 @@
     "cooperativas": 859,
     "cooperados": 699288,
     "empregos": 5445,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1998-geral",
-    "ano": 1998,
-    "geral": false,
+    "id_dados": "dad-brasil-1997-geral",
+    "ano": 1997,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 5102,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperativas": 4851,
+    "cooperados": 3876744,
+    "empregos": 151129,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Ninaut, 2006.",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1998-agropecuario",
+    "id_dados": "dad-brasil-1998-agropecuario",
     "ano": 1998,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -838,17 +1069,21 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 1424,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1998-credito",
+    "id_dados": "dad-brasil-1998-credito",
     "ano": 1998,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -856,35 +1091,43 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 889,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1999-geral",
-    "ano": 1999,
-    "geral": false,
+    "id_dados": "dad-brasil-1998-geral",
+    "ano": 1998,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 5652,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperativas": 5102,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Ninaut, 2006.",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1999-agropecuario",
+    "id_dados": "dad-brasil-1999-agropecuario",
     "ano": 1999,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -892,17 +1135,21 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 1458,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-1999-credito",
+    "id_dados": "dad-brasil-1999-credito",
     "ano": 1999,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -910,35 +1157,43 @@
     "estado": "",
     "cidade": "",
     "cooperativas": 920,
-    "cooperados": 0,
-    "empregos": 0,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2000-geral",
-    "ano": 2000,
-    "geral": false,
+    "id_dados": "dad-brasil-1999-geral",
+    "ano": 1999,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 5903,
-    "cooperados": 4649000,
-    "empregos": 169393,
+    "cooperativas": 5652,
+    "cooperados": null,
+    "empregos": null,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Ninaut, 2006.",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2000-agropecuario",
+    "id_dados": "dad-brasil-2000-agropecuario",
     "ano": 2000,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -948,15 +1203,19 @@
     "cooperativas": 1411,
     "cooperados": 831654,
     "empregos": 108223,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2000-credito",
+    "id_dados": "dad-brasil-2000-credito",
     "ano": 2000,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -966,15 +1225,41 @@
     "cooperativas": 938,
     "cooperados": 1040355,
     "empregos": 15924,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2001-geral",
+    "id_dados": "dad-brasil-2000-geral",
+    "ano": 2000,
+    "ramo": "Geral",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 5903,
+    "cooperados": 4649000,
+    "empregos": 169393,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
+    "fonte": "Ninaut, 2006.",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2001-geral",
     "ano": 2001,
-    "geral": false,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -984,15 +1269,63 @@
     "cooperativas": 7026,
     "cooperados": 4779000,
     "empregos": 175412,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Ninaut, 2006.",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2002-geral",
+    "id_dados": "dad-brasil-2002-agropecuario",
     "ano": 2002,
-    "geral": false,
+    "ramo": "Agropecuário",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 1624,
+    "cooperados": 865494,
+    "empregos": null,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
+    "fonte": "",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2002-credito",
+    "ano": 2002,
+    "ramo": "Crédito",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 1066,
+    "cooperados": 1127955,
+    "empregos": null,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
+    "fonte": "",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2002-geral",
+    "ano": 2002,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1002,51 +1335,19 @@
     "cooperativas": 7549,
     "cooperados": 5259000,
     "empregos": 171395,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Ninaut, 2006.",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2002-agropecuario",
-    "ano": 2002,
-    "geral": false,
-    "ramo": "Agropecuário",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 1624,
-    "cooperados": 865494,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "",
-    "link": "",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2002-credito",
-    "ano": 2002,
-    "geral": false,
-    "ramo": "Crédito",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 1066,
-    "cooperados": 1127955,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "",
-    "link": "",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2003-geral",
+    "id_dados": "dad-brasil-2003-geral",
     "ano": 2003,
-    "geral": false,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1056,33 +1357,19 @@
     "cooperativas": 7355,
     "cooperados": 5763000,
     "empregos": 182026,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "Ninaut, 2006.",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2004-geral",
+    "id_dados": "dad-brasil-2004-agropecuario",
     "ano": 2004,
-    "geral": false,
-    "ramo": "Geral",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 7136,
-    "cooperados": 6159658,
-    "empregos": 195100,
-    "tags": [],
-    "fonte": "Ninaut, 2006.",
-    "link": "",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2004-agropecuario",
-    "ano": 2004,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1092,15 +1379,19 @@
     "cooperativas": 1398,
     "cooperados": 865173,
     "empregos": 116919,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2004-credito",
+    "id_dados": "dad-brasil-2004-credito",
     "ano": 2004,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1110,33 +1401,41 @@
     "cooperativas": 1068,
     "cooperados": 1890713,
     "empregos": 26068,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
     "fonte": "",
-    "link": "",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2005-geral",
-    "ano": 2005,
-    "geral": false,
+    "id_dados": "dad-brasil-2004-geral",
+    "ano": 2004,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 7518,
-    "cooperados": 6791054,
-    "empregos": 199680,
+    "cooperativas": 7136,
+    "cooperados": 6159658,
+    "empregos": 195100,
+    "pac": null,
     "tags": [],
-    "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [],
+    "fonte": "Ninaut, 2006.",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2005-agropecuario",
+    "id_dados": "dad-brasil-2005-agropecuario",
     "ano": 2005,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1146,15 +1445,24 @@
     "cooperativas": 1514,
     "cooperados": 879918,
     "empregos": 123368,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2005-credito",
+    "id_dados": "dad-brasil-2005-credito",
     "ano": 2005,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1164,33 +1472,51 @@
     "cooperativas": 1101,
     "cooperados": 2164499,
     "empregos": 20555,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2006-geral",
-    "ano": 2006,
-    "geral": false,
+    "id_dados": "dad-brasil-2005-geral",
+    "ano": 2005,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 7603,
-    "cooperados": 7393075,
-    "empregos": 218415,
+    "cooperativas": 7518,
+    "cooperados": 6791054,
+    "empregos": 199680,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2006-agropecuario",
+    "id_dados": "dad-brasil-2006-agropecuario",
     "ano": 2006,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1200,15 +1526,24 @@
     "cooperativas": 1549,
     "cooperados": 886076,
     "empregos": 123890,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2006-credito",
+    "id_dados": "dad-brasil-2006-credito",
     "ano": 2006,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1218,33 +1553,51 @@
     "cooperativas": 1102,
     "cooperados": 2462875,
     "empregos": 30396,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2007-geral",
-    "ano": 2007,
-    "geral": false,
+    "id_dados": "dad-brasil-2006-geral",
+    "ano": 2006,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 7672,
-    "cooperados": 7678568,
-    "empregos": 250961,
+    "cooperativas": 7603,
+    "cooperados": 7393075,
+    "empregos": 218415,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2007-agropecuario",
+    "id_dados": "dad-brasil-2007-agropecuario",
     "ano": 2007,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1254,15 +1607,24 @@
     "cooperativas": 1544,
     "cooperados": 979649,
     "empregos": 139608,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2007-credito",
+    "id_dados": "dad-brasil-2007-credito",
     "ano": 2007,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1272,33 +1634,51 @@
     "cooperativas": 1148,
     "cooperados": 2851426,
     "empregos": 37266,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2008-geral",
-    "ano": 2008,
-    "geral": false,
+    "id_dados": "dad-brasil-2007-geral",
+    "ano": 2007,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 7682,
-    "cooperados": 7887707,
-    "empregos": 254556,
+    "cooperativas": 7672,
+    "cooperados": 7678568,
+    "empregos": 250961,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2008-agropecuario",
+    "id_dados": "dad-brasil-2008-agropecuario",
     "ano": 2008,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1308,15 +1688,24 @@
     "cooperativas": 1611,
     "cooperados": 968767,
     "empregos": 134579,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2008-credito",
+    "id_dados": "dad-brasil-2008-credito",
     "ano": 2008,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1326,33 +1715,51 @@
     "cooperativas": 1113,
     "cooperados": 3215866,
     "empregos": 38796,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2009-geral",
-    "ano": 2009,
-    "geral": false,
+    "id_dados": "dad-brasil-2008-geral",
+    "ano": 2008,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 7261,
-    "cooperados": 8252410,
-    "empregos": 274190,
+    "cooperativas": 7682,
+    "cooperados": 7887707,
+    "empregos": 254556,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2009-agropecuario",
+    "id_dados": "dad-brasil-2009-agropecuario",
     "ano": 2009,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1362,15 +1769,24 @@
     "cooperativas": 1615,
     "cooperados": 942147,
     "empregos": 138829,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2009-credito",
+    "id_dados": "dad-brasil-2009-credito",
     "ano": 2009,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1380,33 +1796,51 @@
     "cooperativas": 1100,
     "cooperados": 3497735,
     "empregos": 42802,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2010-geral",
-    "ano": 2010,
-    "geral": false,
+    "id_dados": "dad-brasil-2009-geral",
+    "ano": 2009,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 6652,
-    "cooperados": 9016527,
-    "empregos": 298182,
+    "cooperativas": 7261,
+    "cooperados": 8252410,
+    "empregos": 274190,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2010-agropecuario",
+    "id_dados": "dad-brasil-2010-agropecuario",
     "ano": 2010,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1416,15 +1850,24 @@
     "cooperativas": 1548,
     "cooperados": 943054,
     "empregos": 146011,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2010-credito",
+    "id_dados": "dad-brasil-2010-credito",
     "ano": 2010,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1434,33 +1877,51 @@
     "cooperativas": 1064,
     "cooperados": 4019528,
     "empregos": 56178,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2011-geral",
-    "ano": 2011,
-    "geral": false,
+    "id_dados": "dad-brasil-2010-geral",
+    "ano": 2010,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 6586,
-    "cooperados": 10008835,
-    "empregos": 296286,
+    "cooperativas": 6652,
+    "cooperados": 9016527,
+    "empregos": 298182,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2011-agropecuario",
+    "id_dados": "dad-brasil-2011-agropecuario",
     "ano": 2011,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1470,15 +1931,24 @@
     "cooperativas": 1523,
     "cooperados": 969541,
     "empregos": 155896,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2011-credito",
+    "id_dados": "dad-brasil-2011-credito",
     "ano": 2011,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1488,33 +1958,51 @@
     "cooperativas": 1047,
     "cooperados": 4673174,
     "empregos": 33988,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2012-geral",
-    "ano": 2012,
-    "geral": false,
+    "id_dados": "dad-brasil-2011-geral",
+    "ano": 2011,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 6603,
-    "cooperados": 11081977,
-    "empregos": 321467,
+    "cooperativas": 6586,
+    "cooperados": 10008835,
+    "empregos": 296286,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2012-agropecuario",
+    "id_dados": "dad-brasil-2012-agropecuario",
     "ano": 2012,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1524,15 +2012,24 @@
     "cooperativas": 1561,
     "cooperados": 1006197,
     "empregos": 164223,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2012-credito",
+    "id_dados": "dad-brasil-2012-credito",
     "ano": 2012,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1542,34 +2039,51 @@
     "cooperativas": 1042,
     "cooperados": 5487098,
     "empregos": 38132,
+    "pac": 3723,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
+        "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf"
+      }
+    ],
     "fonte": "Anuário OCEMG + BCB",
-    "link": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
-    "note": "",
-    "pac": 3723
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2013-geral",
-    "ano": 2013,
-    "geral": false,
+    "id_dados": "dad-brasil-2012-geral",
+    "ano": 2012,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 6827,
-    "cooperados": 11575882,
-    "empregos": 336731,
+    "cooperativas": 6603,
+    "cooperados": 11081977,
+    "empregos": 321467,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2013-agropecuario",
+    "id_dados": "dad-brasil-2013-agropecuario",
     "ano": 2013,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1579,15 +2093,24 @@
     "cooperativas": 1597,
     "cooperados": 1007000,
     "empregos": 161483,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2013-credito",
+    "id_dados": "dad-brasil-2013-credito",
     "ano": 2013,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1597,34 +2120,51 @@
     "cooperativas": 1034,
     "cooperados": 5808064,
     "empregos": 40359,
+    "pac": 3947,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
+        "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf"
+      }
+    ],
     "fonte": "Anuário OCEMG + BCB",
-    "link": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
-    "note": "",
-    "pac": 3947
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2014-geral",
-    "ano": 2014,
-    "geral": false,
+    "id_dados": "dad-brasil-2013-geral",
+    "ano": 2013,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 6582,
-    "cooperados": 12771787,
-    "empregos": 361887,
+    "cooperativas": 6827,
+    "cooperados": 11575882,
+    "empregos": 336731,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2014-agropecuario",
+    "id_dados": "dad-brasil-2014-agropecuario",
     "ano": 2014,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1634,15 +2174,24 @@
     "cooperativas": 1677,
     "cooperados": 979306,
     "empregos": 180955,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2014-credito",
+    "id_dados": "dad-brasil-2014-credito",
     "ano": 2014,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1652,34 +2201,51 @@
     "cooperativas": 999,
     "cooperados": 6978511,
     "empregos": 74146,
+    "pac": 4213,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
+        "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf"
+      }
+    ],
     "fonte": "Anuário OCEMG + BCB",
-    "link": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
-    "note": "",
-    "pac": 4213
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2015-geral",
-    "ano": 2015,
-    "geral": false,
+    "id_dados": "dad-brasil-2014-geral",
+    "ano": 2014,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 6655,
-    "cooperados": 13230960,
-    "empregos": 376795,
+    "cooperativas": 6582,
+    "cooperados": 12771787,
+    "empregos": 361887,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2015-agropecuario",
+    "id_dados": "dad-brasil-2015-agropecuario",
     "ano": 2015,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1689,15 +2255,24 @@
     "cooperativas": 1555,
     "cooperados": 1016606,
     "empregos": 188777,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2015-credito",
+    "id_dados": "dad-brasil-2015-credito",
     "ano": 2015,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1707,53 +2282,78 @@
     "cooperativas": 976,
     "cooperados": 7476308,
     "empregos": 50268,
+    "pac": 4470,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
+        "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf"
+      }
+    ],
     "fonte": "Anuário OCEMG + BCB",
-    "link": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
-    "note": "",
-    "pac": 4470
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2016-credito",
-    "ano": 2016,
-    "geral": false,
-    "ramo": "Crédito",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 0,
-    "cooperados": 0,
-    "empregos": 0,
-    "tags": [],
-    "fonte": "Anuário OCEMG + BCB",
-    "link": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
-    "note": "Não há informações extras",
-    "pac": 4687
-  },
-  {
-    "id": "dad-brasil-2017-geral",
-    "ano": 2017,
-    "geral": false,
+    "id_dados": "dad-brasil-2015-geral",
+    "ano": 2015,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 6887,
-    "cooperados": 14267483,
-    "empregos": 398110,
+    "cooperativas": 6655,
+    "cooperados": 13230960,
+    "empregos": 376795,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": "Não há informações extras"
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2017-agropecuario",
+    "id_dados": "dad-brasil-2016-credito",
+    "ano": 2016,
+    "ramo": "Crédito",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": null,
+    "cooperados": null,
+    "empregos": null,
+    "pac": 4687,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf",
+        "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/coopcredpanorama/panorama_de_cooperativas.pdf"
+      }
+    ],
+    "fonte": "Anuário OCEMG + BCB",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2017-agropecuario",
     "ano": 2017,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1763,15 +2363,24 @@
     "cooperativas": 1618,
     "cooperados": 1017481,
     "empregos": 198654,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2017-credito",
+    "id_dados": "dad-brasil-2017-credito",
     "ano": 2017,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1781,34 +2390,51 @@
     "cooperativas": 929,
     "cooperados": 8941967,
     "empregos": 60237,
+    "pac": 4935,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio"
+      }
+    ],
     "fonte": "Anuário OCB 2026 + BCB",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
-    "note": "Não há informações extras",
-    "pac": 4935
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2018-geral",
-    "ano": 2018,
-    "geral": false,
+    "id_dados": "dad-brasil-2017-geral",
+    "ano": 2017,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
     "pais": "Brasil",
     "estado": "",
     "cidade": "",
-    "cooperativas": 6828,
-    "cooperados": 14618720,
-    "empregos": 425300,
+    "cooperativas": 6887,
+    "cooperados": 14267483,
+    "empregos": 398110,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2018-agropecuario",
+    "id_dados": "dad-brasil-2018-agropecuario",
     "ano": 2018,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1818,15 +2444,24 @@
     "cooperativas": 1613,
     "cooperados": 1021019,
     "empregos": 209778,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
     "fonte": "Anuário OCEMG",
-    "link": "https://sistemaocemg.coop.br/publicacoes/",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2018-credito",
+    "id_dados": "dad-brasil-2018-credito",
     "ano": 2018,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1836,16 +2471,51 @@
     "cooperativas": 909,
     "cooperados": 9840977,
     "empregos": 67267,
+    "pac": 5390,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio"
+      }
+    ],
     "fonte": "Anuário OCB 2026 + BCB",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
-    "note": "Não há informações extras",
-    "pac": 5390
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2019-agropecuario",
+    "id_dados": "dad-brasil-2018-geral",
+    "ano": 2018,
+    "ramo": "Geral",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 6828,
+    "cooperados": 14618720,
+    "empregos": 425300,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://sistemaocemg.coop.br/publicacoes/",
+        "url": "https://sistemaocemg.coop.br/publicacoes/"
+      }
+    ],
+    "fonte": "Anuário OCEMG",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2019-agropecuario",
     "ano": 2019,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1855,24 +2525,31 @@
     "cooperativas": 1223,
     "cooperados": 992111,
     "empregos": 207201,
+    "pac": null,
     "tags": [
       "censo",
       "brasil",
       "consolidado",
       "aula-01"
     ],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras",
     "ref_id": [
       "per-theodor-amstad"
     ],
-    "ref_tipo": ""
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2019-consumo",
+    "id_dados": "dad-brasil-2019-consumo",
     "ano": 2019,
-    "geral": false,
     "ramo": "Consumo",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1882,19 +2559,28 @@
     "cooperativas": 263,
     "cooperados": 2025545,
     "empregos": 14841,
+    "pac": null,
     "tags": [
       "serie-historica",
       "brasil",
       "consolidado"
     ],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2019-credito",
+    "id_dados": "dad-brasil-2019-credito",
     "ano": 2019,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -1904,6 +2590,7 @@
     "cooperativas": 827,
     "cooperados": 10786317,
     "empregos": 71740,
+    "pac": 6050,
     "tags": [
       "crédito",
       "sicoob",
@@ -1911,115 +2598,22 @@
       "inclusao",
       "aula-02"
     ],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio"
+      }
+    ],
     "fonte": "Anuário OCB 2026 + BCB",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
-    "note": "Não há informações extras",
-    "pac": 6050
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2019-infraestrutura",
+    "id_dados": "dad-brasil-2019-geral",
     "ano": 2019,
-    "geral": false,
-    "ramo": "Infraestrutura",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 265,
-    "cooperados": 1138786,
-    "empregos": 7315,
-    "tags": [
-      "agro",
-      "cooperativismo rural",
-      "exportacao",
-      "aula-03"
-    ],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2019-saude",
-    "ano": 2019,
-    "geral": false,
-    "ramo": "Saúde",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 783,
-    "cooperados": 275915,
-    "empregos": 108189,
-    "tags": [
-      "minas gerais",
-      "ocemg",
-      "regional",
-      "aula-04"
-    ],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras",
-    "ref_id": [
-      "per-friedrich-raiffeisen"
-    ],
-    "ref_tipo": ""
-  },
-  {
-    "id": "dad-brasil-2019-trabalhoebensdeconsumo",
-    "ano": 2019,
-    "geral": false,
-    "ramo": "Trabalho e Bens de Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 860,
-    "cooperados": 221134,
-    "empregos": 9759,
-    "tags": [
-      "transporte",
-      "contagem",
-      "municipal",
-      "mobilidade"
-    ],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2019-transporte",
-    "ano": 2019,
-    "geral": false,
-    "ramo": "Transporte",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 1093,
-    "cooperados": 99568,
-    "empregos": 8531,
-    "tags": [
-      "alemanha",
-      "raiffeisen",
-      "dgv",
-      "europa"
-    ],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras",
-    "ref_id": [
-      "per-theodor-amstad"
-    ],
-    "ref_tipo": ""
-  },
-  {
-    "id": "dad-brasil-2019-geral",
-    "ano": 2019,
-    "geral": false,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2029,15 +2623,156 @@
     "cooperativas": 5314,
     "cooperados": 15539376,
     "empregos": 427576,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2020-agropecuario",
+    "id_dados": "dad-brasil-2019-infraestrutura",
+    "ano": 2019,
+    "ramo": "Infraestrutura",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 265,
+    "cooperados": 1138786,
+    "empregos": 7315,
+    "pac": null,
+    "tags": [
+      "agro",
+      "cooperativismo rural",
+      "exportacao",
+      "aula-03"
+    ],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2019-saude",
+    "ano": 2019,
+    "ramo": "Saúde",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 783,
+    "cooperados": 275915,
+    "empregos": 108189,
+    "pac": null,
+    "tags": [
+      "minas gerais",
+      "ocemg",
+      "regional",
+      "aula-04"
+    ],
+    "ref_id": [
+      "per-friedrich-raiffeisen"
+    ],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2019-trabalhoebensdeconsumo",
+    "ano": 2019,
+    "ramo": "Trabalho e Bens de Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 860,
+    "cooperados": 221134,
+    "empregos": 9759,
+    "pac": null,
+    "tags": [
+      "transporte",
+      "contagem",
+      "municipal",
+      "mobilidade"
+    ],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2019-transporte",
+    "ano": 2019,
+    "ramo": "Transporte",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 1093,
+    "cooperados": 99568,
+    "empregos": 8531,
+    "pac": null,
+    "tags": [
+      "alemanha",
+      "raiffeisen",
+      "dgv",
+      "europa"
+    ],
+    "ref_id": [
+      "per-theodor-amstad"
+    ],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2020-agropecuario",
     "ano": 2020,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2047,15 +2782,24 @@
     "cooperativas": 1173,
     "cooperados": 1001341,
     "empregos": 223477,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2020-consumo",
+    "id_dados": "dad-brasil-2020-consumo",
     "ano": 2020,
-    "geral": false,
     "ramo": "Consumo",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2065,15 +2809,24 @@
     "cooperativas": 247,
     "cooperados": 2108756,
     "empregos": 14427,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2020-credito",
+    "id_dados": "dad-brasil-2020-credito",
     "ano": 2020,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2083,92 +2836,24 @@
     "cooperativas": 775,
     "cooperados": 11966563,
     "empregos": 79121,
+    "pac": 6483,
     "tags": [],
-    "fonte": "Anuário OCB 2026 + BCB",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
-    "note": "Não há informações extras",
-    "pac": 6483
-  },
-  {
-    "id": "dad-brasil-2020-infraestrutura",
-    "ano": 2020,
-    "geral": false,
-    "ramo": "Infraestrutura",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 246,
-    "cooperados": 1481493,
-    "empregos": 7336,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2020-saude",
-    "ano": 2020,
-    "geral": false,
-    "ramo": "Saúde",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 758,
-    "cooperados": 292971,
-    "empregos": 116559,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2020-trabalhoebensdeconsumo",
-    "ano": 2020,
-    "geral": false,
-    "ramo": "Trabalho e Bens de Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 685,
-    "cooperados": 180074,
-    "empregos": 8714,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2020-transporte",
-    "ano": 2020,
-    "geral": false,
-    "ramo": "Transporte",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 984,
-    "cooperados": 89857,
-    "empregos": 5461,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras",
-    "ref_id": [
-      "maria-araujo"
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio"
+      }
     ],
-    "ref_tipo": ""
+    "fonte": "Anuário OCB 2026 + BCB",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2020-geral",
+    "id_dados": "dad-brasil-2020-geral",
     "ano": 2020,
-    "geral": false,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2178,15 +2863,134 @@
     "cooperativas": 4868,
     "cooperados": 17121055,
     "empregos": 455095,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2021-agropecuario",
+    "id_dados": "dad-brasil-2020-infraestrutura",
+    "ano": 2020,
+    "ramo": "Infraestrutura",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 246,
+    "cooperados": 1481493,
+    "empregos": 7336,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2020-saude",
+    "ano": 2020,
+    "ramo": "Saúde",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 758,
+    "cooperados": 292971,
+    "empregos": 116559,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2020-trabalhoebensdeconsumo",
+    "ano": 2020,
+    "ramo": "Trabalho e Bens de Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 685,
+    "cooperados": 180074,
+    "empregos": 8714,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2020-transporte",
+    "ano": 2020,
+    "ramo": "Transporte",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 984,
+    "cooperados": 89857,
+    "empregos": 5461,
+    "pac": null,
+    "tags": [],
+    "ref_id": [
+      "maria-araujo"
+    ],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2021-agropecuario",
     "ano": 2021,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2196,15 +3000,24 @@
     "cooperativas": 1170,
     "cooperados": 1024605,
     "empregos": 239628,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2021-consumo",
+    "id_dados": "dad-brasil-2021-consumo",
     "ano": 2021,
-    "geral": false,
     "ramo": "Consumo",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2214,15 +3027,24 @@
     "cooperativas": 247,
     "cooperados": 2053622,
     "empregos": 14896,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2021-credito",
+    "id_dados": "dad-brasil-2021-credito",
     "ano": 2021,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2232,92 +3054,24 @@
     "cooperativas": 763,
     "cooperados": 13956975,
     "empregos": 89381,
+    "pac": 7252,
     "tags": [],
-    "fonte": "Anuário OCB 2026 + BCB",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
-    "note": "Não há informações extras",
-    "pac": 7252
-  },
-  {
-    "id": "dad-brasil-2021-infraestrutura",
-    "ano": 2021,
-    "geral": false,
-    "ramo": "Infraestrutura",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 263,
-    "cooperados": 1241109,
-    "empregos": 7026,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2021-saude",
-    "ano": 2021,
-    "geral": false,
-    "ramo": "Saúde",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 767,
-    "cooperados": 318704,
-    "empregos": 126796,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2021-trabalhoebensdeconsumo",
-    "ano": 2021,
-    "geral": false,
-    "ramo": "Trabalho e Bens de Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 688,
-    "cooperados": 192874,
-    "empregos": 9750,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras",
-    "ref_id": [
-      "per-friedrich-raiffeisen"
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio"
+      }
     ],
-    "ref_tipo": ""
+    "fonte": "Anuário OCB 2026 + BCB",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2021-transporte",
+    "id_dados": "dad-brasil-2021-geral",
     "ano": 2021,
-    "geral": false,
-    "ramo": "Transporte",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 982,
-    "cooperados": 99279,
-    "empregos": 5800,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2021-geral",
-    "ano": 2021,
-    "geral": false,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2327,19 +3081,136 @@
     "cooperativas": 4880,
     "cooperados": 18887168,
     "empregos": 493277,
+    "pac": null,
     "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras",
     "ref_id": [
       "per-friedrich-raiffeisen"
     ],
-    "ref_tipo": ""
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2022-agropecuario",
+    "id_dados": "dad-brasil-2021-infraestrutura",
+    "ano": 2021,
+    "ramo": "Infraestrutura",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 263,
+    "cooperados": 1241109,
+    "empregos": 7026,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2021-saude",
+    "ano": 2021,
+    "ramo": "Saúde",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 767,
+    "cooperados": 318704,
+    "empregos": 126796,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2021-trabalhoebensdeconsumo",
+    "ano": 2021,
+    "ramo": "Trabalho e Bens de Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 688,
+    "cooperados": 192874,
+    "empregos": 9750,
+    "pac": null,
+    "tags": [],
+    "ref_id": [
+      "per-friedrich-raiffeisen"
+    ],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2021-transporte",
+    "ano": 2021,
+    "ramo": "Transporte",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 982,
+    "cooperados": 99279,
+    "empregos": 5800,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2022-agropecuario",
     "ano": 2022,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2349,19 +3220,26 @@
     "cooperativas": 1185,
     "cooperados": 1011023,
     "empregos": 249584,
+    "pac": null,
     "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras",
     "ref_id": [
       "per-friedrich-raiffeisen"
     ],
-    "ref_tipo": ""
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2022-consumo",
+    "id_dados": "dad-brasil-2022-consumo",
     "ano": 2022,
-    "geral": false,
     "ramo": "Consumo",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2371,15 +3249,24 @@
     "cooperativas": 235,
     "cooperados": 2149713,
     "empregos": 14558,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2022-credito",
+    "id_dados": "dad-brasil-2022-credito",
     "ano": 2022,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2389,88 +3276,24 @@
     "cooperativas": 728,
     "cooperados": 15501804,
     "empregos": 99331,
+    "pac": 8333,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio"
+      }
+    ],
     "fonte": "Anuário OCB 2026 + BCB",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
-    "note": "Não há informações extras",
-    "pac": 8333
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2022-infraestrutura",
+    "id_dados": "dad-brasil-2022-geral",
     "ano": 2022,
-    "geral": false,
-    "ramo": "Infraestrutura",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 284,
-    "cooperados": 1293467,
-    "empregos": 7061,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2022-saude",
-    "ano": 2022,
-    "geral": false,
-    "ramo": "Saúde",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 720,
-    "cooperados": 253667,
-    "empregos": 135633,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2022-trabalhoebensdeconsumo",
-    "ano": 2022,
-    "geral": false,
-    "ramo": "Trabalho e Bens de Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 655,
-    "cooperados": 182783,
-    "empregos": 12407,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2022-transporte",
-    "ano": 2022,
-    "geral": false,
-    "ramo": "Transporte",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 886,
-    "cooperados": 96697,
-    "empregos": 5748,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
-  },
-  {
-    "id": "dad-brasil-2022-geral",
-    "ano": 2022,
-    "geral": false,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2480,15 +3303,132 @@
     "cooperativas": 4693,
     "cooperados": 20489154,
     "empregos": 524322,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2023-agropecuario",
+    "id_dados": "dad-brasil-2022-infraestrutura",
+    "ano": 2022,
+    "ramo": "Infraestrutura",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 284,
+    "cooperados": 1293467,
+    "empregos": 7061,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2022-saude",
+    "ano": 2022,
+    "ramo": "Saúde",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 720,
+    "cooperados": 253667,
+    "empregos": 135633,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2022-trabalhoebensdeconsumo",
+    "ano": 2022,
+    "ramo": "Trabalho e Bens de Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 655,
+    "cooperados": 182783,
+    "empregos": 12407,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2022-transporte",
+    "ano": 2022,
+    "ramo": "Transporte",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 886,
+    "cooperados": 96697,
+    "empregos": 5748,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2023-agropecuario",
     "ano": 2023,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2498,15 +3438,24 @@
     "cooperativas": 1179,
     "cooperados": 1047068,
     "empregos": 257137,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2023-consumo",
+    "id_dados": "dad-brasil-2023-consumo",
     "ano": 2023,
-    "geral": false,
     "ramo": "Consumo",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2516,15 +3465,24 @@
     "cooperativas": 221,
     "cooperados": 2347402,
     "empregos": 16006,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": "Não há informações extras"
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2023-credito",
+    "id_dados": "dad-brasil-2023-credito",
     "ano": 2023,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2534,88 +3492,24 @@
     "cooperativas": 700,
     "cooperados": 17946703,
     "empregos": 111911,
+    "pac": 9048,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio"
+      }
+    ],
     "fonte": "Anuário OCB 2026 + BCB",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
-    "note": "Não há informações extras",
-    "pac": 9048
+    "nota": "Não há informações extras",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2023-infraestrutura",
+    "id_dados": "dad-brasil-2023-geral",
     "ano": 2023,
-    "geral": false,
-    "ramo": "Infraestrutura",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 276,
-    "cooperados": 1560375,
-    "empregos": 7009,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2023-saude",
-    "ano": 2023,
-    "geral": false,
-    "ramo": "Saúde",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 702,
-    "cooperados": 254505,
-    "empregos": 139772,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2023-trabalhoebensdeconsumo",
-    "ano": 2023,
-    "geral": false,
-    "ramo": "Trabalho e Bens de Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 641,
-    "cooperados": 193813,
-    "empregos": 12964,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2023-transporte",
-    "ano": 2023,
-    "geral": false,
-    "ramo": "Transporte",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 790,
-    "cooperados": 102839,
-    "empregos": 5812,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2023-geral",
-    "ano": 2023,
-    "geral": false,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2625,15 +3519,132 @@
     "cooperativas": 4509,
     "cooperados": 23452705,
     "empregos": 550611,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2024-agropecuario",
+    "id_dados": "dad-brasil-2023-infraestrutura",
+    "ano": 2023,
+    "ramo": "Infraestrutura",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 276,
+    "cooperados": 1560375,
+    "empregos": 7009,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2023-saude",
+    "ano": 2023,
+    "ramo": "Saúde",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 702,
+    "cooperados": 254505,
+    "empregos": 139772,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2023-trabalhoebensdeconsumo",
+    "ano": 2023,
+    "ramo": "Trabalho e Bens de Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 641,
+    "cooperados": 193813,
+    "empregos": 12964,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2023-transporte",
+    "ano": 2023,
+    "ramo": "Transporte",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 790,
+    "cooperados": 102839,
+    "empregos": 5812,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2024-agropecuario",
     "ano": 2024,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2643,15 +3654,24 @@
     "cooperativas": 1172,
     "cooperados": 1091560,
     "empregos": 268279,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2024-consumo",
+    "id_dados": "dad-brasil-2024-consumo",
     "ano": 2024,
-    "geral": false,
     "ramo": "Consumo",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2661,15 +3681,24 @@
     "cooperativas": 211,
     "cooperados": 2564460,
     "empregos": 16085,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2024-credito",
+    "id_dados": "dad-brasil-2024-credito",
     "ano": 2024,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2679,88 +3708,24 @@
     "cooperativas": 689,
     "cooperados": 20123965,
     "empregos": 121825,
+    "pac": 9472,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio"
+      }
+    ],
     "fonte": "Anuário OCB 2026 + BCB",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
-    "note": "",
-    "pac": 9472
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2024-infraestrutura",
+    "id_dados": "dad-brasil-2024-geral",
     "ano": 2024,
-    "geral": false,
-    "ramo": "Infraestrutura",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 264,
-    "cooperados": 1451793,
-    "empregos": 6963,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2024-saude",
-    "ano": 2024,
-    "geral": false,
-    "ramo": "Saúde",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 699,
-    "cooperados": 270430,
-    "empregos": 150841,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2024-trabalhoebensdeconsumo",
-    "ano": 2024,
-    "geral": false,
-    "ramo": "Trabalho e Bens de Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 597,
-    "cooperados": 187235,
-    "empregos": 8268,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2024-transporte",
-    "ano": 2024,
-    "geral": false,
-    "ramo": "Transporte",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 752,
-    "cooperados": 114878,
-    "empregos": 5773,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2024-geral",
-    "ano": 2024,
-    "geral": false,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2770,15 +3735,132 @@
     "cooperativas": 4384,
     "cooperados": 25804321,
     "empregos": 578034,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2025-agropecuario",
+    "id_dados": "dad-brasil-2024-infraestrutura",
+    "ano": 2024,
+    "ramo": "Infraestrutura",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 264,
+    "cooperados": 1451793,
+    "empregos": 6963,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2024-saude",
+    "ano": 2024,
+    "ramo": "Saúde",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 699,
+    "cooperados": 270430,
+    "empregos": 150841,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2024-trabalhoebensdeconsumo",
+    "ano": 2024,
+    "ramo": "Trabalho e Bens de Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 597,
+    "cooperados": 187235,
+    "empregos": 8268,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2024-transporte",
+    "ano": 2024,
+    "ramo": "Transporte",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 752,
+    "cooperados": 114878,
+    "empregos": 5773,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2025-agropecuario",
     "ano": 2025,
-    "geral": false,
     "ramo": "Agropecuário",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2788,15 +3870,24 @@
     "cooperativas": 1254,
     "cooperados": 1132303,
     "empregos": 277226,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2025-consumo",
+    "id_dados": "dad-brasil-2025-consumo",
     "ano": 2025,
-    "geral": false,
     "ramo": "Consumo",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2806,15 +3897,24 @@
     "cooperativas": 191,
     "cooperados": 2842302,
     "empregos": 15798,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2025-credito",
+    "id_dados": "dad-brasil-2025-credito",
     "ano": 2025,
-    "geral": false,
     "ramo": "Crédito",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2824,88 +3924,24 @@
     "cooperativas": 682,
     "cooperados": 22956981,
     "empregos": 134395,
+    "pac": 9822,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio"
+      }
+    ],
     "fonte": "Anuário OCB 2026 + BCB",
-    "link": "https://www.bcb.gov.br/estabilidadefinanceira/agenciasconsorcio",
-    "note": "",
-    "pac": 9822
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   },
   {
-    "id": "dad-brasil-2025-infraestrutura",
+    "id_dados": "dad-brasil-2025-geral",
     "ano": 2025,
-    "geral": false,
-    "ramo": "Infraestrutura",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 247,
-    "cooperados": 1476472,
-    "empregos": 7110,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2025-saude",
-    "ano": 2025,
-    "geral": false,
-    "ramo": "Saúde",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 695,
-    "cooperados": 304329,
-    "empregos": 162285,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2025-trabalhoebensdeconsumo",
-    "ano": 2025,
-    "geral": false,
-    "ramo": "Trabalho e Bens de Consumo",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 601,
-    "cooperados": 188451,
-    "empregos": 11184,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2025-transporte",
-    "ano": 2025,
-    "geral": false,
-    "ramo": "Transporte",
-    "origem": "Nacional",
-    "nivel": "Nacional",
-    "pais": "Brasil",
-    "estado": "",
-    "cidade": "",
-    "cooperativas": 730,
-    "cooperados": 128649,
-    "empregos": 5377,
-    "tags": [],
-    "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
-  },
-  {
-    "id": "dad-brasil-2025-geral",
-    "ano": 2025,
-    "geral": false,
     "ramo": "Geral",
     "origem": "Nacional",
     "nivel": "Nacional",
@@ -2915,9 +3951,127 @@
     "cooperativas": 4400,
     "cooperados": 29029487,
     "empregos": 613375,
+    "pac": null,
     "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
     "fonte": "Anuário OCB 2026",
-    "link": "https://somoscooperativismo.coop.br/anuariocoop",
-    "note": ""
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2025-infraestrutura",
+    "ano": 2025,
+    "ramo": "Infraestrutura",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 247,
+    "cooperados": 1476472,
+    "empregos": 7110,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2025-saude",
+    "ano": 2025,
+    "ramo": "Saúde",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 695,
+    "cooperados": 304329,
+    "empregos": 162285,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2025-trabalhoebensdeconsumo",
+    "ano": 2025,
+    "ramo": "Trabalho e Bens de Consumo",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 601,
+    "cooperados": 188451,
+    "empregos": 11184,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
+    "id_dados": "dad-brasil-2025-transporte",
+    "ano": 2025,
+    "ramo": "Transporte",
+    "origem": "Nacional",
+    "nivel": "Nacional",
+    "pais": "Brasil",
+    "estado": "",
+    "cidade": "",
+    "cooperativas": 730,
+    "cooperados": 128649,
+    "empregos": 5377,
+    "pac": null,
+    "tags": [],
+    "ref_id": [],
+    "ref_tipo": "",
+    "link": [
+      {
+        "texto": "https://somoscooperativismo.coop.br/anuariocoop",
+        "url": "https://somoscooperativismo.coop.br/anuariocoop"
+      }
+    ],
+    "fonte": "Anuário OCB 2026",
+    "nota": "",
+    "conferido": false,
+    "publicar": "sim"
   }
 ]
