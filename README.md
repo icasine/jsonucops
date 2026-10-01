@@ -1,6 +1,6 @@
 # jsonucops
 
-Gera, todo dia às 6h e às 18h (Brasília), os arquivos JSON do site ucoop.com.br a partir das planilhas publicadas no Google Sheets. Tudo roda num único workflow: `.github/workflows/atualizar-jsons.yml`.
+Gera, 4 vezes por dia, às 0h, 6h, 12h e 18h (Brasília), os arquivos JSON do site ucoop.com.br a partir das planilhas publicadas no Google Sheets. Tudo roda num único workflow: `.github/workflows/atualizar-jsons.yml`.
 
 | Planilha | Script | Arquivo gerado | Link para o site |
 |---|---|---|---|
@@ -10,9 +10,11 @@ Gera, todo dia às 6h e às 18h (Brasília), os arquivos JSON do site ucoop.com.
 | Referências | `scripts/gerar_referencias.py` | `referencias.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/referencias.json |
 | Personas | `scripts/gerar_personalidades.py` | `personalidades.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/personalidades.json |
 | Dados | `scripts/gerar_dados.py` | `dados.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/dados.json |
-| Legislação | `scripts/gerar_legislacao.py` | `legislacao.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/legislacao.json |
+| Políticas | `scripts/gerar_legislacao.py` | `legislacao.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/legislacao.json |
 | Entidades | `scripts/gerar_entidades.py` | `entidades.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/entidades.json |
 | Aulas | `scripts/gerar_aulas.py` | `aulas.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/aulas.json |
+| Tese (colunas a definir) | `scripts/gerar_tese.py` | `tese.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/tese.json |
+| Histórias | `scripts/gerar_historias.py` | `historias.json` | https://raw.githubusercontent.com/icasine/jsonucops/main/historias.json |
 
 ## Como funciona
 
@@ -24,3 +26,6 @@ Gera, todo dia às 6h e às 18h (Brasília), os arquivos JSON do site ucoop.com.
 - Avisos (id repetido, link sem http, referência inexistente etc.) aparecem no resumo da execução, em Actions.
 
 Para rodar na hora: Actions > Atualizar JSONs das planilhas > Run workflow.
+
+
+Todas as abas vêm da planilha unificada. A coluna `obs_internas` nunca vai para os JSON. Os nomes novos das colunas (ex.: `id_glossario`, `titulo`) são traduzidos em `scripts/comum.py` para as chaves que o site já usa.
