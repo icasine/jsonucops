@@ -22,7 +22,8 @@
       "vizinhança",
       "meio ambiente",
       "adesão livre e voluntária",
-      "1º princípio"
+      "1º princípio",
+      "autoajuda"
     ],
     "capa": "",
     "autor": "Ícaro Moreira Ursine",
@@ -32,7 +33,7 @@
     "base": "",
     "ref_id": [],
     "evidenciar": false,
-    "conferido": false,
+    "conferido": true,
     "publicar": "sim",
     "ordem_bloco": "his-002-001",
     "anterior": null,
@@ -619,7 +620,7 @@
       },
       {
         "tipo_bloco": "fala",
-        "texto": "“E a poça também! Tchau, mosquitos!”",
+        "texto": "“Tchau, mosquitos! Aqui a dengue não entra.”",
         "voz": "narrador",
         "personagem": "Lia",
         "publico": [
@@ -683,7 +684,7 @@
       },
       {
         "tipo_bloco": "fala",
-        "texto": "“Isso não vai dar certo. Planta de todo mundo é planta de ninguém.”",
+        "texto": "“Eu acho que isso não vai dar certo. Planta de todo mundo é planta de ninguém.”",
         "voz": "narrador",
         "personagem": "Seu Zé",
         "publico": [
@@ -725,27 +726,6 @@
         "ordem_bloco": "his-002-033"
       },
       {
-        "tipo_bloco": "cena",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-pMpzFORabLCUrwzn-YgUTbURoFPbNlTxHpogE0URDtqX61kawlpI4G4-1g0w4Of2ouUXTncV3ZT3V5Ejs-_flXEAtyhp008LvJ8l0eYR48yNjYGKX-Rjkl39pqHQgaAB7TBdgX2OrWj52LFT4T7RFSBdQwNrqvluF3CFKoS2nuiiC_8zMiNIyUQ5pmo/s1600/Da Lixeira %C3%A0 Horta Comunit%C3%A1ria - 4.png",
-        "imagem_alt": "vizinhos felizes com cestas de verduras. Seu Zé segura tomates vermelhos, e Lia tem uma flor amarela no cabelo.",
-        "publico": [
-          "crianca"
-        ],
-        "genero": "conto",
-        "nivel": "fácil",
-        "tema": "Adesão livre e voluntária",
-        "tags": [
-          "horta comunitária",
-          "vizinhança",
-          "meio ambiente",
-          "adesão livre e voluntária",
-          "1º princípio"
-        ],
-        "autor": "Ícaro Moreira Ursine",
-        "publicar": "sim",
-        "ordem_bloco": "his-002-034"
-      },
-      {
         "tipo_bloco": "narracao",
         "texto": "Um dia, Seu Zé chegou devagarinho, com o chapéu na mão. Ao ver a horta tão bonita e bem cuidada, percebeu que os vizinhos tinham conseguido fazer a ideia dar certo. Meio sem jeito, aproximou-se e perguntou:",
         "voz": "narrador",
@@ -764,13 +744,34 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "publicar": "sim",
-        "ordem_bloco": "his-002-035"
+        "ordem_bloco": "his-002-034"
       },
       {
         "tipo_bloco": "fala",
         "texto": "“Será que ainda dá tempo de eu entrar? Eu sei plantar tomate como ninguém.”",
         "voz": "narrador",
         "personagem": "Seu Zé",
+        "publico": [
+          "crianca"
+        ],
+        "genero": "conto",
+        "nivel": "fácil",
+        "tema": "Adesão livre e voluntária",
+        "tags": [
+          "horta comunitária",
+          "vizinhança",
+          "meio ambiente",
+          "adesão livre e voluntária",
+          "1º princípio"
+        ],
+        "autor": "Ícaro Moreira Ursine",
+        "publicar": "sim",
+        "ordem_bloco": "his-002-035"
+      },
+      {
+        "tipo_bloco": "cena",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-pMpzFORabLCUrwzn-YgUTbURoFPbNlTxHpogE0URDtqX61kawlpI4G4-1g0w4Of2ouUXTncV3ZT3V5Ejs-_flXEAtyhp008LvJ8l0eYR48yNjYGKX-Rjkl39pqHQgaAB7TBdgX2OrWj52LFT4T7RFSBdQwNrqvluF3CFKoS2nuiiC_8zMiNIyUQ5pmo/s1600/Da Lixeira %C3%A0 Horta Comunit%C3%A1ria - 4.png",
+        "imagem_alt": "vizinhos felizes com cestas de verduras. Seu Zé segura tomates vermelhos, e Lia tem uma flor amarela no cabelo.",
         "publico": [
           "crianca"
         ],
@@ -854,7 +855,7 @@
       },
       {
         "tipo_bloco": "narracao",
-        "texto": "No fim do mês, cada família levou para casa uma cesta cheia. E a Rua das Flores, finalmente, tinha flores de verdade. Além de verduras fresquinhas, os moradores ganharam um espaço mais bonito, limpo e agradável, construído com a ajuda de todos.",
+        "texto": "No fim do mês, cada família levou para casa uma cesta cheia. Agora a Rua das Flores, finalmente, tinha flores de verdade. Além de verduras fresquinhas, os moradores ganharam um espaço mais bonito, limpo e agradável, construído com a ajuda de todos.",
         "voz": "narrador",
         "publico": [
           "crianca"
@@ -913,11 +914,7 @@
           "1º princípio"
         ],
         "autor": "Ícaro Moreira Ursine",
-        "base": "glossario",
-        "ref_id": [
-          "glo-livre-admissao",
-          "glo-cooperativismo"
-        ],
+        "base": "livre",
         "publicar": "sim",
         "ordem_bloco": "his-002-042"
       }
@@ -1837,10 +1834,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-sobras",
-          "glo-cooperativismo"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-003-040"
       }
@@ -2868,9 +2861,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-cooperativismo"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-004-045"
       }
@@ -3899,10 +3889,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-sobras",
-          "glo-cooperado-ou-associado"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-005-043"
       }
@@ -4909,10 +4895,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-autogestao",
-          "glo-cooperado-ou-associado"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-006-044"
       }
@@ -5872,9 +5854,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-cooperativismo"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-007-042"
       }
@@ -7087,9 +7066,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-cooperativismo"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-008-051"
       }
@@ -8078,9 +8054,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-singularidade-de-voto"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-009-043"
       }
@@ -9089,11 +9062,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-ramo-credito",
-          "glo-singularidade-de-voto",
-          "glo-capital-social"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-010-044"
       }
@@ -10409,10 +10377,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-economia-solidaria",
-          "glo-autogestao"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-011-055"
       }
@@ -11464,10 +11428,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-assembleia-geral",
-          "glo-sobras"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-012-046"
       }
@@ -12610,9 +12570,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-intercooperacao"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-013-048"
       }
@@ -13729,9 +13686,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-cooperativismo"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-014-049"
       }
@@ -14759,10 +14713,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-cooperado-ou-associado",
-          "glo-autogestao"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-015-045"
       }
@@ -16014,10 +15964,6 @@
         ],
         "autor": "Ícaro Moreira Ursine",
         "base": "glossario",
-        "ref_id": [
-          "glo-cooperativismo",
-          "glo-intercooperacao"
-        ],
         "publicar": "sim",
         "ordem_bloco": "his-016-055"
       }
