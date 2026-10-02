@@ -77,179 +77,225 @@
     ],
     "blocos": [
       {
-        "tipo_bloco": "narracao",
-        "texto": "Na Rua das Flores, que quase não tinha flores, havia um terreno vazio.",
-        "voz": "narrador",
+        "tipo_bloco": "professor",
+        "titulo": "Apoio aos professores",
+        "texto": "Objetivo: mostrar a adesão livre e voluntária (1º princípio): ninguém entra obrigado, e quem entra assume sua parte.\nAntes de ouvir: pergunte se há algum lugar abandonado perto da escola ou de casa e o que ele poderia virar.\nPara conversar:\n- Por que Seu Zé ficou de fora no começo?\n- O que fez ele mudar de ideia?\n- Quem entra na horta só colhe ou também tem tarefas?\nAtividade: em grupos, a turma escolhe um cantinho da escola para cuidar junto e combina a tarefa de cada um.",
+        "publicar": "sim",
         "ordem_bloco": "his-002-007"
-      },
-      {
-        "tipo_bloco": "narracao",
-        "texto": "O terreno era cheio de mato alto, garrafa velha e pneu jogado. Quando chovia, virava uma poça enorme, e os mosquitos adoravam.",
-        "voz": "narrador",
-        "ordem_bloco": "his-002-008"
       },
       {
         "tipo_bloco": "cena",
         "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu_v8ioO-5n0wD-eYTd-6OwwFZZxwHQmzX-2mar83lWON45kP-7cb71GPaeQuXxd2c4CfBCNMTzCI0wjfbwAsqrHn7AxA7JQNja7Wu5jOAo40jAA8S9rbn-6rQkdB8UywqBX9jiZPyj4capIqtNwcnELdoEwW0v2BObeyFCFmQriqKr2k4yOhTq790Utc/s1600/Da%20Lixeira%20%C3%A0%20Horta%20Comunit%C3%A1ria%20-%201.png",
         "imagem_alt": "rua simples de bairro com casinhas coloridas e um terreno baldio no meio, com mato alto, pneus e lixo. Duas crianças olham o terreno com cara de desânimo.",
+        "ordem_bloco": "his-002-008"
+      },
+      {
+        "tipo_bloco": "narracao",
+        "texto": "Na Rua das Flores, que quase não tinha flores, havia um terreno vazio.",
+        "voz": "narrador",
         "ordem_bloco": "his-002-009"
       },
       {
         "tipo_bloco": "narracao",
-        "texto": "Lia tinha oito anos e morava bem em frente.",
+        "texto": "O terreno era cheio de mato alto, garrafa velha e pneu jogado. Quando chovia, virava uma poça enorme, e os mosquitos adoravam.",
         "voz": "narrador",
         "ordem_bloco": "his-002-010"
       },
       {
         "tipo_bloco": "narracao",
-        "texto": "Certo dia, Lia olhou pela janela e ficou incomodada com a sujeira do terreno. Preocupada, chamou a mãe e comentou:",
+        "texto": "Lia tinha oito anos e morava bem em frente.",
         "voz": "narrador",
         "ordem_bloco": "his-002-011"
+      },
+      {
+        "tipo_bloco": "narracao",
+        "texto": "Certo dia, Lia olhou pela janela e ficou incomodada com a sujeira do terreno. Preocupada, chamou a mãe e comentou:",
+        "voz": "narrador",
+        "ordem_bloco": "his-002-012"
       },
       {
         "tipo_bloco": "fala",
         "texto": "“Mãe, esse terreno é tão feio. Dá até medo de passar perto.”",
         "voz": "narrador",
         "personagem": "Lia",
-        "ordem_bloco": "his-002-012"
+        "ordem_bloco": "his-002-013"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "Dona Marta, a mãe de Lia, olhou pela janela e pensou um pouco. De repente, teve uma ideia que poderia transformar aquele lugar. Animada, sugeriu:",
         "voz": "narrador",
-        "ordem_bloco": "his-002-013"
+        "ordem_bloco": "his-002-014"
+      },
+      {
+        "tipo_bloco": "fala",
+        "texto": "“E se ele virasse uma horta? Uma horta de todo mundo da rua?”",
+        "voz": "narrador",
+        "personagem": "Dona Marta",
+        "ordem_bloco": "his-002-015"
+      },
+      {
+        "tipo_bloco": "cena",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilW95z0hS9kqNacmcqTf-S9XrFeVucoXk7odFJfNdbxZsWqKh2UPJUUJkEhAwrpg-znvmdfKl21TB1TvuBR9zWezrvnLp3T90-B0yaJZA47o3Vuqn9c0i1StPUtqPffj8h1FdE4aNocFn9X0KuNn4QHi7F8kld6KwdOiqoxrjLU2o7-RWhUUTBHZxH8EI/s1600/Da Lixeira %C3%A0 Horta Comunit%C3%A1ria - 2.png",
+        "imagem_alt": "vizinhos de várias idades sentados em roda debaixo de uma mangueira, conversando. Dona Marta está em pé explicando, e as crianças estão sentadas no chão.",
+        "ordem_bloco": "his-002-016"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "No domingo, Dona Marta bateu de porta em porta. Ela explicou a ideia e convidou os vizinhos para uma conversa debaixo da mangueira.",
         "voz": "narrador",
-        "ordem_bloco": "his-002-014"
+        "ordem_bloco": "his-002-017"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "Muita gente apareceu. Tonico, o melhor amigo de Lia, veio com o pai, Seu Raimundo.",
         "voz": "narrador",
-        "ordem_bloco": "his-002-015"
+        "ordem_bloco": "his-002-018"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "Seu Raimundo achou a ideia interessante, mas ficou com uma dúvida. Ele queria saber quem poderia participar da horta. Curioso, perguntou:",
         "voz": "narrador",
-        "ordem_bloco": "his-002-016"
+        "ordem_bloco": "his-002-019"
+      },
+      {
+        "tipo_bloco": "fala",
+        "texto": "“E quem pode participar dessa horta?”",
+        "voz": "narrador",
+        "personagem": "Seu Raimundo",
+        "ordem_bloco": "his-002-020"
+      },
+      {
+        "tipo_bloco": "narracao",
+        "texto": "Dona Marta sorriu e explicou que todos seriam bem-vindos, desde que participassem por vontade própria e ajudassem a cuidar do espaço:",
+        "voz": "narrador",
+        "ordem_bloco": "his-002-021"
       },
       {
         "tipo_bloco": "fala",
         "texto": "“Quem quiser! Ninguém é obrigado. Mas quem entrar ajuda a cuidar e também colhe.”",
         "voz": "narrador",
         "personagem": "Dona Marta",
-        "ordem_bloco": "his-002-017"
+        "ordem_bloco": "his-002-022"
       },
       {
         "tipo_bloco": "cena",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilW95z0hS9kqNacmcqTf-S9XrFeVucoXk7odFJfNdbxZsWqKh2UPJUUJkEhAwrpg-znvmdfKl21TB1TvuBR9zWezrvnLp3T90-B0yaJZA47o3Vuqn9c0i1StPUtqPffj8h1FdE4aNocFn9X0KuNn4QHi7F8kld6KwdOiqoxrjLU2o7-RWhUUTBHZxH8EI/s1600/Da Lixeira %C3%A0 Horta Comunit%C3%A1ria - 2.png",
-        "imagem_alt": "vizinhos de várias idades sentados em roda debaixo de uma mangueira, conversando. Dona Marta está em pé explicando, e as crianças estão sentadas no chão.",
-        "ordem_bloco": "his-002-018"
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDmLacaPyUjkzshbzYyuIRnFa5e-I9Lzo7M87W1j2ZNNZXGyCUkrrQwbxjgfXtnEsbMSiXn-ryxBcq14yjpllb3UC7SCn5yA7eBdNa34_inT3CwGSMVDiCFBvMEC2NV_7I3JX2wgP258SMWMTGstQ7sUiwFW-7WSj_4mphmdPNALOLD1NhzXtRXpCLVSg/s1600/Da Lixeira %C3%A0 Horta Comunit%C3%A1ria - 3.png",
+        "imagem_alt": "horta verde e organizada no lugar do terreno, com canteiros de alface, couve e cenoura. Crianças regam com regadores coloridos e adultos capinam.",
+        "ordem_bloco": "his-002-023"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "Os vizinhos gostaram da proposta e decidiram colocar a ideia em prática.",
         "voz": "narrador",
-        "ordem_bloco": "his-002-019"
+        "ordem_bloco": "his-002-024"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "E assim combinaram. Uns levaram enxada. Outros levaram sementes. Dona Cida levou esterco das galinhas dela. As crianças ficaram com a tarefa mais divertida: regar.",
         "voz": "narrador",
-        "ordem_bloco": "his-002-020"
+        "ordem_bloco": "his-002-025"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "Tonico percebeu que o terreno já estava começando a mudar. Feliz com o resultado, chamou a amiga para mostrar:",
         "voz": "narrador",
-        "ordem_bloco": "his-002-021"
+        "ordem_bloco": "his-002-026"
       },
       {
         "tipo_bloco": "fala",
         "texto": "“Olha, Lia! O mato está indo embora!”",
         "voz": "narrador",
         "personagem": "Tonico",
-        "ordem_bloco": "his-002-022"
+        "ordem_bloco": "his-002-027"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "Lia olhou para o terreno e viu que a poça também estava desaparecendo. Ela riu, contente com a transformação, e disse:",
         "voz": "narrador",
-        "ordem_bloco": "his-002-023"
+        "ordem_bloco": "his-002-028"
       },
       {
         "tipo_bloco": "fala",
         "texto": "“E a poça também! Tchau, mosquitos!”",
         "voz": "narrador",
         "personagem": "Lia",
-        "ordem_bloco": "his-002-024"
+        "ordem_bloco": "his-002-029"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "Só Seu Zé, o vizinho da esquina, ficou de longe, de braços cruzados.",
         "voz": "narrador",
-        "ordem_bloco": "his-002-025"
+        "ordem_bloco": "his-002-030"
+      },
+      {
+        "tipo_bloco": "narracao",
+        "texto": "Ele não acreditava muito na ideia de uma horta compartilhada. Achando que ninguém cuidaria direito das plantas, comentou, desconfiado:",
+        "voz": "narrador",
+        "ordem_bloco": "his-002-031"
+      },
+      {
+        "tipo_bloco": "fala",
+        "texto": "“Isso não vai dar certo. Planta de todo mundo é planta de ninguém.”",
+        "voz": "narrador",
+        "personagem": "Seu Zé",
+        "ordem_bloco": "his-002-032"
+      },
+      {
+        "tipo_bloco": "narracao",
+        "texto": "Os dias passaram. Apareceram alface, couve, cenoura e até umas flores amarelas que Lia plantou.",
+        "voz": "narrador",
+        "ordem_bloco": "his-002-033"
       },
       {
         "tipo_bloco": "cena",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDmLacaPyUjkzshbzYyuIRnFa5e-I9Lzo7M87W1j2ZNNZXGyCUkrrQwbxjgfXtnEsbMSiXn-ryxBcq14yjpllb3UC7SCn5yA7eBdNa34_inT3CwGSMVDiCFBvMEC2NV_7I3JX2wgP258SMWMTGstQ7sUiwFW-7WSj_4mphmdPNALOLD1NhzXtRXpCLVSg/s1600/Da Lixeira %C3%A0 Horta Comunit%C3%A1ria - 3.png",
-        "imagem_alt": "horta verde e organizada no lugar do terreno, com canteiros de alface, couve e cenoura. Crianças regam com regadores coloridos e adultos capinam.",
-        "ordem_bloco": "his-002-026"
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-pMpzFORabLCUrwzn-YgUTbURoFPbNlTxHpogE0URDtqX61kawlpI4G4-1g0w4Of2ouUXTncV3ZT3V5Ejs-_flXEAtyhp008LvJ8l0eYR48yNjYGKX-Rjkl39pqHQgaAB7TBdgX2OrWj52LFT4T7RFSBdQwNrqvluF3CFKoS2nuiiC_8zMiNIyUQ5pmo/s1600/Da Lixeira %C3%A0 Horta Comunit%C3%A1ria - 4.png",
+        "imagem_alt": "vizinhos felizes com cestas de verduras. Seu Zé segura tomates vermelhos, e Lia tem uma flor amarela no cabelo.",
+        "ordem_bloco": "his-002-034"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "Um dia, Seu Zé chegou devagarinho, com o chapéu na mão. Ao ver a horta tão bonita e bem cuidada, percebeu que os vizinhos tinham conseguido fazer a ideia dar certo. Meio sem jeito, aproximou-se e perguntou:",
         "voz": "narrador",
-        "ordem_bloco": "his-002-027"
+        "ordem_bloco": "his-002-035"
       },
       {
         "tipo_bloco": "fala",
         "texto": "“Será que ainda dá tempo de eu entrar? Eu sei plantar tomate como ninguém.”",
         "voz": "narrador",
         "personagem": "Seu Zé",
-        "ordem_bloco": "his-002-028"
+        "ordem_bloco": "his-002-036"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "Dona Marta ficou contente ao ver que Seu Zé também queria participar. Com um sorriso acolhedor, respondeu:",
         "voz": "narrador",
-        "ordem_bloco": "his-002-029"
+        "ordem_bloco": "his-002-037"
       },
       {
         "tipo_bloco": "fala",
         "texto": "“Claro que dá, Seu Zé! A porta está sempre aberta.”",
         "voz": "narrador",
         "personagem": "Dona Marta",
-        "ordem_bloco": "his-002-030"
+        "ordem_bloco": "his-002-038"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "E foi assim que a horta ganhou os tomates mais vermelhos do bairro.",
         "voz": "narrador",
-        "ordem_bloco": "his-002-031"
+        "ordem_bloco": "his-002-039"
       },
       {
         "tipo_bloco": "narracao",
         "texto": "No fim do mês, cada família levou para casa uma cesta cheia. E a Rua das Flores, finalmente, tinha flores de verdade. Além de verduras fresquinhas, os moradores ganharam um espaço mais bonito, limpo e agradável, construído com a ajuda de todos.",
         "voz": "narrador",
-        "ordem_bloco": "his-002-032"
-      },
-      {
-        "tipo_bloco": "cena",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-pMpzFORabLCUrwzn-YgUTbURoFPbNlTxHpogE0URDtqX61kawlpI4G4-1g0w4Of2ouUXTncV3ZT3V5Ejs-_flXEAtyhp008LvJ8l0eYR48yNjYGKX-Rjkl39pqHQgaAB7TBdgX2OrWj52LFT4T7RFSBdQwNrqvluF3CFKoS2nuiiC_8zMiNIyUQ5pmo/s1600/Da Lixeira %C3%A0 Horta Comunit%C3%A1ria - 4.png",
-        "imagem_alt": "vizinhos felizes com cestas de verduras. Seu Zé segura tomates vermelhos, e Lia tem uma flor amarela no cabelo.",
-        "ordem_bloco": "his-002-033"
+        "ordem_bloco": "his-002-040"
       },
       {
         "tipo_bloco": "licao",
         "titulo": "Lição da história",
         "texto": "Na cooperação, ninguém entra obrigado. Cada pessoa escolhe participar e, quando entra, ajuda e também recebe. A porta fica aberta para quem chega depois, como aconteceu com Seu Zé. Quando todo mundo cuida um pouco, um lugar abandonado vira um lugar bom para todos.",
         "voz": "narrador",
-        "ordem_bloco": "his-002-034"
+        "ordem_bloco": "his-002-041"
       },
       {
         "tipo_bloco": "referencia",
@@ -260,46 +306,7 @@
           "glo-livre-admissao",
           "glo-cooperativismo"
         ],
-        "ordem_bloco": "his-002-035"
-      },
-      {
-        "tipo_bloco": "professor",
-        "titulo": "Apoio aos professores",
-        "texto": "Objetivo: mostrar a adesão livre e voluntária (1º princípio): ninguém entra obrigado, e quem entra assume sua parte.\nAntes de ouvir: pergunte se há algum lugar abandonado perto da escola ou de casa e o que ele poderia virar.\nPara conversar:\n- Por que Seu Zé ficou de fora no começo?\n- O que fez ele mudar de ideia?\n- Quem entra na horta só colhe ou também tem tarefas?\nAtividade: em grupos, a turma escolhe um cantinho da escola para cuidar junto e combina a tarefa de cada um.",
-        "publicar": "sim"
-      },
-      {
-        "tipo_bloco": "fala",
-        "texto": "“E se ele virasse uma horta? Uma horta de todo mundo da rua?”",
-        "voz": "narrador",
-        "personagem": "Dona Marta"
-      },
-      {
-        "tipo_bloco": "fala",
-        "texto": "“E quem pode participar dessa horta?”",
-        "voz": "narrador",
-        "personagem": "Seu Raimundo"
-      },
-      {
-        "tipo_bloco": "narracao",
-        "texto": "Dona Marta sorriu e explicou que todos seriam bem-vindos, desde que participassem por vontade própria e ajudassem a cuidar do espaço:",
-        "voz": "narrador"
-      },
-      {
-        "tipo_bloco": "narracao",
-        "texto": "Ele não acreditava muito na ideia de uma horta compartilhada. Achando que ninguém cuidaria direito das plantas, comentou, desconfiado:",
-        "voz": "narrador"
-      },
-      {
-        "tipo_bloco": "fala",
-        "texto": "“Isso não vai dar certo. Planta de todo mundo é planta de ninguém.”",
-        "voz": "narrador",
-        "personagem": "Seu Zé"
-      },
-      {
-        "tipo_bloco": "narracao",
-        "texto": "Os dias passaram. Apareceram alface, couve, cenoura e até umas flores amarelas que Lia plantou.",
-        "voz": "narrador"
+        "ordem_bloco": "his-002-042"
       }
     ]
   },
