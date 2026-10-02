@@ -7,11 +7,18 @@ Estrutura: [ {colunas da linha "historia", "anterior", "proxima",
               "blocos": [ {colunas preenchidas de cena, narracao, fala, professor, licao, referencia} ]} ]
 A referência com base "historias" vira anterior/proxima (1º id = anterior, 2º = próxima; "-" = nenhuma).
 """
+import os
+
 from comum import avisos, converter, gravar, ids_do_arquivo, ler_csv, nao, norm
+
+# O mesmo script gera historias.json e casos.json (aba Casos, mesmas colunas).
+SAIDA = os.environ.get("SAIDA", "historias.json")
+PROPRIA = os.environ.get("BASE_PROPRIA", "historias")
 
 TIPOS = {"historia", "personagem", "cena", "narracao", "fala", "professor", "licao", "referencia"}
 BASES = {"glossario": "glossario.json", "aulas": "aulas.json", "personalidades": "personalidades.json",
-         "entidades": "entidades.json", "referencias": "referencias.json", "acervo": "acervo.json"}
+         "entidades": "entidades.json", "referencias": "referencias.json", "acervo": "acervo.json",
+         "historias": "historias.json", "casos": "casos.json"}
 SO_DA_LINHA = ("id_historia",)
 
 
@@ -58,7 +65,7 @@ for hid in ordem:
                 avisos.append(f"{onde}: personagem sem nome, ignorado"); continue
             h["personagens"].append(preenchidas(item))
             continue
-        if tipo == "referencia" and norm(item.get("base")) == "historias":
+        if tipo == "referencia" and norm(item.get("base")) == PROPRIA:
             ids = [None if i == "-" else i for i in item.get("ref_id", [])]
             h["anterior"] = ids[0] if len(ids) > 0 else None
             h["proxima"] = ids[1] if len(ids) > 1 else None
@@ -78,7 +85,7 @@ for h in saida:
             avisos.append(f"História {h['id_historia']}: {campo} '{h[campo]}' não encontrada (ou não publicada)")
     for b in h["blocos"]:
         arq = BASES.get(norm(b.get("base")))
-        if not arq:
+        if not arq or arq == SAIDA:
             continue
         if arq not in cache:
             cache[arq] = ids_do_arquivo(arq)
@@ -87,4 +94,4 @@ for h in saida:
                 if i not in cache[arq]:
                     avisos.append(f"História {h['id_historia']}: id '{i}' não encontrado em {b['base']}")
 
-gravar("historias.json", saida, f"{len(saida)} história(s) gravada(s) em historias.json")
+gravar(SAIDA, saida, f"{len(saida)} item(ns) gravado(s) em {SAIDA}")
