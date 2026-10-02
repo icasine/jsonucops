@@ -506,7 +506,7 @@
     "titulo": "Cooperativismo",
     "rotulo": "",
     "complemento": "Aula 1",
-    "texto": "",
+    "texto": "Texto",
     "fonte": "",
     "links": [],
     "ref_imagem": "",
@@ -514,7 +514,9 @@
     "cor": "",
     "base": "",
     "ref_id": [],
-    "tags": [],
+    "tags": [
+      "turmadireitocoop102026a"
+    ],
     "buscar_tags": [
       "conceitos",
       "rochdale",
@@ -960,7 +962,9 @@
     "cor": "",
     "base": "",
     "ref_id": [],
-    "tags": [],
+    "tags": [
+      "turmadireitocoop102026a"
+    ],
     "buscar_tags": [
       "modelos econômicos",
       "aci",
@@ -1425,7 +1429,9 @@
     "cor": "",
     "base": "",
     "ref_id": [],
-    "tags": [],
+    "tags": [
+      "turmadireitocoop102026a"
+    ],
     "buscar_tags": [
       "história do brasil",
       "fases",
@@ -1897,7 +1903,9 @@
     "cor": "",
     "base": "",
     "ref_id": [],
-    "tags": [],
+    "tags": [
+      "turmadireitocoop102026a"
+    ],
     "buscar_tags": [
       "participação econômica",
       "capital social",
@@ -2342,7 +2350,9 @@
     "cor": "",
     "base": "",
     "ref_id": [],
-    "tags": [],
+    "tags": [
+      "turmadireitocoop102026a"
+    ],
     "buscar_tags": [
       "autonomia",
       "independência",
@@ -2735,7 +2745,9 @@
     "cor": "",
     "base": "",
     "ref_id": [],
-    "tags": [],
+    "tags": [
+      "turmadireitocoop102026a"
+    ],
     "buscar_tags": [
       "intercooperação",
       "honestidade",
@@ -3107,7 +3119,9 @@
     "cor": "",
     "base": "",
     "ref_id": [],
-    "tags": [],
+    "tags": [
+      "turmadireitocoop102026a"
+    ],
     "buscar_tags": [
       "interesse pela comunidade",
       "dia c",
@@ -3455,7 +3469,9 @@
     "cor": "",
     "base": "",
     "ref_id": [],
-    "tags": [],
+    "tags": [
+      "turmadireitocoop102026a"
+    ],
     "buscar_tags": [
       "política nacional de cooperativismo",
       "pnc",
