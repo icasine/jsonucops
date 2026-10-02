@@ -30,6 +30,7 @@ env:
   CSV_AULAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=1749439585&single=true&output=csv
   CSV_TESE: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=817455841&single=true&output=csv
   CSV_HISTORIAS: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=960209600&single=true&output=csv
+  CSV_CASOS: https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2j3CVU4NRKiSq2aj0Mxrp2b1sXbb4MmF8P69Cnzc0AGhb2tAtLsQgZDgv7s5tJXP-wxnKh09-1lQ/pub?gid=1939589347&single=true&output=csv
 
 jobs:
   atualizar:
@@ -109,6 +110,12 @@ jobs:
         env: { CSV_URL: "${{ env.CSV_HISTORIAS }}" }
         run: python scripts/gerar_historias.py
 
+      - name: Gerar casos.json
+        id: casos
+        continue-on-error: true
+        env: { CSV_URL: "${{ env.CSV_CASOS }}", SAIDA: "casos.json", BASE_PROPRIA: "casos" }
+        run: python scripts/gerar_historias.py
+
       - name: Salvar se houve mudança
         run: |
           git config user.name "github-actions[bot]"
@@ -137,6 +144,7 @@ jobs:
           [ "${{ steps.aulas.outcome }}" = "failure" ] && falhas="$falhas aulas"
           [ "${{ steps.tese.outcome }}" = "failure" ] && falhas="$falhas tese"
           [ "${{ steps.historias.outcome }}" = "failure" ] && falhas="$falhas historias"
+          [ "${{ steps.casos.outcome }}" = "failure" ] && falhas="$falhas casos"
           if [ -n "$falhas" ]; then
             echo "::error::Falharam:$falhas (os JSONs antigos dessas planilhas foram mantidos)"
             exit 1
