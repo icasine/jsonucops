@@ -18199,6 +18199,41 @@
     "start": "2008-09-20"
   },
   {
+    "id_evento": "eve-copersucarSA",
+    "titulo": "Copersucar S.A.",
+    "tipo": "fato histórico",
+    "categoria": "Cooperativismo",
+    "resumo": "Em 1º de outubro de 2008, os produtores integrantes da cooperativa criaram a Copersucar S.A., sociedade voltada à comercialização de açúcar, etanol e bioenergia, passando os produtores a participar de sua estrutura societária.",
+    "descricao": "Na data, todos os membros da cooperativa se tornaram acionistas da Produpar, a holding que controla a Copersucar S.A. (sociedade anônima de capital fechado).",
+    "data_inicio": "01-out-2008",
+    "data_fim": "",
+    "recorrencia": "",
+    "recorrencia_ate": null,
+    "substitui": "",
+    "local": "São Paulo, Brasil",
+    "tags": [],
+    "link": [
+      {
+        "texto": "https://www.copersucar.com.br/quem-somos/",
+        "url": "https://www.copersucar.com.br/quem-somos/"
+      }
+    ],
+    "fonte": "Copersucar",
+    "ref_imagem": "https://www.copersucar.com.br/quem-somos/",
+    "imagem": "https://www.copersucar.com.br/website/wp-content/uploads/2024/09/arte-nova-marca-e1784549095357.jpg",
+    "evidenciar": false,
+    "relembrar": false,
+    "conferido": true,
+    "publicar": "sim",
+    "ano": 2008,
+    "mes": 10,
+    "dia": 1,
+    "ano_fim_num": null,
+    "precisao": "dia",
+    "allDay": true,
+    "start": "2008-10-01"
+  },
+  {
     "id_evento": "eve-constituicao-1988-2008",
     "titulo": "Promulgação da Constituição Federal",
     "tipo": "efeméride",
