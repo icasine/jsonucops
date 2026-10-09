@@ -43,7 +43,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Achmea; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Achmea_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Achmea_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -51,7 +51,7 @@
     "titulo": "ACI - ICA",
     "nome_oficial": "International Cooperative Alliance - Aliança Cooperativa Internacional",
     "publicar": "sim",
-    "categoria": "Internacional",
+    "categoria": "Representação",
     "tipo": "Organismo internacional",
     "grau": "Organismo internacional",
     "ramo": "Todos",
@@ -99,7 +99,7 @@
     "fonte": "https://ica.coop/en; https://en.wikipedia.org/wiki/International_Co-operative_Alliance; https://icaworldcoopcongress.coop/post-timeline/ica-establishes-four-regional-offices; Livro dos 125 anos da ACI (Understanding our history to build a stronger future, 2020)",
     "ref_imagem": "https://ica.coop/en",
     "imagem": "https://ica.coop/themes/custom/ica_main/images/png-logo-en.png",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -243,7 +243,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Amul; https://amul.com/m/organisation; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Amul_official_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Amul_official_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -327,7 +327,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Andel_(company); https://andel.dk/en/; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Andel_Energi_logo_2024.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Andel_Energi_logo_2024.png",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -559,7 +559,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Arla_Foods; https://www.arla.com/company/; https://www.arla.com/company/news-and-press/2026/pressrelease/arla-foods-and-dmk-group-officially-unite-to-create-europes-leading-dairy-cooperative/; https://www.thenews.coop/dairy-co-op-arla-reports-e415m-profit-and-record-milk-intake/; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://en.wikipedia.org/wiki/File:Arla_Foods_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/en/8/8c/Arla_Foods_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -645,7 +645,7 @@
     "fonte": "https://de.wikipedia.org/wiki/Friedrich_Wilhelm_Raiffeisen; https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Raiffeisen; https://www.iru.de",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:FW_Raiffeisen.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/FW_Raiffeisen.jpg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -874,7 +874,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://es.wikipedia.org/wiki/Banco_Credicoop; https://dbpedia.org/page/Banco_Credicoop",
     "ref_imagem": "https://en.wikipedia.org/wiki/Banco_Credicoop",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_Banco_Credicoop.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -2447,7 +2447,7 @@
     "fonte": "https://en.wikipedia.org/wiki/CHS_Inc.; https://www.chsinc.com/about-us/our-history/; https://www.chsinc.com/about-chs; https://www.sec.gov/Archives/edgar/data/823277/000082327725000039/a4qfy25earningrelease.htm; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:CHS_Inc._logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/CHS_Inc._logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -2626,7 +2626,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://en.wikipedia.org/wiki/Co-operative_Bank_of_Kenya; https://dbpedia.org/page/Co-operative_Bank_of_Kenya",
     "ref_imagem": "https://en.wikipedia.org/wiki/Co-operative_Bank_of_Kenya",
     "imagem": "https://en.wikipedia.org/wiki/Special:FilePath/Coopbanklogo.jpg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -3296,7 +3296,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://it.wikipedia.org/wiki/Conad; https://en.wikipedia.org/wiki/Conad; https://dbpedia.org/page/Conad",
     "ref_imagem": "https://en.wikipedia.org/wiki/Conad",
     "imagem": "https://en.wikipedia.org/wiki/Special:FilePath/Italian_Conad_Logo.png",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -3792,7 +3792,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://de.wikipedia.org/wiki/Coop_(Schweiz); https://dbpedia.org/page/Coop_(Switzerland)",
     "ref_imagem": "https://en.wikipedia.org/wiki/Coop_(Switzerland)",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Coop.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -3843,7 +3843,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://it.wikipedia.org/wiki/Coop_Italia; https://it.wikipedia.org/wiki/Conad; https://dbpedia.org/page/Coop_(Italy)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Coop_Italia_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Coop_Italia_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -4602,7 +4602,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://fr.wikipedia.org/wiki/Coopérative_U; https://dbpedia.org/page/Coopérative_U; https://www.magasins-u.com",
     "ref_imagem": "https://www.magasins-u.com",
     "imagem": "https://www.magasins-u.com/assets-u/dam/logo-u.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -5889,7 +5889,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://fr.wikipedia.org/wiki/Crédit_agricole; https://en.wikipedia.org/wiki/Crédit_Agricole; https://dbpedia.org/page/Crédit_Agricole",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Cr%C3%A9dit_Agricole_2020_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Cr%C3%A9dit_Agricole_2020_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -6109,7 +6109,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Dairy_Farmers_of_America; https://www.dfamilk.com/; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Dairy_Farmers_of_America_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dairy_Farmers_of_America_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -6197,7 +6197,7 @@
     "fonte": "https://en.wikipedia.org/wiki/DATEV; https://www.datev.de/; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://www.datev.de/",
     "imagem": "https://www.datev.de/content/dam/markenassets/themen-und-produktgruppen/jubiläum-60-jahre-datev/signet-und-key-visual/1-signet-60-jahre-mit-logo/online---rgb/DATEV-60-Jahre-Signet-3zu1_RGB.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -6336,7 +6336,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://fr.wikipedia.org/wiki/E.Leclerc; https://dbpedia.org/page/E.Leclerc",
     "ref_imagem": "https://en.wikipedia.org/wiki/E.Leclerc",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/14/E.Leclerc_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -6383,7 +6383,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://de.wikipedia.org/wiki/Edeka; https://dbpedia.org/page/Edeka",
     "ref_imagem": "https://de.wikipedia.org/wiki/Edeka",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Edeka_Logo_Aktuell.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -6753,7 +6753,7 @@
     ],
     "fonte": "https://www.fecoagro.coop.br/fecoagro-home/historia/; https://www.fecoagro.coop.br/",
     "ref_imagem": "https://www.fecoagro.coop.br/",
-    "imagem": "https://www.fecoagro.coop.br/wp-content/uploads/2021/10/logo-top.png",
+    "imagem": "",
     "evidenciar": false,
     "conferido": false
   },
@@ -7009,7 +7009,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Fonterra; https://www.fonterra.com/nz/en/about-us.html; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://en.wikipedia.org/wiki/File:Fonterra_Logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/en/7/7a/Fonterra_Logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -7060,7 +7060,7 @@
   {
     "id_entidade": "ent-frieslandcampina",
     "titulo": "FrieslandCampina",
-    "nome_oficial": "Zuivelcoöperatie FrieslandCampina U.A.",
+    "nome_oficial": "FrieslandCampina U.A.",
     "publicar": "sim",
     "categoria": "Internacional",
     "tipo": "Cooperativa agropecuária",
@@ -7099,7 +7099,7 @@
     "fonte": "https://en.wikipedia.org/wiki/FrieslandCampina; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:FrieslandCampina_Logo.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/da/FrieslandCampina_Logo.png",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -7244,7 +7244,7 @@
     "fonte": "https://www.fundacionespriu.coop/; https://www.fundacionespriu.coop/quienes-somos/; https://www.fundacionespriu.coop/el-dr-josep-espriu/; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://www.fundacionespriu.coop/",
     "imagem": "https://www.fundacionespriu.coop/sites/default/files/Grupo%20655.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -7411,7 +7411,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://fr.wikipedia.org/wiki/Groupe_BPCE; https://en.wikipedia.org/wiki/Groupe_BPCE; https://dbpedia.org/page/Groupe_BPCE",
     "ref_imagem": "https://fr.wikipedia.org/wiki/File:Groupe_BPCE_%28logo%29.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/fr/0/0a/Groupe_BPCE_%28logo%29.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -7459,7 +7459,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://fr.wikipedia.org/wiki/Crédit_mutuel; https://dbpedia.org/page/Crédit_Mutuel",
     "ref_imagem": "https://fr.wikipedia.org/wiki/Crédit_mutuel",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cr%C3%A9dit_Mutuel_2022_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -7504,7 +7504,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Growmark; https://www.growmark.com/about-us; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Growmark_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Growmark_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -7550,7 +7550,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://en.wikipedia.org/wiki/Iccrea_Banca; https://dbpedia.org/page/Iccrea_Banca",
     "ref_imagem": "https://en.wikipedia.org/wiki/Iccrea_Banca",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Iccrea_Banca_logo_2023.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -7594,7 +7594,7 @@
     "fonte": "https://en.wikipedia.org/wiki/HealthPartners; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://www.healthpartners.com/",
     "imagem": "https://www.healthpartners.com/content/dam/brand-identity/logos/internal/healthpartners-park-nicollet/hp/hp-1line-h/hp-1h-rgb.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -7687,7 +7687,7 @@
     "titulo": "ICA Asia and Pacific",
     "nome_oficial": "International Cooperative Alliance Asia and Pacific (ICA-AP)",
     "publicar": "sim",
-    "categoria": "Internacional",
+    "categoria": "Representação",
     "tipo": "Escritório regional da ACI",
     "grau": "Organismo internacional",
     "ramo": "Todos",
@@ -7733,7 +7733,7 @@
     "titulo": "ICA-Africa",
     "nome_oficial": "International Cooperative Alliance Africa (ICA-Africa)",
     "publicar": "sim",
-    "categoria": "Internacional",
+    "categoria": "Representação",
     "tipo": "Escritório regional da ACI",
     "grau": "Organismo internacional",
     "ramo": "Todos",
@@ -7863,7 +7863,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Indian_Farmers_Fertiliser_Cooperative; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Iffco_logo.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Iffco_logo.png",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -8178,7 +8178,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Zen-Noh; https://www.zennoh.or.jp/english/; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:JA_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/JA_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -8277,7 +8277,7 @@
   {
     "id_entidade": "ent-degania",
     "titulo": "Kibutz Degania",
-    "nome_oficial": "דגניה א׳ (Degania Alef)",
+    "nome_oficial": "Kibutz Degania",
     "publicar": "sim",
     "categoria": "Internacional",
     "tipo": "Comunidade coletiva",
@@ -8406,7 +8406,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Krishak_Bharati_Cooperative; https://www.kribhco.net/; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Kribhco_logo.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kribhco_logo.png",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -8450,7 +8450,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Land_O%27Lakes; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Land_O%E2%80%99Lakes_Logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Land_O%E2%80%99Lakes_Logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -8672,7 +8672,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Liberty_Mutual; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Liberty_Mutual_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Liberty_Mutual_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -8805,7 +8805,7 @@
     "fonte": "https://en.wikipedia.org/wiki/MassMutual; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:MassMutual_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/MassMutual_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -8944,7 +8944,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://de.wikipedia.org/wiki/Migros; https://en.wikipedia.org/wiki/Migros; https://dbpedia.org/page/Migros",
     "ref_imagem": "https://de.wikipedia.org/wiki/Migros",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Migros.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -9031,7 +9031,7 @@
     "fonte": "https://www.mondragon-corporation.com/en/about-us/; https://en.wikipedia.org/wiki/Mondragon_Corporation; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://www.mondragon-corporation.com/en/about-us/",
     "imagem": "https://www.mondragon-corporation.com/wp-content/uploads/2020/05/cropped-logo_out_es_.png",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -9121,7 +9121,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Desjardins_Group; https://en.wikipedia.org/wiki/Alphonse_Desjardins_(co-operator); https://www.desjardins.com/en/about-us.html; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); Livro dos 125 anos da ACI (Understanding our history to build a stronger future, 2020)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Desjardins_Group_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Desjardins_Group_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -9295,7 +9295,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Nationwide_Mutual_Insurance_Company; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Nationwide_Insurance.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nationwide_Insurance.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -9342,7 +9342,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Navy_Federal_Credit_Union; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Navy_Federal_Credit_Union_Logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Navy_Federal_Credit_Union_Logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -9520,7 +9520,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Nippon_Life; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Nippon_Life_Insurance_Company_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nippon_Life_Insurance_Company_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -9564,7 +9564,7 @@
     "fonte": "https://en.wikipedia.org/wiki/National_Agricultural_Cooperative_Federation; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); Livro dos 125 anos da ACI (Understanding our history to build a stronger future, 2020)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:NACF_(NongHyup)_Logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/NACF_(NongHyup)_Logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -9608,7 +9608,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Northwestern_Mutual; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://en.wikipedia.org/wiki/File:Northwestern_Mutual_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/en/2/2f/Northwestern_Mutual_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -9792,7 +9792,7 @@
     "fonte": "https://www.obos.no/om-obos; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Obos_logo.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Obos_logo.png",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -9976,7 +9976,7 @@
     "fonte": "https://en.wikipedia.org/wiki/OP_Financial_Group; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:OP_Financial_Group.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/OP_Financial_Group.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -10118,7 +10118,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Rochdale_Society_of_Equitable_Pioneers; https://rochdalepioneersmuseum.coop/about-us/about-the-pioneers",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Rochdale_Pioneers_Museum%2C_Toad_Lane%2C_Rochdale%2C_Lancashire_-_geograph.org.uk_-_2251258.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Rochdale_Pioneers_Museum%2C_Toad_Lane%2C_Rochdale%2C_Lancashire_-_geograph.org.uk_-_2251258.jpg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -10213,7 +10213,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Rabobank; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); Livro dos 125 anos da ACI (Understanding our history to build a stronger future, 2020)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Rabobank_text_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rabobank_text_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -10259,7 +10259,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Raiffeisen_Bank_International; https://de.wikipedia.org/wiki/Raiffeisen_Bank_International; https://de.wikipedia.org/wiki/Raiffeisen_Zentralbank_Österreich; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logo_Raiffeisen_Bank_International_RBI_relaunch_2023.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Raiffeisen_Bank_International_RBI_relaunch_2023.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -10343,7 +10343,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Bundesverband_der_Deutschen_Volksbanken_und_Raiffeisenbanken; https://de.wikipedia.org/wiki/Bundesverband_der_Deutschen_Volksbanken_und_Raiffeisenbanken; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:BVR_logo_neu.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/BVR_logo_neu.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -10424,7 +10424,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://www.rewe-group.com/en/company/; https://de.wikipedia.org/wiki/Rewe_Group; https://dbpedia.org/page/Rewe_Group",
     "ref_imagem": "https://de.wikipedia.org/wiki/Rewe_Group",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Rewe-group.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -10560,7 +10560,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://en.wikipedia.org/wiki/S_Group; https://s-ryhma.fi/en/s-group; https://dbpedia.org/page/S_Group",
     "ref_imagem": "https://en.wikipedia.org/wiki/S_Group",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/S_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -10609,7 +10609,7 @@
     "fonte": "https://sacmi.com/en-US/Corporate; https://en.wikipedia.org/wiki/SACMI; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://sacmi.com/en-US/Corporate",
     "imagem": "https://sacmi.com/SacmiCorporate/media/Corporate/Icon/Icon-Sacmi.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -10698,7 +10698,7 @@
   {
     "id_entidade": "ent-seikatsu",
     "titulo": "Seikatsu Club",
-    "nome_oficial": "生活クラブ事業連合生活協同組合連合会 (Seikatsu Club Consumers' Co-operative Union)",
+    "nome_oficial": "Seikatsu Club Consumers' Co-operative Union",
     "publicar": "sim",
     "categoria": "Internacional",
     "tipo": "Cooperativa de consumo",
@@ -12801,7 +12801,7 @@
     "fonte": "https://en.wikipedia.org/wiki/State_Farm; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:State_Farm_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/State_Farm_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -12985,7 +12985,7 @@
     "fonte": "World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023); https://en.wikipedia.org/wiki/Co-op_Group; https://dbpedia.org/page/The_Co-operative_Group",
     "ref_imagem": "https://en.wikipedia.org/wiki/Co-op_Group",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Co-Operative_clover_leaf_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -14509,7 +14509,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Unipol; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logo_Unipol_2025.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_Unipol_2025.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -14736,7 +14736,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Uralungal_Labour_Contract_Co-operative_Society; https://ulccsltd.com/; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Ulccs.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ulccs.jpg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -15047,7 +15047,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Co-operative_Women%27s_Guild",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Co-operative_Women%27s_Guild_Western_Section_Officials_in_1926.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Co-operative_Women%27s_Guild_Western_Section_Officials_in_1926.png",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   },
   {
@@ -15095,7 +15095,7 @@
     "fonte": "https://en.wikipedia.org/wiki/Zenkyoren; World Cooperative Monitor 2025 (ACI/Euricse, dados de 2023)",
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:JA_Kyosai_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/JA_Kyosai_logo.svg",
-    "evidenciar": true,
+    "evidenciar": false,
     "conferido": false
   }
 ]
