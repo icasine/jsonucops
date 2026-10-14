@@ -153,7 +153,6 @@
             "titulo": "Pioneiros de Rochdale",
             "texto": "Em 1844, na cidade industrial de Rochdale, no norte da Inglaterra, 28 trabalhadores fundaram a Rochdale Equitable Pioneers Society, considerada o marco inaugural do cooperativismo moderno. Diante das precárias condições de trabalho e dos altos custos de vida, esses artesãos uniram-se para criar um armazém que oferecesse produtos básicos — como farinha, aveia, açúcar e manteiga — a preços acessíveis. O diferencial era a adoção de princípios como gestão democrática, participação econômica, educação, intercooperação e interesse pela comunidade. Cada cliente tornava-se membro e coproprietário, com direito a voz e voto.",
             "fonte": "Fonte: ICA COOP",
-            "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyvO35Xn05b1j2Cma-CwPP8SkDdABZi7qtIHEPg69xf2MUrG12TrVcDRYUVAjKJrJqRids6RJaZUNhRtyTb-5Q1WrdcqP3pQuunaspjAXlt4J_2fwNOgn9WryqYnWxAJK1vth42X-KI-A-y_y8h4YDsbY3IC2jsHM2rxlPnIN2prAsuA/s1600/Captura%20de%20tela_18-9-2026_20579_www.ucoop.com.br.jpeg",
             "tags": [
               "história",
               "rochdale"
@@ -165,8 +164,7 @@
             "titulo": "No calendário",
             "base": "calendario",
             "ref_id": [
-              "eve-rochdale-1844",
-              "eve-ano-internacional-coop2"
+              "eve-rochdale-1844"
             ],
             "publicar": "sim"
           },
@@ -178,6 +176,15 @@
             "tags": [
               "história",
               "onu"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "base": "calendario",
+            "ref_id": [
+              "eve-ano-internacional-coop",
+              "eve-ano-internacional-coop2"
             ],
             "publicar": "sim"
           },
@@ -199,6 +206,10 @@
             "ref_id": [
               "per-schulze-delitzsch"
             ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
             "publicar": "sim"
           }
         ]
