@@ -191,7 +191,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Origem do cooperativismo financeiro no mundo",
-            "texto": "O cooperativismo financeiro tem origem no século XIX, no contexto das dificuldades econômicas e sociais enfrentadas na Europa. A primeira cooperativa de crédito foi criada por Friedrich Wilhelm Raiffeisen, na Alemanha, em 1864 — voltada principalmente ao apoio de comunidades rurais, com responsabilidade ilimitada dos associados. Herman Schulze-Delitzsch foi pioneiro na fundação de cooperativas de crédito urbanas, chamadas \"bancos populares\". Já Luigi Luzzatti fundou, na Itália, um modelo que permitia a associação de indivíduos sem vínculo específico entre si, como moradores de um mesmo bairro. O cooperativismo financeiro rapidamente se espalhou por diversos países, servindo como alternativa mais justa e acessível ao crédito tradicional.",
+            "texto": "O cooperativismo financeiro tem origem no século XIX, no contexto das dificuldades econômicas e sociais enfrentadas na Europa. A primeira cooperativa de crédito foi criada por Friedrich Wilhelm Raiffeisen, na Alemanha, em 1864 (ACI informa ser em 1862) — voltada principalmente ao apoio de comunidades rurais, com responsabilidade ilimitada dos associados. Herman Schulze-Delitzsch foi pioneiro na fundação de cooperativas de crédito urbanas, chamadas \"bancos populares\". Já Luigi Luzzatti fundou, na Itália, um modelo que permitia a associação de indivíduos sem vínculo específico entre si, como moradores de um mesmo bairro. O cooperativismo financeiro rapidamente se espalhou por diversos países, servindo como alternativa mais justa e acessível ao crédito tradicional.",
             "fonte": "PINHEIRO, Marcos Antonio Henriques. Cooperativas de crédito: história da evolução normativa no Brasil. Brasília/DF: BCB, 2008.",
             "tags": [
               "história",
@@ -936,7 +936,7 @@
           {
             "tipo_bloco": "cooperativa",
             "titulo": "Sicredi Pioneira",
-            "texto": "Herdeira da cooperativa fundada por Theodor Amstad em 1902, em Nova Petrópolis (RS), é a cooperativa de crédito mais antiga em funcionamento no Brasil e integra hoje o Sistema Sicredi.",
+            "texto": "A primeira cooperativa de crédito do Brasil foi fundada em 1902, em Linha Imperial, no atual município de Nova Petrópolis (RS), por iniciativa de Theodor Amstad, missionário jesuíta de origem suíça. Sociedade Cooperativa Caixa de Economia e Empréstimos de Nova Petrópolis, conhecida como Caixa de Economia e Empréstimos Amstad, seguiu o modelo Raiffeisen, voltado ao apoio de comunidades rurais, e permanece em atividade até hoje.\n Anos depois, surgiu em Lajeado (RS) a primeira cooperativa de crédito do tipo Luzzatti no país, aberta a pessoas sem vínculo específico entre si. O movimento cresceu gradualmente ao longo das décadas seguintes, até se consolidar como parte relevante do Sistema Financeiro Nacional.",
             "tags": [
               "crédito",
               "cooperativas"

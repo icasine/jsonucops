@@ -39,7 +39,6 @@
     "nota": "",
     "fonte": "",
     "tags": [
-      "coop-aula-01",
       "quadro-social",
       "estatuto",
       "coop-aula-02"
@@ -150,7 +149,6 @@
     "nota": "",
     "fonte": "",
     "tags": [
-      "coop-aula-01",
       "governanca",
       "gestao-democratica",
       "coop-aula-03"
@@ -653,7 +651,7 @@
     "tags": [
       "legislacao",
       "comunidade",
-      "coop-aula-07"
+      "coop-aula-08"
     ],
     "relacionados": [
       "glo-economia-solidaria",
@@ -1087,7 +1085,6 @@
       "sigla",
       "economico",
       "fundos",
-      "coop-aula-01",
       "coop-aula-04",
       "coop-aula-07"
     ],
@@ -2108,7 +2105,8 @@
     "nota": "Entre os principais reguladores estão o Banco Central do Brasil e o Conselho Monetário Nacional, no cooperativismo de crédito; a SUSEP, nos seguros; a ANEEL, na energia elétrica; a ANTT, no transporte; e a ANS, na saúde suplementar. A regulação setorial incide sobre a atividade exercida e não se confunde, por si só, com a interferência estatal no funcionamento da cooperativa vedada pelo art. 5º, XVIII, da Constituição.",
     "fonte": "",
     "tags": [
-      "regulacao"
+      "regulacao",
+      "coop-aula-03"
     ],
     "relacionados": [
       "ent-bacen",

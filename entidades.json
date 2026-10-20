@@ -177,7 +177,8 @@
       "carnes",
       "intercooperação",
       "campos gerais",
-      "paraná"
+      "paraná",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-aurora",
@@ -567,7 +568,7 @@
     "titulo": "Asmare",
     "nome_oficial": "Associação dos Catadores de Papel, Papelão e Material Reaproveitável",
     "publicar": "sim",
-    "categoria": "1º Grau",
+    "categoria": "Associação",
     "tipo": "Associação de catadores",
     "grau": "Associação",
     "ramo": "Trabalho, Produção de Bens e Serviços",
@@ -611,7 +612,7 @@
     "grau": "Singular (1º grau)",
     "ramo": "Crédito",
     "resumo": "Movimento de cooperativas de crédito rural criado por Friedrich Wilhelm Raiffeisen, prefeito de vilarejos da Renânia, na Alemanha. Começou no inverno de fome de 1846 para 1847, em Weyerbusch, com uma associação do pão, e evoluiu para caixas de crédito que emprestavam ao agricultor pobre sem garantias. É o modelo que o Padre Amstad trouxe a Nova Petrópolis em 1902.",
-    "descricao": "Em Weyerbusch, a associação do pão (Brotverein) construiu um forno comunitário e financiou batatas para semente. Em 1849 Raiffeisen criou em Flammersfeld uma associação de auxílio a agricultores sem recursos, contra a usura, e em 1854 a associação beneficente de Heddesdorf. Em 1862 esta foi reorganizada como Heddesdorfer Darlehnskassenverein, considerada a primeira cooperativa de crédito no sentido atual. Em 1872 Raiffeisen criou em Neuwied o primeiro banco central rural. O modelo segue ativo em todo o mundo e a ideia cooperativa alemã foi inscrita em 2016 na lista de Patrimônio Cultural Imaterial da UNESCO.",
+    "descricao": "Weyerbuscher Brodverein (1847) e Heddesdorfer Darlehnskassenverein (1862)",
     "situacao": "ativa",
     "ano_fundacao": 1847,
     "ano_fim": null,
@@ -1232,7 +1233,8 @@
       "marcas",
       "café",
       "minas gerais",
-      "sul de minas"
+      "sul de minas",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-cooxupe",
@@ -1416,7 +1418,8 @@
       "imigração holandesa",
       "campos gerais",
       "intercooperação",
-      "world cooperative monitor"
+      "world cooperative monitor",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-unium",
@@ -1678,7 +1681,7 @@
     "grau": "Central/Federação (2º grau)",
     "ramo": "Saúde",
     "resumo": "A Central Nacional Unimed (CNU) foi constituída em 1998 por representantes de diversas cooperativas Unimed, inicialmente com o nome de União Nacional Cooperativa. Surgiu para resolver um problema do sistema: as grandes empresas com empregados em vários estados precisavam de um plano único de abrangência nacional, que nenhuma singular podia oferecer sozinha. É uma cooperativa de segundo grau que opera esses planos e organiza o intercâmbio entre as Unimeds. Em 2022 passou a usar o nome fantasia Unimed Nacional.",
-    "descricao": "A Unimed CNU, cooperativa central fundada em 1998 e com sede em São Paulo, está em funcionamento sob a marca Unimed Nacional. Em 31 de dezembro de 2025 tinha 339 cooperativas singulares associadas e cerca de 2,04 milhões de beneficiários, sobretudo em planos empresariais, com presença forte em São Paulo, Brasília, Salvador e São Luís. Em 2025 as contraprestações somaram R$ 8,6 bilhões e houve sobra líquida de R$ 239,3 milhões, depois de um prejuízo de R$ 503,7 milhões em 2024. Desde o fim de 2023 executa um termo de assunção de obrigações econômico-financeiras com a ANS para reequilibrar liquidez e patrimônio.",
+    "descricao": "A NRECA, National Rural Electric Cooperative Association, foi criada em 1942 para representar as cooperativas elétricas rurais surgidas após a criação da Rural Electrification Administration, em 1935. As cooperativas levaram energia à maior parte do interior americano. Em 1953 mais de 90% das fazendas já tinham eletricidade, e hoje cerca de 99% têm. A NRECA representa mais de 900 cooperativas elétricas, distritos e empresas públicas de energia sem fins lucrativos, que atendem mais de 40 milhões de pessoas em 47 estados e possuem 42% das linhas de distribuição do país, cobrindo três quartos do território. A sede fica em Arlington, na Virgínia. É um paralelo direto com as cooperativas de eletrificação do Sul do Brasil.",
     "situacao": "ativa",
     "ano_fundacao": 1998,
     "ano_fim": null,
@@ -1787,7 +1790,8 @@
       "consumo",
       "representação",
       "aci",
-      "história"
+      "história",
+      "coop-aula-01"
     ],
     "referencias": [
       "ent-aci"
@@ -2929,7 +2933,8 @@
     "tags": [
       "agro",
       "café",
-      "minas gerais"
+      "minas gerais",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-ocemg"
@@ -3021,7 +3026,8 @@
       "sementes",
       "ração",
       "paraná",
-      "sudoeste do paraná"
+      "sudoeste do paraná",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-coasul"
@@ -3108,7 +3114,8 @@
       "intercooperação",
       "campos gerais",
       "paraná",
-      "imigração holandesa"
+      "imigração holandesa",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-unium",
@@ -3199,7 +3206,8 @@
       "world cooperative monitor",
       "rio verde",
       "insumos",
-      "armazenagem"
+      "armazenagem",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-tecnoshow",
@@ -3242,7 +3250,8 @@
     "tags": [
       "histórico",
       "santa catarina",
-      "imigração"
+      "imigração",
+      "coop-aula-04"
     ],
     "referencias": [],
     "link": [],
@@ -3873,7 +3882,8 @@
       "frango",
       "feira",
       "paraná",
-      "world cooperative monitor"
+      "world cooperative monitor",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-show-rural",
@@ -4102,7 +4112,8 @@
       "cevada",
       "imigração",
       "paraná",
-      "world cooperative monitor"
+      "world cooperative monitor",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-ocepar"
@@ -5104,7 +5115,7 @@
     "grau": "Singular (1º grau)",
     "ramo": "Transporte",
     "resumo": "A Coopertral, Cooperativa Riobranquense de Transportes, é uma cooperativa de transporte sediada em Rio Branco, capital do Acre, que reúne transportadores autônomos para organizar coletivamente a prestação de serviços de transporte.",
-    "descricao": "Cooperativa singular do ramo Transporte com sede em Rio Branco (AC). Não foi possível confirmar nesta pesquisa o ano de fundação, o número de cooperados e veículos nem a situação cadastral atual.",
+    "descricao": "Cooperativa singular do ramo Transporte com sede em Rio Branco (AC).",
     "situacao": "",
     "ano_fundacao": null,
     "ano_fim": null,
@@ -5203,7 +5214,8 @@
       "psicologia",
       "saúde mental",
       "profissionais liberais",
-      "espírito santo"
+      "espírito santo",
+      "coop-aula-08"
     ],
     "referencias": [
       "ent-ocb-es"
@@ -5423,7 +5435,8 @@
       "tilápia",
       "suínos",
       "paraná",
-      "oeste do paraná"
+      "oeste do paraná",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-copacol",
@@ -5471,7 +5484,8 @@
       "etanol",
       "trading",
       "desmutualização",
-      "world cooperative monitor"
+      "world cooperative monitor",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-acucar-uniao"
@@ -5609,7 +5623,8 @@
       "trigo",
       "intercooperação",
       "paraná",
-      "oeste do paraná"
+      "oeste do paraná",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-cvale",
@@ -5656,7 +5671,8 @@
       "agro",
       "grãos",
       "feira",
-      "rio grande do sul"
+      "rio grande do sul",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-expodireto"
@@ -6139,7 +6155,8 @@
       "leite",
       "suínos",
       "rio grande do sul",
-      "marcas"
+      "marcas",
+      "coop-aula-04"
     ],
     "referencias": [],
     "link": [
@@ -6874,7 +6891,8 @@
       "suíça",
       "consumo",
       "história",
-      "federação"
+      "federação",
+      "coop-aula-01"
     ],
     "referencias": [
       "ent-coop-suica"
@@ -7182,7 +7200,8 @@
       "batavo",
       "campos gerais",
       "intercooperação",
-      "world cooperative monitor"
+      "world cooperative monitor",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-batavo",
@@ -7351,7 +7370,8 @@
       "vinho",
       "serra gaúcha",
       "rio grande do sul",
-      "aquisição de marca"
+      "aquisição de marca",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-ocergs"
@@ -7626,7 +7646,8 @@
       "intercooperação",
       "campos gerais",
       "paraná",
-      "imigração holandesa"
+      "imigração holandesa",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-unium",
@@ -8617,7 +8638,8 @@
       "leite",
       "são paulo",
       "vale do paraíba",
-      "danone"
+      "danone",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-batavo",
@@ -8701,7 +8723,8 @@
       "marcas",
       "ovos",
       "avicultura",
-      "espírito santo"
+      "espírito santo",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-coopeavi",
@@ -8972,7 +8995,8 @@
     "tags": [
       "agro",
       "café",
-      "minas gerais"
+      "minas gerais",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-ocemg"
@@ -9238,7 +9262,8 @@
       "ovos",
       "café",
       "espírito santo",
-      "consumo"
+      "consumo",
+      "coop-aula-04"
     ],
     "referencias": [],
     "link": [
@@ -9641,7 +9666,8 @@
       "orgânicos",
       "fusão",
       "serra gaúcha",
-      "rio grande do sul"
+      "rio grande do sul",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-ocergs"
@@ -10768,7 +10794,8 @@
       "leite",
       "laticínios",
       "espírito santo",
-      "intercooperação"
+      "intercooperação",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-coopeavi",
@@ -11202,7 +11229,7 @@
     "grau": "Singular (1º grau)",
     "ramo": "Crédito",
     "resumo": "O Sicoob Credicom foi fundado em 1992, em Belo Horizonte (MG), a partir da união de 24 médicos, como cooperativa financeira voltada aos profissionais, estudantes e empresários da área de saúde. Atualmente possui atuação nacional e, segundo o Anuário do Cooperativismo Mineiro 2026, registrava 132.321 cooperados em 2025, sendo a maior cooperativa de Minas Gerais nesse critério, e ingressos de R$ 1,47 bilhão, correspondentes à 3ª posição do ramo Crédito no estado. Integra o Sistema Sicoob.",
-    "descricao": "Ao longo de sua expansão, a cooperativa passou a atender também pessoas jurídicas e produtores rurais, ampliando sua presença para diferentes estados brasileiros. Em 2021, registrou R$ 4,38 bilhões em ativos, R$ 2,35 bilhões em operações de crédito, R$ 615 milhões em patrimônio líquido e R$ 96,7 milhões em sobras. A instituição possui estrutura de atendimento composta por agências e canais digitais e desenvolve produtos de crédito, investimentos e outros serviços financeiros. Sua fiscalização é realizada pelo Banco Central do Brasil, e a supervisão dentro do sistema cooperativo é vinculada ao Sicoob Central Cecremge, Central das Cooperativas de Economia e Crédito Mútuo do Estado de Minas Gerais. São 136.806 cooperados, R$ 10,14 bilhões em ativos totais, R$ 5,03 bilhões em operações de crédito e R$ 1,453 bilhão em patrimônio líquido, com data-base de maio de 2026.",
+    "descricao": "Ao longo de sua expansão, a cooperativa passou a atender também pessoas jurídicas e produtores rurais, ampliando sua presença para diferentes estados brasileiros. Em 2021, registrou R$ 4,38 bilhões em ativos, R$ 2,35 bilhões em operações de crédito, R$ 615 milhões em patrimônio líquido e R$ 96,7 milhões em sobras. A instituição possui estrutura de atendimento composta por agências e canais digitais e desenvolve produtos de crédito, investimentos e outros serviços financeiros. Sua fiscalização é realizada pelo Banco Central do Brasil, e a supervisão dentro do sistema cooperativo é vinculada ao Sicoob Central Cecremge, Central das Cooperativas de Economia e Crédito Mútuo do Estado de Minas Gerais.",
     "situacao": "ativa",
     "ano_fundacao": 1992,
     "ano_fim": null,
@@ -14812,7 +14839,8 @@
       "flores",
       "imigração holandesa",
       "são paulo",
-      "curiosidades"
+      "curiosidades",
+      "coop-aula-04"
     ],
     "referencias": [],
     "link": [
@@ -14855,7 +14883,8 @@
       "laticínios",
       "espírito santo",
       "incorporação",
-      "intercooperação"
+      "intercooperação",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-coopeavi",
@@ -14947,7 +14976,8 @@
       "suco de uva",
       "serra gaúcha",
       "rio grande do sul",
-      "imigração italiana"
+      "imigração italiana",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-ocergs"
@@ -14993,7 +15023,8 @@
       "suco de uva",
       "serra gaúcha",
       "rio grande do sul",
-      "imigração italiana"
+      "imigração italiana",
+      "coop-aula-04"
     ],
     "referencias": [
       "ent-ocergs"
