@@ -1556,7 +1556,7 @@
     "abbr": "",
     "grupo": "História",
     "texto": "Modelo de cooperativismo de crédito urbano desenvolvido na Itália por Luigi Luzzatti, a partir de 1866, associado às chamadas Banche Popolari. Buscava ampliar o acesso ao crédito para trabalhadores, pequenos comerciantes, artesãos e outros grupos urbanos, por meio de cooperativas com participação de diversos segmentos da comunidade. Entre suas características estavam a responsabilidade limitada, a formação de capital por quotas de pequeno valor e a ampliação do acesso ao crédito.",
-    "nota": "O modelo teve influência na formação do cooperativismo de crédito brasileiro, especialmente nas experiências de livre admissão. Sua concepção contribuiu para ampliar a atuação das cooperativas para além de grupos profissionais ou comunidades restritas.",
+    "nota": "O modelo teve influência na formação do cooperativismo de crédito brasileiro, especialmente nas experiências de livre admissão. Sua concepção contribuiu para ampliar a atuação das cooperativas para além de grupos profissionais ou comunidades restritas. Luigi Luzzatti, em 1866, na Itália. Luzzatti percebeu que a responsabilidade ilimitada afastava a classe média urbana e as pessoas mais abastadas por medo de perder o patrimônio particular, e por isso criou o modelo já baseado em quotas de capital com responsabilidade estritamente limitada.",
     "fonte": "",
     "tags": [
       "historia",
@@ -1609,8 +1609,8 @@
     "titulo": "Modelo Schulze-Delitzsch",
     "abbr": "",
     "grupo": "História",
-    "texto": "Modelo de cooperativismo de crédito desenvolvido na Alemanha por Hermann Schulze-Delitzsch, a partir da década de 1850, destinado principalmente a artesãos, comerciantes, pequenos empresários e trabalhadores urbanos. Diferentemente do modelo Raiffeisen, apresentava maior orientação para a atividade econômica, com formação de capital pelos associados, responsabilidade limitada e utilização do crédito como instrumento de desenvolvimento das atividades produtivas.",
-    "nota": "O modelo contribuiu para a formação das cooperativas de crédito urbanas e se diferenciou das experiências rurais de Raiffeisen pela maior ênfase na atividade econômica, na formação de capital e nas relações de crédito entre associados.",
+    "texto": "Modelo de cooperativismo de crédito desenvolvido na Alemanha por Hermann Schulze-Delitzsch, a partir da década de 1850, destinado principalmente a artesãos, comerciantes, pequenos empresários e trabalhadores urbanos. Diferentemente do modelo Raiffeisen, apresentava maior orientação para a atividade econômica, com formação de capital pelos associados, responsabilidade ilimitada (posteriormente repensado para limitada ao capital subscrito) e utilização do crédito como instrumento de desenvolvimento das atividades produtivas.",
+    "nota": "O modelo contribuiu para a formação das cooperativas de crédito urbanas e se diferenciou das experiências rurais de Raiffeisen pela maior ênfase na atividade econômica, na formação de capital e nas relações de crédito entre associados. Em sua fundação, Hermann Schulze-Delitzsch era um defensor intransigente da responsabilidade solidária e ilimitada. A tese dele era de que, sem colocar todo o patrimônio pessoal de cada membro como garantia solidária, as cooperativas urbanas não teriam credibilidade suficiente para tomar empréstimos nos bancos tradicionais. A responsabilidade limitada só foi formalmente admitida no cooperativismo alemão décadas depois, pela reforma legislativa de 1889.",
     "fonte": "",
     "tags": [
       "historia",
@@ -1889,7 +1889,7 @@
     "abbr": "",
     "grupo": "Ramos",
     "texto": "Reúne pessoas que se organizam em cooperativa para adquirir, em comum, produtos ou serviços em condições mais favoráveis de preço, qualidade ou acesso. O elemento caracterizador é a união dos consumidores para atender necessidades comuns por meio da cooperativa, e não o tipo específico de produto ou serviço oferecido.",
-    "nota": "O ramo possui origem histórica na Sociedade dos Probos Pioneiros de Rochdale, fundada em 1844. Na reorganização dos ramos promovida pela OCB em 2019, passaram a integrá-lo cooperativas anteriormente classificadas em ramos específicos, como as educacionais (alunos/pais) e habitacionais.",
+    "nota": "O ramo possui origem histórica na Sociedade dos Probos Pioneiros de Rochdale, fundada em 1844. Na reorganização dos ramos promovida pela OCB em 2019, passaram a integrá-lo cooperativas anteriormente classificadas em ramos específicos, como as educacionais (alunos/pais).",
     "fonte": "",
     "tags": [
       "ramos",
@@ -1943,8 +1943,8 @@
     "titulo": "Ramo Infraestrutura",
     "abbr": "",
     "grupo": "Ramos",
-    "texto": "Reúne cooperativas que prestam aos cooperados serviços de infraestrutura, como geração e distribuição de energia, telecomunicações e saneamento, especialmente em localidades ou áreas nas quais a atuação de outros agentes econômicos é limitada. O cooperado participa da cooperativa principalmente na condição de usuário do serviço oferecido.",
-    "nota": "As cooperativas de eletrificação possuem atuação histórica no ramo e estão sujeitas à regulamentação aplicável ao setor elétrico. Na reorganização dos ramos realizada pela OCB em 2019, as cooperativas habitacionais passaram a integrar o Ramo Consumo.",
+    "texto": "Reúne cooperativas que prestam aos cooperados serviços de infraestrutura, como geração e distribuição de energia, construção de habitações, telecomunicações e saneamento, especialmente em localidades ou áreas nas quais a atuação de outros agentes econômicos é limitada. O cooperado participa da cooperativa principalmente na condição de usuário do serviço oferecido.",
+    "nota": "As cooperativas de eletrificação possuem atuação histórica no ramo e estão sujeitas à regulamentação aplicável ao setor elétrico.",
     "fonte": "",
     "tags": [
       "ramos",
