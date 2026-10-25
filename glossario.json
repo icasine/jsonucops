@@ -1313,6 +1313,33 @@
     "publicar": "sim"
   },
   {
+    "id_glossario": "glo-ingressos-e-dispendios",
+    "titulo": "Ingressos e dispêndios",
+    "abbr": "",
+    "grupo": "Economia",
+    "texto": "Termos usados na contabilidade das cooperativas para a movimentação decorrente do ato cooperativo: ingressos são as receitas por conta de cooperados, e dispêndios são os custos e despesas por conta de cooperados. Para o ato não cooperativo, usam-se os termos receitas, custos e despesas. A Demonstração de Sobras ou Perdas apresenta separadamente o ato cooperativo e o não cooperativo.",
+    "nota": "A distinção não é só de nomenclatura: ela expressa que, no ato cooperativo, a cooperativa age por conta dos cooperados e não realiza operação de mercado, o que fundamenta o adequado tratamento tributário.",
+    "fonte": "Conselho Federal de Contabilidade. ITG 2004, Entidade Cooperativa, itens 5 e 7.",
+    "tags": [
+      "economia",
+      "contabilidade",
+      "coop-aula-04"
+    ],
+    "relacionados": [
+      "glo-ato-cooperativo",
+      "glo-ato-nao-cooperativo",
+      "glo-sobras",
+      "glo-adequado-tratamento-tributario"
+    ],
+    "links": [],
+    "referencia_ucoop": "",
+    "ref_imagem": "",
+    "imagem": "",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
     "id_glossario": "glo-integralizacao",
     "titulo": "Integralização",
     "abbr": "",

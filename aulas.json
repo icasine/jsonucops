@@ -527,6 +527,23 @@
               "dad-brasil-2025-consumo"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "video",
+            "titulo": "Programa do Cooperativismo: consumo",
+            "rotulo": "Vídeo",
+            "fonte": "Sistema Ocesp",
+            "links": [
+              {
+                "texto": "https://www.youtube.com/watch?v=bI0jd68DxWA",
+                "url": "https://www.youtube.com/watch?v=bI0jd68DxWA"
+              }
+            ],
+            "tags": [
+              "consumo",
+              "vídeo"
+            ],
+            "publicar": "sim"
           }
         ]
       }
@@ -1147,6 +1164,23 @@
               "dad-brasil-2025-credito"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "video",
+            "titulo": "Programa do Cooperativismo: crédito",
+            "rotulo": "Vídeo",
+            "fonte": "Sistema Ocesp",
+            "links": [
+              {
+                "texto": "https://www.youtube.com/watch?v=hO-ibE2C48w",
+                "url": "https://www.youtube.com/watch?v=hO-ibE2C48w"
+              }
+            ],
+            "tags": [
+              "crédito",
+              "vídeo"
+            ],
+            "publicar": "sim"
           }
         ]
       }
@@ -1715,6 +1749,23 @@
             "ref_id": [
               "dad-brasil-2019-infraestrutura",
               "dad-brasil-2025-infraestrutura"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "video",
+            "titulo": "Programa do Cooperativismo: infraestrutura",
+            "rotulo": "Vídeo",
+            "fonte": "Sistema Ocesp",
+            "links": [
+              {
+                "texto": "https://www.youtube.com/watch?v=4aUN6qE5cgE",
+                "url": "https://www.youtube.com/watch?v=4aUN6qE5cgE"
+              }
+            ],
+            "tags": [
+              "infraestrutura",
+              "vídeo"
             ],
             "publicar": "sim"
           }
@@ -2403,6 +2454,23 @@
               "dad-brasil-2025-agropecuario"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "video",
+            "titulo": "Programa do Cooperativismo: agropecuário",
+            "rotulo": "Vídeo",
+            "fonte": "Sistema Ocesp",
+            "links": [
+              {
+                "texto": "https://www.youtube.com/watch?v=-tqNS3J0FB8",
+                "url": "https://www.youtube.com/watch?v=-tqNS3J0FB8"
+              }
+            ],
+            "tags": [
+              "agropecuário",
+              "vídeo"
+            ],
+            "publicar": "sim"
           }
         ]
       }
@@ -2941,6 +3009,23 @@
               "dad-brasil-2025-saude"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "video",
+            "titulo": "Programa do Cooperativismo: saúde",
+            "rotulo": "Vídeo",
+            "fonte": "Sistema Ocesp",
+            "links": [
+              {
+                "texto": "https://www.youtube.com/watch?v=-OF2w8EyS_c",
+                "url": "https://www.youtube.com/watch?v=-OF2w8EyS_c"
+              }
+            ],
+            "tags": [
+              "saúde",
+              "vídeo"
+            ],
+            "publicar": "sim"
           }
         ]
       }
@@ -3155,6 +3240,23 @@
               "glo-intercooperacao",
               "glo-cooperativa-singular",
               "glo-central-ou-federacao"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "video",
+            "titulo": "Cooperativismo e intercooperação",
+            "rotulo": "Vídeo",
+            "fonte": "IPCOM, Videoaulas Conteúdos do Cooperativismo",
+            "links": [
+              {
+                "texto": "https://www.youtube.com/watch?v=MjNPoPHIV08",
+                "url": "https://www.youtube.com/watch?v=MjNPoPHIV08"
+              }
+            ],
+            "tags": [
+              "intercooperação",
+              "vídeo"
             ],
             "publicar": "sim"
           }
@@ -3966,6 +4068,23 @@
               "dad-brasil-2025-transporte"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "video",
+            "titulo": "O cooperativismo de transporte de cargas no Brasil",
+            "rotulo": "Vídeo",
+            "fonte": "Sistema OCB",
+            "links": [
+              {
+                "texto": "https://www.youtube.com/watch?v=nLR5QeMekZw",
+                "url": "https://www.youtube.com/watch?v=nLR5QeMekZw"
+              }
+            ],
+            "tags": [
+              "transporte",
+              "vídeo"
+            ],
+            "publicar": "sim"
           }
         ]
       }
@@ -4390,6 +4509,23 @@
             "ref_id": [
               "dad-brasil-2019-trabalhoebensdeconsumo",
               "dad-brasil-2025-trabalhoebensdeconsumo"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "video",
+            "titulo": "Programa do Cooperativismo: trabalho e produção de bens e serviços",
+            "rotulo": "Vídeo",
+            "fonte": "Sistema Ocesp",
+            "links": [
+              {
+                "texto": "https://www.youtube.com/watch?v=_neCcPFLauo",
+                "url": "https://www.youtube.com/watch?v=_neCcPFLauo"
+              }
+            ],
+            "tags": [
+              "trabalho",
+              "vídeo"
             ],
             "publicar": "sim"
           }
