@@ -3635,6 +3635,43 @@
     "conferido": true
   },
   {
+    "id_entidade": "ent-coocafe",
+    "titulo": "Coocafé",
+    "nome_oficial": "Cooperativa dos Cafeicultores da Região de Lajinha",
+    "publicar": "sim",
+    "categoria": "1º Grau",
+    "tipo": "Cooperativa agropecuária",
+    "grau": "Singular (1º grau)",
+    "ramo": "Agropecuário",
+    "resumo": "A Coocafé foi fundada em 1979 por um grupo de cafeicultores de Lajinha (MG), na região da Zona da Mata e do Caparaó mineiro. Atua em mais de 20 municípios e reúne, sobretudo, micro e pequenos produtores de café.",
+    "descricao": "Em 2015 contava com cerca de 6.500 cooperados, cerca de 95% deles micro e pequenos produtores, perto de 300 funcionários e produção de aproximadamente 1 milhão de sacas de café por ano, incluindo café certificado destinado à exportação. Em 1988, 25 produtores ligados à Coocafé fundaram a cooperativa de crédito Credicaf, hoje Sicoob Credicaf, um exemplo de intercooperação entre ramos.",
+    "situacao": "ativa",
+    "ano_fundacao": 1979,
+    "ano_fim": null,
+    "pais": "Brasil",
+    "uf": "MG",
+    "municipio": "Lajinha",
+    "endereco": "",
+    "latitude": -20.1539,
+    "longitude": -41.6228,
+    "mapa": "Agropecuário",
+    "google_maps": "",
+    "tags": [
+      "agro",
+      "café",
+      "minas gerais",
+      "intercooperação",
+      "cooperativas-dos-alunos"
+    ],
+    "referencias": [],
+    "link": [],
+    "fonte": "Cadastro CNPJ (cnpja.com); Sicoob Credicaf; MundoCoop",
+    "ref_imagem": "",
+    "imagem": "",
+    "evidenciar": false,
+    "conferido": false
+  },
+  {
     "id_entidade": "ent-coodetec",
     "titulo": "Coodetec",
     "nome_oficial": "Cooperativa Central de Pesquisa Agrícola",
@@ -5923,6 +5960,51 @@
     "conferido": false
   },
   {
+    "id_entidade": "ent-credisis-credibras",
+    "titulo": "CrediSIS CrediBrás",
+    "nome_oficial": "CrediSIS CrediBrás Cooperativa de Crédito e Investimento de Livre Admissão do Oeste de Rondônia",
+    "publicar": "sim",
+    "categoria": "1º Grau",
+    "tipo": "Cooperativa de crédito",
+    "grau": "Singular (1º grau)",
+    "ramo": "Crédito",
+    "resumo": "Cooperativa de crédito de livre admissão com sede em Nova Brasilândia d'Oeste (RO), fundada em 2003, que atua no oeste de Rondônia. Integra o Sistema CrediSIS, o primeiro sistema de crédito cooperativo criado na região Norte.",
+    "descricao": "É filiada à CrediSIS Central de Cooperativas de Crédito, com sede em Ji-Paraná, que reúne singulares em Rondônia, Acre, Mato Grosso, Pará e estados do Sul e passou de 100 mil cooperados em 2026. Ao completar 20 anos, foi homenageada pela Assembleia Legislativa de Rondônia. Como as demais singulares do sistema, é aberta a qualquer pessoa da sua área de atuação.",
+    "situacao": "ativa",
+    "ano_fundacao": 2003,
+    "ano_fim": null,
+    "pais": "Brasil",
+    "uf": "RO",
+    "municipio": "Nova Brasilândia d'Oeste",
+    "endereco": "",
+    "latitude": -11.7247,
+    "longitude": -62.3128,
+    "mapa": "Crédito",
+    "google_maps": "",
+    "tags": [
+      "crédito",
+      "credisis",
+      "rondônia",
+      "região norte",
+      "livre admissão",
+      "cooperativas-dos-alunos"
+    ],
+    "referencias": [
+      "ent-credisis"
+    ],
+    "link": [
+      {
+        "texto": "https://credisis.com.br/cooperativas/credisis-credibras/",
+        "url": "https://credisis.com.br/cooperativas/credisis-credibras/"
+      }
+    ],
+    "fonte": "CrediSIS (site e notícias); MundoCoop; cadastro CNPJ",
+    "ref_imagem": "",
+    "imagem": "",
+    "evidenciar": false,
+    "conferido": false
+  },
+  {
     "id_entidade": "ent-credit-agricole",
     "titulo": "Crédit Agricole",
     "nome_oficial": "Groupe Crédit Agricole",
@@ -6141,6 +6223,50 @@
     "fonte": "https://cooperativismodecredito.coop.br/2010/11/cresol-central-scrs-comemora-6-anos-de-atividades-e-assina-constituicao-de-corretora-de-seguros/; https://cooperativismodecredito.coop.br/cenario-mundial/cenario-brasileiro/sistema-cresol/; https://moodyslocal.com.br/wp-content/uploads/2026/03/RelatorioCredito_Cresol_Mar26_MLBR.pdf (Moody's Local, relatório de crédito, mar/2026); https://www.cresol.com.br/institucional/",
     "ref_imagem": "https://www.cresol.com.br",
     "imagem": "https://cresol.com.br/wp-content/uploads/2022/04/Logo-horizontal-branco.svg",
+    "evidenciar": false,
+    "conferido": false
+  },
+  {
+    "id_entidade": "ent-cresol-excelencia",
+    "titulo": "Cresol Excelência",
+    "nome_oficial": "",
+    "publicar": "sim",
+    "categoria": "1º Grau",
+    "tipo": "Cooperativa de crédito",
+    "grau": "Singular (1º grau)",
+    "ramo": "Crédito",
+    "resumo": "Cooperativa singular do Sistema Cresol em Santa Catarina, com atuação voltada ao crédito rural e aos produtos de investimento do sistema. Possui unidades em Lages (SC).",
+    "descricao": "O Sistema Cresol nasceu em 1995 no Paraná, a partir de cooperativas ligadas à agricultura familiar, e se organiza em cooperativas singulares, centrais e uma confederação. Em 2026, a Cresol Excelência participou da ExpoLages oferecendo crédito rural, como a Cédula de Produto Rural, e investimentos como RDC e LCA.",
+    "situacao": "ativa",
+    "ano_fundacao": null,
+    "ano_fim": null,
+    "pais": "Brasil",
+    "uf": "SC",
+    "municipio": "",
+    "endereco": "",
+    "latitude": null,
+    "longitude": null,
+    "mapa": "Crédito",
+    "google_maps": "",
+    "tags": [
+      "crédito",
+      "cresol",
+      "santa catarina",
+      "agricultura familiar",
+      "cooperativas-dos-alunos"
+    ],
+    "referencias": [
+      "ent-cresol"
+    ],
+    "link": [
+      {
+        "texto": "https://cresol.com.br",
+        "url": "https://cresol.com.br"
+      }
+    ],
+    "fonte": "NSC Total (ExpoLages 2026); Portal do Cooperativismo Financeiro (Sistema Cresol)",
+    "ref_imagem": "",
+    "imagem": "",
     "evidenciar": false,
     "conferido": false
   },
@@ -11103,7 +11229,8 @@
       "central",
       "minas gerais",
       "sicoob",
-      "coop-aula-02"
+      "coop-aula-02",
+      "cooperativas-dos-alunos"
     ],
     "referencias": [
       "ent-sicoob-confederacao",
@@ -11256,6 +11383,50 @@
     "conferido": true
   },
   {
+    "id_entidade": "ent-sicoob-credicampo",
+    "titulo": "Sicoob Credicampo",
+    "nome_oficial": "Cooperativa de Crédito Credicampo Ltda",
+    "publicar": "sim",
+    "categoria": "1º Grau",
+    "tipo": "Cooperativa de crédito",
+    "grau": "Singular (1º grau)",
+    "ramo": "Crédito",
+    "resumo": "Fundada em 15 de setembro de 1985, em Entre Rios de Minas (MG), por 91 associados, começou a operar em fevereiro de 1986. Atua no Campo das Vertentes e no Alto Paraopeba e, desde 2020, admite associados de todo o território nacional. Integra o Sistema Sicoob.",
+    "descricao": "Participou da criação da central Crediminas, em 1988. Em 2007 alterou o estatuto para a livre admissão de associados e, em 2020, lançou a conta digital e adotou a denominação Cooperativa de Crédito Credicampo Ltda. Em 2015 realizou a primeira eleição do Conselho de Administração com duas chapas, com 1.142 associados presentes, um exemplo de gestão democrática na prática.",
+    "situacao": "ativa",
+    "ano_fundacao": 1985,
+    "ano_fim": null,
+    "pais": "Brasil",
+    "uf": "MG",
+    "municipio": "Entre Rios de Minas",
+    "endereco": "",
+    "latitude": -20.6708,
+    "longitude": -44.0653,
+    "mapa": "Crédito",
+    "google_maps": "",
+    "tags": [
+      "crédito",
+      "sicoob",
+      "minas gerais",
+      "gestão democrática",
+      "cooperativas-dos-alunos"
+    ],
+    "referencias": [
+      "ent-crediminas"
+    ],
+    "link": [
+      {
+        "texto": "https://www.sicoob.com.br/web/sicoobcredicampo",
+        "url": "https://www.sicoob.com.br/web/sicoobcredicampo"
+      }
+    ],
+    "fonte": "Sicoob Credicampo, página institucional",
+    "ref_imagem": "",
+    "imagem": "",
+    "evidenciar": false,
+    "conferido": false
+  },
+  {
     "id_entidade": "ent-credicitrus",
     "titulo": "Sicoob Credicitrus",
     "nome_oficial": "Cooperativa de Crédito Credicitrus",
@@ -11310,7 +11481,7 @@
     "grau": "Singular (1º grau)",
     "ramo": "Crédito",
     "resumo": "O Sicoob Credicom foi fundado em 1992, em Belo Horizonte (MG), a partir da união de 24 médicos, como cooperativa financeira voltada aos profissionais, estudantes e empresários da área de saúde. Atualmente possui atuação nacional e, segundo o Anuário do Cooperativismo Mineiro 2026, registrava 132.321 cooperados em 2025, sendo a maior cooperativa de Minas Gerais nesse critério, e ingressos de R$ 1,47 bilhão, correspondentes à 3ª posição do ramo Crédito no estado. Integra o Sistema Sicoob.",
-    "descricao": "Ao longo de sua expansão, a cooperativa passou a atender também pessoas jurídicas e produtores rurais, ampliando sua presença para diferentes estados brasileiros. Em 2021, registrou R$ 4,38 bilhões em ativos, R$ 2,35 bilhões em operações de crédito, R$ 615 milhões em patrimônio líquido e R$ 96,7 milhões em sobras. A instituição possui estrutura de atendimento composta por agências e canais digitais e desenvolve produtos de crédito, investimentos e outros serviços financeiros. Sua fiscalização é realizada pelo Banco Central do Brasil, e a supervisão dentro do sistema cooperativo é vinculada ao Sicoob Central Cecremge, Central das Cooperativas de Economia e Crédito Mútuo do Estado de Minas Gerais.",
+    "descricao": "Ao longo de sua expansão, a cooperativa passou a atender também pessoas jurídicas e produtores rurais, ampliando sua presença para diferentes estados brasileiros. Em 2021, registrou R$ 4,38 bilhões em ativos, R$ 2,35 bilhões em operações de crédito, R$ 615 milhões em patrimônio líquido e R$ 96,7 milhões em sobras. Em junho de 2026, somava cerca de 137,5 mil cooperados, 57 pontos de atendimento em MG, SP, BA, PR e PA e R$ 10,6 bilhões em ativos. Incorporou o Sicoob Saúde, da região do Caparaó, em 2024, e o Sicoob Credivale, cooperativa de empregados da Vale, em 2025, exemplos de incorporação entre cooperativas. A instituição possui estrutura de atendimento composta por agências e canais digitais e desenvolve produtos de crédito, investimentos e outros serviços financeiros. Sua fiscalização é realizada pelo Banco Central do Brasil, e a supervisão dentro do sistema cooperativo é vinculada ao Sicoob Central Cecremge, Central das Cooperativas de Economia e Crédito Mútuo do Estado de Minas Gerais.",
     "situacao": "ativa",
     "ano_fundacao": 1992,
     "ano_fim": null,
@@ -11327,7 +11498,8 @@
       "sicoob",
       "saúde",
       "minas gerais",
-      "coop-aula-02"
+      "coop-aula-02",
+      "cooperativas-dos-alunos"
     ],
     "referencias": [
       "ent-sicoob-confederacao",
@@ -11345,6 +11517,315 @@
     "imagem": "https://www.sicoob.com.br/image/layout_set_logo?img_id=157006990&t=1791223263036",
     "evidenciar": true,
     "conferido": true
+  },
+  {
+    "id_entidade": "ent-sicoob-credilivre",
+    "titulo": "Sicoob Credilivre",
+    "nome_oficial": "Cooperativa de Crédito Credilivre Ltda.",
+    "publicar": "sim",
+    "categoria": "1º Grau",
+    "tipo": "Cooperativa de crédito",
+    "grau": "Singular (1º grau)",
+    "ramo": "Crédito",
+    "resumo": "Cooperativa de crédito de livre admissão do Sistema Sicoob, com sede em Manhuaçu (MG) e unidades em municípios da Zona da Mata mineira e em Belo Horizonte. É filiada ao Sicoob Central Crediminas.",
+    "descricao": "Pelo estatuto, sua área de ação inclui Manhuaçu, Belo Horizonte, Carangola, Manhumirim, Matipó, Simonésia e outros municípios mineiros, e a admissão é aberta a pessoas com residência ou sede em qualquer parte do país. Até 2020, a denominação trazia a expressão \"de Livre Admissão\".",
+    "situacao": "ativa",
+    "ano_fundacao": null,
+    "ano_fim": null,
+    "pais": "Brasil",
+    "uf": "MG",
+    "municipio": "Manhuaçu",
+    "endereco": "Rua Doutor José Fernandes Rodrigues, 490 - Centro, Manhuaçu - MG",
+    "latitude": -20.2577,
+    "longitude": -42.0281,
+    "mapa": "Crédito",
+    "google_maps": "",
+    "tags": [
+      "crédito",
+      "sicoob",
+      "minas gerais",
+      "livre admissão",
+      "cooperativas-dos-alunos"
+    ],
+    "referencias": [
+      "ent-crediminas"
+    ],
+    "link": [
+      {
+        "texto": "https://www.sicoob.com.br/web/sicoobcredilivre",
+        "url": "https://www.sicoob.com.br/web/sicoobcredilivre"
+      }
+    ],
+    "fonte": "Estatuto Social do Sicoob Credilivre (adequação 2023)",
+    "ref_imagem": "",
+    "imagem": "",
+    "evidenciar": false,
+    "conferido": false
+  },
+  {
+    "id_entidade": "ent-sicoob-credipel",
+    "titulo": "Sicoob Credipel",
+    "nome_oficial": "",
+    "publicar": "sim",
+    "categoria": "1º Grau",
+    "tipo": "Cooperativa de crédito",
+    "grau": "Singular (1º grau)",
+    "ramo": "Crédito",
+    "resumo": "Cooperativa de crédito fundada em 19 de outubro de 1993, em Pedro Leopoldo (MG), filiada ao Sicoob Central Crediminas. Tem agências em Pedro Leopoldo e Jaboticatubas.",
+    "descricao": "Nasceu como Cooperativa de Crédito Rural de Pedro Leopoldo e passou a ser de livre admissão por decisão da assembleia geral extraordinária de 23 de maio de 2013, comunicada pelo Banco Central. É um exemplo da transformação de cooperativas de crédito rural em cooperativas abertas a toda a comunidade.",
+    "situacao": "ativa",
+    "ano_fundacao": 1993,
+    "ano_fim": null,
+    "pais": "Brasil",
+    "uf": "MG",
+    "municipio": "Pedro Leopoldo",
+    "endereco": "",
+    "latitude": -19.6181,
+    "longitude": -44.0431,
+    "mapa": "Crédito",
+    "google_maps": "",
+    "tags": [
+      "crédito",
+      "sicoob",
+      "minas gerais",
+      "livre admissão",
+      "cooperativas-dos-alunos"
+    ],
+    "referencias": [
+      "ent-crediminas"
+    ],
+    "link": [
+      {
+        "texto": "https://www.sicoob.com.br/web/sicoobcredipel",
+        "url": "https://www.sicoob.com.br/web/sicoobcredipel"
+      }
+    ],
+    "fonte": "Sicoob Credipel; Comunicado BCB nº 24.055/2013",
+    "ref_imagem": "",
+    "imagem": "",
+    "evidenciar": false,
+    "conferido": false
+  },
+  {
+    "id_entidade": "ent-sicoob-frutal",
+    "titulo": "Sicoob Frutal",
+    "nome_oficial": "",
+    "publicar": "sim",
+    "categoria": "1º Grau",
+    "tipo": "Cooperativa de crédito",
+    "grau": "Singular (1º grau)",
+    "ramo": "Crédito",
+    "resumo": "Cooperativa de crédito fundada em 1993, em Frutal (MG), a partir de uma iniciativa do Conselho de Administração da Cofrul, cooperativa agropecuária da cidade. Tem oito agências em Frutal e região e em São José do Rio Preto (SP).",
+    "descricao": "Começou com o nome Credicofrul e depois passou a se chamar Sicoob Frutal, um exemplo de cooperativa de crédito criada por outra cooperativa. Em 31 de dezembro de 2024 tinha cerca de R$ 1,02 bilhão em ativos, R$ 147,1 milhões de patrimônio líquido e R$ 25 milhões de sobras líquidas no exercício.",
+    "situacao": "ativa",
+    "ano_fundacao": 1993,
+    "ano_fim": null,
+    "pais": "Brasil",
+    "uf": "MG",
+    "municipio": "Frutal",
+    "endereco": "Av. JK, 101 (unidade administrativa) - Frutal - MG",
+    "latitude": -20.0244,
+    "longitude": -48.9408,
+    "mapa": "Crédito",
+    "google_maps": "",
+    "tags": [
+      "crédito",
+      "sicoob",
+      "minas gerais",
+      "intercooperação",
+      "cooperativas-dos-alunos"
+    ],
+    "referencias": [
+      "ent-sicoob-confederacao"
+    ],
+    "link": [
+      {
+        "texto": "https://www.sicoob.com.br/web/sicoobfrutal",
+        "url": "https://www.sicoob.com.br/web/sicoobfrutal"
+      }
+    ],
+    "fonte": "Sicoob Frutal, página institucional e demonstrações de 2024",
+    "ref_imagem": "",
+    "imagem": "",
+    "evidenciar": false,
+    "conferido": false
+  },
+  {
+    "id_entidade": "ent-sicoob-nossocredito",
+    "titulo": "Sicoob Nossocrédito",
+    "nome_oficial": "Cooperativa de Crédito Nossocrédito Ltda.",
+    "publicar": "sim",
+    "categoria": "1º Grau",
+    "tipo": "Cooperativa de crédito",
+    "grau": "Singular (1º grau)",
+    "ramo": "Crédito",
+    "resumo": "Cooperativa de crédito do Sistema Sicoob com sede em São Sebastião do Paraíso (MG). Tem 12 unidades, 11 em Minas Gerais e uma em Ribeirão Preto (SP).",
+    "descricao": "Mantém um edital social para apoiar projetos da comunidade (edição 2026-2027), uma forma de praticar o sétimo princípio, interesse pela comunidade. Segundo a página institucional, o presidente é Leonardo Lima Diogo. Não confundir com o Sicoob Nossacoop, de Belo Horizonte.",
+    "situacao": "ativa",
+    "ano_fundacao": null,
+    "ano_fim": null,
+    "pais": "Brasil",
+    "uf": "MG",
+    "municipio": "São Sebastião do Paraíso",
+    "endereco": "Rua Dr. Placidino Brigagão, 927 - Centro, São Sebastião do Paraíso - MG, 37950-014",
+    "latitude": -20.9167,
+    "longitude": -46.9917,
+    "mapa": "Crédito",
+    "google_maps": "",
+    "tags": [
+      "crédito",
+      "sicoob",
+      "minas gerais",
+      "interesse pela comunidade",
+      "cooperativas-dos-alunos"
+    ],
+    "referencias": [
+      "ent-sicoob-confederacao"
+    ],
+    "link": [
+      {
+        "texto": "https://www.sicoob.com.br/web/sicoobnossocredito",
+        "url": "https://www.sicoob.com.br/web/sicoobnossocredito"
+      }
+    ],
+    "fonte": "Sicoob Nossocrédito, página institucional e regulamento do edital social 2026-2027",
+    "ref_imagem": "",
+    "imagem": "",
+    "evidenciar": false,
+    "conferido": false
+  },
+  {
+    "id_entidade": "ent-sicoob-sao-paulo",
+    "titulo": "Sicoob São Paulo",
+    "nome_oficial": "Sicoob Central SP",
+    "publicar": "sim",
+    "categoria": "2º Grau",
+    "tipo": "Cooperativa central",
+    "grau": "Central/Federação (2º grau)",
+    "ramo": "Crédito",
+    "resumo": "Cooperativa central do Sistema Sicoob com sede em Ribeirão Preto (SP). Reúne 14 cooperativas singulares, entre elas Sicoob PRO, Sicoob Credicitrus, Sicoob Cocred e Sicoob Credlíder, que somam mais de 533 mil associados e mais de 400 pontos de atendimento em mais de 250 cidades de SP, MG, MS, PR e RJ.",
+    "descricao": "Como central, concentra os recursos das singulares filiadas e padroniza e supervisiona suas operações, ocupando o segundo nível do sistema, entre as cooperativas singulares e a Confederação Sicoob. Não confundir com o Sicoob Central Cecresp, outra central do Sicoob, com sede na capital paulista.",
+    "situacao": "ativa",
+    "ano_fundacao": null,
+    "ano_fim": null,
+    "pais": "Brasil",
+    "uf": "SP",
+    "municipio": "Ribeirão Preto",
+    "endereco": "Av. Professor João Fiúsa, 2604 - Jardim Canadá, Ribeirão Preto - SP, 14024-260",
+    "latitude": -21.1767,
+    "longitude": -47.8208,
+    "mapa": "Crédito",
+    "google_maps": "",
+    "tags": [
+      "crédito",
+      "sicoob",
+      "central",
+      "são paulo",
+      "cooperativas-dos-alunos"
+    ],
+    "referencias": [
+      "ent-credicitrus",
+      "ent-sicoob-confederacao"
+    ],
+    "link": [
+      {
+        "texto": "https://www.sicoob.com.br/web/sicoobcentralsp",
+        "url": "https://www.sicoob.com.br/web/sicoobcentralsp"
+      }
+    ],
+    "fonte": "Sicoob São Paulo, páginas Sobre e Nossas cooperativas",
+    "ref_imagem": "",
+    "imagem": "",
+    "evidenciar": false,
+    "conferido": false
+  },
+  {
+    "id_entidade": "ent-sicoob-sarom",
+    "titulo": "Sicoob Sarom",
+    "nome_oficial": "",
+    "publicar": "sim",
+    "categoria": "1º Grau",
+    "tipo": "Cooperativa de crédito",
+    "grau": "Singular (1º grau)",
+    "ramo": "Crédito",
+    "resumo": "O Sicoob Sarom nasceu em 1991, em São Roque de Minas (MG), a partir de uma reunião de 27 produtores rurais, com o nome Saromcredi. Atua no Centro-Oeste, no Sul, no Alto Paranaíba e no Sudoeste de Minas e, em 2023, reunia mais de 44 mil cooperados e 23 agências. Integra o Sistema Sicoob.",
+    "descricao": "A cooperativa é associada à recuperação econômica de São Roque de Minas depois da crise local dos anos 1990. Mudou a denominação de Saromcredi para Sicoob Sarom, incorporou a Credfenas, de Alfenas, e apoiou iniciativas da comunidade, como a criação da Cooperativa Educacional Sarom.",
+    "situacao": "ativa",
+    "ano_fundacao": 1991,
+    "ano_fim": null,
+    "pais": "Brasil",
+    "uf": "MG",
+    "municipio": "São Roque de Minas",
+    "endereco": "",
+    "latitude": -20.2489,
+    "longitude": -46.3639,
+    "mapa": "Crédito",
+    "google_maps": "",
+    "tags": [
+      "crédito",
+      "sicoob",
+      "minas gerais",
+      "livre admissão",
+      "cooperativas-dos-alunos"
+    ],
+    "referencias": [
+      "ent-sicoob-confederacao"
+    ],
+    "link": [
+      {
+        "texto": "https://www.sicoob.com.br/web/sicoobsarom",
+        "url": "https://www.sicoob.com.br/web/sicoobsarom"
+      }
+    ],
+    "fonte": "Agência Minas (2023); MundoCoop; Sicoob Sarom",
+    "ref_imagem": "",
+    "imagem": "",
+    "evidenciar": false,
+    "conferido": false
+  },
+  {
+    "id_entidade": "ent-sicoob-uniao-central",
+    "titulo": "Sicoob União Central",
+    "nome_oficial": "",
+    "publicar": "sim",
+    "categoria": "1º Grau",
+    "tipo": "Cooperativa de crédito",
+    "grau": "Singular (1º grau)",
+    "ramo": "Crédito",
+    "resumo": "Cooperativa de crédito do Sistema Sicoob com sede em Paraopeba (MG), fundada em 1º de julho de 1987 com o nome Crediparaopeba, por 23 lideranças cooperativistas. Tem pontos de atendimento em mais de 11 municípios.",
+    "descricao": "A Cooperativa Agropecuária de Paraopeba (Coapa) custeou as despesas iniciais e cedeu espaço para o funcionamento, e o valor foi depois devolvido como aumento de capital, um exemplo de intercooperação. A cooperativa atual resulta da união do Sicoob Crediparaopeba com o Sicoob Credicentro. Apesar do nome, é uma cooperativa singular, e não uma central. Não confundir com a Central Sicoob Uni, de Goiânia.",
+    "situacao": "ativa",
+    "ano_fundacao": 1987,
+    "ano_fim": null,
+    "pais": "Brasil",
+    "uf": "MG",
+    "municipio": "Paraopeba",
+    "endereco": "",
+    "latitude": -19.2731,
+    "longitude": -44.4044,
+    "mapa": "Crédito",
+    "google_maps": "",
+    "tags": [
+      "crédito",
+      "sicoob",
+      "minas gerais",
+      "fusão",
+      "cooperativas-dos-alunos"
+    ],
+    "referencias": [
+      "ent-sicoob-confederacao"
+    ],
+    "link": [
+      {
+        "texto": "https://www.sicoob.com.br/web/sicoobuniaocentral",
+        "url": "https://www.sicoob.com.br/web/sicoobuniaocentral"
+      }
+    ],
+    "fonte": "Sicoob União Central, página institucional",
+    "ref_imagem": "",
+    "imagem": "",
+    "evidenciar": false,
+    "conferido": false
   },
   {
     "id_entidade": "ent-unimais",
@@ -12742,7 +13223,8 @@
       "oce",
       "santa catarina",
       "ascoop",
-      "coop-aula-03"
+      "coop-aula-03",
+      "cooperativas-dos-alunos"
     ],
     "referencias": [
       "ent-ocb",

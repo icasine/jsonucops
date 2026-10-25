@@ -36,7 +36,7 @@
     "titulo": "Admissão, demissão, eliminação e exclusão",
     "abbr": "",
     "grupo": "Estrutura",
-    "texto": "Formas de entrada e saída do quadro social. A demissão é voluntária, a pedido do associado. A eliminação é compulsória, por infração prevista no estatuto. A exclusão decorre de situações objetivas, como perda das condições de associação ou falecimento. As hipóteses e o procedimento devem estar expressos no estatuto.",
+    "texto": "Formas de entrada e saída do quadro social. A demissão é voluntária, a pedido do associado. A eliminação é compulsória e decorre de infração à lei ou ao estatuto, ou de fato especial previsto no estatuto (art. 33 da Lei nº 5.764/1971). A exclusão decorre de situações objetivas, como perda das condições de associação ou falecimento. As hipóteses e o procedimento devem estar expressos no estatuto.",
     "nota": "",
     "fonte": "",
     "tags": [
@@ -65,7 +65,7 @@
     "grupo": "Regulação",
     "texto": "Movimento inverso ao da equiparação: a cooperativa é reconhecida como diferente, mas em contexto no qual a empresa é a forma natural de organização da produção. A cooperativa aparece como exceção que precisa ser mencionada expressamente para existir e, onde não for mencionada, presume-se excluída.",
     "nota": "Exemplo: a Lei nº 14.133/2021 proíbe o agente público de admitir, prever, incluir ou tolerar situações que comprometam, restrinjam ou frustrem o caráter competitivo da licitação, \"inclusive nos casos de participação de sociedades cooperativas\" (art. 9º, I, \"a\"). Se a vedação a restringir a competição já alcança qualquer licitante, a menção específica às cooperativas revela a anomalia: o direito de participar, que deveria ser pressuposto, precisou ser reafirmado, sob pena de continuar sendo violado na prática.",
-    "fonte": "",
+    "fonte": "URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
     "tags": [
       "tese",
       "regulacao",
@@ -121,7 +121,7 @@
     "titulo": "Apoiar o cooperativismo",
     "abbr": "",
     "grupo": "Regulação",
-    "texto": "Atuação do poder público destinada a proporcionar suporte jurídico/legal, institucional, técnico e econômico às cooperativas, criando condições para que desenvolvam suas atividades com segurança, estabilidade e autonomia. O apoio possui caráter de sustentação e pode envolver marcos legais adequados, assistência técnica, capacitação, acesso à infraestrutura e a instrumentos de financiamento, além de políticas públicas voltadas ao desenvolvimento e à continuidade das atividades cooperativas.",
+    "texto": "Atuação do poder público destinada a proporcionar suporte jurídico, institucional, técnico e econômico às cooperativas, criando condições para que desenvolvam suas atividades com segurança, estabilidade e autonomia. O apoio possui caráter de sustentação e pode envolver marcos legais adequados, assistência técnica, capacitação, acesso à infraestrutura e a instrumentos de financiamento, além de políticas públicas voltadas ao desenvolvimento e à continuidade das atividades cooperativas.",
     "nota": "O dever de apoio está previsto no art. 174, § 2º, da Constituição Federal. O apoio não implica tutela ou direção estatal da cooperativa, devendo ser compatível com a liberdade de constituição e com a vedação à interferência estatal no funcionamento das cooperativas, prevista no art. 5º, XVIII, da Constituição Federal.",
     "fonte": "",
     "tags": [
@@ -148,7 +148,7 @@
     "titulo": "Assembleia Geral",
     "abbr": "AGO e AGE",
     "grupo": "Estrutura",
-    "texto": "Órgão supremo e deliberativo da cooperativa, composto pela reunião dos associados em pleno gozo de seus direitos. Decide sobre os rumos da sociedade, alteração do estatuto e eleição dos conselhos, vigorando a regra de que cada cooperado tem direito a apenas um voto. A Assembleia Geral Ordinária (AGO) ocorre anualmente, nos três ou quatro (ramo crédito) primeiros meses após o término do exercício, com prestação de contas, aprovação do balanço e destinação das sobras. A Extraordinária (AGE) é convocada quando necessário, para deliberar sobre matérias específicas, inclusive a reforma do estatuto.",
+    "texto": "Órgão supremo e deliberativo da cooperativa, composto pela reunião dos associados em pleno gozo de seus direitos. Decide sobre os rumos da sociedade, alteração do estatuto e eleição dos conselhos, vigorando a regra de que cada cooperado tem direito a apenas um voto. A Assembleia Geral Ordinária (AGO) ocorre anualmente, nos três primeiros meses após o término do exercício social (nas cooperativas de crédito, nos quatro primeiros meses), com prestação de contas, aprovação do balanço e destinação das sobras. A Extraordinária (AGE) é convocada quando necessário, para deliberar sobre matérias específicas, inclusive a reforma do estatuto.",
     "nota": "",
     "fonte": "",
     "tags": [
@@ -181,7 +181,7 @@
     "titulo": "Ato cooperativo",
     "abbr": "",
     "grupo": "Economia",
-    "texto": "Relações e negócios jurídicos praticados diretamente entre a cooperativa e seus cooperado ou entre cooperativas cooperadas entre si, na consecução dos objetivos sociais (art. 79 da Lei 5.764/1971). Não implica operação de mercado nem contrato de compra e venda, e é justamente essa natureza que fundamenta o a lógica do adequado tratamento tributário para as cooperativas.",
+    "texto": "Relações e negócios jurídicos praticados entre a cooperativa e seus cooperados, entre estes e aquela ou entre cooperativas associadas entre si, para a consecução dos objetivos sociais (art. 79 da Lei nº 5.764/1971). O ato cooperativo não implica operação de mercado nem contrato de compra e venda de produto ou mercadoria. É essa natureza que fundamenta o adequado tratamento tributário das cooperativas.",
     "nota": "",
     "fonte": "",
     "tags": [
@@ -214,7 +214,7 @@
     "titulo": "Ato não cooperativo",
     "abbr": "",
     "grupo": "Economia",
-    "texto": "Operação realizada pela cooperativa com terceiros não cooperados ou em atividade estranha aos seus objetivos sociais, ainda que envolva cooperados. Pode ocorrer, por exemplo, na aquisição de produção de não cooperados para complementar lotes e cumprir contratos. É admitida nos limites estabelecidos pela legislação, mas os resultados decorrentes dessas operações são tributados e destinados integralmente ao FATES, nos termos dos arts. 85 a 87 e 111 da Lei nº 5.764/1971.",
+    "texto": "Operação realizada pela cooperativa com terceiros não cooperados ou em atividade estranha aos seus objetivos sociais, ainda que envolva cooperados. Pode ocorrer, por exemplo, na aquisição de produção de não cooperados para complementar lotes e cumprir contratos. É admitida nos limites estabelecidos pela legislação. Os resultados positivos dessas operações devem ser contabilizados separadamente, são tributáveis e destinam-se integralmente ao FATES, nos termos dos arts. 85 a 87 e 111 da Lei nº 5.764/1971.",
     "nota": "",
     "fonte": "",
     "tags": [
@@ -257,7 +257,8 @@
     "relacionados": [
       "glo-economia-solidaria",
       "ent-anteag1990",
-      "glo-cooperativismo"
+      "glo-cooperativismo",
+      "glo-heterogestao"
     ],
     "links": [],
     "referencia_ucoop": "",
@@ -307,7 +308,7 @@
     "grupo": "Regulação",
     "texto": "Obstáculos legais, regulatórios, administrativos ou de mercado que, de forma expressa ou não, dificultam a atuação ou a expansão das cooperativas em comparação com as empresas mercantis, como entraves regulatórios, tratamento inadequado do ato cooperativo ou exigências administrativas desproporcionais.",
     "nota": "",
-    "fonte": "",
+    "fonte": "URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Belo Horizonte: RTM, 2025.",
     "tags": [
       "tese",
       "regulacao",
@@ -332,8 +333,8 @@
     "titulo": "Capital social",
     "abbr": "",
     "grupo": "Economia",
-    "texto": "Patrimônio financeiro da cooperativa formado pelas quotas-partes subscritas e integralizadas pelos associados, destinado ao desenvolvimento de suas atividades. O estatuto deve estabelecer, entre outros aspectos, o capital mínimo, o valor da quota-parte, o número mínimo de quotas a ser subscrito por associado, a forma de integralização e as condições de restituição em caso de desligamento. A Lei nº 5.764/1971 estabelece limites à participação individual no capital social: em regra, nenhum associado pode subscrever mais de um terço do total das quotas-partes. As quotas-partes não podem receber benefícios ou privilégios, admitindo-se juros de até 12% ao ano sobre o capital integralizado, nos termos da legislação.",
-    "nota": "A subscrição de mais de 1/3 do total das quotas-partes é ressalvado pela legislação que diz: salvo nas sociedades em que a subscrição deva ser diretamente proporcional ao movimento financeiro do cooperado ou ao quantitativo dos produtos a serem comercializados, beneficiados ou transformados, ou ainda, em relação à área cultivada ou ao número de plantas e animais em exploração.",
+    "texto": "Valor das quotas-partes subscritas pelos associados, cuja integralização ocorre nas condições estabelecidas pela legislação e pelo estatuto social. Integra o patrimônio líquido da cooperativa e se destina ao desenvolvimento de suas atividades. O estatuto deve estabelecer, entre outros aspectos, o capital mínimo, o valor da quota-parte, o número mínimo de quotas a ser subscrito por associado, a forma de integralização e as condições de restituição em caso de desligamento. A Lei nº 5.764/1971 estabelece limites à participação individual no capital social: em regra, nenhum associado pode subscrever mais de um terço do total das quotas-partes. É vedada a concessão de benefícios ou privilégios às quotas-partes. Nas cooperativas em geral, admitem-se juros de até 12% ao ano sobre o capital integralizado; nas cooperativas de crédito, o limite é a taxa Selic (art. 7º da Lei Complementar nº 130/2009).",
+    "nota": "A vedação à subscrição de mais de um terço do total das quotas-partes admite as exceções do art. 24, § 1º, da Lei nº 5.764/1971: casos em que a subscrição deve ser diretamente proporcional ao movimento financeiro do cooperado, à quantidade de produtos comercializados, beneficiados ou transformados, à área cultivada ou ao número de plantas e animais em exploração.",
     "fonte": "",
     "tags": [
       "economico",
@@ -426,7 +427,7 @@
     "abbr": "",
     "grupo": "Estrutura",
     "texto": "Estruturas responsáveis pela administração e gestão da cooperativa, definidas em lei e no estatuto social. No modelo monístico, as funções de direção estratégica e gestão são concentradas em um único órgão, que pode ser o Conselho de Administração ou a Diretoria. No modelo dual, essas funções são separadas entre o Conselho de Administração, responsável pela direção estratégica, supervisão e acompanhamento da gestão, e a Diretoria Executiva, subordinada ao Conselho e responsável pela gestão executiva e operacional. Em ambos os casos, os administradores e dirigentes respondem pelos prejuízos decorrentes de atos praticados com culpa ou dolo, na forma da lei, e estão sujeitos a regras de impedimento relacionadas a parentesco e a conflitos de interesse.",
-    "nota": "Nas cooperativas em geral, a administração pode ser exercida por Diretoria ou Conselho de Administração, eleitos pela Assembleia Geral entre os associados, com mandato de até quatro anos e renovação obrigatória de, no mínimo, um terço do Conselho de Administração. No ramo crédito, a legislação passou a privilegiar o modelo dual, com a separação entre as funções estratégicas e executivas, buscando especializar a gestão e ampliar a segurança na administração da cooperativa e na proteção dos interesses dos associados.",
+    "nota": "Nas cooperativas em geral, a administração pode ser exercida por Diretoria ou Conselho de Administração, eleitos pela Assembleia Geral entre os associados, com mandato de até quatro anos e renovação obrigatória de, no mínimo, um terço do Conselho de Administração. No cooperativismo de crédito, a Lei Complementar nº 130/2009, com a redação dada pela Lei Complementar nº 196/2022, prevê o Conselho de Administração e a Diretoria Executiva a ele subordinada, separando funções estratégicas e executivas. A regulamentação do Conselho Monetário Nacional pode admitir exceções conforme o porte, a complexidade e os riscos da cooperativa.",
     "fonte": "",
     "tags": [
       "governanca",
@@ -483,7 +484,7 @@
   },
   {
     "id_glossario": "glo-cooperacao-cartel",
-    "titulo": "Cooperação x Cartel",
+    "titulo": "Cooperação x cartel",
     "abbr": "",
     "grupo": "Regulação",
     "texto": "Distinção entre a cooperação econômica realizada por meio da cooperativa e o cartel. No cartel, empresas concorrentes combinam preços, dividem mercados ou limitam a produção, prática vedada pela Lei nº 12.529/2011. Na cooperativa, os associados constituem uma sociedade própria para lhes prestar serviços, e a atuação conjunta decorre da natureza do ato cooperativo. A forma cooperativa não afasta a aplicação do direito da concorrência. Condutas potencialmente abusivas podem ser examinadas pelo CADE, inclusive em casos envolvendo cooperativas médicas.",
@@ -564,7 +565,7 @@
     "titulo": "Cooperativa",
     "abbr": "",
     "grupo": "Fundamentos",
-    "texto": "Cooperativa é uma associação (cooperação) autônoma de pessoas que se unem voluntariamente para atender a necessidades econômicas, sociais e culturais comuns, por meio de empreendimento de propriedade conjunta e controle democrático. No cooperativismo, a cooperativa é caracterizada como sociedade de pessoas, e não de capital, na qual os associados participam da organização e do controle da sociedade.",
+    "texto": "Cooperativa é uma associação autônoma de pessoas que se unem voluntariamente para atender a necessidades econômicas, sociais e culturais comuns, por meio de empreendimento de propriedade conjunta e controle democrático. No cooperativismo, a cooperativa é caracterizada como sociedade de pessoas, e não de capital, na qual os associados participam da organização e do controle da sociedade.",
     "nota": "",
     "fonte": "",
     "tags": [
@@ -592,7 +593,7 @@
     "abbr": "",
     "grupo": "Economia",
     "texto": "Cooperativa que utiliza uma plataforma digital para organizar atividades econômicas, serviços ou relações de trabalho, com propriedade e gestão atribuídas coletivamente aos trabalhadores, usuários ou demais participantes que geram valor na atividade. O conceito de cooperativismo de plataforma foi desenvolvido e difundido por Trebor Scholz, que propôs a organização cooperativa de plataformas digitais como forma de combinar tecnologia, propriedade coletiva e governança democrática.",
-    "nota": "Scholz identifica diferentes modelos de cooperativas de plataforma, incluindo plataformas de propriedade dos trabalhadores, dos produsers e modelos multissetoriais. Entre os princípios associados à proposta estão a propriedade coletiva, o trabalho codeterminado, a transparência e portabilidade dos dados, pagamentos adequados, proteção trabalhista, participação democrática e proteção contra formas arbitrárias de controle. Veja também o artigo de Rafael Grohmann no link.",
+    "nota": "Scholz identifica diferentes modelos de cooperativas de plataforma, incluindo plataformas de propriedade dos trabalhadores, dos produsers (usuários que também produzem valor na plataforma, como quem cria conteúdo ou dados) e modelos multissetoriais. Entre os princípios associados à proposta estão a propriedade coletiva, o trabalho codeterminado, a transparência e portabilidade dos dados, pagamentos adequados, proteção trabalhista, participação democrática e proteção contra formas arbitrárias de controle. Veja também o artigo de Rafael Grohmann no link.",
     "fonte": "",
     "tags": [
       "trabalho",
@@ -709,7 +710,7 @@
     "abbr": "",
     "grupo": "História",
     "texto": "Documento aprovado pela Aliança Cooperativa Internacional (ACI) em 1995, durante o Congresso do Centenário, realizado em Manchester, que reúne a definição de cooperativa, os valores cooperativos e os sete Princípios do Cooperativismo. A Declaração sobre a Identidade Cooperativa constitui referência internacional para a definição e a compreensão da identidade das sociedades cooperativas.",
-    "nota": "Em 2016, a ACI publicou as Guidance Notes on the Cooperative Principles, com orientações sobre a aplicação prática dos sete Princípios às cooperativas no contexto contemporâneo.",
+    "nota": "Em 2015, a ACI publicou as Guidance Notes on the Cooperative Principles, com orientações sobre a aplicação prática dos sete Princípios às cooperativas no contexto contemporâneo.",
     "fonte": "",
     "tags": [
       "aci",
@@ -763,7 +764,7 @@
     "titulo": "Dia C",
     "abbr": "Dia de Cooperar",
     "grupo": "Organizações",
-    "texto": "Programa nacional que mobiliza cooperativas brasileiras em ações voluntárias voltadas às comunidades, abrangendo áreas como cultura, educação, responsabilidade socioambiental, saúde, esporte, lazer e assistência social. As iniciativas são definidas e executadas pelas próprias cooperativas, com apoio das Organizações Estaduais e da Unidade Nacional do Sistema OCB na capacitação, divulgação, registro e valorização das práticas. As ações ocorrem ao longo do ano e são celebradas coletivamente no último sábado de agosto, quando as cooperativas ampliam a visibilidade de suas iniciativas junto à sociedade. As ações são registradas na plataforma do Dia C, permitindo demonstrar o impacto do cooperativismo nas comunidades.",
+    "texto": "Programa nacional que mobiliza cooperativas brasileiras em ações voluntárias voltadas às comunidades, abrangendo áreas como cultura, educação, responsabilidade socioambiental, saúde, esporte, lazer e assistência social. As iniciativas são definidas e executadas pelas próprias cooperativas, com apoio das Organizações Estaduais e da Unidade Nacional do Sistema OCB na capacitação, divulgação, registro e valorização das práticas. As ações ocorrem ao longo do ano e são celebradas coletivamente em um sábado de agosto, próximo ao Dia Nacional do Voluntariado (28 de agosto), quando as cooperativas ampliam a visibilidade de suas iniciativas junto à sociedade. As ações são registradas na plataforma do Dia C, permitindo demonstrar o impacto do cooperativismo nas comunidades.",
     "nota": "O Dia C está relacionado ao 7º Princípio do Cooperativismo, Interesse pela Comunidade, ao promover ações voluntárias voltadas ao desenvolvimento das comunidades.",
     "fonte": "",
     "tags": [
@@ -810,6 +811,38 @@
     "publicar": "sim"
   },
   {
+    "id_glossario": "glo-dissolucao-e-liquidacao",
+    "titulo": "Dissolução e liquidação",
+    "abbr": "",
+    "grupo": "Estrutura",
+    "texto": "Formas de encerramento das atividades da cooperativa. A dissolução pode decorrer de deliberação da Assembleia Geral ou das demais hipóteses previstas no art. 63 da Lei nº 5.764/1971, que disciplina a dissolução e a liquidação nos arts. 63 a 78. A liquidação destina-se à realização do ativo, ao pagamento dos credores e à destinação do saldo, conforme a lei. A Lei nº 5.764/1971 declara as cooperativas não sujeitas à falência (art. 4º). A Lei nº 11.101/2005 disciplina a recuperação judicial e a falência do empresário e da sociedade empresária (art. 1º), categoria em que a cooperativa, sociedade simples, não se enquadra, e menciona expressamente as cooperativas de crédito entre as excluídas (art. 2º, II).",
+    "nota": "Nas atividades submetidas a regimes regulatórios específicos, a liquidação pode observar procedimentos próprios, inclusive de natureza extrajudicial.",
+    "fonte": "",
+    "tags": [
+      "estrutura",
+      "legislacao",
+      "coop-aula-04"
+    ],
+    "relacionados": [
+      "glo-reguladores-setoriais",
+      "ent-bacen",
+      "ent-ans",
+      "glo-desmutualizacao"
+    ],
+    "links": [
+      {
+        "texto": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm"
+      }
+    ],
+    "referencia_ucoop": "",
+    "ref_imagem": "",
+    "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-y33HI2TDyNwsk8PB1WXfPhxDfQa4kZ25P3FM0ENP9Nt_dcCPSSTO-R0GsWPX54FCiEtPdgmaCfwydmB-6cxsjSmH5MSCeSGoKGMUIKU06sBXVceOZgamO1DfXPWpquYOCdguM4tsfMqC13pEC_ueTBiQLer_xizxe6qbjVXVDoOEaRFozSTsTmqTiKk/s1536/glo-dissolucao-e-liquidacao.png",
+    "evidenciar": false,
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
     "id_glossario": "glo-doutrina-cooperativista",
     "titulo": "Doutrina cooperativista",
     "abbr": "",
@@ -841,7 +874,7 @@
     "abbr": "",
     "grupo": "Fundamentos",
     "texto": "Característica da relação cooperativa pela qual o cooperado atua simultaneamente como membro da sociedade e usuário ou beneficiário de suas atividades econômicas. Além de participar da propriedade e do controle democrático da organização, o cooperado mantém com ela uma relação econômica vinculada ao atendimento de suas necessidades, que pode envolver o consumo de bens e serviços, a comercialização de sua produção ou a realização de seu trabalho por meio da cooperativa.",
-    "nota": "\"Tripla qualidade\" - Recurso didático que apresenta três dimensões da participação do cooperado na organização: dono, usuário e fornecedor ou trabalhador. Como dono, participa das decisões e do controle da cooperativa; como usuário, utiliza seus serviços e sua estrutura; como fornecedor ou trabalhador, entrega sua produção ou realiza atividades profissionais por meio do empreendimento cooperativo. Essas dimensões podem coexistir, conforme o ramo e o objeto da cooperativa, e não constituem uma classificação doutrinária universal que substitua o conceito de dupla qualidade.",
+    "nota": "\"Tripla qualidade\": recurso didático que apresenta três dimensões da participação do cooperado na organização: dono, usuário e fornecedor ou trabalhador. Como dono, participa das decisões e do controle da cooperativa; como usuário, utiliza seus serviços e sua estrutura; como fornecedor ou trabalhador, entrega sua produção ou realiza atividades profissionais por meio do empreendimento cooperativo. Essas dimensões podem coexistir, conforme o ramo e o objeto da cooperativa, e não constituem uma classificação doutrinária universal que substitua o conceito de dupla qualidade.",
     "fonte": "",
     "tags": [
       "conceitos-basicos",
@@ -867,7 +900,7 @@
     "abbr": "",
     "grupo": "Fundamentos",
     "texto": "Forma de organização da produção, da distribuição e do consumo baseada na propriedade ou gestão coletiva dos meios de produção e na autogestão. Abrange diferentes formas de organização econômica, como cooperativas, associações, grupos informais e redes de cooperação, orientadas pela gestão democrática, pela cooperação e pela busca de benefícios econômicos e sociais para seus participantes.",
-    "nota": "Em determinadas abordagens, a economia solidária abrange cooperativas, associações e outros empreendimentos coletivos organizados com base na autogestão e na cooperação",
+    "nota": "Em determinadas abordagens, a economia solidária abrange cooperativas, associações e outros empreendimentos coletivos organizados com base na autogestão e na cooperação.",
     "fonte": "",
     "tags": [
       "economia-solidaria",
@@ -876,7 +909,6 @@
     ],
     "relacionados": [
       "glo-autogestao",
-      "glo-vertente-pioneira-e-vertente-solidaria",
       "ent-senaes",
       "ent-unisol",
       "pol-proninc-1997"
@@ -923,7 +955,7 @@
     "abbr": "",
     "grupo": "Estrutura",
     "texto": "Documento jurídico obrigatório que estabelece a organização e o funcionamento da cooperativa, definindo sua denominação, sede, área de ação, objeto social, direitos e deveres dos associados, condições de admissão, desligamento e exclusão, valor e condições de integralização das quotas-partes, critérios de rateio de sobras e perdas, estrutura de administração e fiscalização, funcionamento das assembleias e constituição dos fundos previstos na legislação e no próprio estatuto.",
-    "nota": "A legislação estabelece limites e matérias obrigatórias; dentro deles, o estatuto define regras específicas da cooperativa, inclusive critérios de destinação das sobras quando houver espaço para deliberação",
+    "nota": "A legislação estabelece limites e matérias obrigatórias; dentro deles, o estatuto define regras específicas da cooperativa, inclusive critérios de destinação das sobras quando houver espaço para deliberação.",
     "fonte": "",
     "tags": [
       "estrutura",
@@ -1058,7 +1090,7 @@
     "abbr": "Fundo de Assistência Técnica, Educacional e Social",
     "grupo": "Economia",
     "texto": "Fundo de Assistência Técnica, Educacional e Social, de constituição obrigatória e indivisível, formado por, no mínimo, 5% das sobras líquidas do exercício. Destina-se à prestação de assistência técnica, educacional e social aos associados, seus familiares e, conforme previsão estatutária, aos empregados da cooperativa. O fundo representa mecanismo de aplicação coletiva de parte dos resultados da cooperativa em atividades relacionadas à formação, ao desenvolvimento e ao atendimento de seus associados.",
-    "nota": "Os resultados das operações realizadas com não associados devem ser destinados integralmente ao FATES, nos termos da legislação cooperativista.",
+    "nota": "Os resultados positivos das operações realizadas com não associados devem ser destinados integralmente ao FATES, nos termos da legislação cooperativista.",
     "fonte": "",
     "tags": [
       "sigla",
@@ -1090,7 +1122,7 @@
     "titulo": "FGCoop",
     "abbr": "Fundo Garantidor do Cooperativismo de Crédito",
     "grupo": "Regulação",
-    "texto": "Fundo Garantidor do Cooperativismo de Crédito, associação civil sem fins lucrativos que protege depositantes e investidores das cooperativas de crédito e dos bancos cooperativos a ele associados, até os limites e nas condições previstos em seu estatuto e regulamento. Foi criado com base na Resolução CMN nº 4.150/2012 e a associação é obrigatória para as instituições do Sistema Nacional de Crédito Cooperativo que captam depósitos.",
+    "texto": "Fundo Garantidor do Cooperativismo de Crédito, associação civil sem fins lucrativos que protege depositantes e investidores das cooperativas de crédito e dos bancos cooperativos a ele associados, até os limites e nas condições previstos em seu estatuto e regulamento. Foi instituído com base na Resolução CMN nº 4.150/2012, que torna obrigatória a associação das cooperativas singulares de crédito que captam depósitos e dos bancos cooperativos do Sistema Nacional de Crédito Cooperativo.",
     "nota": "",
     "fonte": "",
     "tags": [
@@ -1140,38 +1172,6 @@
     "referencia_ucoop": "",
     "ref_imagem": "",
     "imagem": "",
-    "evidenciar": false,
-    "conferido": false,
-    "publicar": "sim"
-  },
-  {
-    "id_glossario": "glo-dissolucao-e-liquidacao",
-    "titulo": "Formas de encerramento das atividades da cooperativa, decorrentes de decisão da Assembleia Geral ou de outras hipóteses previstas em lei, com posterior liquidação do patrimônio social. Regra geral, a Lei nº 5.764/1971 disciplina a dissolução e a liquidação das cooperativas nos arts. 63 a 78. A cooperativa não se sujeita à falência nem à recuperação judicial, nos termos do art. 2º, II, da Lei nº 11.101/2005.",
-    "abbr": "",
-    "grupo": "Estrutura",
-    "texto": "Formas de encerramento das atividades da cooperativa, decorrentes de decisão da Assembleia Geral ou de outras hipóteses previstas em lei, com posterior liquidação do patrimônio social. A Lei nº 5.764/1971 disciplina a dissolução e a liquidação das cooperativas nos arts. 63 a 78. A cooperativa não se sujeita à falência nem à recuperação judicial, nos termos do art. 2º, II, da Lei nº 11.101/2005.",
-    "nota": "Nas atividades submetidas a regimes regulatórios específicos, a liquidação pode observar procedimentos próprios, inclusive de natureza extrajudicial.",
-    "fonte": "",
-    "tags": [
-      "estrutura",
-      "legislacao",
-      "coop-aula-04"
-    ],
-    "relacionados": [
-      "glo-reguladores-setoriais",
-      "ent-bacen",
-      "ent-ans",
-      "glo-desmutualizacao"
-    ],
-    "links": [
-      {
-        "texto": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
-        "url": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm"
-      }
-    ],
-    "referencia_ucoop": "",
-    "ref_imagem": "",
-    "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-y33HI2TDyNwsk8PB1WXfPhxDfQa4kZ25P3FM0ENP9Nt_dcCPSSTO-R0GsWPX54FCiEtPdgmaCfwydmB-6cxsjSmH5MSCeSGoKGMUIKU06sBXVceOZgamO1DfXPWpquYOCdguM4tsfMqC13pEC_ueTBiQLer_xizxe6qbjVXVDoOEaRFozSTsTmqTiKk/s1536/glo-dissolucao-e-liquidacao.png",
     "evidenciar": false,
     "conferido": false,
     "publicar": "sim"
@@ -1234,11 +1234,11 @@
     "publicar": "sim"
   },
   {
-    "id_glossario": "Operações de reorganização societária das cooperativas. Na fusão, duas ou mais cooperativas se unem para formar uma nova sociedade, que as sucede em direitos e obrigações. Na incorporação, uma cooperativa absorve o patrimônio, os associados, os direitos e as obrigações de outra, que deixa de existir. No desmembramento, equivalente à cisão, a cooperativa se divide em duas ou mais novas cooperativas ou tem parte do seu patrimônio vertida para outras. A Lei nº 5.764/1971 disciplina a fusão, a incorporação e o desmembramento nos arts. 57 a 62, exigindo deliberação em assembleia geral extraordinária. A transformação da cooperativa em outro tipo societário é causa de dissolução da sociedade cooperativa, conforme o art. 63, considerada incompatível com o regime cooperativo por parte da doutrina.",
-    "titulo": "Fusão, incorporação, transformação e cisão",
+    "id_glossario": "glo-fusao-incorporacao-e-desmembramento",
+    "titulo": "Fusão, incorporação, desmembramento e transformação",
     "abbr": "",
     "grupo": "Estrutura",
-    "texto": "Operações de reorganização societária das cooperativas. Na fusão, duas ou mais cooperativas se unem para formar uma nova sociedade, que as sucede em direitos e obrigações. Na incorporação, uma cooperativa absorve o patrimônio, os associados, os direitos e as obrigações de outra, que deixa de existir. No desmembramento, semelhante à cisão, a cooperativa se divide em duas ou mais novas cooperativas ou tem parte do seu patrimônio vertida para outras. A Lei nº 5.764/1971 disciplina a fusão, a incorporação e o desmembramento nos arts. 57 a 62, exigindo deliberação em assembleia geral extraordinária. A transformação da cooperativa em outro tipo societário não é prevista na lei e é considerada incompatível com o regime cooperativo por parte da doutrina.",
+    "texto": "Operações de reorganização societária previstas na legislação cooperativista. Na fusão, duas ou mais cooperativas formam uma nova sociedade, que as sucede em direitos e obrigações. Na incorporação, uma cooperativa absorve outra, recebe seus associados, assume suas obrigações e sucede seus direitos. No desmembramento, figura próxima da cisão, a cooperativa se divide em duas ou mais novas cooperativas, com rateio do ativo e do passivo. A Lei nº 5.764/1971 disciplina essas operações nos arts. 57 a 62 e atribui sua deliberação à Assembleia Geral Extraordinária (art. 46, II). A transformação da cooperativa em outro tipo societário não é prevista como operação de reorganização: a alteração da forma jurídica é causa de dissolução (art. 63, IV), e a admissibilidade da transformação é objeto de debate doutrinário.",
     "nota": "",
     "fonte": "",
     "tags": [
@@ -1292,7 +1292,7 @@
     "titulo": "Impenhorabilidade das quotas-partes",
     "abbr": "",
     "grupo": "Economia",
-    "texto": "Tese segundo a qual as quotas-partes do associado não podem ser penhoradas para satisfação de dívidas pessoais, em razão de sua vinculação ao capital social da cooperativa e das restrições legais à sua transferência a terceiros não associados. A discussão envolve a natureza específica da quota-parte e sua relação com a condição de sócio-cooperado, diferenciando-a de uma participação societária livremente negociável.",
+    "texto": "Tese segundo a qual as quotas-partes do cooperado não podem ser penhoradas para satisfação de dívidas pessoais, em razão de sua vinculação ao capital social da cooperativa e das restrições legais à sua transferência a terceiros não associados. A proteção está expressamente prevista em lei apenas para as cooperativas de crédito; nos demais ramos, a discussão envolve a natureza específica da quota-parte e sua relação com a condição de sócio-cooperado, diferenciando-a de uma participação societária livremente negociável.",
     "nota": "Nas cooperativas de crédito, essa proteção foi expressamente positivada pelo art. 10, § 1º, da Lei Complementar nº 130/2009, incluído pela Lei Complementar nº 196/2022, que estabelece a impenhorabilidade das quotas-partes do capital da cooperativa de crédito. Nas cooperativas de crédito, a impenhorabilidade também se relaciona à função do capital social na estrutura patrimonial e prudencial da instituição financeira. A legislação estabelece ainda condições para a restituição das quotas ao associado desligado, de modo a preservar os requisitos prudenciais aplicáveis à cooperativa.",
     "fonte": "",
     "tags": [
@@ -1353,7 +1353,6 @@
     ],
     "relacionados": [
       "glo-central-ou-federacao",
-      "glo-coop2coop",
       "glo-principios-do-cooperativismo"
     ],
     "links": [],
@@ -1369,7 +1368,7 @@
     "titulo": "Juros ao capital",
     "abbr": "",
     "grupo": "Economia",
-    "texto": "Remuneração limitada que a cooperativa pode pagar sobre as quotas-partes integralizadas, até 12% ao ano (art. 24, § 3º, da Lei 5.764/1971). Nas cooperativas de crédito, o teto é a taxa Selic (art. 7º da Lei Complementar 130/2009). O limite existe para que o capital sirva à cooperativa, e não o contrário.",
+    "texto": "Remuneração limitada que a cooperativa pode pagar sobre as quotas-partes integralizadas, até 12% ao ano (art. 24, § 3º, da Lei 5.764/1971). Nas cooperativas de crédito, o teto é a taxa Selic (art. 7º da Lei Complementar 130/2009). O pagamento depende de previsão estatutária e, em regra, da existência de sobras no exercício. O limite existe para que o capital sirva à cooperativa, e não o contrário.",
     "nota": "",
     "fonte": "",
     "tags": [
@@ -1400,7 +1399,7 @@
     "titulo": "Lei das Cooperativas de Trabalho",
     "abbr": "",
     "grupo": "Regulação",
-    "texto": "Lei nº 12.690/2012, que disciplina a organização e o funcionamento das cooperativas de trabalho, estabelecendo regras específicas para sua constituição, funcionamento e relação com os cooperados. A lei exige, para sua constituição, no mínimo sete cooperados e assegura direitos mínimos aos cooperados, como retirada não inferior ao piso da categoria ou, na ausência deste, ao salário mínimo, proporcional às horas trabalhadas, além de repouso semanal e anual remunerados, adicionais de trabalho noturno e de insalubridade ou periculosidade e seguro de acidente de trabalho.",
+    "texto": "Lei nº 12.690/2012, que disciplina a organização e o funcionamento das cooperativas de trabalho, estabelecendo regras específicas para sua constituição, funcionamento e relação com os cooperados. A lei exige, para sua constituição, no mínimo sete sócios e assegura direitos mínimos aos cooperados, como retirada não inferior ao piso da categoria ou, na ausência deste, ao salário mínimo, proporcional às horas trabalhadas, além de repouso semanal e anual remunerados, adicionais de trabalho noturno e de insalubridade ou periculosidade e seguro de acidente de trabalho.",
     "nota": "A lei proíbe a utilização da cooperativa para intermediação de mão de obra subordinada, prevê multa por trabalhador prejudicado e institui o PRONACOOP. Também estabelece hipóteses de não aplicação a determinadas cooperativas, conforme o art. 1º, parágrafo único.",
     "fonte": "",
     "tags": [
@@ -1571,7 +1570,7 @@
     "abbr": "",
     "grupo": "História",
     "texto": "Modelo de cooperativismo de crédito urbano desenvolvido na Itália por Luigi Luzzatti, a partir de 1866, associado às chamadas Banche Popolari. Buscava ampliar o acesso ao crédito para trabalhadores, pequenos comerciantes, artesãos e outros grupos urbanos, por meio de cooperativas com participação de diversos segmentos da comunidade. Entre suas características estavam a responsabilidade limitada, a formação de capital por quotas de pequeno valor e a ampliação do acesso ao crédito.",
-    "nota": "O modelo teve influência na formação do cooperativismo de crédito brasileiro, especialmente nas experiências de livre admissão. Sua concepção contribuiu para ampliar a atuação das cooperativas para além de grupos profissionais ou comunidades restritas. Luigi Luzzatti, em 1866, na Itália. Luzzatti percebeu que a responsabilidade ilimitada afastava a classe média urbana e as pessoas mais abastadas por medo de perder o patrimônio particular, e por isso criou o modelo já baseado em quotas de capital com responsabilidade estritamente limitada.",
+    "nota": "O modelo teve influência na formação do cooperativismo de crédito brasileiro, especialmente nas experiências de livre admissão. Sua concepção contribuiu para ampliar a atuação das cooperativas para além de grupos profissionais ou comunidades restritas. Luzzatti percebeu que a responsabilidade ilimitada afastava a classe média urbana e as pessoas mais abastadas, por medo de perder o patrimônio particular, e por isso criou um modelo baseado em quotas de capital com responsabilidade limitada.",
     "fonte": "",
     "tags": [
       "historia",
@@ -1626,7 +1625,7 @@
     "titulo": "Modelo Schulze-Delitzsch",
     "abbr": "",
     "grupo": "História",
-    "texto": "Modelo de cooperativismo de crédito desenvolvido na Alemanha por Hermann Schulze-Delitzsch, a partir da década de 1850, destinado principalmente a artesãos, comerciantes, pequenos empresários e trabalhadores urbanos. Diferentemente do modelo Raiffeisen, apresentava maior orientação para a atividade econômica, com formação de capital pelos associados, responsabilidade ilimitada (posteriormente repensado para limitada ao capital subscrito) e utilização do crédito como instrumento de desenvolvimento das atividades produtivas.",
+    "texto": "Modelo de cooperativismo de crédito desenvolvido na Alemanha por Hermann Schulze-Delitzsch, a partir da década de 1850, destinado principalmente a artesãos, comerciantes, pequenos empresários e trabalhadores urbanos. Diferentemente do modelo Raiffeisen, apresentava maior orientação para a atividade econômica, com formação de capital pelos associados, responsabilidade ilimitada (posteriormente substituída pela responsabilidade limitada) e utilização do crédito como instrumento de desenvolvimento das atividades produtivas.",
     "nota": "O modelo contribuiu para a formação das cooperativas de crédito urbanas e se diferenciou das experiências rurais de Raiffeisen pela maior ênfase na atividade econômica, na formação de capital e nas relações de crédito entre associados. Em sua fundação, Hermann Schulze-Delitzsch era um defensor intransigente da responsabilidade solidária e ilimitada. A tese dele era de que, sem colocar todo o patrimônio pessoal de cada membro como garantia solidária, as cooperativas urbanas não teriam credibilidade suficiente para tomar empréstimos nos bancos tradicionais. A responsabilidade limitada só foi formalmente admitida no cooperativismo alemão décadas depois, pela reforma legislativa de 1889.",
     "fonte": "",
     "tags": [
@@ -1737,7 +1736,7 @@
     "id_glossario": "glo-oligopsonio",
     "titulo": "Oligopsônio",
     "abbr": "",
-    "grupo": "Regulação",
+    "grupo": "Economia",
     "texto": "Estrutura de mercado caracterizada pela existência de poucos compradores para muitos vendedores, conferindo aos compradores maior poder de negociação sobre preços, condições e volumes de aquisição. A concentração da demanda pode limitar a capacidade de negociação dos fornecedores quando estes dependem de poucos compradores.",
     "nota": "No cooperativismo agropecuário, a organização coletiva dos produtores pode ampliar escala e capacidade de negociação diante de mercados concentrados. Por outro lado, a dependência excessiva da cooperativa em relação a poucos compradores pode afetar sua autonomia e a capacidade de defender os interesses dos cooperados.",
     "fonte": "",
@@ -1790,7 +1789,7 @@
     "abbr": "",
     "grupo": "Fundamentos",
     "texto": "Diretrizes pelas quais as cooperativas colocam em prática os valores do cooperativismo, conforme a Declaração sobre a Identidade Cooperativa aprovada pela ACI em 1995: 1) adesão voluntária e livre; 2) gestão democrática pelos membros; 3) participação econômica dos membros; 4) autonomia e independência; 5) educação, formação e informação; 6) intercooperação; e 7) interesse pela comunidade.",
-    "nota": "Os valores não mudam. Os princípios são periodicamente revisados nos congressos da ACI para refletir esses valores em cada época.",
+    "nota": "Os valores orientam a identidade cooperativa. Os princípios foram revistos em momentos específicos da história da ACI, como em 1937, 1966 e 1995, para expressar esses valores em diferentes contextos, sem periodicidade fixa.",
     "fonte": "",
     "tags": [
       "principios",
@@ -1903,7 +1902,7 @@
     "abbr": "",
     "grupo": "Ramos",
     "texto": "Reúne pessoas que se organizam em cooperativa para adquirir, em comum, produtos ou serviços em condições mais favoráveis de preço, qualidade ou acesso. O elemento caracterizador é a união dos consumidores para atender necessidades comuns por meio da cooperativa, e não o tipo específico de produto ou serviço oferecido.",
-    "nota": "O ramo possui origem histórica na Sociedade dos Probos Pioneiros de Rochdale, fundada em 1844. Na reorganização dos ramos promovida pela OCB em 2019, passaram a integrá-lo cooperativas anteriormente classificadas em ramos específicos, como as educacionais (alunos/pais).",
+    "nota": "O ramo possui origem histórica na Sociedade dos Probos Pioneiros de Rochdale, fundada em 1844. Na reorganização dos ramos promovida pela OCB em 2019, passaram a integrá-lo cooperativas anteriormente classificadas em ramos específicos, como as cooperativas educacionais formadas por pais ou alunos.",
     "fonte": "",
     "tags": [
       "ramos",
@@ -2007,7 +2006,7 @@
     "abbr": "",
     "grupo": "Ramos",
     "texto": "Reúne cooperativas que atuam na atividade de seguros, permitindo a organização coletiva para compartilhamento e gestão de riscos. As atividades estão submetidas à legislação específica e à supervisão da Superintendência de Seguros Privados (SUSEP).",
-    "nota": "A Lei Complementar nº 213/2025 estabeleceu nova disciplina para a atuação das sociedades cooperativas no mercado de seguros e regulamentou a proteção patrimonial mutualista, constituindo a base legal para o desenvolvimento do Ramo Seguros no Brasil.",
+    "nota": "A Lei Complementar nº 213/2025 disciplinou a atuação das sociedades cooperativas no mercado de seguros e a proteção patrimonial mutualista. Em maio de 2026, as Resoluções CNSP nº 491 e nº 492 regulamentaram, respectivamente, as operações de proteção patrimonial mutualista e as sociedades cooperativas de seguros, constituindo a base normativa para o desenvolvimento do Ramo Seguros no Brasil.",
     "fonte": "",
     "tags": [
       "ramos",
@@ -2085,7 +2084,7 @@
     "abbr": "",
     "grupo": "Regulação",
     "texto": "Registro da cooperativa na Organização das Cooperativas Brasileiras (OCB) ou na organização estadual correspondente, previsto no art. 107 da Lei nº 5.764/1971. A previsão legal relaciona o registro à organização do sistema de representação cooperativista e ao acompanhamento das sociedades cooperativas.",
-    "nota": "",
+    "nota": "Após a Constituição de 1988, que veda a interferência estatal no funcionamento das cooperativas (art. 5º, XVIII), a obrigatoriedade desse registro passou a ser debatida na doutrina e na jurisprudência.",
     "fonte": "",
     "tags": [
       "legislacao",
@@ -2177,7 +2176,7 @@
     "abbr": "Voto por cabeça",
     "grupo": "Estrutura",
     "texto": "Regra geral segundo a qual cada cooperado possui um único voto na Assembleia Geral, independentemente do número de quotas-partes que possua. O poder de decisão decorre da condição de sócio-cooperado e da participação na sociedade, e não da quantidade de capital integralizado, expressando a regra de igualdade política entre os membros. A regra geral vale para cooperativas de primeiro grau, mas existem exceções legais e estatutárias aplicáveis às centrais, federações e confederações.",
-    "nota": "A singularidade de voto concretiza a gestão democrática das cooperativas. Nas cooperativas centrais, federações e confederações, ressalvadas as cooperativas de crédito, a legislação admite critérios de proporcionalidade. A regra também se relaciona ao quórum das Assembleias Gerais, calculado com base no número de cooperados, e à vedação do voto por procuração.",
+    "nota": "A singularidade de voto concretiza a gestão democrática das cooperativas. Nas cooperativas centrais, federações e confederações, a legislação admite critérios de proporcionalidade (art. 4º, V, da Lei nº 5.764/1971). No crédito, o art. 11 da Lei Complementar nº 130/2009 também permite que centrais e confederações adotem proporcionalidade em relação ao número de associados indiretamente representados. A regra também se relaciona ao quórum das Assembleias Gerais, calculado com base no número de cooperados, e à vedação do voto por procuração.",
     "fonte": "",
     "tags": [
       "governanca",
@@ -2297,7 +2296,7 @@
     "titulo": "Sociedade simples",
     "abbr": "",
     "grupo": "Regulação",
-    "texto": "Natureza jurídica atribuída às cooperativas pelo Código Civil, que as enquadra como sociedades simples independentemente de seu objeto. A cooperativa é sociedade de pessoas (simples), organizada para o exercício de atividade econômica em benefício dos cooperados, mas não se caracteriza como sociedade empresária, ainda que desenvolva atividade econômica de grande porte.",
+    "texto": "Natureza jurídica atribuída às cooperativas pelo Código Civil (art. 982, parágrafo único), que as enquadra como sociedades simples independentemente de seu objeto. A cooperativa é sociedade de pessoas (simples), organizada para o exercício de atividade econômica em benefício dos cooperados, mas não se caracteriza como sociedade empresária, ainda que desenvolva atividade econômica de grande porte.",
     "nota": "As cooperativas são regidas por legislação especial, especialmente pela Lei nº 5.764/1971, além das disposições do Código Civil aplicáveis. Seus atos constitutivos são arquivados na Junta Comercial, conforme previsão da legislação cooperativista. A relação entre o regime das cooperativas previsto no Código Civil e a legislação especial permanece objeto de debates doutrinários em determinados temas.",
     "fonte": "",
     "tags": [

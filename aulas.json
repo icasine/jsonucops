@@ -25,7 +25,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Cooperativismo",
-            "texto": "Cooperativismo é um sistema econômico e social que se baseia na cooperação e na propriedade conjunta dos meios de produção e consumo pelos seus membros. O movimento tem como objetivo promover mudanças positivas e sustentáveis na sociedade, resgatando valores morais como autoajuda, responsabilidade moral, democracia, igualdade, equidade e solidariedade.\n Cooperar, nesse contexto, significa trabalhar em conjunto por objetivos comuns, com participação ativa, compartilhamento equitativo de responsabilidades e benefícios, e gestão democrática — na qual as decisões são tomadas coletivamente, com igualdade de voz e voto entre os membros.",
+            "texto": "Cooperativismo é um sistema econômico e social baseado na cooperação e na atuação de cooperativas, empresas de propriedade conjunta e controle democrático de seus membros. O movimento tem como objetivo promover mudanças positivas e sustentáveis na sociedade, resgatando valores morais como autoajuda, autorresponsabilidade, democracia, igualdade, equidade e solidariedade.\n Cooperar, nesse contexto, significa trabalhar em conjunto por objetivos comuns, com participação ativa, compartilhamento equitativo de responsabilidades e benefícios e gestão democrática, na qual as decisões são tomadas coletivamente, com igualdade de voz e voto entre os membros.",
             "tags": [
               "conceitos",
               "cooperativismo"
@@ -35,7 +35,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Cooperativa",
-            "texto": "Cooperativa é uma associação autônoma de pessoas unidas voluntariamente para atender suas necessidades econômicas, sociais e culturais comuns por meio de uma empresa de propriedade conjunta e controlada democraticamente. Diferencia-se de uma empresa tradicional porque o cooperado é, ao mesmo tempo, dono, usuário e beneficiário da atividade — e não um simples cliente ou acionista.",
+            "texto": "Cooperativa é uma associação autônoma de pessoas unidas voluntariamente para atender suas necessidades econômicas, sociais e culturais comuns por meio de uma empresa de propriedade conjunta e controlada democraticamente. Diferencia-se de uma empresa tradicional porque o cooperado é, ao mesmo tempo, dono, usuário e beneficiário da atividade, e não um simples cliente ou acionista.",
             "tags": [
               "conceitos",
               "cooperativa"
@@ -67,7 +67,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Integração do indivíduo na sociedade",
-            "texto": "O indivíduo se integra à sociedade por meio de diversos laços: família, amizades, trabalho, cultos religiosos, escolas, cooperativas e organizações diversas. Essa integração é parte fundamental da compreensão do próprio indivíduo — conhecemos nossas características a partir da existência do outro.",
+            "texto": "O indivíduo se integra à sociedade por meio de diversos laços: família, amizades, trabalho, cultos religiosos, escolas, cooperativas e organizações diversas. Essa integração é parte fundamental da compreensão do próprio indivíduo, pois conhecemos nossas características a partir da existência do outro.",
             "tags": [
               "sociologia"
             ],
@@ -94,7 +94,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Individualismo",
-            "texto": "O individualismo se manifesta quando um indivíduo ou uma instituição age privilegiando seus próprios interesses em detrimento do equilíbrio social — por exemplo, quando uma empresa polui um rio usado para irrigação, ou pratica preços abusivos por deter posição dominante de mercado. O desafio permanente é conciliar o respeito às diferenças individuais com a vida em coletividade — questão central para qualquer sistema baseado na cooperação.",
+            "texto": "O individualismo se manifesta quando um indivíduo ou uma instituição age privilegiando seus próprios interesses em detrimento do equilíbrio social. Isso ocorre, por exemplo, quando uma empresa polui um rio usado para irrigação ou pratica preços abusivos por deter posição dominante de mercado. O desafio permanente é conciliar o respeito às diferenças individuais com a vida em coletividade, questão central para qualquer sistema baseado na cooperação.",
             "tags": [
               "sociologia",
               "individualismo"
@@ -144,7 +144,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Origem como resposta social",
-            "texto": "O cooperativismo surgiu como resposta prática e solidária às condições adversas impostas aos trabalhadores durante a Revolução Industrial — exploração, pobreza e insegurança social. A experiência de Rochdale, na Inglaterra, é considerada o marco inicial do cooperativismo moderno: um grupo de operários fundou uma cooperativa de consumo baseada em autogestão, ajuda mútua e participação democrática, criando um modelo alternativo ao sistema econômico vigente.",
+            "texto": "O cooperativismo surgiu como resposta prática e solidária às condições adversas impostas aos trabalhadores durante a Revolução Industrial: exploração, pobreza e insegurança social. A experiência de Rochdale, na Inglaterra, é considerada o marco inicial do cooperativismo moderno: um grupo de operários fundou uma cooperativa de consumo baseada em autogestão, ajuda mútua e participação democrática, criando um modelo alternativo ao sistema econômico vigente.",
             "tags": [
               "história",
               "rochdale"
@@ -154,8 +154,8 @@
           {
             "tipo_bloco": "card",
             "titulo": "Pioneiros de Rochdale",
-            "texto": "Em 1844, na cidade industrial de Rochdale, no norte da Inglaterra, 28 trabalhadores fundaram a Rochdale Equitable Pioneers Society, considerada o marco inaugural do cooperativismo moderno. Diante das precárias condições de trabalho e dos altos custos de vida, esses artesãos uniram-se para criar um armazém que oferecesse produtos básicos — como farinha, aveia, açúcar e manteiga — a preços acessíveis. O diferencial era a adoção de princípios como gestão democrática, participação econômica, educação, intercooperação e interesse pela comunidade. Cada cliente tornava-se membro e coproprietário, com direito a voz e voto.",
-            "fonte": "Fonte: ICA COOP",
+            "texto": "Em 1844, na cidade industrial de Rochdale, no norte da Inglaterra, 28 trabalhadores fundaram a Rochdale Society of Equitable Pioneers, considerada o marco inaugural do cooperativismo moderno. Diante das precárias condições de trabalho e dos altos custos de vida, esses artesãos uniram-se para criar um armazém que oferecesse produtos básicos, como farinha, aveia, açúcar e manteiga, a preços acessíveis. Os consumidores que aderiam à sociedade tornavam-se membros e coproprietários, com direito a voz e voto.\n As regras adotadas pelos pioneiros ficaram conhecidas como princípios de Rochdale: adesão livre, controle democrático (um membro, um voto), retorno das sobras proporcional às compras, juros limitados sobre o capital, vendas à vista, neutralidade política e religiosa e promoção da educação dos membros.\n Os ideais do grupo iam além do armazém. A cooperação com outras associações e a melhoria das condições de vida da comunidade já faziam parte do projeto dos pioneiros, embora só tenham sido formalizadas como princípios pela ACI muito depois: a intercooperação em 1966 e o interesse pela comunidade em 1995.",
+            "fonte": "ACI. History of the cooperative movement. https://www.ica.coop/en/cooperatives/history-cooperative-movement",
             "tags": [
               "história",
               "rochdale"
@@ -174,8 +174,8 @@
           {
             "tipo_bloco": "card",
             "titulo": "Reconhecimento internacional",
-            "texto": "O potencial das cooperativas para enfrentar desafios globais — como desigualdade, pobreza e mudanças climáticas — já levou a Organização das Nações Unidas a declarar, mais de uma vez, um Ano Internacional das Cooperativas. Essas iniciativas buscam reforçar internacionalmente a importância do modelo cooperativo, incentivar políticas públicas de apoio ao setor, e consolidar seu papel na agenda global de desenvolvimento sustentável.",
-            "fonte": "Fonte: ONU; Sistema OCB",
+            "texto": "O potencial das cooperativas para enfrentar desafios globais, como desigualdade, pobreza e mudanças climáticas, já levou a Organização das Nações Unidas a declarar, mais de uma vez, um Ano Internacional das Cooperativas. Essas iniciativas buscam reforçar internacionalmente a importância do modelo cooperativo, incentivar políticas públicas de apoio ao setor e consolidar seu papel na agenda global de desenvolvimento sustentável.",
+            "fonte": "ONU; Sistema OCB",
             "tags": [
               "história",
               "onu"
@@ -194,7 +194,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Origem do cooperativismo financeiro no mundo",
-            "texto": "O cooperativismo financeiro tem origem no século XIX, no contexto das dificuldades econômicas e sociais enfrentadas na Europa. A primeira cooperativa de crédito foi criada por Friedrich Wilhelm Raiffeisen, na Alemanha, em 1864 (ACI informa ser em 1862) — voltada principalmente ao apoio de comunidades rurais, com responsabilidade ilimitada dos associados. Herman Schulze-Delitzsch foi pioneiro na fundação de cooperativas de crédito urbanas, chamadas \"bancos populares\". Já Luigi Luzzatti fundou, na Itália, um modelo que permitia a associação de indivíduos sem vínculo específico entre si, como moradores de um mesmo bairro. O cooperativismo financeiro rapidamente se espalhou por diversos países, servindo como alternativa mais justa e acessível ao crédito tradicional.",
+            "texto": "O cooperativismo financeiro tem origem no século XIX, no contexto das dificuldades econômicas e sociais enfrentadas na Europa. Na Alemanha, duas experiências diferentes costumam ser apontadas como pioneiras. Hermann Schulze-Delitzsch criou em 1850, em Delitzsch, uma associação de adiantamentos para artesãos e pequenos comerciantes da cidade, base das cooperativas de crédito urbanas, chamadas \"bancos populares\". Friedrich Wilhelm Raiffeisen fundou em 1864, em Heddesdorf, uma caixa de empréstimos voltada a agricultores, com responsabilidade ilimitada dos associados, considerada a primeira cooperativa de crédito rural (a ACI menciona 1862 para as primeiras iniciativas de Raiffeisen). As duas datas não se excluem: correspondem a estruturas e públicos diferentes. Já Luigi Luzzatti fundou, na Itália, um modelo que permitia a associação de indivíduos sem vínculo específico entre si, como moradores de um mesmo bairro.\n Apontar a \"primeira\" cooperativa é sempre difícil, porque o conceito de cooperativa foi construído depois. Hoje entendemos cooperativa como uma pessoa jurídica com estrutura própria, definida em lei. Na época, as pessoas reuniam filosofias e ideias diferentes e montavam associações, caixas, sociedades e empresas, que só mais tarde passaram a ser reconhecidas como cooperativas. O cooperativismo financeiro rapidamente se espalhou por diversos países, servindo como alternativa mais justa e acessível ao crédito tradicional.",
             "fonte": "PINHEIRO, Marcos Antonio Henriques. Cooperativas de crédito: história da evolução normativa no Brasil. Brasília/DF: BCB, 2008.",
             "tags": [
               "história",
@@ -211,10 +211,6 @@
               "per-friedrich-raiffeisen",
               "per-luigi-luzzatti"
             ],
-            "publicar": "sim"
-          },
-          {
-            "tipo_bloco": "card",
             "publicar": "sim"
           }
         ]
@@ -314,7 +310,7 @@
           },
           {
             "tipo_bloco": "citacao",
-            "texto": "O cooperativismo parte do reconhecimento de que a pessoa é capaz de mudar a própria realidade — e de que essa mudança está atrelada à cooperação: agir em conjunto para superar obstáculos que, sozinhos, os indivíduos não superariam.",
+            "texto": "O cooperativismo parte do reconhecimento de que a pessoa é capaz de mudar a própria realidade e de que essa mudança está atrelada à cooperação: agir em conjunto para superar obstáculos que, sozinhos, os indivíduos não superariam.",
             "tags": [
               "valores",
               "autoajuda"
@@ -347,7 +343,7 @@
             "tipo_bloco": "card",
             "titulo": "Formação social",
             "texto": "A formação social é um conjunto interconectado de estruturas da personalidade, sistema social e cultura, que se reproduzem em conjunto.",
-            "fonte": "Sergio Scamuzzi. In: BOBBIO, Norberto (org.). Dicionário de Política. UnB, 1998.",
+            "fonte": "SCAMUZZI, Sergio. In: BOBBIO, Norberto; MATTEUCCI, Nicola; PASQUINO, Gianfranco (org.). Dicionário de política. Brasília: Editora UnB, 1998.",
             "tags": [
               "vocabulário",
               "sociologia"
@@ -358,7 +354,7 @@
             "tipo_bloco": "card",
             "titulo": "Empresa",
             "texto": "A empresa é uma forma de organização da atividade produtiva que visa à lucratividade e serve à sociedade por meio da produção de bens, criação de empregos e contribuição com tributos. A busca pelo lucro deve estar em harmonia com a responsabilidade social e os valores morais, promovendo a dignidade humana.",
-            "fonte": "KRUEGER, Guilherme Gomes (org.). Ato Cooperativo e seu adequado tratamento tributário. Mandamentos, 2004.",
+            "fonte": "KRUEGER, Guilherme Gomes (org.). Ato Cooperativo e seu adequado tratamento tributário. Belo Horizonte: Mandamentos, 2004.",
             "tags": [
               "vocabulário",
               "empresa"
@@ -368,11 +364,23 @@
           {
             "tipo_bloco": "card",
             "titulo": "Grupos",
-            "texto": "Os grupos sociais referem-se a conjuntos de pessoas que compartilham normas, valores e interações regulares, desempenhando papel crucial na estrutura da sociedade. Podem criar distinções entre \"nós\" e \"eles\" — in-groups, aos quais nos identificamos, e out-groups, dos quais não nos sentimos parte.",
+            "texto": "Os grupos sociais referem-se a conjuntos de pessoas que compartilham normas, valores e interações regulares, desempenhando papel crucial na estrutura da sociedade. Podem criar distinções entre \"nós\" e \"eles\": os *in-groups*, com os quais nos identificamos, e os *out-groups*, dos quais não nos sentimos parte.",
             "fonte": "SCHAEFER, Richard T. Fundamentos de sociologia. Grupo A, 2016.",
             "tags": [
               "vocabulário",
               "sociologia"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Ação coletiva",
+            "texto": "Ação coletiva é a atuação conjunta de pessoas em busca de um objetivo comum que nenhuma delas alcançaria sozinha. O economista Mancur Olson mostrou o paradoxo que a acompanha: mesmo quando todos ganham com a ação conjunta, cada indivíduo pode ser tentado a não contribuir e a aproveitar o resultado obtido pelos outros, o chamado efeito carona.\n A cooperativa é uma resposta organizada a esse problema. Regras claras, participação econômica de cada membro e retorno proporcional ao que cada um movimenta reduzem o incentivo a pegar carona e tornam a cooperação vantajosa para quem coopera.",
+            "fonte": "OLSON, Mancur. A lógica da ação coletiva. São Paulo: Edusp, 1999.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "ação coletiva"
             ],
             "publicar": "sim"
           }
@@ -401,8 +409,8 @@
           {
             "tipo_bloco": "card",
             "titulo": "O ramo consumo",
-            "texto": "O ramo consumo tem origem histórica em 1844, na Inglaterra, quando trabalhadores se uniram para realizar compras coletivas e reduzir custos. Hoje, essas cooperativas continuam reunindo pessoas para adquirir produtos ou serviços — como os oferecidos por supermercados, farmácias, cooperativas educacionais e de turismo — buscando preços mais acessíveis, atendimento de qualidade e o fortalecimento da economia local.\n O ramo não se resume a supermercados. Uma cooperativa formada por pais de alunos que se organizam para contratar a prestação de serviço de professores, por exemplo, também é uma cooperativa de consumo: o que caracteriza o ramo não é o produto vendido, mas o fato de os consumidores se unirem para obter uma melhor prestação de serviço.",
-            "fonte": "Fonte: OCB, SOMOS COOP; Anuário Coop",
+            "texto": "O ramo consumo tem origem histórica em 1844, na Inglaterra, quando trabalhadores se uniram para realizar compras coletivas e reduzir custos. Hoje, essas cooperativas continuam reunindo pessoas para adquirir produtos ou serviços, como os oferecidos por supermercados, farmácias, cooperativas educacionais e de turismo, buscando preços mais acessíveis, atendimento de qualidade e o fortalecimento da economia local.\n O ramo não se resume a supermercados. Uma cooperativa formada por pais de alunos que se organizam para contratar a prestação de serviço de professores, por exemplo, também é uma cooperativa de consumo: o que caracteriza o ramo não é o produto vendido, mas o fato de os consumidores se unirem para obter uma melhor prestação de serviço.",
+            "fonte": "OCB, SOMOS COOP; Anuário Coop",
             "tags": [
               "ramos",
               "consumo"
@@ -412,7 +420,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Do armazém de Rochdale ao supermercado moderno",
-            "texto": "A cooperativa fundada em Rochdale não se limitou a revender produtos: anos depois de sua criação, os pioneiros passaram a produzir os próprios insumos — construíram moinhos para fabricar farinha, em vez de comprá-la de terceiros. Essa lógica de organizar produtores e consumidores em uma mesma estrutura, oferecendo variedade de produtos em um único lugar, é reconhecida como uma das influências históricas do modelo de supermercado como o conhecemos hoje.",
+            "texto": "A cooperativa fundada em Rochdale não se limitou a revender produtos: anos depois de sua criação, os pioneiros passaram a produzir os próprios insumos e construíram moinhos para fabricar farinha, em vez de comprá-la de terceiros. Essa lógica de organizar produtores e consumidores em uma mesma estrutura, oferecendo variedade de produtos em um único lugar, é reconhecida como uma das influências históricas do modelo de supermercado como o conhecemos hoje.",
             "tags": [
               "consumo",
               "rochdale"
@@ -422,7 +430,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Quando a cooperação vira plataforma: o caso Uber",
-            "texto": "Plataformas digitais de serviços sob demanda reproduzem, em certa medida, a lógica de agregação que originou o cooperativismo: pessoas oferecendo um serviço são reunidas por uma estrutura comum que organiza oferta e demanda. A diferença essencial está no destino do resultado econômico gerado. Em uma cooperativa, a sobra do exercício retorna aos próprios cooperados, proporcionalmente às operações que realizaram. Em uma plataforma com fins lucrativos, o excedente é apropriado pelo capital que a controla.",
+            "texto": "Plataformas digitais de serviços sob demanda reproduzem, em certa medida, a lógica de agregação que originou o cooperativismo: pessoas oferecendo um serviço são reunidas por uma estrutura comum que organiza oferta e demanda. A diferença essencial está no destino do resultado econômico gerado. Em uma cooperativa, as sobras têm a destinação decidida pelos cooperados, observados a lei e o estatuto: podem reforçar fundos e o desenvolvimento da própria cooperativa ou, quando distribuídas, voltar aos cooperados proporcionalmente às operações que realizaram. Em uma plataforma com fins lucrativos, o excedente é apropriado pelo capital que a controla.",
             "tags": [
               "consumo",
               "plataformas",
@@ -433,7 +441,8 @@
           {
             "tipo_bloco": "card",
             "titulo": "Equiparação tributária e o declínio do ramo consumo no Brasil",
-            "texto": "O ramo consumo foi historicamente um dos mais expressivos do cooperativismo brasileiro. Uma mudança na legislação tributária equiparou as cooperativas de consumo às demais empresas do setor de varejo, fazendo com que passassem a recolher tributos nos mesmos moldes que uma empresa com finalidade lucrativa — apesar de sua natureza associativa e sem fins lucrativos. O efeito prático foi a perda de competitividade e uma redução expressiva no número de cooperativas de consumo em atividade nas décadas seguintes.\n Esse episódio é um exemplo concreto do que a pesquisa acadêmica do professor da disciplina chama de *equiparação*: o tratamento de uma cooperativa como se fosse uma sociedade empresarial comum, desconsiderando sua natureza própria — um dos mecanismos que, ao longo da história, dificultaram o desenvolvimento do cooperativismo no Brasil.",
+            "texto": "O ramo consumo foi historicamente um dos mais expressivos do cooperativismo brasileiro. Uma mudança na legislação tributária equiparou as cooperativas de consumo às demais empresas do setor de varejo, submetendo-as às mesmas normas de incidência dos impostos e contribuições federais aplicáveis às demais pessoas jurídicas, apesar de sua natureza associativa e sem fins lucrativos. O efeito prático foi a perda de competitividade e uma redução expressiva no número de cooperativas de consumo em atividade nas décadas seguintes.\n Esse episódio é um exemplo concreto do que a pesquisa acadêmica do professor da disciplina chama de *equiparação*: o tratamento de uma cooperativa como se fosse uma sociedade empresarial comum, desconsiderando sua natureza própria. É um dos mecanismos que, ao longo da história, dificultaram o desenvolvimento do cooperativismo no Brasil.",
+            "fonte": "BRASIL. Lei nº 9.532, de 10 de dezembro de 1997, art. 69; URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Editora RTM, 2025.",
             "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyvO35Xn05b1j2Cma-CwPP8SkDdABZi7qtIHEPg69xf2MUrG12TrVcDRYUVAjKJrJqRids6RJaZUNhRtyTb-5Q1WrdcqP3pQuunaspjAXlt4J_2fwNOgn9WryqYnWxAJK1vth42X-KI-A-y_y8h4YDsbY3IC2jsHM2rxlPnIN2prAsuA/s1600/Captura%20de%20tela_18-9-2026_20579_www.ucoop.com.br.jpeg",
             "tags": [
               "consumo",
@@ -487,7 +496,7 @@
           {
             "tipo_bloco": "cooperativa",
             "titulo": "Coopeder",
-            "texto": "Idealizada por um grupo de servidores do Departamento de Estradas e Rodagem do Estado de Minas Gerais, a Coopeder segue o propósito de defender os interesses de seus associados, prezando pela transparência, ética e uma administração comprometida e eficiente.",
+            "texto": "Idealizada por um grupo de servidores do Departamento de Estradas de Rodagem do Estado de Minas Gerais (DER-MG), a Coopeder segue o propósito de defender os interesses de seus associados, prezando pela transparência, ética e uma administração comprometida e eficiente.",
             "links": [
               {
                 "texto": "coopeder.org.br",
@@ -656,8 +665,8 @@
           {
             "tipo_bloco": "card",
             "titulo": "Aliança Cooperativa Internacional (ACI)",
-            "texto": "A Aliança Cooperativa Internacional (em inglês, International Co-operative Alliance, ICA) é a principal organização global que representa e serve às cooperativas. Foi fundada em 19 de agosto de 1895, em Londres, durante o 1º Congresso Cooperativo. Ao longo de sua história, sua sede passou por Londres e Genebra, e hoje está estabelecida em Bruxelas, na Bélgica.  A ACI atua com quatro escritórios regionais (África, Américas, Ásia-Pacífico e Europa) e tem como objetivo uniformizar e disseminar os princípios cooperativos, integrando e apoiando o movimento cooperativista em todo o mundo, inclusive junto às Nações Unidas e à Organização Internacional do Trabalho. É ela que, em seus congressos, define os princípios vigentes em cada época.",
-            "fonte": "Fonte: ICA; SESCOOP. Fundamentos do Cooperativismo. Sistema OCB, 2017.",
+            "texto": "A Aliança Cooperativa Internacional (em inglês, International Co-operative Alliance, ICA) é a principal organização global que representa e serve às cooperativas. Foi fundada em 19 de agosto de 1895, em Londres, durante o 1º Congresso Cooperativo. Ao longo de sua história, sua sede passou por Londres e Genebra, e hoje está estabelecida em Bruxelas, na Bélgica. A ACI atua com quatro escritórios regionais (África, Américas, Ásia-Pacífico e Europa) e tem como objetivo uniformizar e disseminar os princípios cooperativos, integrando e apoiando o movimento cooperativista em todo o mundo, inclusive junto às Nações Unidas e à Organização Internacional do Trabalho. É ela que, em seus congressos, define os princípios vigentes em cada época.",
+            "fonte": "ICA; SESCOOP. Fundamentos do Cooperativismo. Sistema OCB, 2017.",
             "tags": [
               "história",
               "aci"
@@ -681,7 +690,7 @@
             "tipo_bloco": "card",
             "titulo": "Identidade global: o Co-operative Marque",
             "texto": "Em 2013, a ACI lançou uma identidade visual global, o Co-operative Marque, para consolidar o reconhecimento do cooperativismo em escala mundial, em substituição a símbolos tradicionais como a bandeira do arco-íris. A marca se soma ao domínio de internet exclusivo \".coop\", que funciona como credencial de pertencimento ao movimento cooperativista e reforça o reconhecimento das cooperativas na internet.",
-            "fonte": "Fonte: ICA COOP",
+            "fonte": "ACI. Annual Report 2013.",
             "tags": [
               "história",
               "aci",
@@ -704,7 +713,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Linha do tempo do crédito cooperativo",
-            "texto": "1902: fundação da primeira cooperativa de crédito do Brasil, em Nova Petrópolis (RS), ainda em atividade.\n 1946: fundação da primeira cooperativa financeira urbana do Brasil, em Porto Alegre (RS).\n 1995: o Conselho Monetário Nacional autoriza a criação de bancos cooperativos.\n 2009: a Lei Complementar nº 130 dispõe sobre o Sistema Nacional de Crédito Cooperativo, principal marco legal do setor.\n 2013: início das atividades do Fundo Garantidor do Cooperativismo de Crédito (FGCoop).",
+            "texto": "1902: fundação da primeira cooperativa de crédito do Brasil, em Nova Petrópolis (RS), ainda em atividade.\n 1946: fundação da primeira cooperativa financeira urbana do Brasil, em Porto Alegre (RS).\n 1995: o Conselho Monetário Nacional autoriza a criação de bancos cooperativos.\n 2009: a Lei Complementar nº 130 dispõe sobre o Sistema Nacional de Crédito Cooperativo, principal marco legal do setor.\n 2012: o Conselho Monetário Nacional estabelece, pela Resolução nº 4.150, os requisitos e as características mínimas do fundo garantidor das cooperativas de crédito e dos bancos cooperativos, que daria origem ao FGCoop.\n 2013: o CMN aprova o estatuto e o regulamento do FGCoop.\n 2014: o FGCoop inicia efetivamente suas operações, em abril.",
             "tags": [
               "história",
               "crédito",
@@ -843,7 +852,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Um membro, um voto",
-            "texto": "A expressão mais visível da igualdade na cooperativa é a singularidade do voto: cada cooperado tem um voto nas assembleias, independentemente do número de quotas-partes que possua. Na sociedade empresarial, o poder de decisão acompanha o capital investido. Na cooperativa, acompanha a pessoa. É essa regra que impede que quem aportou mais recursos transforme a cooperativa em instrumento dos seus interesses particulares.",
+            "texto": "A expressão mais visível da igualdade na cooperativa é a singularidade do voto: nas cooperativas singulares, cada cooperado tem um voto nas assembleias, independentemente do número de quotas-partes que possua. Na sociedade empresarial, o poder de decisão acompanha o capital investido. Na cooperativa, acompanha a pessoa. É essa regra que impede que quem aportou mais recursos transforme a cooperativa em instrumento dos seus interesses particulares.",
             "tags": [
               "valores",
               "igualdade",
@@ -893,6 +902,31 @@
               "redes sociais"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Confiança e reciprocidade",
+            "texto": "Confiança é a expectativa de que o outro agirá de acordo com o que foi combinado, mesmo quando não há como controlá-lo o tempo todo. Reciprocidade é a disposição de retribuir: quem recebe ajuda tende a ajudar de volta, e quem coopera espera ser tratado da mesma forma.\n Juntas, confiança e reciprocidade sustentam a adesão voluntária. Ninguém entrega suas economias, sua produção ou seu voto a uma cooperativa sem confiar nos demais membros e sem a expectativa de que o esforço de cada um será retribuído pelo conjunto.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "confiança",
+              "reciprocidade"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Capital social (sentido sociológico)",
+            "texto": "Na sociologia, capital social é o conjunto de relações de confiança, normas de reciprocidade e redes de cooperação que permitem às pessoas agir juntas. Autores como Pierre Bourdieu, James Coleman e Robert Putnam mostraram que comunidades com mais capital social tendem a resolver melhor seus problemas coletivos.\n Atenção: esse sentido é diferente do capital social da cooperativa, que é a soma das quotas-partes integralizadas pelos cooperados, tema da aula sobre participação econômica. Os dois se relacionam: uma cooperativa costuma nascer onde já existe capital social no sentido sociológico e, quando funciona bem, também o fortalece.",
+            "fonte": "PUTNAM, Robert D. Comunidade e democracia: a experiência da Itália moderna. Rio de Janeiro: FGV, 1996.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "capital social",
+              "redes sociais"
+            ],
+            "publicar": "sim"
           }
         ]
       },
@@ -920,7 +954,7 @@
             "tipo_bloco": "card",
             "titulo": "O ramo crédito",
             "texto": "As cooperativas de crédito oferecem serviços financeiros semelhantes aos dos bancos, porém com gestão democrática e sem finalidade lucrativa, buscando inclusão financeira e educação econômica. Surgiram no Brasil inspiradas no modelo alemão e hoje são reguladas e fiscalizadas pelo Banco Central, desempenhando papel fundamental no desenvolvimento econômico regional.",
-            "fonte": "Fonte: OCB, SOMOS COOP",
+            "fonte": "OCB, SOMOS COOP",
             "tags": [
               "ramos",
               "crédito"
@@ -930,7 +964,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Cooperado",
-            "texto": "Cooperado é o membro de uma cooperativa, associação baseada em princípios de mutualidade e ajuda mútua, voltada não primariamente ao lucro, mas ao serviço de seus membros e à promoção de benefícios coletivos. Os resultados são distribuídos de acordo com a participação de cada cooperado nas atividades da cooperativa, e não com base no capital investido. A gestão segue o princípio de \"um membro, um voto\", independentemente do valor da quota de capital de cada um.",
+            "texto": "Cooperado é o membro de uma cooperativa, associação baseada em princípios de mutualidade e ajuda mútua, voltada não primariamente ao lucro, mas ao serviço de seus membros e à promoção de benefícios coletivos. Os resultados são distribuídos de acordo com a participação de cada cooperado nas atividades da cooperativa, e não com base no capital investido. Nas cooperativas singulares, a gestão segue a regra de \"um membro, um voto\", independentemente do valor das quotas-partes de cada um.",
             "tags": [
               "crédito",
               "cooperado"
@@ -972,7 +1006,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Sistemas de crédito cooperativo",
-            "texto": "No Brasil, as cooperativas de crédito singulares se organizam em sistemas, com centrais e confederações que reúnem cooperativas de uma mesma linha ou público. Essa é uma das formas mais importantes de intercooperação do ramo, porque permite ganhos de escala que uma cooperativa isolada não alcançaria. Entre os principais sistemas estão o Sicoob e o Sicredi, ambos de livre admissão e com ampla presença nacional, a Unicred, voltada historicamente a profissionais liberais e da saúde, a Cresol, ligada à agricultura familiar, e a Ailos, com forte presença na região Sul.\n A central negocia tecnologia, produtos financeiros, comunicação institucional e representação política em nome das singulares filiadas, e os sistemas mantêm bancos cooperativos próprios, como o Banco Sicoob (antigo Bancoob) e o Banco Cooperativo Sicredi, para acessar o mercado financeiro em condições que uma cooperativa isolada não teria. O resultado é uma base financeira mais sólida, custos operacionais compartilhados e capacidade de competir com os bancos tradicionais, sem que a cooperativa de base perca sua autonomia de gestão local.",
+            "texto": "No Brasil, as cooperativas de crédito singulares se organizam em sistemas, com centrais e confederações que reúnem cooperativas de uma mesma linha ou público. Essa é uma das formas mais importantes de intercooperação do ramo, porque permite ganhos de escala que uma cooperativa isolada não alcançaria. Entre os principais sistemas estão o Sicoob e o Sicredi, ambos com ampla presença nacional e formados por cooperativas singulares com diferentes critérios de admissão, inclusive a livre admissão, a Unicred, voltada historicamente a profissionais liberais e da saúde, a Cresol, ligada à agricultura familiar, e o Ailos, com forte presença na região Sul.\n A central negocia tecnologia, produtos financeiros, comunicação institucional e representação política em nome das singulares filiadas, e os sistemas mantêm bancos cooperativos próprios, como o Banco Sicoob (antigo Bancoob) e o Banco Cooperativo Sicredi, para acessar o mercado financeiro em condições que uma cooperativa isolada não teria. O resultado é uma base financeira mais sólida, custos operacionais compartilhados e capacidade de competir com os bancos tradicionais, sem que a cooperativa de base perca sua autonomia de gestão local.",
             "tags": [
               "crédito",
               "intercooperação",
@@ -996,7 +1030,7 @@
           },
           {
             "tipo_bloco": "citacao",
-            "texto": "Cooperativas do mesmo ramo concorrem entre si com frequência, inclusive por associados. A pergunta que fica é: essa disputa fortalece o sistema cooperativo como um todo, ou o fragmenta?",
+            "texto": "Cooperativas do mesmo ramo concorrem entre si com frequência, inclusive por associados. A pergunta que fica é: essa disputa fortalece o sistema cooperativo como um todo ou o fragmenta?",
             "tags": [
               "crédito",
               "intercooperação"
@@ -1006,8 +1040,8 @@
           {
             "tipo_bloco": "card",
             "titulo": "Fundo Garantidor do Cooperativismo de Crédito (FGCoop)",
-            "texto": "O FGCoop é uma associação civil sem fins lucrativos que atua para preservar a estabilidade do cooperativismo de crédito, monitorando riscos das cooperativas associadas e oferecendo uma camada adicional de segurança aos cooperados, com a garantia de depósitos até o limite fixado pelo Conselho Monetário Nacional. A associação é obrigatória para as cooperativas singulares de crédito e os bancos cooperativos, e reforça a confiança nas cooperativas como alternativa segura aos bancos tradicionais.",
-            "fonte": "PINHEIRO, Marcos Antonio Henriques. Cooperativas de crédito: história da evolução normativa no Brasil. Brasília/DF: BCB, 2008.",
+            "texto": "O FGCoop é uma associação civil sem fins lucrativos que atua para preservar a estabilidade do cooperativismo de crédito, monitorando riscos das cooperativas associadas e oferecendo uma camada adicional de segurança aos cooperados, com a garantia de depósitos até o limite fixado pelo Conselho Monetário Nacional. São associados obrigatórios do FGCoop as cooperativas singulares de crédito que captam depósitos e os bancos cooperativos. O fundo reforça a confiança nas cooperativas como alternativa segura aos bancos tradicionais.",
+            "fonte": "BANCO CENTRAL DO BRASIL. Resolução CMN nº 4.150, de 30 de outubro de 2012; Resolução CMN nº 4.284, de 5 de novembro de 2013; FGCoop.",
             "tags": [
               "crédito",
               "fgcoop"
@@ -1146,7 +1180,7 @@
             "tipo_bloco": "card",
             "titulo": "Chegada ao Brasil",
             "texto": "O cooperativismo chega ao Brasil ainda sob a estrutura herdada da colônia, fundada na escravidão e em seus últimos anos. A doutrina ganhou adeptos no país pelos ensinamentos de Charles Gide, e já era possível ler sobre cooperativismo nos jornais brasileiros antes mesmo do surgimento das primeiras cooperativas nacionais, no fim do século XIX, nos moldes de Rochdale.\n O desenvolvimento do cooperativismo brasileiro passou por fases distintas, delineadas por Waldírio Bulgarelli e aprofundadas por José Odelso Schneider. Cada fase reflete uma etapa da relação entre o Estado e as cooperativas: de um modelo mais liberal para um controle estatal significativo e, por fim, para um apoio estatal que reconhece a importância das cooperativas.",
-            "fonte": "BULGARELLI, Waldírio; SCHNEIDER, José Odelso. Sistematização das fases conforme apresentada em URSINE, Ícaro Moreira. *Espinhos e pedras no caminho da Política Nacional de Cooperativismo*.",
+            "fonte": "BULGARELLI, Waldírio; SCHNEIDER, José Odelso. Sistematização das fases conforme apresentada em URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Editora RTM, 2025.",
             "tags": [
               "história",
               "fases"
@@ -1274,7 +1308,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "O princípio",
-            "texto": "Enfatiza o controle da organização pelos seus membros, garantindo que cada um tenha voz igual nas decisões importantes por meio do voto: \"um membro, um voto\". Promove a participação ativa na formulação de políticas e na tomada de decisões, refletindo a diversidade e as necessidades de todos os associados. É fundamental para assegurar que a governança seja transparente, responsável e alinhada com os interesses dos membros.",
+            "texto": "Enfatiza o controle da organização pelos seus membros. Nas cooperativas singulares, isso se expressa na regra \"um membro, um voto\"; nos demais níveis, como centrais e confederações, a organização também deve ser democrática. Promove a participação ativa na formulação de políticas e na tomada de decisões, refletindo a diversidade e as necessidades de todos os associados. É fundamental para assegurar que a governança seja transparente, responsável e alinhada com os interesses dos membros.",
             "fonte": "ICA, International Co-operative Alliance. Guidance notes to the co-operative principles. Brussels: Principles Committee, 2015.",
             "tags": [
               "princípios",
@@ -1301,6 +1335,19 @@
             "tags": [
               "princípios",
               "gestão democrática",
+              "governança"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Sucessão na cooperativa",
+            "texto": "Toda cooperativa precisa pensar em sucessão em dois níveis. O primeiro é a sucessão dos dirigentes. A renovação obrigatória de parte do Conselho de Administração e do Conselho Fiscal existe para que o poder circule, mas a regra não basta se ninguém estiver preparado para assumir. Formar novas lideranças, abrir espaço para jovens e mulheres em comitês e conselhos e planejar a transição antes do fim dos mandatos evita que a cooperativa dependa de uma única pessoa.\n O segundo nível é a sucessão dos próprios cooperados. As quotas-partes não podem ser transferidas a terceiros estranhos à sociedade, nem mesmo por herança. Com a morte do cooperado, ele é excluído do quadro social, e os herdeiros têm direito à restituição do capital, nas condições do estatuto. Para continuar na cooperativa, o herdeiro precisa ingressar como associado, cumprindo os requisitos de admissão. Sem preparação, a cooperativa perde membros, e a família perde um vínculo construído ao longo de gerações.",
+            "fonte": "BRASIL. Lei nº 5.764, de 16 de dezembro de 1971, arts. 35 e 47; BRASIL. Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), art. 1.094, VI.",
+            "tags": [
+              "princípios",
+              "gestão democrática",
+              "sucessão",
               "governança"
             ],
             "publicar": "sim"
@@ -1382,7 +1429,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Grupos primários e secundários",
-            "texto": "Em termos sociológicos, grupo é qualquer número de pessoas que compartilham normas, valores e expectativas semelhantes e mantêm interação regular. Um time, o setor administrativo de um hospital ou uma orquestra constituem grupos. Já os moradores de um bairro afastado, que raramente interagem coletivamente, não. Grupos primários são pequenos e marcados por associação estreita e face a face, como uma família. Grupos secundários são formais e impessoais, sem maior intimidade social.",
+            "texto": "Retomando a noção de grupo vista na primeira aula, a sociologia distingue dois tipos. Grupos primários são pequenos e marcados por associação estreita e face a face, como a família ou um círculo de amigos. Grupos secundários são mais amplos, formais e impessoais, como uma empresa, um sindicato ou a assembleia de uma grande cooperativa.\n A cooperativa costuma nascer como grupo primário, entre pessoas que se conhecem e confiam umas nas outras, e com o crescimento tende a se tornar um grupo secundário. Manter algo da proximidade do grupo primário, por meio de núcleos, comitês e reuniões de base, é um dos desafios da gestão democrática.",
             "fonte": "SCHAEFER, Richard T. Fundamentos de sociologia. Grupo A, 2016.",
             "tags": [
               "vocabulário",
@@ -1412,6 +1459,29 @@
               "sociologia"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Participação",
+            "texto": "Participação é o envolvimento ativo das pessoas nas decisões e nas atividades do grupo a que pertencem. É possível distinguir graus de participação: estar informado, ser consultado, opinar, decidir e executar junto. Quanto mais alto o grau, maior o sentimento de pertencimento e a responsabilidade pelo resultado.\n Na cooperativa, participar não se resume a comparecer à assembleia. Inclui acompanhar as contas, compor comitês e conselhos, apresentar propostas e utilizar os serviços da cooperativa. Uma assembleia cheia de pessoas que apenas ouvem é presença, não participação.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "participação"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Liderança",
+            "texto": "Liderança é a capacidade de influenciar e mobilizar um grupo em direção a objetivos comuns. Pode ser formal, ligada a um cargo, ou informal, reconhecida pelo grupo independentemente de cargo. A sociologia também distingue a liderança autoritária, que decide pelo grupo, da liderança democrática, que conduz o grupo a decidir.\n Na cooperativa, a liderança democrática é parte do segundo princípio. O bom dirigente cooperativista compartilha informação, forma novas lideranças e prepara a própria sucessão, em vez de se tornar indispensável.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "liderança",
+              "sucessão"
+            ],
+            "publicar": "sim"
           }
         ]
       },
@@ -1439,7 +1509,7 @@
             "tipo_bloco": "card",
             "titulo": "O ramo infraestrutura",
             "texto": "Engloba cooperativas que prestam serviços essenciais como energia elétrica, telecomunicações, saneamento básico e habitação, especialmente em regiões onde outros agentes não têm interesse de atuação. O ramo é composto por segmentos como geração e distribuição de energia, construção civil habitacional e comercial, telecomunicações, saneamento, irrigação e desenvolvimento, e atua em centenas de municípios, muitas vezes rurais ou periféricos, onde o Estado não chega.",
-            "fonte": "Fonte: OCB, SOMOS COOP",
+            "fonte": "OCB, SOMOS COOP",
             "tags": [
               "ramos",
               "infraestrutura"
@@ -1471,7 +1541,7 @@
             "tipo_bloco": "card",
             "titulo": "INFRACOOP",
             "texto": "A Confederação Nacional das Cooperativas de Infraestrutura é a entidade de representação nacional do ramo, criada para defender os interesses coletivos das cooperativas e federações estaduais, especialmente as voltadas à eletrificação e ao desenvolvimento rural. Atua na articulação política e institucional junto aos poderes públicos, incluindo o Congresso Nacional, os ministérios e o setor elétrico, notadamente a ANEEL. Sua trajetória é marcada pela defesa de um modelo descentralizado de eletrificação rural baseado na autogestão e na solidariedade entre cooperativas.",
-            "fonte": "Fonte: INFRACOOP, Nossa História.",
+            "fonte": "INFRACOOP, Nossa História.",
             "tags": [
               "infraestrutura",
               "infracoop",
@@ -1483,7 +1553,7 @@
             "tipo_bloco": "card",
             "titulo": "Quando a regulação exclui: o caso das cooperativas de eletrificação rural",
             "texto": "As Cooperativas de Eletrificação Rural foram essenciais para viabilizar a eletrificação do campo num período em que o mercado não conseguiria atuar de forma viável nessas localidades. Com o desenvolvimento das regiões onde atuavam, passaram a apresentar características semelhantes às das concessionárias e, com a atualização da legislação do setor elétrico, foram obrigadas a se regularizar e a seguir regras próximas às dos demais agentes distribuidores.\n Na prática, o ônus adaptativo recaiu sobre as próprias cooperativas, que precisaram provar em processo administrativo sua condição jurídica e agir para sua própria conformação. Após a conclusão do processo de regularização, restaram cerca de cinquenta cooperativas, de um universo que ultrapassava duzentas e oitenta antes das modificações normativas. É um exemplo de como a estrutura de regulação pode preferir a diminuição de um setor à sua efetiva incorporação.",
-            "fonte": "URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Dados: ANEEL; SEBRAE.",
+            "fonte": "URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Editora RTM, 2025. Dados: ANEEL; SEBRAE.",
             "tags": [
               "infraestrutura",
               "regulação",
@@ -1715,7 +1785,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Capital social e quota-parte",
-            "texto": "O capital social é formado pela soma das quotas-partes integralizadas pelos associados. É variável, porque aumenta ou diminui com a entrada e a saída de cooperados, e se destina ao desenvolvimento das atividades da cooperativa.\n A quota-parte é o valor, em dinheiro ou bens, que o associado integraliza para ingressar na cooperativa, tornando-se coproprietário dela. Todos os cooperados possuem os mesmos direitos e deveres, independentemente da quantidade de quotas-partes que detenham, e é vedada a cessão das quotas a terceiros estranhos à sociedade.",
+            "texto": "O capital social é representado pelas quotas-partes subscritas pelos associados; a parcela integralizada corresponde ao valor efetivamente pago. É variável, porque aumenta ou diminui com a entrada e a saída de cooperados, e se destina ao desenvolvimento das atividades da cooperativa.\n A quota-parte é o valor, em dinheiro ou bens, que o associado integraliza para ingressar na cooperativa, tornando-se coproprietário dela. Todos os cooperados possuem os mesmos direitos e deveres, independentemente da quantidade de quotas-partes que detenham, e é vedada a cessão das quotas a terceiros estranhos à sociedade.",
             "tags": [
               "estrutura econômica",
               "capital social",
@@ -1726,7 +1796,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Subscrição e integralização",
-            "texto": "Subscrição é o ato pelo qual o cooperado se compromete formalmente a adquirir quotas-partes, ao ingressar na cooperativa ou quando há aumento do capital social. É uma promessa de contribuição econômica.\n Integralização é o pagamento efetivo das quotas subscritas. Pode ser feita em dinheiro, em bens previamente avaliados e aprovados pela assembleia geral ou mediante retenção de um percentual sobre a movimentação do associado. Algumas cooperativas adotam integralização mensal, uma espécie de poupança compulsória que continua pertencendo ao cooperado.",
+            "texto": "Subscrição é o ato pelo qual o cooperado se compromete formalmente a adquirir quotas-partes, ao ingressar na cooperativa ou quando há aumento do capital social. É uma promessa de contribuição econômica.\n Integralização é o pagamento efetivo das quotas subscritas. Pode ser feita em dinheiro e, nas hipóteses do art. 27 da Lei nº 5.764/1971, em bens previamente avaliados e aprovados pela assembleia geral ou mediante retenção de um percentual sobre a movimentação do associado. Essa última possibilidade não se aplica às cooperativas de crédito, às agrícolas mistas com seção de crédito nem às habitacionais. Algumas cooperativas adotam integralização mensal, que vai formando o capital do cooperado e é restituída segundo a lei e o estatuto.",
             "tags": [
               "estrutura econômica",
               "subscrição",
@@ -1737,7 +1807,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Sobras",
-            "texto": "Sobras são os resultados positivos apurados ao final do exercício social. Depois das destinações obrigatórias aos fundos, são distribuídas proporcionalmente às operações realizadas por cada cooperado. Diferentemente do lucro, que remunera o capital investido, as sobras refletem o retorno proporcional à utilização dos serviços da cooperativa pelos associados.",
+            "texto": "Sobras são os resultados positivos apurados ao final do exercício social. Depois das destinações obrigatórias aos fundos, podem ser distribuídas, conforme deliberação da assembleia geral, proporcionalmente às operações realizadas por cada cooperado. Diferentemente do lucro, que remunera o capital investido, as sobras refletem o retorno proporcional à utilização dos serviços da cooperativa pelos associados.",
             "tags": [
               "estrutura econômica",
               "sobras"
@@ -1815,8 +1885,8 @@
           {
             "tipo_bloco": "card",
             "titulo": "Ato cooperativo",
-            "texto": "É a operação realizada entre a cooperativa e seus associados, entre estes e aquela, ou entre cooperativas associadas entre si, para a consecução dos objetivos sociais. O ato cooperativo não implica operação de mercado nem contrato de compra e venda de produto ou mercadoria. Não visa o lucro, mas o benefício mútuo dos membros e a sustentabilidade da entidade.\n O conceito distingue as operações da cooperativa das operações de uma empresa comercial comum e fundamenta o pedido de adequado tratamento tributário, previsto também na Constituição.",
-            "fonte": "BRASIL. Lei nº 5.764/1971, art. 79. KRUEGER, Guilherme Gomes (org.). Ato Cooperativo e seu adequado tratamento tributário. Belo Horizonte: Mandamentos, 2004.",
+            "texto": "É a operação realizada entre a cooperativa e seus associados, entre estes e aquela, ou entre cooperativas associadas entre si, para a consecução dos objetivos sociais. O ato cooperativo não implica operação de mercado nem contrato de compra e venda de produto ou mercadoria. Não visa ao lucro, mas ao benefício mútuo dos membros e à sustentabilidade da entidade.\n O conceito distingue as operações da cooperativa das operações de uma empresa comercial comum e fundamenta o pedido de adequado tratamento tributário, previsto também na Constituição.",
+            "fonte": "BRASIL. Lei nº 5.764, de 16 de dezembro de 1971, art. 79; KRUEGER, Guilherme Gomes (org.). Ato Cooperativo e seu adequado tratamento tributário. Belo Horizonte: Mandamentos, 2004.",
             "tags": [
               "estrutura econômica",
               "ato cooperativo",
@@ -1956,6 +2026,31 @@
               "oposição"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Acomodação e assimilação",
+            "texto": "Ao lado dos processos que afastam as pessoas, como a competição, o conflito e a oposição, a sociologia descreve processos que as aproximam. A acomodação é o ajuste que encerra ou suspende um conflito sem eliminar as diferenças: as partes aceitam regras, acordos ou mediações para conviver. A assimilação é um processo mais profundo e lento, em que pessoas ou grupos passam a compartilhar valores, hábitos e formas de pensar, até se sentirem parte de um mesmo conjunto.\n Na cooperativa, a acomodação aparece quando a assembleia resolve uma disputa por uma regra aceita por todos. A assimilação aparece quando o novo cooperado deixa de se ver como cliente e passa a se ver como dono.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "acomodação",
+              "assimilação"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Solidariedade mecânica e orgânica",
+            "texto": "O sociólogo Émile Durkheim distinguiu duas formas de solidariedade. A solidariedade mecânica, típica de comunidades pequenas e tradicionais, nasce da semelhança: as pessoas se unem porque vivem, trabalham e pensam de forma parecida. A solidariedade orgânica, típica das sociedades modernas, nasce da diferença e da interdependência: cada um exerce uma função, e todos dependem uns dos outros, como os órgãos de um corpo.\n A cooperativa combina as duas. Nasce muitas vezes da semelhança entre os fundadores, como produtores de uma mesma região ou profissionais de uma mesma área, e cresce pela interdependência entre cooperados, dirigentes, empregados e outras cooperativas.",
+            "fonte": "DURKHEIM, Émile. Da divisão do trabalho social. São Paulo: Martins Fontes, 1999.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "solidariedade",
+              "durkheim"
+            ],
+            "publicar": "sim"
           }
         ]
       },
@@ -1983,7 +2078,7 @@
             "tipo_bloco": "card",
             "titulo": "O ramo agropecuário",
             "texto": "Organiza produtores rurais para oferecer assistência técnica, industrializar e comercializar a produção, modernizando o campo e ampliando o poder de mercado, especialmente dos pequenos agricultores. Proporciona acesso a infraestrutura, armazenagem e agroindustrialização, incentivando práticas sustentáveis e gerando desenvolvimento econômico e social.",
-            "fonte": "Fonte: OCB, SOMOS COOP",
+            "fonte": "OCB, SOMOS COOP",
             "tags": [
               "ramos",
               "agropecuário"
@@ -2016,6 +2111,7 @@
             "tipo_bloco": "card",
             "titulo": "Agricultura familiar",
             "texto": "A agricultura familiar é frequentemente correlacionada ao cooperativismo. A maior parte dos estabelecimentos que declaram relação com cooperativas no Censo Agropecuário pertence a esse segmento. Programas de crédito rural voltados à agricultura familiar, como o PRONAF, são associados ao cooperativismo, e políticas que reservam recursos para esse público contribuem indiretamente para a estabilidade dos produtores cooperados.",
+            "fonte": "IBGE. Censo Agropecuário 2017: resultados definitivos. Cooperativas.",
             "tags": [
               "agropecuário",
               "agricultura familiar"
@@ -2030,6 +2126,18 @@
               "pol-pronaf-1995",
               "pol-paa-2003",
               "pol-pnae-2009"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Sucessão familiar no campo",
+            "texto": "No ramo agropecuário, a sucessão tem peso especial, porque a propriedade rural e o vínculo com a cooperativa costumam passar de geração em geração. O envelhecimento dos produtores e a saída dos jovens para as cidades ameaçam, ao mesmo tempo, a continuidade das propriedades e o quadro social das cooperativas.\n Por isso muitas cooperativas agropecuárias mantêm programas de sucessão familiar, com formação de jovens, participação em comitês e apoio técnico e financeiro para que filhos e filhas assumam a atividade. Quando a sucessão é planejada, a família preserva a propriedade, e a cooperativa preserva seus cooperados e a ligação com o território.",
+            "tags": [
+              "agropecuário",
+              "sucessão",
+              "agricultura familiar",
+              "juventude"
             ],
             "publicar": "sim"
           },
@@ -2201,7 +2309,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Autonomia diante de quem?",
-            "texto": "Historicamente, falar de autonomia e independência fazia sentido diante de Estados autoritários, que instrumentalizavam o cooperativismo para finalidades próprias. Essa dimensão permanece, mas hoje é preciso falar de autonomia também diante de outras empresas.\n Uma cooperativa muito dependente de um único comprador, situação que a economia chama de *oligopsônio*, pode acabar comprometida com interesses que não são os dos cooperados. A dependência econômica de um agente externo produz efeito equivalente ao da tutela estatal: em ambos os casos, quem decide de fato não é a assembleia.",
+            "texto": "Historicamente, falar de autonomia e independência fazia sentido diante de Estados autoritários, que instrumentalizavam o cooperativismo para finalidades próprias. Essa dimensão permanece, mas hoje é preciso falar de autonomia também diante de outras empresas.\n Uma cooperativa muito dependente de um único comprador ou de poucos grandes compradores, situação que a economia chama de *monopsônio* ou *oligopsônio*, pode acabar comprometida com interesses que não são os dos cooperados. A dependência econômica de um agente externo produz efeito equivalente ao da tutela estatal: em ambos os casos, quem decide de fato não é a assembleia.",
             "tags": [
               "princípios",
               "autonomia",
@@ -2372,7 +2480,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Brasil, Estado de Direito",
-            "texto": "O Brasil é um Estado de Direito: funciona por meio do ordenamento jurídico, conjunto de regras, normas e funções escritas que sistematizam suas instituições e estabilizam as relações sociais. Sua estrutura maior é a Constituição, que forma a instituição Estado e, a partir dela, permite a existência das demais. A forma de governo é republicana, e os bens do Estado são de todos e geridos para o bem de todos. O sistema de governo é o presidencialismo de coalizão, em que o presidente eleito realiza articulações políticas com o Poder Legislativo para governar.",
+            "texto": "O Brasil é um Estado de Direito, no qual o poder público se submete à Constituição e às leis e deve respeitar os direitos e as garantias fundamentais. A Constituição organiza os poderes do Estado, estabelece competências e limita o exercício do poder. A forma de governo é republicana, e os bens do Estado são de todos e geridos para o bem de todos. O sistema de governo é presidencialista. Na ciência política, a expressão presidencialismo de coalizão descreve as alianças que o presidente eleito forma com partidos representados no Poder Legislativo para governar.",
             "tags": [
               "vocabulário",
               "estado"
@@ -2419,6 +2527,30 @@
               "per-jose-schneider"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Controle social",
+            "texto": "Controle social é o conjunto de meios pelos quais um grupo ou uma sociedade leva seus membros a seguir as normas estabelecidas. Pode ser formal, por meio de leis, regulamentos e sanções, ou informal, pela opinião, pelo costume e pela aprovação ou reprovação dos outros.\n Na cooperativa, o controle social funciona nos dois sentidos. Os cooperados controlam a gestão, por meio da assembleia e do conselho fiscal, e a cooperativa orienta o comportamento dos membros, por meio do estatuto. O quarto princípio pede que esse controle permaneça nas mãos dos membros, e não de agentes externos.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "controle social",
+              "autonomia"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Dependência",
+            "texto": "Na sociologia, dependência é a situação em que um indivíduo, um grupo ou uma organização não consegue manter sua atividade ou suas decisões sem recursos, autorização ou apoio de outro. A dependência gera relações de poder: quem depende tende a aceitar as condições impostas por quem detém o recurso.\n Para as cooperativas, a dependência pode vir do Estado, de um único comprador, de um financiador ou até da própria central. Reconhecer essas relações é o primeiro passo para preservar a autonomia e a independência que o quarto princípio exige.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "dependência",
+              "autonomia"
+            ],
+            "publicar": "sim"
           }
         ]
       },
@@ -2446,7 +2578,7 @@
             "tipo_bloco": "card",
             "titulo": "O ramo saúde",
             "texto": "O cooperativismo de saúde brasileiro é reconhecido como o maior do mundo. Surgiu na década de 1960, com profissionais de saúde que buscavam melhores condições de trabalho e assistência médica acessível. Reúne cooperativas médicas, odontológicas e de outras áreas relacionadas à saúde humana, atuando tanto na saúde suplementar quanto em parcerias com o setor público, e leva serviços qualificados a todo o país.",
-            "fonte": "Fonte: OCB, SOMOS COOP",
+            "fonte": "OCB, SOMOS COOP",
             "tags": [
               "ramos",
               "saúde"
@@ -2739,7 +2871,7 @@
             "tipo_bloco": "card",
             "titulo": "Intercooperação na prática",
             "texto": "Nas enchentes que atingiram o Rio Grande do Sul em 2024, a cooperativa de energia CERTEL, com cerca de 75 mil associados, viu mais de 43 mil deles ficarem sem energia. Com o apoio de cooperativas parceiras, o número de profissionais em campo mais que triplicou, chegando a 450, e o prazo estimado de normalização caiu cerca de 60%. Em 24 dias, a energia foi restabelecida até o último associado.\n Em outro caso, as cooperativas agropecuárias Copagril e Lar firmaram parceria para compartilhar custos, investimentos e oportunidades, mantendo cada uma sua identidade, e ampliaram de 2.153 para 2.520 os postos de trabalho nas estruturas da região.",
-            "fonte": "Fonte: Prêmio SomosCoop Melhores do Ano 2024, categoria Intercooperação.",
+            "fonte": "Prêmio SomosCoop Melhores do Ano 2024, categoria Intercooperação.",
             "tags": [
               "intercooperação",
               "casos",
@@ -2827,7 +2959,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Por que os princípios mudam",
-            "texto": "Ao longo de sua existência, a Aliança Cooperativa Internacional realiza congressos em que se define quais princípios estarão vigentes em cada época. Os valores do cooperativismo não mudam. Os princípios são revisados periodicamente para refletir esses valores diante de contextos diferentes. As grandes formulações vieram dos congressos de Paris (1937), de Viena (1966) e de Manchester (1995).\n No congresso do centenário da ACI, em Manchester, foi aprovada a Declaração sobre a Identidade Cooperativa, com a formulação atual de sete princípios. Nessa ocasião o interesse pela comunidade foi incluído como sétimo princípio, e outros princípios anteriores foram fundidos. A participação econômica dos membros, por exemplo, resulta da junção de formulações que antes eram separadas.",
+            "texto": "Ao longo de sua existência, a Aliança Cooperativa Internacional realiza congressos em que são definidos os princípios vigentes em cada época. Os valores do cooperativismo não mudam. Os princípios são revisados periodicamente para refletir esses valores diante de contextos diferentes. As grandes formulações vieram dos congressos de Paris (1937), de Viena (1966) e de Manchester (1995).\n No congresso do centenário da ACI, em Manchester, foi aprovada a Declaração sobre a Identidade Cooperativa, com a formulação atual de sete princípios. Nessa ocasião o interesse pela comunidade foi incluído como sétimo princípio, e outros princípios anteriores foram fundidos. A participação econômica dos membros, por exemplo, resulta da junção de formulações que antes eram separadas.",
             "tags": [
               "história",
               "princípios",
@@ -2892,7 +3024,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Instituições como entidades",
-            "texto": "Quando falamos de instituições como entidades, referimo-nos a organizações estabelecidas para cumprir funções específicas na sociedade. Operam com sistemas organizados de normas e práticas, possuem estruturas formais e, muitas vezes, autoridade legal para atuar em determinados campos: escolas, universidades, cooperativas, hospitais, empresas, igrejas, órgãos governamentais e organizações da sociedade civil.",
+            "texto": "Na primeira aula, instituição apareceu como conjunto de normas e regras que orientam o comportamento, como o mercado, a família ou o direito. Aqui o sentido é outro: instituição como entidade, isto é, uma organização concreta, com estrutura formal, dirigentes e, muitas vezes, autoridade legal para atuar em determinado campo, como escolas, hospitais, empresas, órgãos públicos e cooperativas.\n As cooperativas são instituições nos dois sentidos: seguem normas e valores próprios e, ao mesmo tempo, são entidades que se relacionam com outras entidades. É nesse segundo sentido que se constroem a intercooperação, as centrais, as confederações e a representação do setor, como a ACI e o Sistema OCB.",
             "tags": [
               "vocabulário",
               "instituições"
@@ -2916,6 +3048,18 @@
             "tags": [
               "vocabulário",
               "globalização"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Redes de cooperação",
+            "texto": "Redes de cooperação são arranjos em que organizações independentes se ligam de forma duradoura para alcançar objetivos que nenhuma delas atingiria sozinha, compartilhando informação, recursos e riscos sem deixar de existir separadamente. Diferem da hierarquia, em que uma organização comanda a outra, e do mercado, em que a relação se encerra a cada troca.\n O cooperativismo é, em grande medida, uma rede de redes. Cooperativas singulares formam centrais, centrais formam confederações, e todas se articulam internacionalmente na ACI. A intercooperação, sexto princípio, é a forma cooperativista de construir essas redes.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "redes",
+              "intercooperação"
             ],
             "publicar": "sim"
           }
@@ -2945,7 +3089,7 @@
             "tipo_bloco": "card",
             "titulo": "O ramo seguros",
             "texto": "É o mais recente ramo do cooperativismo brasileiro, embora seja centenário e tradicional no mundo. As cooperativas deste ramo permitem que seus cooperados compartilhem riscos, oferecendo produtos de seguro com ampla inclusão e educação securitária. A legislação recente ampliou sua atuação no mercado nacional, proporcionando proteção especialmente em regiões tradicionalmente desassistidas pelas seguradoras comerciais.",
-            "fonte": "Fonte: OCB, SOMOS COOP",
+            "fonte": "OCB, SOMOS COOP; BRASIL. Lei Complementar nº 213, de 15 de janeiro de 2025.",
             "tags": [
               "ramos",
               "seguros"
@@ -3264,7 +3408,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Sociedade de pessoas e sociedade de capital",
-            "texto": "As cooperativas são sociedades de pessoas, com número ilimitado de associados e gestão democrática, em que cada membro tem um voto independentemente do capital investido. As empresas são sociedades de capital, em regra com número limitado de sócios ou acionistas e poder de decisão proporcional à participação no capital.",
+            "texto": "As cooperativas são sociedades de pessoas, com número ilimitado de associados e gestão democrática, em que cada membro tem um voto independentemente do capital investido. As empresas tradicionais são, em geral, sociedades de capital, em que o poder de decisão acompanha a participação no capital.",
             "tags": [
               "doutrina",
               "cooperativa e empresa"
@@ -3274,7 +3418,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Finalidade e distribuição de resultados",
-            "texto": "As empresas buscam o lucro como finalidade essencial e remuneram seus sócios proporcionalmente ao capital investido. As cooperativas buscam principalmente a satisfação das necessidades econômicas e sociais dos seus cooperados e distribuem eventuais sobras proporcionalmente à utilização dos serviços oferecidos.",
+            "texto": "As empresas com finalidade lucrativa buscam o lucro e remuneram seus sócios, em regra, proporcionalmente ao capital investido. As cooperativas buscam principalmente a satisfação das necessidades econômicas e sociais dos seus cooperados e, quando a assembleia decide distribuí-las, repartem as sobras proporcionalmente à utilização dos serviços oferecidos.",
             "tags": [
               "doutrina",
               "cooperativa e empresa",
@@ -3285,7 +3429,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Quotas e identidade coletiva",
-            "texto": "Nas empresas, quotas e ações podem ser transferidas a terceiros. Nas cooperativas, é vedada a cessão das quotas-partes a terceiros estranhos à sociedade, o que preserva a identidade coletiva dos membros. Essas características refletem origens históricas diferentes: as cooperativas surgiram como alternativa solidária ao modelo capitalista tradicional, valorizando equidade, solidariedade e cooperação, enquanto as empresas tradicionais têm sua origem no capitalismo, pautadas pelo crescimento e pela concentração de capital.",
+            "texto": "Nas empresas, quotas e ações podem, em regra, ser transferidas a terceiros, conforme o tipo societário e o contrato ou estatuto. Nas cooperativas, é vedada a cessão das quotas-partes a terceiros estranhos à sociedade, o que preserva a identidade coletiva dos membros. Essas características refletem origens históricas diferentes: as cooperativas surgiram como alternativa solidária ao modelo capitalista tradicional, valorizando equidade, solidariedade e cooperação, enquanto as empresas tradicionais têm sua origem no capitalismo, pautadas pelo crescimento e pela concentração de capital.",
             "tags": [
               "doutrina",
               "cooperativa e empresa",
@@ -3295,7 +3439,7 @@
           },
           {
             "tipo_bloco": "citacao",
-            "texto": "Cooperativa não é avessa ao resultado. Ela está inserida numa economia que busca o lucro e precisa ser vista também como parceira de negócios. A diferença está em para quem e para quê o resultado é gerado.",
+            "texto": "Cooperativa não é avessa ao resultado. Ela está inserida numa economia que busca o lucro e precisa ser vista também como parceira de negócios. A diferença está em para quem e para que o resultado é gerado.",
             "tags": [
               "doutrina",
               "cooperativa e empresa"
@@ -3386,6 +3530,19 @@
               "pol-lei-13019-2014"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Comunidade e sociedade",
+            "texto": "O sociólogo alemão Ferdinand Tönnies distinguiu dois tipos de vínculo social. Na comunidade (*Gemeinschaft*), as relações são próximas, afetivas e duradouras, baseadas no parentesco, na vizinhança e na tradição. Na sociedade (*Gesellschaft*), as relações são mais impessoais e se baseiam em interesses e contratos, como no mercado e nas grandes cidades.\n A cooperativa transita entre os dois mundos. É uma organização econômica, regida por contratos e pelo estatuto, mas nasce de vínculos comunitários e existe para servir à comunidade. O sétimo princípio lembra que a cooperativa não pode perder esse enraizamento à medida que cresce.",
+            "fonte": "TÖNNIES, Ferdinand. Comunidade e sociedade (Gemeinschaft und Gesellschaft), 1887.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "comunidade",
+              "tönnies"
+            ],
+            "publicar": "sim"
           }
         ]
       },
@@ -3412,8 +3569,8 @@
           {
             "tipo_bloco": "card",
             "titulo": "O ramo transporte",
-            "texto": "Organiza profissionais que prestam serviços de transporte de passageiros, cargas, entregas e turismo, garantindo qualidade, dignidade e oportunidades para pequenos e médios transportadores. Nessas cooperativas, os cooperados são donos dos veículos, o que favorece a profissionalização, a segurança e o desenvolvimento econômico num setor essencial para a mobilidade urbana e regional.",
-            "fonte": "Fonte: OCB, SOMOS COOP",
+            "texto": "Organiza profissionais que prestam serviços de transporte de passageiros, cargas, entregas e turismo, garantindo qualidade, dignidade e oportunidades para pequenos e médios transportadores. Nessas cooperativas, os cooperados operam veículos próprios ou arrendados, o que favorece a profissionalização, a segurança e o desenvolvimento econômico num setor essencial para a mobilidade urbana e regional.",
+            "fonte": "OCB, SOMOS COOP",
             "tags": [
               "ramos",
               "transporte"
@@ -3434,7 +3591,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "O reconhecimento tardio da cooperativa de cargas",
-            "texto": "Até 2021, as cooperativas de transporte de cargas não tinham categoria própria na Lei nº 11.442/2007, que regula o transporte rodoviário de cargas, e existiam num limbo, regulamentadas apenas por resoluções da ANTT. Ora eram equiparadas ao transportador autônomo, ora à empresa de transporte, o que criava situações desvantajosas e desconectadas da estrutura cooperativa.\n Uma tentativa anterior de inclusão, em 2015, exigia da cooperativa a comprovação de vinte veículos, dezenove a mais do que se exigia da empresa com quem era equiparada, e o dispositivo foi vetado por criar barreiras excessivas. Só catorze anos depois da lei a Cooperativa de Transporte Rodoviário de Cargas (CTC) foi reconhecida como categoria específica.",
+            "texto": "Até 2021, as cooperativas de transporte de cargas não tinham categoria própria na Lei nº 11.442/2007, que regula o transporte rodoviário de cargas, e existiam num limbo, sem enquadramento específico na lei e dependentes de resoluções da ANTT. Ora eram equiparadas ao transportador autônomo, ora à empresa de transporte, o que criava situações desvantajosas e desconectadas da estrutura cooperativa.\n Uma tentativa anterior de inclusão, em 2015, exigia da cooperativa a comprovação de vinte veículos, dezenove a mais do que se exigia da empresa com quem era equiparada, e o dispositivo foi vetado por criar barreiras excessivas. Só catorze anos depois da lei, com a Lei nº 14.206/2021, a Cooperativa de Transporte Rodoviário de Cargas (CTC) foi reconhecida como categoria específica.",
             "fonte": "URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Editora RTM, 2025.",
             "tags": [
               "transporte",
@@ -3782,9 +3939,9 @@
         "blocos": [
           {
             "tipo_bloco": "card",
-            "titulo": "O ramo",
+            "titulo": "O ramo trabalho, produção de bens e serviços",
             "texto": "Reúne cooperativas formadas por profissionais que buscam autonomia, melhores condições de trabalho e renda, realizando prestação de serviços especializados ou produzindo bens em comum. Inclui cooperativas de professores, artesãos, agentes ambientais e muitas outras, promovendo a inclusão produtiva e social de profissionais empreendedores e de grupos em situação de vulnerabilidade, como pessoas com deficiência.",
-            "fonte": "Fonte: OCB, SOMOS COOP",
+            "fonte": "OCB, SOMOS COOP",
             "tags": [
               "ramos",
               "trabalho"
@@ -3794,7 +3951,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "A Lei das Cooperativas de Trabalho",
-            "texto": "As cooperativas de trabalho têm lei própria, a Lei nº 12.690/2012. Ela proíbe expressamente que a cooperativa seja utilizada para intermediação de mão de obra subordinada e assegura aos sócios direitos mínimos, como retiradas não inferiores ao piso da categoria ou ao salário mínimo proporcional às horas trabalhadas, limite de jornada, repouso semanal e anual remunerados e seguro de acidente de trabalho, com as condições definidas pela assembleia.",
+            "texto": "As cooperativas de trabalho têm lei própria, a Lei nº 12.690/2012. Ela proíbe expressamente que a cooperativa seja utilizada para intermediação de mão de obra subordinada e assegura aos cooperados direitos mínimos, como retiradas não inferiores ao piso da categoria ou, na falta dele, ao salário mínimo, proporcionais às horas trabalhadas; limite de jornada; repouso semanal e anual remunerados; retirada maior para o trabalho noturno; adicional para atividades insalubres ou perigosas; e seguro de acidente de trabalho. Cabe à assembleia definir os critérios para provisionar os recursos que garantem esses direitos.",
             "fonte": "BRASIL. Lei nº 12.690, de 19 de julho de 2012, arts. 5º e 7º.",
             "tags": [
               "trabalho",
@@ -3825,7 +3982,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Cooperativas de trabalho e licitações",
-            "texto": "Nas licitações públicas, a formação de preço costuma ser pensada para empresas com empregados: hora de trabalho, repouso semanal remunerado, equipamentos de proteção e demais encargos aparecem discriminados. Na cooperativa, a remuneração e os direitos são definidos em assembleia, a composição de preço pode variar e nem todos os benefícios dos cooperados cabem nas planilhas dos editais. O resultado é que muitas cooperativas não conseguem se adequar às exigências ou acabam informando custos que não correspondem à sua realidade.",
+            "texto": "Nas licitações públicas, a formação de preço costuma ser pensada para empresas com empregados: hora de trabalho, repouso semanal remunerado, equipamentos de proteção e demais encargos aparecem discriminados. Na cooperativa, a remuneração e os direitos são definidos pela lei e pela assembleia, respeitados os mínimos legais, a composição de preço pode variar e nem todos os benefícios dos cooperados cabem nas planilhas dos editais. O resultado é que muitas cooperativas não conseguem se adequar às exigências ou acabam informando custos que não correspondem à sua realidade.",
             "tags": [
               "trabalho",
               "licitações",
@@ -3877,6 +4034,50 @@
       },
       {
         "secao": 4,
+        "titulo": "Movimento e mudança social",
+        "rotulo": "Vocabulário da Cooperação",
+        "complemento": "",
+        "texto": "",
+        "fonte": "",
+        "links": [],
+        "ref_imagem": "",
+        "imagem": "",
+        "cor": "petroleo-escuro",
+        "base": "",
+        "ref_id": [],
+        "tags": [],
+        "buscar_tags": [],
+        "resumo": "",
+        "evidenciar": false,
+        "publicar": "sim",
+        "conferido": false,
+        "blocos": [
+          {
+            "tipo_bloco": "card",
+            "titulo": "Movimento social",
+            "texto": "Movimento social é a ação coletiva organizada e relativamente duradoura de pessoas que compartilham uma identidade e buscam promover ou impedir mudanças na sociedade. Diferentemente de uma organização isolada, um movimento reúne várias organizações, lideranças e participantes em torno de valores e objetivos comuns.\n O cooperativismo nasceu como movimento social, em resposta às condições de vida dos trabalhadores na Revolução Industrial, e até hoje se fala em movimento cooperativista. O desafio é que as cooperativas, ao se tornarem empresas grandes e reguladas, não percam o caráter de movimento, que dá sentido aos princípios e à proposta de expansão cooperativa.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "movimento social"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "card",
+            "titulo": "Mudança social",
+            "texto": "Mudança social é a transformação, ao longo do tempo, das estruturas, das instituições, dos valores e das formas de relação de uma sociedade. Pode resultar de fatores econômicos, tecnológicos, culturais ou políticos e acontecer de forma gradual ou acelerada.\n O cooperativismo é, ao mesmo tempo, produto e agente de mudança social. Surgiu de uma grande transformação, a industrialização, e propõe transformar a forma como a economia é organizada, colocando as pessoas acima do capital. As novas formas de trabalho, as plataformas digitais e a transição energética são mudanças em curso que desafiam o cooperativismo a se reinventar.",
+            "tags": [
+              "vocabulário",
+              "sociologia",
+              "mudança social"
+            ],
+            "publicar": "sim"
+          }
+        ]
+      },
+      {
+        "secao": 5,
         "titulo": "Sete princípios, um sistema",
         "rotulo": "Fechamento do percurso",
         "complemento": "",
