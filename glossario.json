@@ -10,7 +10,8 @@
     "tags": [
       "tributacao",
       "legislacao",
-      "constituicao"
+      "constituicao",
+      "coop-aula-04"
     ],
     "relacionados": [
       "glo-ato-cooperativo",
@@ -94,7 +95,8 @@
     "fonte": "",
     "tags": [
       "sistema-ocb",
-      "dados"
+      "dados",
+      "coop-aula-03"
     ],
     "relacionados": [
       "ent-ocb",
@@ -125,7 +127,8 @@
     "tags": [
       "legislacao",
       "constituicao",
-      "regulacao"
+      "regulacao",
+      "coop-aula-08"
     ],
     "relacionados": [
       "glo-estimular-coop",
@@ -216,7 +219,8 @@
     "fonte": "",
     "tags": [
       "economico",
-      "tributacao"
+      "tributacao",
+      "coop-aula-04"
     ],
     "relacionados": [
       "glo-ato-cooperativo",
@@ -248,7 +252,6 @@
       "conceitos-basicos",
       "economia-solidaria",
       "gestao-democratica",
-      "coop-aula-01",
       "coop-aula-05"
     ],
     "relacionados": [
@@ -274,7 +277,8 @@
     "fonte": "",
     "tags": [
       "ramo-credito",
-      "estrutura"
+      "estrutura",
+      "coop-aula-02"
     ],
     "relacionados": [
       "glo-ramo-credito",
@@ -394,7 +398,8 @@
     "fonte": "",
     "tags": [
       "estrutura",
-      "graus"
+      "graus",
+      "coop-aula-06"
     ],
     "relacionados": [
       "glo-central-ou-federacao",
@@ -487,7 +492,8 @@
     "tags": [
       "regulacao",
       "mercado",
-      "legislacao"
+      "legislacao",
+      "coop-aula-06"
     ],
     "relacionados": [
       "glo-ato-cooperativo",
@@ -563,7 +569,8 @@
     "fonte": "",
     "tags": [
       "conceitos-basicos",
-      "identidade"
+      "identidade",
+      "coop-aula-01"
     ],
     "relacionados": [
       "glo-cooperativismo",
@@ -590,7 +597,8 @@
     "tags": [
       "trabalho",
       "inovacao",
-      "ramo-trabalho"
+      "ramo-trabalho",
+      "coop-aula-01"
     ],
     "relacionados": [
       "glo-ramo-trabalho-producao-de-bens-e-servicos",
@@ -651,7 +659,7 @@
     "tags": [
       "legislacao",
       "comunidade",
-      "coop-aula-08"
+      "coop-aula-07"
     ],
     "relacionados": [
       "glo-economia-solidaria",
@@ -679,7 +687,8 @@
     "nota": "O cooperativismo não se limita à estrutura jurídica da cooperativa. A cooperação é apresentada como valor que fundamenta e dá sentido à organização cooperativa, enquanto a cooperativa constitui sua manifestação na ordem econômica.",
     "fonte": "",
     "tags": [
-      "conceitos-basicos"
+      "conceitos-basicos",
+      "coop-aula-01"
     ],
     "relacionados": [
       "glo-cooperativa",
@@ -706,7 +715,8 @@
       "aci",
       "principios",
       "valores",
-      "historia-mundial"
+      "historia-mundial",
+      "coop-aula-06"
     ],
     "relacionados": [
       "ent-aci",
@@ -835,7 +845,8 @@
     "fonte": "",
     "tags": [
       "conceitos-basicos",
-      "quadro-social"
+      "quadro-social",
+      "coop-aula-01"
     ],
     "relacionados": [
       "glo-cooperado-ou-associado",
@@ -861,8 +872,6 @@
     "tags": [
       "economia-solidaria",
       "conceitos-basicos",
-      "coop-aula-02",
-      "coop-aula-08",
       "coop-aula-05"
     ],
     "relacionados": [
@@ -946,7 +955,8 @@
     "tags": [
       "legislacao",
       "constituicao",
-      "regulacao"
+      "regulacao",
+      "coop-aula-08"
     ],
     "relacionados": [
       "glo-apoiar-coop",
@@ -1054,8 +1064,7 @@
       "sigla",
       "economico",
       "fundos",
-      "coop-aula-04",
-      "coop-aula-07"
+      "coop-aula-04"
     ],
     "relacionados": [
       "glo-fundo-de-reserva",
@@ -1087,7 +1096,8 @@
     "tags": [
       "sigla",
       "ramo-credito",
-      "regulacao"
+      "regulacao",
+      "coop-aula-02"
     ],
     "relacionados": [
       "glo-sncc",
@@ -1118,7 +1128,8 @@
     "tags": [
       "regulacao",
       "trabalho",
-      "ramo-trabalho"
+      "ramo-trabalho",
+      "coop-aula-08"
     ],
     "relacionados": [
       "glo-falsa-cooperativa",
@@ -1143,7 +1154,8 @@
     "fonte": "",
     "tags": [
       "estrutura",
-      "legislacao"
+      "legislacao",
+      "coop-aula-04"
     ],
     "relacionados": [
       "glo-reguladores-setoriais",
@@ -1232,7 +1244,8 @@
     "tags": [
       "estrutura",
       "legislacao",
-      "estatuto"
+      "estatuto",
+      "coop-aula-06"
     ],
     "relacionados": [
       "glo-dissolucao-e-liquidacao",
@@ -1258,7 +1271,8 @@
     "tags": [
       "conceitos-basicos",
       "economia-solidaria",
-      "gestao-democratica"
+      "gestao-democratica",
+      "coop-aula-03"
     ],
     "relacionados": [
       "glo-autogestao",
@@ -1308,7 +1322,8 @@
     "fonte": "",
     "tags": [
       "economico",
-      "capital"
+      "capital",
+      "coop-aula-04"
     ],
     "relacionados": [
       "glo-subscricao",
@@ -1423,7 +1438,6 @@
     "tags": [
       "legislacao",
       "historia-brasil",
-      "coop-aula-03",
       "coop-aula-08"
     ],
     "relacionados": [
@@ -1534,7 +1548,8 @@
     "tags": [
       "historia",
       "historia-mundial",
-      "ramo-credito"
+      "ramo-credito",
+      "coop-aula-02"
     ],
     "relacionados": [
       "glo-modelo-raiffeisen",
@@ -1561,7 +1576,8 @@
     "tags": [
       "historia",
       "historia-mundial",
-      "ramo-credito"
+      "ramo-credito",
+      "coop-aula-02"
     ],
     "relacionados": [
       "glo-modelo-raiffeisen",
@@ -1588,7 +1604,8 @@
     "tags": [
       "historia",
       "historia-mundial",
-      "ramo-credito"
+      "ramo-credito",
+      "coop-aula-02"
     ],
     "relacionados": [
       "glo-modelo-schulze",
@@ -1615,7 +1632,8 @@
     "tags": [
       "historia",
       "historia-mundial",
-      "ramo-credito"
+      "ramo-credito",
+      "coop-aula-02"
     ],
     "relacionados": [
       "glo-modelo-raiffeisen",
@@ -1642,7 +1660,8 @@
     "tags": [
       "conceitos-basicos",
       "ramo-credito",
-      "ramo-seguros"
+      "ramo-seguros",
+      "coop-aula-06"
     ],
     "relacionados": [
       "glo-ramo-seguros",
@@ -1667,7 +1686,8 @@
     "tags": [
       "principios",
       "legislacao",
-      "historia"
+      "historia",
+      "coop-aula-02"
     ],
     "relacionados": [
       "ent-rochdale",
@@ -1697,7 +1717,8 @@
     "tags": [
       "sigla",
       "sistema-ocb",
-      "representacao"
+      "representacao",
+      "coop-aula-03"
     ],
     "relacionados": [
       "ent-ocb",
@@ -1775,13 +1796,6 @@
       "principios",
       "aci",
       "conceitos-basicos",
-      "coop-aula-01",
-      "coop-aula-02",
-      "coop-aula-03",
-      "coop-aula-04",
-      "coop-aula-05",
-      "coop-aula-06",
-      "coop-aula-07",
       "coop-aula-08"
     ],
     "relacionados": [
@@ -2075,7 +2089,8 @@
     "fonte": "",
     "tags": [
       "legislacao",
-      "sistema-ocb"
+      "sistema-ocb",
+      "coop-aula-05"
     ],
     "relacionados": [
       "ent-ocb",
@@ -2135,7 +2150,8 @@
     "tags": [
       "economico",
       "resultados",
-      "historia"
+      "historia",
+      "coop-aula-04"
     ],
     "relacionados": [
       "glo-sobras",
@@ -2260,7 +2276,8 @@
     "tags": [
       "tese",
       "ramo-credito",
-      "regulacao"
+      "regulacao",
+      "coop-aula-08"
     ],
     "relacionados": [
       "glo-ramo-credito",
@@ -2285,7 +2302,8 @@
     "fonte": "",
     "tags": [
       "legislacao",
-      "natureza-juridica"
+      "natureza-juridica",
+      "coop-aula-07"
     ],
     "relacionados": [
       "glo-cooperativa",
@@ -2310,7 +2328,8 @@
     "fonte": "",
     "tags": [
       "sistema-ocb",
-      "comunicacao"
+      "comunicacao",
+      "coop-aula-07"
     ],
     "relacionados": [
       "ent-sistema-ocb",
@@ -2335,7 +2354,8 @@
     "fonte": "",
     "tags": [
       "economico",
-      "capital"
+      "capital",
+      "coop-aula-04"
     ],
     "relacionados": [
       "glo-integralizacao",
@@ -2362,7 +2382,6 @@
       "valores",
       "aci",
       "conceitos-basicos",
-      "coop-aula-06",
       "coop-aula-08"
     ],
     "relacionados": [

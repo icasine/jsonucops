@@ -15561,7 +15561,9 @@
     "temas": [
       "Direito"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-08"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Câmara dos Deputados",
@@ -18874,7 +18876,9 @@
     "temas": [
       "Direito"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-04"
+    ],
     "link": [
       {
         "texto": "https://www.youtube.com/watch?v=ZVRDsiLKO-8",
@@ -24842,7 +24846,9 @@
       "Políticas Públicas",
       "Direito"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-08"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "RTM",
@@ -25945,7 +25951,9 @@
       "Crédito",
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-02"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Fundação Sicredi",
@@ -25984,7 +25992,9 @@
     "temas": [
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-06"
+    ],
     "link": [
       {
         "texto": "https://ica.coop/sites/default/files/2021-11/ICA%20Guidance%20Notes%20EN.pdf",
@@ -26009,7 +26019,9 @@
       "Crédito",
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-02"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Fundação Sicredi",
@@ -26068,7 +26080,9 @@
       "Tributação",
       "Direito"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-04"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Lumen Juris",
@@ -26127,7 +26141,9 @@
       "Trabalho",
       "Direito"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-08"
+    ],
     "link": [
       {
         "texto": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12690.htm",
@@ -26151,7 +26167,9 @@
     "temas": [
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-01"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Co-operative British Youth Film Academy",
@@ -26191,7 +26209,9 @@
       "Sustentabilidade e Desenvolvimento",
       "Gestão"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-07"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Cambridge University Press",
@@ -26212,7 +26232,9 @@
       "Direito",
       "Social"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-08"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Universidade Federal do Paraná (Doutorado em Direito)",
@@ -26232,7 +26254,9 @@
       "Políticas Públicas",
       "Empreendedorismo"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-08"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Presidência da República",
@@ -26250,10 +26274,11 @@
     "autores": "Brasil",
     "temas": [
       "Crédito",
-      "Direito",
-      "coop-aula-01"
+      "Direito"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-02"
+    ],
     "link": [
       {
         "texto": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp130.htm",
@@ -26298,7 +26323,9 @@
       "Crédito",
       "Direito"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-02"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Banco Central do Brasil",
@@ -26318,7 +26345,9 @@
       "Direito",
       "Políticas Públicas"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-05"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Mandamentos",
@@ -26456,7 +26485,9 @@
       "Gestão",
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-04"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Mandamentos",
@@ -26553,7 +26584,9 @@
       "Direito",
       "Tributação"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-04"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Mandamentos",
@@ -26613,7 +26646,9 @@
       "Agropecuária",
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-04"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Confebras",
@@ -26633,7 +26668,9 @@
       "Introdução",
       "Social"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-03"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Saraiva",
@@ -26692,7 +26729,9 @@
       "Agropecuária",
       "Crédito"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-04"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "BRDE",
@@ -26796,7 +26835,9 @@
       "Agropecuária",
       "Gestão"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-04"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "UFV, DER",
@@ -26854,7 +26895,9 @@
       "Social",
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-05"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Editora Fundação Perseu Abramo",
@@ -26916,7 +26959,9 @@
     "temas": [
       "Social"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-05"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Civilização Brasileira",
@@ -26936,7 +26981,9 @@
       "Políticas Públicas",
       "Trabalho"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-08"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "OIT",
@@ -27015,7 +27062,9 @@
       "Políticas Públicas",
       "Intercooperação"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-06"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "CMC",
@@ -27181,7 +27230,9 @@
       "Direito",
       "Inclusão"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-07"
+    ],
     "link": [
       {
         "texto": "https://www.planalto.gov.br/ccivil_03/leis/l9867.htm",
@@ -27225,7 +27276,9 @@
       "Gestão",
       "Agropecuária"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-04"
+    ],
     "link": [
       {
         "texto": "https://www.teses.usp.br/teses/disponiveis/11/11132/tde-20191220-134555/",
@@ -27330,7 +27383,9 @@
     "temas": [
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-01"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "University of Saskatchewan, Centre for the Study of Co-operatives",
@@ -27349,7 +27404,9 @@
     "temas": [
       "Democracia"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-03"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Unisinos",
@@ -27386,10 +27443,11 @@
     "ano": 1988,
     "autores": "Brasil",
     "temas": [
-      "Direito",
-      "coop-aula-01"
+      "Direito"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-05"
+    ],
     "link": [
       {
         "texto": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
@@ -27433,7 +27491,9 @@
       "Direito",
       "Políticas Públicas"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-05"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Fabris",
@@ -27471,7 +27531,9 @@
     "temas": [
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-03"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "CNPq",
@@ -27549,7 +27611,9 @@
       "Introdução",
       "Sustentabilidade e Desenvolvimento"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-07"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Fundação Friedrich Naumann",
@@ -27690,7 +27754,9 @@
       "Direito",
       "Políticas Públicas"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-08"
+    ],
     "link": [
       {
         "texto": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
@@ -27754,7 +27820,9 @@
       "Direito",
       "Políticas Públicas"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-08"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Presidência da República",
@@ -27792,7 +27860,9 @@
     "temas": [
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-01"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "São Paulo Editora",
@@ -27811,7 +27881,9 @@
     "temas": [
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-01"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "Serviço de Informação Agrícola, Ministério da Agricultura",
@@ -27850,7 +27922,9 @@
     "temas": [
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-03"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "União Pan-Americana",
@@ -27869,7 +27943,9 @@
     "temas": [
       "Introdução"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-01"
+    ],
     "link": [],
     "link_compra": "",
     "fonte": "GB",
@@ -27933,7 +28009,9 @@
       "Introdução",
       "Social"
     ],
-    "tags": [],
+    "tags": [
+      "coop-aula-01"
+    ],
     "link": [
       {
         "texto": "https://avalon.law.yale.edu/subject_menus/owenm.asp",

@@ -41,12 +41,6 @@
               "cooperativa"
             ],
             "publicar": "sim"
-          },
-          {
-            "tipo_bloco": "subtitulo",
-            "titulo": "Veja o vídeo",
-            "base": "glossario",
-            "publicar": "sim"
           }
         ]
       },
@@ -139,6 +133,15 @@
             "publicar": "sim"
           },
           {
+            "tipo_bloco": "referencia",
+            "titulo": "No calendário",
+            "base": "calendario",
+            "ref_id": [
+              "eve-revolucao-industrial-1760"
+            ],
+            "publicar": "sim"
+          },
+          {
             "tipo_bloco": "card",
             "titulo": "Origem como resposta social",
             "texto": "O cooperativismo surgiu como resposta prática e solidária às condições adversas impostas aos trabalhadores durante a Revolução Industrial — exploração, pobreza e insegurança social. A experiência de Rochdale, na Inglaterra, é considerada o marco inicial do cooperativismo moderno: um grupo de operários fundou uma cooperativa de consumo baseada em autogestão, ajuda mútua e participação democrática, criando um modelo alternativo ao sistema econômico vigente.",
@@ -204,7 +207,9 @@
             "titulo": "Personagens no glossário",
             "base": "personalidades",
             "ref_id": [
-              "per-schulze-delitzsch"
+              "per-schulze-delitzsch",
+              "per-friedrich-raiffeisen",
+              "per-luigi-luzzatti"
             ],
             "publicar": "sim"
           },
@@ -251,6 +256,27 @@
             "tags": [
               "princípios",
               "educação cooperativa"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Quem promove a formação cooperativista",
+            "base": "entidades",
+            "ref_id": [
+              "ent-sescoop",
+              "ent-ufsm",
+              "ent-ufv"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-sescoop-1998",
+              "pol-sao-roque-de-minas-lei-1661-2015"
             ],
             "publicar": "sim"
           }
@@ -418,10 +444,21 @@
           },
           {
             "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-lei-9532-1997"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
             "titulo": "Conceito no glossário",
             "base": "glossario",
             "ref_id": [
-              "glo-ramo-consumo"
+              "glo-ramo-consumo",
+              "glo-cooperativa-de-plataforma",
+              "glo-equiparacao"
             ],
             "publicar": "sim"
           },
@@ -460,6 +497,27 @@
             "tags": [
               "consumo",
               "cooperativas"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Exemplos de cooperativas de consumo",
+            "base": "entidades",
+            "ref_id": [
+              "ent-consul",
+              "ent-cooper-blumenau",
+              "ent-cws"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "O ramo em números",
+            "base": "dados",
+            "ref_id": [
+              "dad-brasil-1960-consumo",
+              "dad-brasil-2025-consumo"
             ],
             "publicar": "sim"
           }
@@ -598,11 +656,24 @@
           {
             "tipo_bloco": "card",
             "titulo": "Aliança Cooperativa Internacional (ACI)",
-            "texto": "A Aliança Cooperativa Internacional (em inglês, International Co-operative Alliance, ICA) é a principal organização global que representa e serve às cooperativas. Foi fundada em 19 de agosto de 1895, em Londres, durante o 1º Congresso Cooperativo. Ao longo de sua história, sua sede passou por Londres e Genebra, e hoje está estabelecida em Bruxelas, na Bélgica.\n A ACI atua com quatro escritórios regionais (África, Américas, Ásia-Pacífico e Europa) e tem como objetivo uniformizar e disseminar os princípios cooperativos, integrando e apoiando o movimento cooperativista em todo o mundo, inclusive junto às Nações Unidas e à Organização Internacional do Trabalho. É ela que, em seus congressos, define os princípios vigentes em cada época.",
+            "texto": "A Aliança Cooperativa Internacional (em inglês, International Co-operative Alliance, ICA) é a principal organização global que representa e serve às cooperativas. Foi fundada em 19 de agosto de 1895, em Londres, durante o 1º Congresso Cooperativo. Ao longo de sua história, sua sede passou por Londres e Genebra, e hoje está estabelecida em Bruxelas, na Bélgica.  A ACI atua com quatro escritórios regionais (África, Américas, Ásia-Pacífico e Europa) e tem como objetivo uniformizar e disseminar os princípios cooperativos, integrando e apoiando o movimento cooperativista em todo o mundo, inclusive junto às Nações Unidas e à Organização Internacional do Trabalho. É ela que, em seus congressos, define os princípios vigentes em cada época.",
             "fonte": "Fonte: ICA; SESCOOP. Fundamentos do Cooperativismo. Sistema OCB, 2017.",
             "tags": [
               "história",
               "aci"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "A ACI e seus escritórios regionais",
+            "base": "entidades",
+            "ref_id": [
+              "ent-aci",
+              "ent-aci-africa",
+              "ent-cooperativas-americas",
+              "ent-aci-asia-pacifico",
+              "ent-cooperatives-europe"
             ],
             "publicar": "sim"
           },
@@ -647,6 +718,17 @@
             "base": "calendario",
             "ref_id": [
               "eve-misso-pellizzetti-1885"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-resolucao-cmn-3106-2003",
+              "pol-lei-complementar-130-2009",
+              "pol-fgcoop-2012"
             ],
             "publicar": "sim"
           }
@@ -867,6 +949,16 @@
             "publicar": "sim"
           },
           {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-patrono-amstad-2019",
+              "pol-dia-nacional-coop-credito-2012"
+            ],
+            "publicar": "sim"
+          },
+          {
             "tipo_bloco": "card",
             "titulo": "Um braço do Estado, e depois um setor à parte",
             "texto": "Em diferentes momentos da história brasileira, o cooperativismo de crédito, e o cooperativismo rural em geral, foi utilizado como uma espécie de braço estatal para políticas públicas. O governo incentivava a formação de cooperativas para levar crédito a agricultores e pequenos produtores onde o Estado não conseguia chegar diretamente, em troca de benefícios como isenções tributárias e doações de terreno.\n Com o tempo, o setor passou por fases de maior autonomia e fases de maior controle estatal. É um padrão que se repete, com variações, em praticamente todos os ramos do cooperativismo brasileiro.",
@@ -885,6 +977,20 @@
               "crédito",
               "intercooperação",
               "sistemas"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Os sistemas citados",
+            "base": "entidades",
+            "ref_id": [
+              "ent-sicoob-confederacao",
+              "ent-unicred",
+              "ent-cresol",
+              "ent-ailos",
+              "ent-banco-sicoob",
+              "ent-bansicredi"
             ],
             "publicar": "sim"
           },
@@ -924,7 +1030,10 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ref_id": [
-              "glo-ramo-credito"
+              "glo-ramo-credito",
+              "glo-fgcoop",
+              "glo-banco-cooperativo",
+              "glo-sncc"
             ],
             "publicar": "sim"
           },
@@ -936,10 +1045,30 @@
           {
             "tipo_bloco": "cooperativa",
             "titulo": "Sicredi Pioneira",
-            "texto": "A primeira cooperativa de crédito do Brasil foi fundada em 1902, em Linha Imperial, no atual município de Nova Petrópolis (RS), por iniciativa de Theodor Amstad, missionário jesuíta de origem suíça. Sociedade Cooperativa Caixa de Economia e Empréstimos de Nova Petrópolis, conhecida como Caixa de Economia e Empréstimos Amstad, seguiu o modelo Raiffeisen, voltado ao apoio de comunidades rurais, e permanece em atividade até hoje.\n Anos depois, surgiu em Lajeado (RS) a primeira cooperativa de crédito do tipo Luzzatti no país, aberta a pessoas sem vínculo específico entre si. O movimento cresceu gradualmente ao longo das décadas seguintes, até se consolidar como parte relevante do Sistema Financeiro Nacional.",
+            "texto": "Sucessora da Caixa de Economia e Empréstimos Amstad, a primeira cooperativa de crédito do Brasil, fundada em 1902 em Linha Imperial, Nova Petrópolis (RS). Hoje é uma cooperativa singular do Sistema Sicredi e continua em atividade há mais de um século, mantendo viva a origem rural e comunitária do cooperativismo de crédito brasileiro.",
             "tags": [
               "crédito",
               "cooperativas"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Do 1º ao 3º grau: o sistema da Sicredi Pioneira",
+            "base": "entidades",
+            "ref_id": [
+              "ent-central-sicredi-sul-sudeste",
+              "ent-sicredi-confederacao"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "O ramo em números",
+            "base": "dados",
+            "ref_id": [
+              "dad-brasil-1960-credito",
+              "dad-brasil-2025-credito"
             ],
             "publicar": "sim"
           }
@@ -1107,6 +1236,16 @@
               "per-charles-gide",
               "per-waldirio-bulgarelli",
               "per-jose-schneider"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-decreto-22239-1932",
+              "pol-decreto-lei-59-1966"
             ],
             "publicar": "sim"
           }
@@ -1353,6 +1492,24 @@
             "publicar": "sim"
           },
           {
+            "tipo_bloco": "referencia",
+            "titulo": "Órgão regulador citado",
+            "base": "entidades",
+            "ref_id": [
+              "ent-aneel"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-lei-9074-1995"
+            ],
+            "publicar": "sim"
+          },
+          {
             "tipo_bloco": "card",
             "titulo": "Presença que vai além do serviço",
             "texto": "Uma característica marcante das cooperativas de infraestrutura é seu enraizamento comunitário. Em situações de emergência, como enchentes e calamidades públicas, cooperativas de energia já colocaram sua frota e seus equipamentos à disposição da população atingida. Além de prestar o serviço básico, a cooperativa disponibiliza sua estrutura para a comunidade em que está inserida, algo pouco usual quando se trata de uma concessionária privada.",
@@ -1377,6 +1534,27 @@
             "base": "calendario",
             "ref_id": [
               "eve-cooperativa-sp-1891"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Do 1º ao 3º grau no ramo infraestrutura",
+            "base": "entidades",
+            "ref_id": [
+              "ent-cegero",
+              "ent-fecoergs",
+              "ent-infracoop"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "O ramo em números",
+            "base": "dados",
+            "ref_id": [
+              "dad-brasil-2019-infraestrutura",
+              "dad-brasil-2025-infraestrutura"
             ],
             "publicar": "sim"
           }
@@ -1657,6 +1835,15 @@
               "glo-ato-cooperativo"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-ec-132-2023"
+            ],
+            "publicar": "sim"
           }
         ]
       },
@@ -1836,6 +2023,17 @@
             "publicar": "sim"
           },
           {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-pronaf-1995",
+              "pol-paa-2003",
+              "pol-pnae-2009"
+            ],
+            "publicar": "sim"
+          },
+          {
             "tipo_bloco": "card",
             "titulo": "O problema do atravessador",
             "texto": "Quando o cooperado vende sua produção fora da cooperativa, para um atravessador, mais de um princípio é atingido ao mesmo tempo. A participação econômica é comprometida, porque a receita esperada pelo conjunto dos membros deixa de se realizar. A autonomia é enfraquecida, porque a cooperativa perde controle sobre sua atividade principal, a comercialização conjunta, e passa a depender de agentes externos que impõem condições desvantajosas. E o interesse pela comunidade também é afetado: o atravessador pode pagar bem e à vista ao produtor, mas revende à própria comunidade por preço muito superior.\n É um bom exemplo de como os princípios funcionam de forma encadeada, e não isolada.",
@@ -1882,6 +2080,38 @@
             "tags": [
               "agropecuário",
               "cooperativas"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Do 1º ao 3º grau no ramo agropecuário",
+            "base": "entidades",
+            "ref_id": [
+              "ent-coamo",
+              "ent-aurora",
+              "ent-concrab"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Personagens",
+            "base": "personalidades",
+            "ref_id": [
+              "per-roberto-rodrigues",
+              "per-jose-gallassini",
+              "per-verghese-kurien"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "O ramo em números",
+            "base": "dados",
+            "ref_id": [
+              "dad-brasil-1960-agropecuario",
+              "dad-brasil-2025-agropecuario"
             ],
             "publicar": "sim"
           }
@@ -2110,7 +2340,10 @@
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ref_id": [
-              "glo-doutrina-cooperativista"
+              "glo-doutrina-cooperativista",
+              "glo-ato-cooperativo",
+              "glo-sobras",
+              "glo-dupla-qualidade"
             ],
             "publicar": "sim"
           }
@@ -2243,6 +2476,15 @@
           },
           {
             "tipo_bloco": "referencia",
+            "titulo": "Órgão regulador citado",
+            "base": "entidades",
+            "ref_id": [
+              "ent-ans"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ref_id": [
@@ -2284,6 +2526,45 @@
             "tags": [
               "saúde",
               "cooperativas"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Do 1º ao 3º grau no sistema Unimed",
+            "base": "entidades",
+            "ref_id": [
+              "ent-unimed-bh",
+              "ent-central-nacional-unimed",
+              "ent-unimed-brasil"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Personagens",
+            "base": "personalidades",
+            "ref_id": [
+              "per-edmundo-castilho"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "No calendário",
+            "base": "calendario",
+            "ref_id": [
+              "eve-fundao-sade-1967"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "O ramo em números",
+            "base": "dados",
+            "ref_id": [
+              "dad-brasil-2019-saude",
+              "dad-brasil-2025-saude"
             ],
             "publicar": "sim"
           }
@@ -2468,6 +2749,17 @@
           },
           {
             "tipo_bloco": "referencia",
+            "titulo": "Cooperativas citadas",
+            "base": "entidades",
+            "ref_id": [
+              "ent-certel",
+              "ent-lar",
+              "ent-copagril"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
             "titulo": "Veja no glossário",
             "base": "glossario",
             "ref_id": [
@@ -2563,6 +2855,17 @@
               "per-ian-macpherson"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Os congressos citados",
+            "base": "calendario",
+            "ref_id": [
+              "eve-15-congresso-aci",
+              "eve-23-congresso-aci",
+              "eve-31-congresso-aci"
+            ],
+            "publicar": "sim"
           }
         ]
       },
@@ -2609,7 +2912,7 @@
           {
             "tipo_bloco": "card",
             "titulo": "Globalização",
-            "texto": "Diferentemente do que ocorreu no ramo saúde, em que as cooperativas médicas ajudaram a *formar* o mercado de saúde suplementar no Brasil, as cooperativas de seguros encontram um mercado já consolidado, com poucas empresas detendo fatia expressiva do setor. Há muito espaço para crescer, mas a partir de uma posição de entrante.  Outro desafio é cultural: profissionais do setor estão habituados à estrutura empresarial lucrativa, e não à lógica cooperativista. E a regulação prudencial precisará considerar o porte de cada cooperativa, porque historicamente as regulações tendem a impor mais restrições aos menores enquanto se mostram mais tolerantes com os grandes participantes já estabelecidos.",
+            "texto": "Globalização é o processo de integração econômica, social, cultural e política entre países e regiões, intensificado pela expansão do comércio internacional, pela livre circulação de capitais e pelo avanço das tecnologias de comunicação e transporte. Aproxima mercados e pessoas, mas também amplia a concorrência, tende a concentrar poder econômico em grandes corporações e afasta muitas decisões das comunidades onde seus efeitos são sentidos.\n Para o cooperativismo, a globalização é ao mesmo tempo desafio e oportunidade. Cooperativas locais passam a competir com grupos transnacionais, mas a intercooperação permite que se organizem em centrais, confederações e alianças internacionais, como a própria ACI, para ganhar escala sem perder o vínculo com o território e o controle democrático pelos membros.",
             "tags": [
               "vocabulário",
               "globalização"
@@ -2662,12 +2965,45 @@
             "publicar": "sim"
           },
           {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-lei-complementar-213-2025"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Órgão regulador citado",
+            "base": "entidades",
+            "ref_id": [
+              "ent-susep"
+            ],
+            "publicar": "sim"
+          },
+          {
             "tipo_bloco": "card",
             "titulo": "Experiência internacional",
             "texto": "Em países como França, Alemanha, Japão, Canadá e Estados Unidos, as cooperativas e mútuas de seguros têm histórico de décadas ou de mais de um século e conquistaram parcelas expressivas de seus mercados, algumas liderando setores inteiros. Na América Latina há exemplos consolidados na Argentina, no Uruguai e na Colômbia. O Brasil, portanto, chega tarde a um campo em que a experiência cooperativa mundial é vasta.",
             "tags": [
               "seguros",
               "internacional"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Cooperativas e mútuas de seguros pelo mundo",
+            "base": "entidades",
+            "ref_id": [
+              "ent-zenkyoren",
+              "ent-state-farm",
+              "ent-nationwide",
+              "ent-achmea",
+              "ent-folksam",
+              "ent-unipol",
+              "ent-icmif"
             ],
             "publicar": "sim"
           },
@@ -2829,6 +3165,16 @@
               "interesse pela comunidade",
               "dia c",
               "voluntariado"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Quem organiza o Dia C",
+            "base": "entidades",
+            "ref_id": [
+              "ent-sistema-ocb",
+              "ent-ocemg"
             ],
             "publicar": "sim"
           },
@@ -3020,6 +3366,26 @@
               "economia social"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Veja no glossário",
+            "base": "glossario",
+            "ref_id": [
+              "glo-cooperativa-social",
+              "glo-sociedade-simples"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-lei-9867-1999",
+              "pol-lei-13019-2014"
+            ],
+            "publicar": "sim"
           }
         ]
       },
@@ -3078,6 +3444,25 @@
             "publicar": "sim"
           },
           {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-ctc-2021",
+              "pol-roda-bem-caminhoneiro-2019"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Órgão regulador citado",
+            "base": "entidades",
+            "ref_id": [
+              "ent-antt"
+            ],
+            "publicar": "sim"
+          },
+          {
             "tipo_bloco": "card",
             "titulo": "Táxis, aplicativos e uma oportunidade perdida",
             "texto": "As cooperativas de táxi foram duramente atingidas pela chegada das plataformas de transporte por aplicativo. Uma plataforma parece, em muitos aspectos, uma grande cooperativa: une pessoas, organiza o trabalho delas e as conecta aos consumidores. A diferença é que alguém de fora detém o poder de intermediar essa relação e se apropria do resultado. Com apoio de capital internacional, as plataformas operaram por anos em prejuízo para conquistar o público e resistiram à regulação.\n O resultado foi a redução drástica de cooperativas de taxistas, ou sua especialização em nichos de maior qualidade, e a transferência para o trabalhador individual de todo o risco da atividade. As cooperativas perderam a oportunidade de investir em tecnologia própria no momento certo. Mas a insatisfação crescente de motoristas e entregadores com a remuneração das plataformas reabre o debate sobre aplicativos geridos pelos próprios trabalhadores.",
@@ -3114,6 +3499,27 @@
             "base": "glossario",
             "ref_id": [
               "glo-ramo-transporte"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Do 1º ao 3º grau no ramo transporte",
+            "base": "entidades",
+            "ref_id": [
+              "ent-coopercarga",
+              "ent-fetranscoop",
+              "ent-cntcoop"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "O ramo em números",
+            "base": "dados",
+            "ref_id": [
+              "dad-brasil-2019-transporte",
+              "dad-brasil-2025-transporte"
             ],
             "publicar": "sim"
           }
@@ -3214,6 +3620,35 @@
               "constituição"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-lei-5764-1971",
+              "pol-constituicao-1988"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Órgão citado",
+            "base": "entidades",
+            "ref_id": [
+              "ent-cnc"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "No calendário",
+            "base": "calendario",
+            "ref_id": [
+              "eve-instituio-cooperativismo-1966",
+              "eve-lei-5764"
+            ],
+            "publicar": "sim"
           }
         ]
       },
@@ -3312,6 +3747,16 @@
               "glo-barreiras-silenciosas"
             ],
             "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Exemplos na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-lei-9532-1997",
+              "pol-lei-14133-2021"
+            ],
+            "publicar": "sim"
           }
         ]
       },
@@ -3358,6 +3803,15 @@
             "publicar": "sim"
           },
           {
+            "tipo_bloco": "referencia",
+            "titulo": "Na legislação",
+            "base": "politicas",
+            "ref_id": [
+              "pol-lei-12690-2012"
+            ],
+            "publicar": "sim"
+          },
+          {
             "tipo_bloco": "card",
             "titulo": "Fiscalização e falsas cooperativas",
             "texto": "É o ramo que exige maior atenção quanto à integridade do modelo. A fiscalização cabe principalmente ao Ministério do Trabalho, que realiza auditorias e inspeções, e ao Ministério Público do Trabalho, que atua diante de denúncias ou indícios de \"falsa cooperativa\": entidade constituída para mascarar relação de emprego, fraudar direitos trabalhistas ou precarizar o trabalho.\n Identificadas irregularidades, as cooperativas podem ser alvo de ações civis públicas, termos de ajustamento de conduta ou processos administrativos e judiciais. A fraude trabalhista sob roupagem cooperativa é uma das razões pelas quais o ramo carrega um estigma que não corresponde às cooperativas legítimas.",
@@ -3395,6 +3849,27 @@
             "base": "glossario",
             "ref_id": [
               "glo-ramo-trabalho-producao-de-bens-e-servicos"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "Exemplos no ramo trabalho",
+            "base": "entidades",
+            "ref_id": [
+              "ent-coopercuc",
+              "ent-uniforja",
+              "ent-unisol"
+            ],
+            "publicar": "sim"
+          },
+          {
+            "tipo_bloco": "referencia",
+            "titulo": "O ramo em números",
+            "base": "dados",
+            "ref_id": [
+              "dad-brasil-2019-trabalhoebensdeconsumo",
+              "dad-brasil-2025-trabalhoebensdeconsumo"
             ],
             "publicar": "sim"
           }

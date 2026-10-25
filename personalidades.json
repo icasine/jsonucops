@@ -18,7 +18,7 @@
       "Pensador",
       "Brasil",
       "Nacional",
-      "aula-03"
+      "coop-aula-03"
     ],
     "link": [
       {
@@ -49,7 +49,8 @@
       "Pioneira",
       "Mulheres",
       "Reino Unido",
-      "Internacional"
+      "Internacional",
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -81,7 +82,8 @@
       "Crédito",
       "Desjardins",
       "Canadá",
-      "Internacional"
+      "Internacional",
+      "coop-aula-02"
     ],
     "link": [
       {
@@ -115,7 +117,8 @@
       "Sicredi",
       "Rio Grande do Sul",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-02"
     ],
     "link": [
       {
@@ -147,7 +150,8 @@
       "Filosofia",
       "Portugal",
       "Lusofonia",
-      "Internacional"
+      "Internacional",
+      "coop-aula-05"
     ],
     "link": [
       {
@@ -180,7 +184,8 @@
       "Energia",
       "Argentina",
       "América Latina",
-      "Internacional"
+      "Internacional",
+      "coop-aula-06"
     ],
     "link": [
       {
@@ -213,7 +218,8 @@
       "Consumo",
       "Sociologia",
       "Reino Unido",
-      "Internacional"
+      "Internacional",
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -245,7 +251,8 @@
       "Rochdale",
       "História",
       "Canadá",
-      "Internacional"
+      "Internacional",
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -278,7 +285,7 @@
       "Falanstérios",
       "Internacional",
       "Pensador",
-      "aula-01"
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -296,7 +303,7 @@
     "id_persona": "per-charles-gide",
     "titulo": "Charles Gide",
     "genero": "M",
-    "resumo": "Economista francês, principal expoente da Escola de Nîmes e teórico da 'República Cooperativa' fundada no cooperativismo de consumo.",
+    "resumo": "Economista francês, principal expoente da Escola de Nîmes e teórico da 'República Cooperativa', proposta baseada na expansão do cooperativismo de consumo.",
     "descricao": "Economista francês (1847-1932), ligado à Escola de Nîmes, cujos ensinamentos difundiram a doutrina cooperativista, inclusive no Brasil, onde já se lia sobre cooperativismo nos jornais antes do surgimento das primeiras cooperativas nacionais. Sistematizou a ambição de que o cooperativismo alcançasse também a produção industrial e o setor primário. Professor no Collège de France, Gide defendeu a primazia do consumidor e a transformação gradual da economia pela via cooperativa. Coautor da 'História das Doutrinas Econômicas' com Charles Rist, influenciou fortemente o cooperativismo latino-americano e brasileiro e esteve ligado ao solidarismo.",
     "categoria": "Pensador",
     "origem": "Internacional",
@@ -344,7 +351,8 @@
       "Rochdale",
       "Consumo",
       "Reino Unido",
-      "Internacional"
+      "Internacional",
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -377,7 +385,8 @@
       "Mercosul",
       "Argentina",
       "América Latina",
-      "Internacional"
+      "Internacional",
+      "coop-aula-05"
     ],
     "link": [
       {
@@ -408,7 +417,8 @@
       "Economia",
       "Administração",
       "Pesquisa",
-      "autora"
+      "autora",
+      "coop-aula-03"
     ],
     "link": [
       {
@@ -441,7 +451,8 @@
       "Crédito",
       "Desjardins",
       "Canadá",
-      "Internacional"
+      "Internacional",
+      "coop-aula-02"
     ],
     "link": [
       {
@@ -474,7 +485,8 @@
       "Unimed",
       "São Paulo",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-05"
     ],
     "link": [
       {
@@ -506,7 +518,8 @@
       "Crédito",
       "Credit Unions",
       "Estados Unidos",
-      "Internacional"
+      "Internacional",
+      "coop-aula-02"
     ],
     "link": [
       {
@@ -536,7 +549,8 @@
     "tags": [
       "ok",
       "linha-ucoop",
-      "com-imagem"
+      "com-imagem",
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -569,7 +583,8 @@
       "Crédito",
       "Economia Informal",
       "Índia",
-      "Internacional"
+      "Internacional",
+      "coop-aula-07"
     ],
     "link": [
       {
@@ -602,7 +617,8 @@
       "Bens Comuns",
       "Economia",
       "Estados Unidos",
-      "Internacional"
+      "Internacional",
+      "coop-aula-07"
     ],
     "link": [
       {
@@ -633,7 +649,8 @@
       "Pioneiro",
       "Rochdale",
       "Internacional",
-      "Mulheres"
+      "Mulheres",
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -665,7 +682,8 @@
       "Direito Cooperativo",
       "História",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-03"
     ],
     "link": [
       {
@@ -696,7 +714,8 @@
       "Representação institucional",
       "Relações governamentais",
       "OCB",
-      "Mulheres"
+      "Mulheres",
+      "coop-aula-08"
     ],
     "link": [
       {
@@ -729,7 +748,6 @@
       "Legislação",
       "Internacional",
       "Pioneiro",
-      "aula-02",
       "coop-aula-01"
     ],
     "link": [
@@ -763,8 +781,6 @@
       "Alemanha",
       "Internacional",
       "Pioneiro",
-      "aula-02",
-      "coop-aula-01",
       "coop-aula-02"
     ],
     "link": [
@@ -797,7 +813,8 @@
       "Rochdale",
       "História",
       "Reino Unido",
-      "Internacional"
+      "Internacional",
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -831,7 +848,8 @@
       "ACI",
       "Uruguai",
       "América Latina",
-      "Internacional"
+      "Internacional",
+      "coop-aula-06"
     ],
     "link": [
       {
@@ -864,7 +882,8 @@
       "Direito Cooperativo",
       "Minas Gerais",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-05"
     ],
     "link": [
       {
@@ -896,7 +915,8 @@
       "Direito Cooperativo",
       "Legislação",
       "Alemanha",
-      "Internacional"
+      "Internacional",
+      "coop-aula-08"
     ],
     "link": [
       {
@@ -927,7 +947,8 @@
       "Pioneiro",
       "Agricultura",
       "Irlanda",
-      "Internacional"
+      "Internacional",
+      "coop-aula-04"
     ],
     "link": [
       {
@@ -992,7 +1013,8 @@
       "Jurista",
       "Direito Cooperativo",
       "Espanha",
-      "Internacional"
+      "Internacional",
+      "coop-aula-05"
     ],
     "link": [
       {
@@ -1023,7 +1045,8 @@
       "Dirigente",
       "ACI",
       "Países Baixos",
-      "Internacional"
+      "Internacional",
+      "coop-aula-06"
     ],
     "link": [
       {
@@ -1056,7 +1079,8 @@
       "Odontologia",
       "ACI",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-05"
     ],
     "link": [
       {
@@ -1088,7 +1112,8 @@
       "Agricultura",
       "Paraná",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-04"
     ],
     "link": [
       {
@@ -1120,7 +1145,8 @@
       "Mondragón",
       "Cooperativas de Trabalho",
       "Espanha",
-      "Internacional"
+      "Internacional",
+      "coop-aula-08"
     ],
     "link": [
       {
@@ -1154,8 +1180,7 @@
       "Rio Grande do Sul",
       "Brasil",
       "Nacional",
-      "coop-aula-03",
-      "coop-aula-05"
+      "coop-aula-03"
     ],
     "link": [
       {
@@ -1188,7 +1213,8 @@
       "Consumo",
       "Argentina",
       "América Latina",
-      "Internacional"
+      "Internacional",
+      "coop-aula-07"
     ],
     "link": [
       {
@@ -1220,7 +1246,8 @@
       "Socialismo Associativo",
       "Cooperativas de Trabalho",
       "França",
-      "Internacional"
+      "Internacional",
+      "coop-aula-08"
     ],
     "link": [
       {
@@ -1239,7 +1266,7 @@
     "titulo": "Luigi Luzzatti",
     "genero": "M",
     "resumo": "Economista e estadista italiano, fundador dos bancos populares cooperativos na Itália, a partir do modelo de Schulze-Delitzsch.",
-    "descricao": "Italiano (1841-1927), fundador em 1865, em Milão, de um modelo de cooperativa de crédito que permitia a associação de pessoas sem vínculo específico entre si, como moradores de um mesmo bairro. O modelo Luzzatti chegou ao Brasil com a cooperativa fundada por Theodor Amstad em Lajeado (RS), em 1906. Criou a Banca Popolare di Milano (1865) e difundiu o crédito cooperativo urbano no país. Foi ministro do Tesouro e primeiro-ministro da Itália (1910 a 1911), levando a pauta cooperativa ao centro da política econômica.",
+    "descricao": "Italiano (1841-1927), jurista, economista e político, foi um dos responsáveis pela difusão do cooperativismo de crédito urbano na Itália. Em 1865, fundou, em Milão, a Banca Popolare di Milano, instituição que adotou um modelo de cooperativa de crédito aberto a pessoas sem vínculos profissionais específicos, como moradores de uma mesma localidade. Esse modelo, conhecido como sistema Luzzatti, influenciou o desenvolvimento do cooperativismo de crédito no Brasil. Foi ministro do Tesouro e primeiro-ministro da Itália, entre 1910 e 1911, contribuindo para aproximar o cooperativismo das políticas econômicas do país.",
     "categoria": "Pioneiro",
     "origem": "Internacional",
     "pais": "Itália",
@@ -1271,7 +1298,7 @@
     "id_persona": "per-mrcio-freitas-sim",
     "titulo": "Márcio Lopes de Freitas",
     "genero": "M",
-    "resumo": "Marcio Lopes de Freitas é uma das lideranças mais expressivas da história recente do cooperativismo brasileiro, reconhecido por consolidar a articulação política e institucional do setor em âmbito nacional e internacional. Com sólida trajetória de representação pelo Sistema OCB, dedicou-se a integrar as diferentes ramificações do cooperativismo, fortalecendo sua relevância legislativa e a competitividade do modelo econômico perante o mercado e o Estado.",
+    "resumo": "Márcio Lopes de Freitas é uma das lideranças mais expressivas da história recente do cooperativismo brasileiro, reconhecido por consolidar a articulação política e institucional do setor em âmbito nacional e internacional. Com sólida trajetória de representação pelo Sistema OCB, dedicou-se a integrar as diferentes ramificações do cooperativismo, fortalecendo sua relevância legislativa e a competitividade do modelo econômico perante o mercado e o Estado.",
     "descricao": "Nascido em Patrocínio Paulista (SP) e graduado em Direito pela PUC-Campinas, Marcio iniciou sua trajetória no cooperativismo de base, especialmente na Cooxupé e em cooperativas de crédito. No comando das entidades de cúpula do movimento cooperativista nacional, destacou-se pela interlocução contínua com os poderes públicos, pelo apoio permanente à articulação parlamentar e pelo investimento na qualificação profissional e governança das cooperativas por meio do sistema de formação e aprendizagem.",
     "categoria": "Liderança",
     "origem": "Nacional",
@@ -1283,7 +1310,8 @@
     "tags": [
       "Dirigente",
       "Agricultura",
-      "Homem"
+      "Homem",
+      "coop-aula-04"
     ],
     "link": [
       {
@@ -1314,7 +1342,8 @@
       "Liderança",
       "Mulheres",
       "Reino Unido",
-      "Internacional"
+      "Internacional",
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -1347,7 +1376,8 @@
       "Crédito",
       "Bahia",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-02"
     ],
     "link": [
       {
@@ -1381,7 +1411,8 @@
       "Desjardins",
       "ACI",
       "Canadá",
-      "Internacional"
+      "Internacional",
+      "coop-aula-06"
     ],
     "link": [
       {
@@ -1412,7 +1443,8 @@
       "Pioneiro",
       "Educação Cooperativa",
       "Canadá",
-      "Internacional"
+      "Internacional",
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -1477,7 +1509,8 @@
       "Mulheres",
       "ACI",
       "Reino Unido",
-      "Internacional"
+      "Internacional",
+      "coop-aula-06"
     ],
     "link": [
       {
@@ -1508,7 +1541,8 @@
       "Pensador",
       "Cooperativas de Trabalho",
       "França",
-      "Internacional"
+      "Internacional",
+      "coop-aula-08"
     ],
     "link": [
       {
@@ -1540,7 +1574,8 @@
       "Tributação",
       "Ato Cooperativo",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-08"
     ],
     "link": [
       {
@@ -1559,7 +1594,7 @@
     "titulo": "Robert Owen",
     "genero": "M",
     "resumo": "Considerado um dos fundadores do socialismo utópico e precursor do cooperativismo moderno.",
-    "descricao": "Industrial e reformador galês (1771-1858), considerado precursor do cooperativismo. Nas fábricas de New Lanark, na Escócia, melhorou as condições de trabalho e criou escolas, e suas ideias influenciaram diretamente os Pioneiros de Rochdale. Industrial têxtil em New Lanark, defendeu condições humanas de trabalho, redução da jornada para 10 horas e a criação de vilas cooperativas de produção.",
+    "descricao": "Industrial e reformador galês (1771-1858), considerado precursor do cooperativismo. À frente das fábricas de New Lanark, na Escócia, defendeu melhores condições de trabalho, a redução da jornada para dez horas diárias e a criação de vilas cooperativas de produção. Também promoveu a educação dos trabalhadores por meio da criação de escolas. Suas ideias influenciaram diretamente os Pioneiros de Rochdale.",
     "categoria": "Pioneiro",
     "origem": "Internacional",
     "pais": "País de Gales",
@@ -1572,7 +1607,7 @@
       "Rochdale",
       "Internacional",
       "Homens",
-      "aula-01"
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -1590,7 +1625,7 @@
     "id_persona": "per-roberto-rodrigues",
     "titulo": "Roberto Rodrigues",
     "genero": "M",
-    "resumo": "Engenheiro agrônomo e produtor rural, primeiro não europeu a presidir a Aliança Cooperativa Internacional (1997 a 2001) e ministro da Agricultura (2003 a 2006).",
+    "resumo": "Engenheiro agrônomo e produtor rural, primeiro não europeu a presidir a Aliança Cooperativa Internacional (1997 a 2001) e ministro da Agricultura (2003 a 2006). Filho de Antônio José Rodrigues Filho, primeiro presidente da OCB.",
     "descricao": "Natural de Cordeirópolis (SP), presidiu a OCB e a Organização das Cooperativas do Estado de São Paulo e tornou-se uma das vozes mais conhecidas do cooperativismo agropecuário. É coordenador do Centro de Agronegócio da FGV e embaixador especial da FAO para o cooperativismo.",
     "categoria": "Liderança",
     "origem": "Nacional",
@@ -1605,7 +1640,8 @@
       "ACI",
       "OCB",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-04"
     ],
     "link": [
       {
@@ -1637,7 +1673,8 @@
       "Minas Gerais",
       "Ocemg",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-03"
     ],
     "link": [
       {
@@ -1670,7 +1707,8 @@
       "Pesquisa",
       "autora",
       "Advogada",
-      "Mulheres"
+      "Mulheres",
+      "coop-aula-05"
     ],
     "link": [
       {
@@ -1704,7 +1742,8 @@
       "Agricultura",
       "São Paulo",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-04"
     ],
     "link": [
       {
@@ -1736,7 +1775,8 @@
       "Mulheres",
       "OIT",
       "Economia Social e Solidária",
-      "Internacional"
+      "Internacional",
+      "coop-aula-07"
     ],
     "link": [
       {
@@ -1768,7 +1808,8 @@
       "Economia Civil",
       "Doutrina Social",
       "Itália",
-      "Internacional"
+      "Internacional",
+      "coop-aula-05"
     ],
     "link": [
       {
@@ -1798,7 +1839,8 @@
     "tags": [
       "Mulheres",
       "Agricultura",
-      "OCB"
+      "OCB",
+      "coop-aula-03"
     ],
     "link": [
       {
@@ -1831,7 +1873,6 @@
       "Sicredi",
       "Rio Grande do Sul",
       "Nacional",
-      "aula-02",
       "coop-aula-02"
     ],
     "link": [
@@ -1864,7 +1905,8 @@
       "Consumo",
       "Japão",
       "Ásia",
-      "Internacional"
+      "Internacional",
+      "coop-aula-01"
     ],
     "link": [
       {
@@ -1897,7 +1939,8 @@
       "Laticínios",
       "Índia",
       "Ásia",
-      "Internacional"
+      "Internacional",
+      "coop-aula-04"
     ],
     "link": [
       {
@@ -1930,7 +1973,8 @@
       "Educação Cooperativa",
       "Rio Grande do Sul",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-08"
     ],
     "link": [
       {
@@ -1996,7 +2040,8 @@
       "Direito Cooperativo",
       "Ato Cooperativo",
       "Brasil",
-      "Nacional"
+      "Nacional",
+      "coop-aula-04"
     ],
     "link": [
       {
@@ -2029,7 +2074,7 @@
       "Rochdale",
       "Reino Unido",
       "Internacional",
-      "aula-01"
+      "coop-aula-01"
     ],
     "link": [
       {

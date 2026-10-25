@@ -21,7 +21,8 @@
       "legislacao",
       "historia-brasil",
       "ramo-agropecuario",
-      "implantacao"
+      "implantacao",
+      "coop-aula-03"
     ],
     "glossario": [
       "glo-fases-do-cooperativismo-brasileiro"
@@ -60,7 +61,8 @@
     "tags": [
       "legislacao",
       "historia-brasil",
-      "implantacao"
+      "implantacao",
+      "coop-aula-03"
     ],
     "glossario": [
       "glo-fases-do-cooperativismo-brasileiro"
@@ -147,7 +149,8 @@
       "credito",
       "historia-brasil",
       "ramo-credito",
-      "desestatizacao"
+      "desestatizacao",
+      "coop-aula-02"
     ],
     "glossario": [
       "glo-banco-cooperativo",
@@ -187,7 +190,8 @@
     "tags": [
       "legislacao",
       "ramo-credito",
-      "centralismo-estatal"
+      "centralismo-estatal",
+      "coop-aula-02"
     ],
     "glossario": [
       "glo-ramo-credito",
@@ -330,7 +334,8 @@
     "tags": [
       "fomento",
       "historia-brasil",
-      "ramo-agropecuario"
+      "ramo-agropecuario",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-fases-do-cooperativismo-brasileiro"
@@ -416,7 +421,8 @@
     "ano_fim": null,
     "tags": [
       "legislacao",
-      "ramo-agropecuario"
+      "ramo-agropecuario",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario"
@@ -458,7 +464,8 @@
     "ano_fim": null,
     "tags": [
       "calendario",
-      "internacional"
+      "internacional",
+      "coop-aula-06"
     ],
     "glossario": [],
     "relacionadas": [
@@ -497,7 +504,8 @@
     "ano_fim": 2023,
     "tags": [
       "compras-publicas",
-      "barreira"
+      "barreira",
+      "coop-aula-08"
     ],
     "glossario": [
       "glo-barreiras-silenciosas",
@@ -537,7 +545,8 @@
     "tags": [
       "trabalho",
       "ramo-trabalho",
-      "legislacao"
+      "legislacao",
+      "coop-aula-08"
     ],
     "glossario": [
       "glo-falsa-cooperativa",
@@ -577,7 +586,8 @@
       "credito",
       "ramo-agropecuario",
       "ramo-credito",
-      "agricultura-familiar"
+      "agricultura-familiar",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario",
@@ -618,7 +628,8 @@
     "tags": [
       "regulacao",
       "ramo-infraestrutura",
-      "desestatizacao"
+      "desestatizacao",
+      "coop-aula-03"
     ],
     "glossario": [
       "glo-ramo-infraestrutura",
@@ -656,7 +667,8 @@
     "ano_fim": null,
     "tags": [
       "economia-solidaria",
-      "educacao"
+      "educacao",
+      "coop-aula-05"
     ],
     "glossario": [
       "glo-economia-solidaria"
@@ -696,7 +708,8 @@
     "tags": [
       "tributacao",
       "ramo-consumo",
-      "barreira"
+      "barreira",
+      "coop-aula-01"
     ],
     "glossario": [
       "glo-equiparacao",
@@ -776,7 +789,8 @@
     "ano_fim": null,
     "tags": [
       "credito",
-      "ramo-agropecuario"
+      "ramo-agropecuario",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario"
@@ -814,7 +828,8 @@
     "ano_fim": null,
     "tags": [
       "credito",
-      "ramo-agropecuario"
+      "ramo-agropecuario",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario"
@@ -895,7 +910,8 @@
     "ano_fim": null,
     "tags": [
       "legislacao",
-      "natureza-juridica"
+      "natureza-juridica",
+      "coop-aula-07"
     ],
     "glossario": [
       "glo-sociedade-simples",
@@ -934,7 +950,8 @@
     "tags": [
       "credito",
       "ramo-agropecuario",
-      "bndes"
+      "bndes",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario"
@@ -971,7 +988,8 @@
     "ano_fim": null,
     "tags": [
       "internacional",
-      "legislacao"
+      "legislacao",
+      "coop-aula-08"
     ],
     "glossario": [
       "glo-declaracao-sobre-a-identidade-cooperativa"
@@ -1014,7 +1032,8 @@
     "ano_fim": null,
     "tags": [
       "regulacao",
-      "ramo-credito"
+      "ramo-credito",
+      "coop-aula-02"
     ],
     "glossario": [
       "glo-livre-admissao",
@@ -1053,7 +1072,8 @@
     "ano_fim": null,
     "tags": [
       "fomento",
-      "pnc"
+      "pnc",
+      "coop-aula-08"
     ],
     "glossario": [
       "glo-discrepancia-temporal"
@@ -1092,7 +1112,8 @@
     "tags": [
       "compras-publicas",
       "ramo-agropecuario",
-      "agricultura-familiar"
+      "agricultura-familiar",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario"
@@ -1136,7 +1157,7 @@
     "tags": [
       "economia-solidaria",
       "trabalho",
-      "coop-aula-08"
+      "coop-aula-05"
     ],
     "glossario": [
       "glo-economia-solidaria",
@@ -1176,7 +1197,8 @@
     "ano_fim": null,
     "tags": [
       "minas-gerais",
-      "fomento"
+      "fomento",
+      "coop-aula-08"
     ],
     "glossario": [],
     "relacionadas": [
@@ -1218,7 +1240,8 @@
     "ano_fim": null,
     "tags": [
       "genero",
-      "educacao"
+      "educacao",
+      "coop-aula-02"
     ],
     "glossario": [],
     "relacionadas": [],
@@ -1252,7 +1275,8 @@
     "tags": [
       "legislacao",
       "crise",
-      "barreira"
+      "barreira",
+      "coop-aula-08"
     ],
     "glossario": [
       "glo-dissolucao-e-liquidacao",
@@ -1296,7 +1320,8 @@
     "tags": [
       "credito",
       "ramo-credito",
-      "capital"
+      "capital",
+      "coop-aula-02"
     ],
     "glossario": [
       "glo-capital-social",
@@ -1337,7 +1362,8 @@
       "credito",
       "ramo-agropecuario",
       "capital",
-      "bndes"
+      "bndes",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-capital-social",
@@ -1378,7 +1404,8 @@
     "tags": [
       "compras-publicas",
       "ramo-agropecuario",
-      "agricultura-familiar"
+      "agricultura-familiar",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario"
@@ -1465,7 +1492,8 @@
     "data_revogacao": "",
     "ano_fim": null,
     "tags": [
-      "compras-publicas"
+      "compras-publicas",
+      "coop-aula-08"
     ],
     "glossario": [
       "glo-barreiras-silenciosas"
@@ -1504,7 +1532,8 @@
     "tags": [
       "assistencia-tecnica",
       "ramo-agropecuario",
-      "agricultura-familiar"
+      "agricultura-familiar",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario"
@@ -1542,7 +1571,8 @@
     "tags": [
       "trabalho",
       "ramo-trabalho",
-      "meio-ambiente"
+      "meio-ambiente",
+      "coop-aula-08"
     ],
     "glossario": [
       "glo-ramo-trabalho-producao-de-bens-e-servicos"
@@ -1581,7 +1611,8 @@
     "data_revogacao": "",
     "ano_fim": null,
     "tags": [
-      "habitacao"
+      "habitacao",
+      "coop-aula-07"
     ],
     "glossario": [],
     "relacionadas": [],
@@ -1652,7 +1683,8 @@
     "ano_fim": null,
     "tags": [
       "calendario",
-      "ramo-credito"
+      "ramo-credito",
+      "coop-aula-02"
     ],
     "glossario": [
       "glo-ramo-credito"
@@ -1687,7 +1719,8 @@
     "ano_fim": null,
     "tags": [
       "regulacao",
-      "ramo-credito"
+      "ramo-credito",
+      "coop-aula-02"
     ],
     "glossario": [
       "glo-ramo-credito"
@@ -1770,7 +1803,8 @@
     "ano_fim": null,
     "tags": [
       "trabalho",
-      "ramo-trabalho"
+      "ramo-trabalho",
+      "coop-aula-08"
     ],
     "glossario": [
       "glo-lei-das-cooperativas-de-trabalho"
@@ -1809,7 +1843,8 @@
     "ano_fim": 2019,
     "tags": [
       "trabalho",
-      "comunidade"
+      "comunidade",
+      "coop-aula-07"
     ],
     "glossario": [
       "glo-cooperativa-social"
@@ -1847,7 +1882,8 @@
     "ano_fim": null,
     "tags": [
       "fomento",
-      "comunidade"
+      "comunidade",
+      "coop-aula-07"
     ],
     "glossario": [
       "glo-cooperativa-social"
@@ -1923,7 +1959,8 @@
     "ano_fim": null,
     "tags": [
       "credito",
-      "ramo-credito"
+      "ramo-credito",
+      "coop-aula-02"
     ],
     "glossario": [
       "glo-discrepancia-temporal"
@@ -1958,7 +1995,8 @@
     "ano_fim": null,
     "tags": [
       "assistencia-tecnica",
-      "ramo-agropecuario"
+      "ramo-agropecuario",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario"
@@ -1996,7 +2034,8 @@
     "ano_fim": null,
     "tags": [
       "fomento",
-      "ramo-transporte"
+      "ramo-transporte",
+      "coop-aula-07"
     ],
     "glossario": [
       "glo-ramo-transporte"
@@ -2035,7 +2074,8 @@
     "ano_fim": null,
     "tags": [
       "calendario",
-      "historia-brasil"
+      "historia-brasil",
+      "coop-aula-02"
     ],
     "glossario": [],
     "relacionadas": [],
@@ -2071,7 +2111,8 @@
     "ano_fim": null,
     "tags": [
       "regulacao",
-      "ramo-transporte"
+      "ramo-transporte",
+      "coop-aula-07"
     ],
     "glossario": [
       "glo-ramo-transporte",
@@ -2110,7 +2151,8 @@
     "data_revogacao": "",
     "ano_fim": null,
     "tags": [
-      "compras-publicas"
+      "compras-publicas",
+      "coop-aula-08"
     ],
     "glossario": [
       "glo-anomalia"
@@ -2153,7 +2195,8 @@
     "ano_fim": 2023,
     "tags": [
       "compras-publicas",
-      "ramo-agropecuario"
+      "ramo-agropecuario",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario"
@@ -2191,7 +2234,8 @@
     "ano_fim": 2021,
     "tags": [
       "legislacao",
-      "barreira"
+      "barreira",
+      "coop-aula-08"
     ],
     "glossario": [
       "glo-equiparacao"
@@ -2226,7 +2270,8 @@
     "ano_fim": null,
     "tags": [
       "legislacao",
-      "ramo-credito"
+      "ramo-credito",
+      "coop-aula-02"
     ],
     "glossario": [
       "glo-sncc",
@@ -2265,7 +2310,8 @@
     "tags": [
       "minas-gerais",
       "ramo-agropecuario",
-      "agricultura-familiar"
+      "agricultura-familiar",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario"
@@ -2307,7 +2353,8 @@
     "ano_fim": null,
     "tags": [
       "institucional",
-      "pnc"
+      "pnc",
+      "coop-aula-08"
     ],
     "glossario": [],
     "relacionadas": [
@@ -2344,7 +2391,8 @@
     "tags": [
       "compras-publicas",
       "ramo-agropecuario",
-      "agricultura-familiar"
+      "agricultura-familiar",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-ramo-agropecuario"
@@ -2387,7 +2435,8 @@
     "ano_fim": null,
     "tags": [
       "tributacao",
-      "constituicao"
+      "constituicao",
+      "coop-aula-04"
     ],
     "glossario": [
       "glo-adequado-tratamento-tributario",
@@ -2431,7 +2480,8 @@
     "ano_fim": null,
     "tags": [
       "calendario",
-      "minas-gerais"
+      "minas-gerais",
+      "coop-aula-07"
     ],
     "glossario": [],
     "relacionadas": [],
