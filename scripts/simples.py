@@ -5,7 +5,7 @@ Abas: glossario, acervo, entidades, personalidades, politicas, dados, referencia
 O arquivo gravado tem o nome da aba (glossario.json, acervo.json...).
 As chaves são os nomes das colunas (ver comum.py).
 """
-from comum import avisos, converter, gravar, ler_csv, nao, norm, sim
+from comum import avisos, converter, gravar, ids_do_arquivo, ler_csv, nao, norm, num_ordem, sim
 
 
 # Abas em que só entra a linha marcada publicar = sim.
@@ -15,11 +15,11 @@ SO_COM_SIM = {"glossario", "entidades", "politicas", "dados", "referencias", "ac
 TITULO = {"referencias": "referencia", "dados": "ano"}
 ORDEM = {
     "glossario": lambda i: norm(i.get("titulo")),
-    "acervo": lambda i: (-(i.get("ano") or 0), norm(i.get("titulo"))),
+    "acervo": lambda i: (-num_ordem(i.get("ano")), norm(i.get("titulo"))),
     "entidades": lambda i: norm(i.get("titulo")),
     "personalidades": lambda i: norm(i.get("titulo")),
-    "politicas": lambda i: (i.get("ano_inicio") or 9999, norm(i.get("titulo"))),
-    "dados": lambda i: (i.get("ano") or 0, norm(i.get("ramo"))),
+    "politicas": lambda i: (num_ordem(i.get("ano_inicio"), 9999), norm(i.get("titulo"))),
+    "dados": lambda i: (num_ordem(i.get("ano")), norm(i.get("ramo"))),
     "referencias": lambda i: norm((i.get("referencia") or "").replace("*", "")),
 }
 
@@ -57,9 +57,19 @@ def gerar(aba):
     # Confere as ligações entre bases
     if aba == "glossario":
         conhecidos = {norm(i.get("id_glossario")) for i in itens} | {norm(i.get("titulo")) for i in itens}
+        # Relacionado de outra base (ent-, pol-, per-, eve-) é conferido no JSON daquela base
+        outras = {"ent-": "entidades.json", "pol-": "politicas.json", "per-": "personalidades.json",
+                  "eve-": "eventos.json"}
+        cache = {}
         for i in itens:
             for rel in i.get("relacionados", []):
-                if norm(rel) not in conhecidos:
+                arq = next((a for p, a in outras.items() if norm(rel).startswith(p)), None)
+                if arq:
+                    if arq not in cache:
+                        cache[arq] = {norm(x) for x in (ids_do_arquivo(arq) or [])}
+                    if cache[arq] and norm(rel) not in cache[arq]:
+                        avisos.append(f"{i.get('id_glossario')}: relacionado '{rel}' não encontrado em {arq}")
+                elif norm(rel) not in conhecidos:
                     avisos.append(f"{i.get('id_glossario')}: relacionado '{rel}' não encontrado no glossário")
     if aba == "politicas":
         for i in itens:

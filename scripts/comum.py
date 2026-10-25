@@ -6,6 +6,7 @@ Só a coluna obs_internas fica de fora. Alguns tipos são ajustados:
   links    -> lista de {"texto", "url"}; uma linha por link, "rótulo | url" ou só a url
   sim/não  -> true/false                            (evidenciar, destaque...)
   números  -> número                                (ano, latitude, cooperados...)
+              ano aproximado com interrogação (1???, 18??, 1890?) fica como texto
 Células vazias viram "" (texto), [] (lista), false (sim/não) ou null (número).
 """
 import csv, io, json, os, re, unicodedata, urllib.request
@@ -45,6 +46,8 @@ def numero(v, onde="", campo=""):
     if not v:
         return None
     t = v.replace(" ", "")
+    if re.fullmatch(r"-?\d{1,4}\?+", t):  # ano aproximado (1???, 18??, 1890?): entra como texto
+        return t
     if re.fullmatch(r"-?\d{1,3}(\.\d{3})+", t):  # 3.947 = três mil novecentos e quarenta e sete
         t = t.replace(".", "")
     t = t.replace(",", ".")
@@ -57,6 +60,15 @@ def numero(v, onde="", campo=""):
             return int(m.group(0))
         avisos.append(f"{onde}: {campo} '{v}' não é número, gravei null")
         return None
+
+
+def num_ordem(v, padrao=0):
+    """Valor numérico para ordenar; ano aproximado (18??) vira 1800."""
+    if isinstance(v, (int, float)):
+        return v
+    if isinstance(v, str) and re.fullmatch(r"-?\d{1,4}\?+", v):
+        return int(v.replace("?", "0"))
+    return padrao
 
 
 def links(v, onde=""):

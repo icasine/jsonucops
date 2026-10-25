@@ -7,7 +7,8 @@ Nos blocos e recursos só vão as colunas preenchidas.
 """
 from comum import avisos, converter, gravar, ids_do_arquivo, ler_csv, nao
 
-TIPOS = {"aula", "secao", "card", "citacao", "subtitulo", "cooperativa", "referencia", "recurso"}
+TIPOS = {"aula", "secao", "card", "citacao", "subtitulo", "cooperativa", "referencia", "recurso",
+         "video", "imagem", "link", "podcast", "arquivo", "case"}  # os últimos seis o HTML da aula já sabe mostrar
 CORES = {"petroleo-escuro", "petroleo", "laranja", "dourado", "verde"}
 # Valor da coluna base -> arquivo deste repositório
 BASES = {

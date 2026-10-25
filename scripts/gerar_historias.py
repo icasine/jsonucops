@@ -31,6 +31,8 @@ for n, l in ler_csv():
     hid, tipo = l.get("id_historia", ""), l.get("tipo_bloco", "").lower()
     if not hid and not tipo:
         continue
+    if hid and not tipo and not any(l.get(c) for c in ("texto", "imagem", "personagem", "titulo")):
+        continue  # linha só com os dados repetidos da história, sem bloco: ignora sem aviso
     onde = f"Linha {n} ({hid}, {tipo})"
     if not hid:
         avisos.append(f"{onde}: sem id_historia, ignorada"); continue
@@ -70,8 +72,7 @@ for hid in ordem:
             h["anterior"] = ids[0] if len(ids) > 0 else None
             h["proxima"] = ids[1] if len(ids) > 1 else None
             continue
-        if tipo == "fala" and not item.get("personagem"):
-            avisos.append(f"{onde}: fala sem personagem")
+        # Fala sem personagem é permitida: a narração anterior diz quem fala ("Uma vizinha perguntou:")
         h["blocos"].append(preenchidas(item))
     saida.append(h)
 
@@ -91,7 +92,7 @@ for h in saida:
             cache[arq] = ids_do_arquivo(arq)
         if cache[arq]:
             for i in b.get("ref_id", []):
-                if i not in cache[arq]:
+                if i != "-" and i not in cache[arq]:  # "-" = nenhuma
                     avisos.append(f"História {h['id_historia']}: id '{i}' não encontrado em {b['base']}")
 
 gravar(SAIDA, saida, f"{len(saida)} item(ns) gravado(s) em {SAIDA}")
