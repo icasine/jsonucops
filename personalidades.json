@@ -1061,6 +1061,38 @@
     "publicar": "sim"
   },
   {
+    "id_persona": "per-joao-carlos-leite",
+    "titulo": "João Carlos Leite (Joãozinho da Canastra)",
+    "genero": "M",
+    "resumo": "Engenheiro agrônomo e produtor rural de São Roque de Minas (MG), fundador e presidente do Sicoob Sarom, criado como Saromcredi.",
+    "descricao": "Conhecido como Joãozinho da Canastra, liderou o grupo de produtores rurais que, no início dos anos 1990, buscou no cooperativismo de crédito uma saída para São Roque de Minas, na Serra da Canastra, que ficara sem agência bancária depois da liquidação da Minas Caixa. A Saromcredi passou a financiar a produção de milho, café e queijo da região e apoiou iniciativas da comunidade, como a Cooperativa Educacional de São Roque de Minas. Para ele, o maior desafio foi mostrar à população que a cooperativa era viável.",
+    "categoria": "Liderança",
+    "origem": "Nacional",
+    "pais": "Brasil",
+    "historico": false,
+    "destaque": false,
+    "nascimento": "1966",
+    "falecimento": "",
+    "tags": [
+      "Crédito",
+      "Sicoob",
+      "Minas Gerais",
+      "Nacional",
+      "coop-aula-02"
+    ],
+    "link": [
+      {
+        "texto": "https://www.youtube.com/watch?v=lfTpHCOdlPA",
+        "url": "https://www.youtube.com/watch?v=lfTpHCOdlPA"
+      }
+    ],
+    "fonte": "Evidenciador (YouTube); Cêfragô Podcast, ep. 9; Cooperativismo de Crédito (2014), Saromcredi: um caso emblemático no cooperativismo brasileiro; Sicoob",
+    "ref_imagem": "",
+    "imagem": "",
+    "conferido": false,
+    "publicar": "sim"
+  },
+  {
     "id_persona": "per-jose-neto",
     "titulo": "José Alves de Souza Neto",
     "genero": "M",

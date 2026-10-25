@@ -11749,7 +11749,7 @@
     "grau": "Singular (1º grau)",
     "ramo": "Crédito",
     "resumo": "O Sicoob Sarom nasceu em 1991, em São Roque de Minas (MG), a partir de uma reunião de 27 produtores rurais, com o nome Saromcredi. Atua no Centro-Oeste, no Sul, no Alto Paranaíba e no Sudoeste de Minas e, em 2023, reunia mais de 44 mil cooperados e 23 agências. Integra o Sistema Sicoob.",
-    "descricao": "A cooperativa é associada à recuperação econômica de São Roque de Minas depois da crise local dos anos 1990. Mudou a denominação de Saromcredi para Sicoob Sarom, incorporou a Credfenas, de Alfenas, e apoiou iniciativas da comunidade, como a criação da Cooperativa Educacional Sarom.",
+    "descricao": "A cooperativa é associada à recuperação econômica de São Roque de Minas depois da crise local dos anos 1990, quando a cidade ficou sem agência bancária. Foi fundada sob a liderança de João Carlos Leite, o Joãozinho da Canastra, que a preside. Mudou a denominação de Saromcredi para Sicoob Sarom, incorporou a Credfenas, de Alfenas, e apoiou iniciativas da comunidade, como a criação da Cooperativa Educacional Sarom.",
     "situacao": "ativa",
     "ano_fundacao": 1991,
     "ano_fim": null,
@@ -11766,7 +11766,8 @@
       "sicoob",
       "minas gerais",
       "livre admissão",
-      "cooperativas-dos-alunos"
+      "cooperativas-dos-alunos",
+      "coop-aula-02"
     ],
     "referencias": [
       "ent-sicoob-confederacao"

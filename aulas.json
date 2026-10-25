@@ -11,7 +11,7 @@
         "fonte": "",
         "links": [],
         "ref_imagem": "",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyvO35Xn05b1j2Cma-CwPP8SkDdABZi7qtIHEPg69xf2MUrG12TrVcDRYUVAjKJrJqRids6RJaZUNhRtyTb-5Q1WrdcqP3pQuunaspjAXlt4J_2fwNOgn9WryqYnWxAJK1vth42X-KI-A-y_y8h4YDsbY3IC2jsHM2rxlPnIN2prAsuA/s1600/Captura%20de%20tela_18-9-2026_20579_www.ucoop.com.br.jpeg",
+        "imagem": "",
         "cor": "petroleo-escuro",
         "base": "",
         "ref_id": [],
@@ -224,7 +224,7 @@
         "fonte": "",
         "links": [],
         "ref_imagem": "",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyvO35Xn05b1j2Cma-CwPP8SkDdABZi7qtIHEPg69xf2MUrG12TrVcDRYUVAjKJrJqRids6RJaZUNhRtyTb-5Q1WrdcqP3pQuunaspjAXlt4J_2fwNOgn9WryqYnWxAJK1vth42X-KI-A-y_y8h4YDsbY3IC2jsHM2rxlPnIN2prAsuA/s1600/Captura%20de%20tela_18-9-2026_20579_www.ucoop.com.br.jpeg",
+        "imagem": "",
         "cor": "dourado",
         "base": "",
         "ref_id": [],
@@ -443,7 +443,6 @@
             "titulo": "Equiparação tributária e o declínio do ramo consumo no Brasil",
             "texto": "O ramo consumo foi historicamente um dos mais expressivos do cooperativismo brasileiro. Uma mudança na legislação tributária equiparou as cooperativas de consumo às demais empresas do setor de varejo, submetendo-as às mesmas normas de incidência dos impostos e contribuições federais aplicáveis às demais pessoas jurídicas, apesar de sua natureza associativa e sem fins lucrativos. O efeito prático foi a perda de competitividade e uma redução expressiva no número de cooperativas de consumo em atividade nas décadas seguintes.\n Esse episódio é um exemplo concreto do que a pesquisa acadêmica do professor da disciplina chama de *equiparação*: o tratamento de uma cooperativa como se fosse uma sociedade empresarial comum, desconsiderando sua natureza própria. É um dos mecanismos que, ao longo da história, dificultaram o desenvolvimento do cooperativismo no Brasil.",
             "fonte": "BRASIL. Lei nº 9.532, de 10 de dezembro de 1997, art. 69; URSINE, Ícaro Moreira. Espinhos e pedras no caminho da Política Nacional de Cooperativismo. Editora RTM, 2025.",
-            "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyvO35Xn05b1j2Cma-CwPP8SkDdABZi7qtIHEPg69xf2MUrG12TrVcDRYUVAjKJrJqRids6RJaZUNhRtyTb-5Q1WrdcqP3pQuunaspjAXlt4J_2fwNOgn9WryqYnWxAJK1vth42X-KI-A-y_y8h4YDsbY3IC2jsHM2rxlPnIN2prAsuA/s1600/Captura%20de%20tela_18-9-2026_20579_www.ucoop.com.br.jpeg",
             "tags": [
               "consumo",
               "tributação",
@@ -486,7 +485,6 @@
                 "url": "https://www.portalcoop.com.br/"
               }
             ],
-            "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyvO35Xn05b1j2Cma-CwPP8SkDdABZi7qtIHEPg69xf2MUrG12TrVcDRYUVAjKJrJqRids6RJaZUNhRtyTb-5Q1WrdcqP3pQuunaspjAXlt4J_2fwNOgn9WryqYnWxAJK1vth42X-KI-A-y_y8h4YDsbY3IC2jsHM2rxlPnIN2prAsuA/s1600/Captura%20de%20tela_18-9-2026_20579_www.ucoop.com.br.jpeg",
             "tags": [
               "consumo",
               "cooperativas"
@@ -565,17 +563,61 @@
         "publicar": "sim"
       },
       {
-        "titulo": "Programa do Cooperativismo — Episódio 2 — Tema Consumo",
+        "titulo": "IPCOM: Conceitos básicos do cooperativismo (videoaula 1)",
         "rotulo": "Vídeo",
         "links": [
           {
-            "texto": "https://www.youtube.com/watch?v=bI0jd68DxWA",
-            "url": "https://www.youtube.com/watch?v=bI0jd68DxWA"
+            "texto": "https://www.youtube.com/watch?v=S-tNuIhxGsU",
+            "url": "https://www.youtube.com/watch?v=S-tNuIhxGsU"
           }
         ],
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyvO35Xn05b1j2Cma-CwPP8SkDdABZi7qtIHEPg69xf2MUrG12TrVcDRYUVAjKJrJqRids6RJaZUNhRtyTb-5Q1WrdcqP3pQuunaspjAXlt4J_2fwNOgn9WryqYnWxAJK1vth42X-KI-A-y_y8h4YDsbY3IC2jsHM2rxlPnIN2prAsuA/s1600/Captura%20de%20tela_18-9-2026_20579_www.ucoop.com.br.jpeg",
+        "tags": [
+          "conceitos",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: História do cooperativismo (videoaula 2)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=0l3HnT22r9Y",
+            "url": "https://www.youtube.com/watch?v=0l3HnT22r9Y"
+          }
+        ],
+        "tags": [
+          "história",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e o consumidor (videoaula 12)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=BOlCrPR_5FA",
+            "url": "https://www.youtube.com/watch?v=BOlCrPR_5FA"
+          }
+        ],
         "tags": [
           "consumo",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e educação (videoaula 23)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=eecMc8hNbyI",
+            "url": "https://www.youtube.com/watch?v=eecMc8hNbyI"
+          }
+        ],
+        "tags": [
+          "educação",
           "vídeo"
         ],
         "publicar": "sim"
@@ -1111,16 +1153,64 @@
     ],
     "recursos": [
       {
-        "titulo": "OCESP: Cooperativismo de crédito",
+        "titulo": "Joãozinho da Canastra, fundador do Sicoob Sarom (Evidenciador)",
         "rotulo": "Vídeo",
         "links": [
           {
-            "texto": "https://www.youtube.com/watch?v=hO-ibE2C48w",
-            "url": "https://www.youtube.com/watch?v=hO-ibE2C48w"
+            "texto": "https://www.youtube.com/watch?v=lfTpHCOdlPA",
+            "url": "https://www.youtube.com/watch?v=lfTpHCOdlPA"
           }
         ],
         "tags": [
           "crédito",
+          "sicoob sarom",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "Joãozinho, presidente do Sicoob Sarom: Cêfragô Podcast, episódio 9",
+        "rotulo": "Podcast",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=xIukilDueBM",
+            "url": "https://www.youtube.com/watch?v=xIukilDueBM"
+          }
+        ],
+        "tags": [
+          "crédito",
+          "sicoob sarom",
+          "podcast"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Instituições financeiras (videoaula 8)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=-lHUrdzY61s",
+            "url": "https://www.youtube.com/watch?v=-lHUrdzY61s"
+          }
+        ],
+        "tags": [
+          "crédito",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Mulheres no cooperativismo (videoaula 18)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=FId5EvXDnBs",
+            "url": "https://www.youtube.com/watch?v=FId5EvXDnBs"
+          }
+        ],
+        "tags": [
+          "igualdade",
+          "mulheres",
           "vídeo"
         ],
         "publicar": "sim"
@@ -1633,22 +1723,7 @@
     ],
     "recursos": [
       {
-        "titulo": "OCESP: Cooperativismo de infraestrutura",
-        "rotulo": "Vídeo",
-        "links": [
-          {
-            "texto": "https://www.youtube.com/watch?v=4aUN6qE5cgE",
-            "url": "https://www.youtube.com/watch?v=4aUN6qE5cgE"
-          }
-        ],
-        "tags": [
-          "infraestrutura",
-          "vídeo"
-        ],
-        "publicar": "sim"
-      },
-      {
-        "titulo": "OCESP: Cooperativismo de infraestrutura (parte 2)",
+        "titulo": "Programa do Cooperativismo, episódio 5: habitacional",
         "rotulo": "Vídeo",
         "links": [
           {
@@ -1674,6 +1749,112 @@
         "tags": [
           "infraestrutura",
           "site"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "Sistema Ocesp: como funciona o estatuto social",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=f0TqXTZFd8I",
+            "url": "https://www.youtube.com/watch?v=f0TqXTZFd8I"
+          }
+        ],
+        "tags": [
+          "estatuto social",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "Sistema Ocesp: órgãos de administração",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=4gyzoZ9AsOQ",
+            "url": "https://www.youtube.com/watch?v=4gyzoZ9AsOQ"
+          }
+        ],
+        "tags": [
+          "administração",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "Sistema Ocesp: conselho fiscal",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=XeOmgjoKrjU",
+            "url": "https://www.youtube.com/watch?v=XeOmgjoKrjU"
+          }
+        ],
+        "tags": [
+          "conselho fiscal",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "Sistema Ocesp: como organizar uma AGO",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=au8nhuAVdSY",
+            "url": "https://www.youtube.com/watch?v=au8nhuAVdSY"
+          }
+        ],
+        "tags": [
+          "assembleia geral",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e democracia (videoaula 3)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=zpoTOj5DhxQ",
+            "url": "https://www.youtube.com/watch?v=zpoTOj5DhxQ"
+          }
+        ],
+        "tags": [
+          "democracia",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e energia (videoaula 15)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=aoxWpoRO0e4",
+            "url": "https://www.youtube.com/watch?v=aoxWpoRO0e4"
+          }
+        ],
+        "tags": [
+          "infraestrutura",
+          "energia",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "Sistema OCB: documentário Pioneiros do Cooperativismo",
+        "rotulo": "Documentário",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=DLRhbmdy_g0",
+            "url": "https://www.youtube.com/watch?v=DLRhbmdy_g0"
+          }
+        ],
+        "tags": [
+          "história do cooperativismo no brasil",
+          "documentário"
         ],
         "publicar": "sim"
       }
@@ -2228,16 +2409,77 @@
     ],
     "recursos": [
       {
-        "titulo": "OCESP: Cooperativismo agropecuário",
+        "titulo": "Programa do Cooperativismo, episódio 8: produção",
         "rotulo": "Vídeo",
         "links": [
           {
-            "texto": "https://www.youtube.com/watch?v=-tqNS3J0FB8",
-            "url": "https://www.youtube.com/watch?v=-tqNS3J0FB8"
+            "texto": "https://www.youtube.com/watch?v=0mnrIhaVUaY",
+            "url": "https://www.youtube.com/watch?v=0mnrIhaVUaY"
           }
         ],
         "tags": [
           "agropecuário",
+          "produção",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo no setor agropecuário (videoaula 14)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=mCiKlEGUYJc",
+            "url": "https://www.youtube.com/watch?v=mCiKlEGUYJc"
+          }
+        ],
+        "tags": [
+          "agropecuário",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "Sistema Ocesp: contabilidade cooperativa",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=Wwv7UGPbglA",
+            "url": "https://www.youtube.com/watch?v=Wwv7UGPbglA"
+          }
+        ],
+        "tags": [
+          "contabilidade",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Contabilidade no cooperativismo (videoaula 19)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=1R-yuSLrUt4",
+            "url": "https://www.youtube.com/watch?v=1R-yuSLrUt4"
+          }
+        ],
+        "tags": [
+          "contabilidade",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e a geração e distribuição de renda (videoaula 9)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=TJQKwJxmPMs",
+            "url": "https://www.youtube.com/watch?v=TJQKwJxmPMs"
+          }
+        ],
+        "tags": [
+          "renda",
           "vídeo"
         ],
         "publicar": "sim"
@@ -2763,6 +3005,21 @@
           "cooperativas"
         ],
         "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo na área da saúde (videoaula 13)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=VuUYjn8FuJE",
+            "url": "https://www.youtube.com/watch?v=VuUYjn8FuJE"
+          }
+        ],
+        "tags": [
+          "saúde",
+          "vídeo"
+        ],
+        "publicar": "sim"
       }
     ],
     "titulo": "Cooperativismo",
@@ -3225,6 +3482,36 @@
           "relatório"
         ],
         "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e inovação (videoaula 20)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=YCwNrM42yc8",
+            "url": "https://www.youtube.com/watch?v=YCwNrM42yc8"
+          }
+        ],
+        "tags": [
+          "inovação",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: O futuro do cooperativismo (videoaula 25)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=nzDinIz-JFQ",
+            "url": "https://www.youtube.com/watch?v=nzDinIz-JFQ"
+          }
+        ],
+        "tags": [
+          "futuro",
+          "vídeo"
+        ],
+        "publicar": "sim"
       }
     ],
     "titulo": "Cooperativismo",
@@ -3683,7 +3970,83 @@
         ]
       }
     ],
-    "recursos": [],
+    "recursos": [
+      {
+        "titulo": "IPCOM: Cooperativismo no transporte e logística (videoaula 16)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=n_3e8Xkd3iI",
+            "url": "https://www.youtube.com/watch?v=n_3e8Xkd3iI"
+          }
+        ],
+        "tags": [
+          "transporte",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e comunidade (videoaula 24)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=v3y3903UmpE",
+            "url": "https://www.youtube.com/watch?v=v3y3903UmpE"
+          }
+        ],
+        "tags": [
+          "comunidade",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e economia sustentável (videoaula 10)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=_8tNJjHmw1M",
+            "url": "https://www.youtube.com/watch?v=_8tNJjHmw1M"
+          }
+        ],
+        "tags": [
+          "sustentabilidade",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e o meio ambiente (videoaula 11)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=NU5072EFfLU",
+            "url": "https://www.youtube.com/watch?v=NU5072EFfLU"
+          }
+        ],
+        "tags": [
+          "meio ambiente",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e empreendedorismo (videoaula 7)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=PMp9zmsrWCY",
+            "url": "https://www.youtube.com/watch?v=PMp9zmsrWCY"
+          }
+        ],
+        "tags": [
+          "empreendedorismo",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      }
+    ],
     "titulo": "Cooperativismo",
     "rotulo": "",
     "complemento": "Aula 7",
@@ -4143,6 +4506,82 @@
         "tags": [
           "pnc",
           "livro"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Legislação e constituição de cooperativas (videoaula 17)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=KaDhAiuo4L8",
+            "url": "https://www.youtube.com/watch?v=KaDhAiuo4L8"
+          }
+        ],
+        "tags": [
+          "legislação",
+          "pnc",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: O cooperativismo e a minha profissão (videoaula 6)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=YmFDF81BKQ4",
+            "url": "https://www.youtube.com/watch?v=YmFDF81BKQ4"
+          }
+        ],
+        "tags": [
+          "trabalho",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e liderança (videoaula 21)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=IholT_Jfh2o",
+            "url": "https://www.youtube.com/watch?v=IholT_Jfh2o"
+          }
+        ],
+        "tags": [
+          "liderança",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Cooperativismo e os jovens (videoaula 5)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=AiJN09UhR4k",
+            "url": "https://www.youtube.com/watch?v=AiJN09UhR4k"
+          }
+        ],
+        "tags": [
+          "juventude",
+          "vídeo"
+        ],
+        "publicar": "sim"
+      },
+      {
+        "titulo": "IPCOM: Ramos do cooperativismo (videoaula 4)",
+        "rotulo": "Vídeo",
+        "links": [
+          {
+            "texto": "https://www.youtube.com/watch?v=oNyDMnUNnaE",
+            "url": "https://www.youtube.com/watch?v=oNyDMnUNnaE"
+          }
+        ],
+        "tags": [
+          "ramos",
+          "vídeo"
         ],
         "publicar": "sim"
       }
