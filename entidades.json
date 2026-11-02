@@ -44,7 +44,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Achmea_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Achmea_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-aci",
@@ -100,7 +101,8 @@
     "ref_imagem": "https://ica.coop/en",
     "imagem": "https://ica.coop/themes/custom/ica_main/images/png-logo-en.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-acucar-uniao",
@@ -147,7 +149,8 @@
     "ref_imagem": "https://www.uniao.com.br",
     "imagem": "https://uniao.com.br/public/_assets/images/uniao.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: desmutualizada (hoje empresa, não cooperativa)"
   },
   {
     "id_entidade": "ent-alegra",
@@ -197,7 +200,8 @@
     "ref_imagem": "https://www.alegrafoods.com.br",
     "imagem": "https://alegrafoods.com.br/wp-content/themes/alegra2/_assets/imagens/logo-alegra.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca da Aurora Coop (ver linha própria)"
   },
   {
     "id_entidade": "ent-amul",
@@ -245,7 +249,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Amul_official_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Amul_official_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-ancosol",
@@ -284,7 +289,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Entidade de representação)"
   },
   {
     "id_entidade": "ent-andel",
@@ -329,7 +335,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Andel_Energi_logo_2024.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Andel_Energi_logo_2024.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-aneel",
@@ -379,7 +386,8 @@
     "ref_imagem": "Wikipedia - Aneel - Gov.br/aneel",
     "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA1OQhqc_z8kIQqr2v9jXEEMJqfVwUHseNqf682dx1g9vFAlPP19e4tvdGyLRiXn6PRNBV-Xfc6m1vIHVGptGBv4v1q39U8Rht3QO_YP4NCS33IE5hQ3EQllZPOAMMNGKyKXY-Zj3YcpNVLEm0ePexwAFqdrPuulUAn06Z2GyzfNiqlLB9RBKAHbYVpkg/s2560/Aneel.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Agência reguladora)"
   },
   {
     "id_entidade": "ent-ans",
@@ -426,7 +434,8 @@
     "ref_imagem": "https://www.gov.br/ans",
     "imagem": "https://www.gov.br/ans/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Agência reguladora)"
   },
   {
     "id_entidade": "ent-anteag1990",
@@ -473,7 +482,8 @@
     "ref_imagem": "https://revistaforum.com.br/revista-forum/os-donos-sao-os-trabalhadores/",
     "imagem": "https://revistaforum.com.br/wp-content/uploads/2001/08/Textos_edicao_001_img08_e2b468dde4c8-scaled.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Associação)"
   },
   {
     "id_entidade": "ent-antt",
@@ -516,7 +526,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logo_ANTT.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Logo_ANTT.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Agência reguladora)"
   },
   {
     "id_entidade": "ent-arla",
@@ -562,7 +573,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/File:Arla_Foods_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/en/8/8c/Arla_Foods_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-asmare",
@@ -601,7 +613,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não se aplica: não é cooperativa (Associação de catadores)"
   },
   {
     "id_entidade": "ent-raiffeisen",
@@ -648,7 +661,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:FW_Raiffeisen.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/FW_Raiffeisen.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-aurora",
@@ -697,7 +711,8 @@
     "ref_imagem": "https://www.auroraalimentos.com.br/",
     "imagem": "https://www.auroraalimentos.com.br/wp-content/uploads/2022/04/logo-aurora.svg",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-banca-popolare-milano",
@@ -737,7 +752,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Banca_Popolare_di_Milano_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Banca_Popolare_di_Milano_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-bacen",
@@ -788,7 +804,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logotipo_do_Banco_Central_do_Brasil.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Logotipo_do_Banco_Central_do_Brasil.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Órgão regulador)"
   },
   {
     "id_entidade": "ent-bansicredi",
@@ -831,7 +848,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logotipo_do_Sicredi_%282016%29.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_do_Sicredi_%282016%29.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Banco cooperativo (S.A.))"
   },
   {
     "id_entidade": "ent-credicoop",
@@ -877,7 +895,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/Banco_Credicoop",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_Banco_Credicoop.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-banco-sicoob",
@@ -922,7 +941,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logotipo_do_Sicoob.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Logotipo_do_Sicoob.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Banco cooperativo (S.A.))"
   },
   {
     "id_entidade": "ent-bancoop",
@@ -965,7 +985,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-batavo",
@@ -1015,7 +1036,8 @@
     "ref_imagem": "https://www.batavo.com.br",
     "imagem": "https://www.batavo.com.br/wp-content/themes/batavo/resources/images/footer-section-batavo-full-logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca desmutualizada"
   },
   {
     "id_entidade": "ent-bncc",
@@ -1064,7 +1086,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Órgão público (histórico))"
   },
   {
     "id_entidade": "ent-bulbe",
@@ -1112,7 +1135,8 @@
     "ref_imagem": "https://bulbeenergia.com.br",
     "imagem": "https://publicfiles-strapi.bulbeenergia.com.br/logo_bulbe_default_d1fc6bddf9.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cvale",
@@ -1162,7 +1186,8 @@
     "ref_imagem": "https://pt.wikipedia.org/wiki/C._Vale_Cooperativa_Agroindustrial",
     "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/ee/C._Vale_logo.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cade",
@@ -1207,7 +1232,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Cade-logo-e1630448505761.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cade-logo-e1630448505761.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Autarquia)"
   },
   {
     "id_entidade": "ent-cafes-cooxupe",
@@ -1252,7 +1278,8 @@
     "ref_imagem": "http://www.cafescooxupe.com.br",
     "imagem": "https://www.cafescooxupe.com.br/sfsites/c/cms/delivery/media/MCO6LOR5JRU5H6BB5SKL52CGAAFE",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca da Cooxupé (ver linha própria)"
   },
   {
     "id_entidade": "ent-caixa-lajeado",
@@ -1300,7 +1327,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-capal",
@@ -1347,7 +1375,8 @@
     "ref_imagem": "https://www.linkedin.com/company/capal-cooperativa-agroindustrial/home/",
     "imagem": "https://media.licdn.com/dms/image/v2/C4E0BAQGiDgz8clRibw/company-logo_400_400/company-logo_400_400/0/1630614796134?e=1792627200&v=beta&t=88shnq_fM7w8QpOpV6sb7HmJoEM4o5Lmw7NHq0r_DCA",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.capal.coop.br/pdf/publicacao-2025-06-03-13-48-53.pdf"
   },
   {
     "id_entidade": "ent-cases",
@@ -1391,7 +1420,8 @@
     "ref_imagem": "https://www.cases.pt",
     "imagem": "https://cases.pt/wp-content/uploads/LogoCASES.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-castrolanda",
@@ -1440,7 +1470,8 @@
     "ref_imagem": "https://www.castrolanda.coop.br/",
     "imagem": "https://www.castrolanda.coop.br/media/site-castrolanda/uploads/footer_logo_castrolanda_eda68e6e64.png?token=lzzfE3UmjtmobnS85C6fT-v-__aljkrQlExfZ0Nlr2s",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-ccgl",
@@ -1487,7 +1518,8 @@
     "ref_imagem": "https://www.ccgl.com.br",
     "imagem": "https://site.ccgl.com.br/assets/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-ccpr",
@@ -1534,7 +1566,8 @@
     "ref_imagem": "https://www.ccpr.coop.br/",
     "imagem": "https://www.ccpr.coop.br/wp-content/uploads/2026/03/LOGO-CCPR.svg",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-ccu-bulgaria",
@@ -1579,7 +1612,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-ceco",
@@ -1627,7 +1661,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Conselho consultivo (órgão da OCB, sem personalidade jurídica))"
   },
   {
     "id_entidade": "ent-cegero",
@@ -1673,7 +1708,8 @@
     "ref_imagem": "https://www.cegero.coop.br/cooperativa/historia",
     "imagem": "https://www.cegero.coop.br/img/layout/logo.svg",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.cegero.coop.br/files/estatuto/estatuto_2.pdf"
   },
   {
     "id_entidade": "ent-central-nacional-unimed",
@@ -1719,7 +1755,8 @@
     "ref_imagem": "https://unimedcnu.coop.br/",
     "imagem": "https://unimedcnu.coop.br/image/layout_set_logo?img_id=4972206",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://unimedcnu.coop.br/documents/d/guest/estatuto-social-unimed-nacional-cooperativa-central-29-03-2023"
   },
   {
     "id_entidade": "ent-central-sicredi-sul-sudeste",
@@ -1764,7 +1801,8 @@
     "ref_imagem": "https://www.sicredi.com.br/site/sobre-nos/",
     "imagem": "https://www.sicredi.com.br/site/static/assets/header/logo-svg2.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-centrosoyuz",
@@ -1810,7 +1848,8 @@
     "ref_imagem": "https://www.rus.coop",
     "imagem": "https://rus.coop/local/templates/.default/markup/assets/header/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-ceral-anitapolis",
@@ -1855,7 +1894,8 @@
     "ref_imagem": "https://ceralanitapolis.com.br/",
     "imagem": "https://ceralanitapolis.com.br/images/logo.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://ceralanitapolis.com.br/uploads/b7a1f3f18bf6195d0361854519131619.pdf"
   },
   {
     "id_entidade": "ent-cerbranorte",
@@ -1900,7 +1940,8 @@
     "ref_imagem": "https://www.cerbranorte.com.br",
     "imagem": "https://cerbranorte.com.br/wp-content/uploads/logo-cerbra-rodape-scaled.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://cerbranorte.com.br/wp-content/uploads/Estatuto-Distribuicao-04122024-Registrado.pdf"
   },
   {
     "id_entidade": "ent-cerej",
@@ -1945,7 +1986,8 @@
     "ref_imagem": "https://cerej.com.br/",
     "imagem": "https://cerej.com.br/wp-content/uploads/2022/03/cropped-Cerej-colorido-200x63.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cergral",
@@ -1990,7 +2032,8 @@
     "ref_imagem": "https://www.cergral.com.br/",
     "imagem": "https://cergral.com.br/images/logo/logoCergral.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://cergral.com.br/legislacao"
   },
   {
     "id_entidade": "ent-ceriluz",
@@ -2039,7 +2082,8 @@
     "ref_imagem": "https://www.ceriluz.com.br",
     "imagem": "https://www.ceriluz.com.br/images/demo/logo/Vertical-Branco.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cerim",
@@ -2086,7 +2130,8 @@
     "ref_imagem": "https://www.cerim.com.br",
     "imagem": "https://www.cerim.com.br/images/logo/logocoorsel.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.cerim.com.br/uploads/ed8ff907ccf13fa2e60149c5c45065dbORIGINAL.pdf"
   },
   {
     "id_entidade": "ent-ceripa",
@@ -2133,7 +2178,8 @@
     "ref_imagem": "https://www.ceripa.com.br",
     "imagem": "https://www.ceripa.com.br/img/logo-ceripa.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cermissoes",
@@ -2181,7 +2227,8 @@
     "ref_imagem": "https://www.cermissoes.com.br",
     "imagem": "https://www.cermissoes.com.br/wp-content/uploads/2025/02/logo-1.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cermoful",
@@ -2226,7 +2273,8 @@
     "ref_imagem": "https://www.cermoful.coop.br/",
     "imagem": "https://www.cermoful.coop.br/img/layout/logo.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.cermoful.coop.br/media/files/ESTATUTO_SOCIAL_CERMOFUL_2022_JUCESC.pdf"
   },
   {
     "id_entidade": "ent-cerpro",
@@ -2272,7 +2320,8 @@
     "ref_imagem": "https://www.cerpro.com.br",
     "imagem": "https://www.cerpro.com.br/assets/images/Group 53.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cerrp",
@@ -2316,7 +2365,8 @@
     "ref_imagem": "https://www.cerrp.com.br/",
     "imagem": "https://static.wixstatic.com/media/fe6675_0d96c7b3b5aa4231ae920a01e816b257~mv2.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cersul",
@@ -2363,7 +2413,8 @@
     "ref_imagem": "https://www.cersul.com.br",
     "imagem": "https://www.cersul.com.br/a4c48fe4/assets/img/logo/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-certel",
@@ -2410,7 +2461,8 @@
     "ref_imagem": "https://www.certel.com.br/",
     "imagem": "https://www.certel.com.br/Assets/img/logo.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.certel.com.br/_uploads/1464f686-7a42-4b45-9a50-0400713ef8a1.pdf"
   },
   {
     "id_entidade": "ent-chs",
@@ -2455,7 +2507,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:CHS_Inc._logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/CHS_Inc._logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-cicopa",
@@ -2502,7 +2555,8 @@
     "ref_imagem": "https://www.cicopa.coop/about/",
     "imagem": "https://www.cicopa.coop/wp-content/uploads/2018/02/LOGO-CICOPA-MAIN.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-cncoop",
@@ -2548,7 +2602,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Confederação sindical patronal)"
   },
   {
     "id_entidade": "ent-cntcoop",
@@ -2587,7 +2642,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coop-bank-kenya",
@@ -2635,7 +2691,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/Co-operative_Bank_of_Kenya",
     "imagem": "https://en.wikipedia.org/wiki/Special:FilePath/Coopbanklogo.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-co-operative-union-uk",
@@ -2684,7 +2741,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Holyoake_House%2C_Manchester.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Holyoake_House%2C_Manchester.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-cuc",
@@ -2730,7 +2788,8 @@
     "ref_imagem": "https://canada.coop",
     "imagem": "https://canada.coop/wp-content/uploads/RGB_CANADA.COOP_logo_BIG-1-980x774.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-cws",
@@ -2773,7 +2832,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:1950s_Co-operative_Wholesale_Society_(CWS)_Wheatsheaf_logo_(12541910303).jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/1950s_Co-operative_Wholesale_Society_%28CWS%29_Wheatsheaf_logo_%2812541910303%29.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-coamo",
@@ -2820,7 +2880,8 @@
     "ref_imagem": "https://pt.wikipedia.org/wiki/File:Logo_da_Coamo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/50/Logo_da_Coamo.svg",
     "evidenciar": true,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coasul",
@@ -2866,7 +2927,8 @@
     "ref_imagem": "https://www.coasul.com.br/sobre",
     "imagem": "https://www.coasul.com.br/img/logo.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cocamar",
@@ -2912,7 +2974,8 @@
     "ref_imagem": "https://pt.wikipedia.org/wiki/Cocamar",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Cocamar_logo.jpg",
     "evidenciar": true,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://cocamar.com.br/extranet/uploads/Download/estatuto_social_ilustrado_1686857696918.pdf"
   },
   {
     "id_entidade": "ent-cocatrel",
@@ -2955,7 +3018,8 @@
     "ref_imagem": "https://www.cocatrel.com.br/",
     "imagem": "https://www.cocatrel.com.br/assets/img/logo.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cocel",
@@ -3002,7 +3066,8 @@
     "ref_imagem": "https://www.cocel.com.br",
     "imagem": "https://www.cocel.com.br/wp-content/uploads/2026/05/logo-cocel-medium.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Distribuidora de energia (economia mista))"
   },
   {
     "id_entidade": "ent-Codepa",
@@ -3048,7 +3113,8 @@
     "ref_imagem": "https://www.codepa.com.br/",
     "imagem": "https://www.codepa.com.br/img/logo-nova.webp",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-colonia-cecilia",
@@ -3090,7 +3156,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Casa_memorial_Col%C3%B4nia_Cec%C3%ADlia01.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Casa_memorial_Col%C3%B4nia_Cec%C3%ADlia01.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Colônia anarquista)"
   },
   {
     "id_entidade": "ent-colonia-holandesa",
@@ -3140,7 +3207,8 @@
     "ref_imagem": "https://www.coloniaholandesa.com.br",
     "imagem": "https://www.coloniaholandesa.com.br/img/logo-colonia.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca Unium"
   },
   {
     "id_entidade": "ent-colonia-tereza-cristina",
@@ -3181,7 +3249,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Colônia em bases cooperativas)"
   },
   {
     "id_entidade": "ent-comigo",
@@ -3231,7 +3300,8 @@
     "ref_imagem": "https://comigo.coop.br/",
     "imagem": "https://comigo.coop.br/wp-content/uploads/2022/05/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-rio-dos-cedros",
@@ -3267,7 +3337,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-conad",
@@ -3314,7 +3385,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/Conad",
     "imagem": "https://en.wikipedia.org/wiki/Special:FilePath/Italian_Conad_Logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-concrab",
@@ -3357,7 +3429,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-confebras",
@@ -3402,7 +3475,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-confecoop",
@@ -3448,7 +3522,8 @@
     "ref_imagem": "https://confecoop.coop/",
     "imagem": "https://confecoop.coop/wp-content/uploads/2026/06/confecoop-logo-1cr-1.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-sicredi-confederacao",
@@ -3495,7 +3570,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logotipo_do_Sicredi_%282016%29.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_do_Sicredi_%282016%29.svg",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cmn",
@@ -3544,7 +3620,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Órgão normativo)"
   },
   {
     "id_entidade": "ent-cnc",
@@ -3587,7 +3664,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Órgão público (histórico))"
   },
   {
     "id_entidade": "ent-consul",
@@ -3632,7 +3710,8 @@
     "ref_imagem": "https://www.consul.coop.br/",
     "imagem": "https://www.consul.coop.br/wp-content/uploads/2021/04/logo-consul-simplificada.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coocafe",
@@ -3669,7 +3748,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coodetec",
@@ -3710,7 +3790,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cooliba",
@@ -3755,7 +3836,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coop-consumo",
@@ -3800,7 +3882,8 @@
     "ref_imagem": "https://br.linkedin.com/company/portalcoop",
     "imagem": "https://media.licdn.com/dms/image/v2/D4D0BAQH2g7kqT8SjGQ/company-logo_400_400/B4DaD7.ENYKgAU-/0/1790933746898?e=1792627200&v=beta&t=2hyU1BN6628T20k4VapOHCznP4zXhpbFkUTUNEGv67w",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coop-suica",
@@ -3848,7 +3931,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/Coop_(Switzerland)",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Coop.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-coop-italia",
@@ -3899,7 +3983,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Coop_Italia_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Coop_Italia_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-coopavel",
@@ -3947,7 +4032,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logotipo_da_Coopavel.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Logotipo_da_Coopavel.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://integridade.coopavel.com.br/adm/arquivos/80a275ddbee534a4113d6ae14197edca.pdf"
   },
   {
     "id_entidade": "ent-cooper-blumenau",
@@ -3991,7 +4077,8 @@
     "ref_imagem": "https://www.cooper.coop.br/a-cooper/nossa-cooperativa",
     "imagem": "https://www.cooper.coop.br/image/logo-cooper.png?a1",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coopera",
@@ -4036,7 +4123,8 @@
     "ref_imagem": "https://www.coopera.com.br",
     "imagem": "https://files.caymanweb.com.br/60567bb90d52505f5fb243d09280d343/64c8c4c8aa60399f20418a3c7e315158/coopera-logo-horz-1cor-3.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://files.bewezy.com/60567bb90d52505f5fb243d09280d343/19405bcb8f84d6687d1167f037921418/estatuto-social-coopera-d.pdf"
   },
   {
     "id_entidade": "ent-cooperalfa",
@@ -4081,7 +4169,8 @@
     "ref_imagem": "https://www.cooperalfa.com.br/a-cooperalfa",
     "imagem": "https://www.cooperalfa.com.br/img/logo.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.cooperalfa.com.br/storage/images/iLZ85bHWxkYWUYvHOcnA2Iz8cS41AlGcnjujuHm0.pdf"
   },
   {
     "id_entidade": "ent-cooperalianca",
@@ -4128,7 +4217,8 @@
     "ref_imagem": "https://www.cooperalianca.com.br",
     "imagem": "https://www.cooperalianca.com.br/assets/uploads/templates/1/images/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.cooperalianca.com.br/informacoes-tecnicas/estatuto"
   },
   {
     "id_entidade": "ent-agraria",
@@ -4174,7 +4264,8 @@
     "ref_imagem": "https://www.agraria.com.br/",
     "imagem": "https://www.agraria.com.br/img/logo-agraria.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cotia",
@@ -4217,7 +4308,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-casb",
@@ -4257,7 +4349,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coop-camaragibe",
@@ -4294,7 +4387,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-schulze-delitzsch",
@@ -4333,7 +4427,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Die_Gartenlaube_%281863%29_b_517.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Die_Gartenlaube_%281863%29_b_517.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-coop-limeira",
@@ -4372,7 +4467,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coop-cia-paulista",
@@ -4410,7 +4506,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coop-ouro-preto",
@@ -4451,7 +4548,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coop-militar",
@@ -4487,7 +4585,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-pia",
@@ -4531,7 +4630,8 @@
     "ref_imagem": "https://globorural.globo.com/cooperativas/noticia/2026/08/cooperativa-pia-suspende-producao-de-laticinios-no-rio-grande-do-sul.ghtml",
     "imagem": "https://s2-globorural.glbimg.com/stIT-ilmesx9dBXwObbJLxLy_08=/0x0:1600x898/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_afe5c125c3bb42f0b5ae633b58923923/internal_photos/bs/2026/A/d/z29FXrSMGFPq5eYAVXAw/cooperativa-pia-divulgacao.jpeg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cooperativas-americas",
@@ -4578,7 +4678,8 @@
     "ref_imagem": "https://aciamericas.coop/en/",
     "imagem": "https://aciamericas.coop/wp-content/uploads/2022/05/logo_coopamericas_es-112x84.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-coopergatos",
@@ -4616,7 +4717,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Fenômeno)"
   },
   {
     "id_entidade": "ent-systeme-u",
@@ -4662,7 +4764,8 @@
     "ref_imagem": "https://www.magasins-u.com",
     "imagem": "https://www.magasins-u.com/assets-u/dam/logo-u.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-cooperatives-europe",
@@ -4707,7 +4810,8 @@
     "ref_imagem": "https://coopseurope.coop/",
     "imagem": "https://coopseurope.coop/wp-content/uploads/2026/07/Logo-standard-for-web.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-coopercampos",
@@ -4751,7 +4855,8 @@
     "ref_imagem": "https://www.copercampos.com.br/",
     "imagem": "https://www.copercampos.com.br/img/logo-menu.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coopercarga",
@@ -4794,7 +4899,8 @@
     "ref_imagem": "https://www.coopercarga.com.br/",
     "imagem": "https://www.coopercarga.com.br/logo/logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado (o site só traz o estatuto da Coopercarga S.A., de 2020)"
   },
   {
     "id_entidade": "ent-coopercitrus",
@@ -4840,7 +4946,8 @@
     "ref_imagem": "https://coopercitrus.com.br/",
     "imagem": "https://coopercitrus.com.br/wp-content/themes/coopercitrus/assets/images/coopercitrus-logo-branco-1.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://coopercitrus.com.br/wp-content/uploads/2024/05/00.-Estatuto-Social-2024.pdf"
   },
   {
     "id_entidade": "ent-coopercocal",
@@ -4888,7 +4995,8 @@
     "ref_imagem": "https://www.coopercocal.com.br",
     "imagem": "https://coopercocal.com.br/upload/logo/logo-vertical.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://coopercocal.com.br//upload/pagina/estatuto-2019-compactado.pdf"
   },
   {
     "id_entidade": "ent-coopercuc",
@@ -4935,7 +5043,8 @@
     "ref_imagem": "https://coopercuc.com.br/",
     "imagem": "https://coopercuc.com.br/wp-content/uploads/elementor/thumbs/Logo-site-pkv4cao85qrs3wchuevpadgfyw7fkq9u52170520ts.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cooperforte",
@@ -4977,7 +5086,8 @@
     "ref_imagem": "https://www.cf.coop.br/",
     "imagem": "https://www.cf.coop.br/wp-content/uploads/2026/08/cropped-logo-cooperforte-1.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://banricoop.elejaonline.com/arquivos/536_Estatuto%20Social%20consolidado%20da%20COOPERFORTE%20-%20%20AGE%20Conjunta%2018.12.2025.pdf"
   },
   {
     "id_entidade": "ent-cooperluz",
@@ -5025,7 +5135,8 @@
     "ref_imagem": "https://www.cooperluz.com.br",
     "imagem": "https://www.cooperluz.com.br/wp-content/uploads/2024/11/logo-cooperluz.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cooperminas",
@@ -5070,7 +5181,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coopersystem",
@@ -5111,7 +5223,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coopertaxi-sp",
@@ -5152,7 +5265,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coopertral",
@@ -5190,7 +5304,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cooperzem",
@@ -5235,7 +5350,8 @@
     "ref_imagem": "https://cooperzem.com.br/",
     "imagem": "https://cooperzem.com.br/images/logo.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://cooperzem.com.br/uploads/47092cbfbf179a6b5c80d147dc05bcc0.pdf"
   },
   {
     "id_entidade": "ent-coopsi",
@@ -5280,7 +5396,8 @@
     "ref_imagem": "https://coopsi.coop.br/",
     "imagem": "https://coopsi.coop.br/wp-content/uploads/2023/11/Design_sem_nome__4_-removebg-preview-768x188.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cootaerj",
@@ -5316,7 +5433,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cooxupe",
@@ -5361,7 +5479,8 @@
     "ref_imagem": "https://www.cooxupe.com.br/quem-somos/",
     "imagem": "https://www.cooxupe.com.br/wp-content/uploads/2018/08/logo-cooxupe.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.cooxupe.com.br/wp-content/uploads/2026/03/Estatuto-Social.pdf"
   },
   {
     "id_entidade": "ent-copac",
@@ -5408,7 +5527,8 @@
     "ref_imagem": "https://www.copac.coop",
     "imagem": "https://www.copac.coop/wp-content/uploads/2015/05/COPACcoop.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-copacol",
@@ -5456,7 +5576,8 @@
     "ref_imagem": "https://www.copacol.com.br/copacol",
     "imagem": "https://www.copacol.com.br/imgs/logo-branca.png",
     "evidenciar": true,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-marca-copacol",
@@ -5504,7 +5625,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logo_da_Copacol.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_da_Copacol.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca da Copacol (ver linha própria)"
   },
   {
     "id_entidade": "ent-copagril",
@@ -5550,7 +5672,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-copersucar",
@@ -5597,7 +5720,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logotipo_da_Copersucar_%282024%29.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logotipo_da_Copersucar_%282024%29.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não se aplica: ex-cooperativa (hoje S.A.)"
   },
   {
     "id_entidade": "ent-coplacana",
@@ -5638,7 +5762,8 @@
     "ref_imagem": "https://www.coplacana.com.br/",
     "imagem": "https://www.coplacana.com.br/wp-content/uploads/2024/02/logo-150.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://revistadigitalcoplacana.com.br/wp-content/uploads/2024/01/Novembro_EstatutoSocial_AGE2023.pdf"
   },
   {
     "id_entidade": "ent-coprel",
@@ -5688,7 +5813,8 @@
     "ref_imagem": "https://www.coprel.com.br",
     "imagem": "https://www.coprel.com.br/Assets/css/logotipia/logo-coprel.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cotriguaçu",
@@ -5740,7 +5866,8 @@
     "ref_imagem": "https://cotriguacu.com.br/institucional/",
     "imagem": "https://cotriguacu.com.br/wp-content/uploads/2025/10/logo-coop.png.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cotrijal",
@@ -5784,7 +5911,8 @@
     "ref_imagem": "https://www.cotrijal.com.br/sobre",
     "imagem": "https://www.cotrijal.com.br/src/img/Logo-Cotrijal-Branco.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cotrijui",
@@ -5824,7 +5952,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-credicoamo",
@@ -5868,7 +5997,8 @@
     "ref_imagem": "https://www.credicoamo.com.br/",
     "imagem": "https://www.credicoamo.com.br/admin/script/uploads/1672518141_1637949412_MicrosoftTeams-image.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://credicoamo.com.br/admin/script/uploads/1715603808_EstatutoSocial-Credicoamo.pdf"
   },
   {
     "id_entidade": "ent-credisan",
@@ -5915,7 +6045,8 @@
     "ref_imagem": "https://www.credisan.coop.br/sua-cooperativa/a-cooperativa",
     "imagem": "https://www.credisan.coop.br/wp-content/uploads/2026/03/WEB_Evolucao_Marca-Credisan_700x240px_-01.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.credisan.coop.br/wp-content/uploads/2026/05/CREDISAN-Estatuto-Social-1-otimizado.pdf"
   },
   {
     "id_entidade": "ent-credisis",
@@ -5957,7 +6088,8 @@
     "ref_imagem": "https://www.credisis.com.br",
     "imagem": "https://credisis.com.br/wp-content/uploads/2023/10/header-logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://credisis.com.br/wp-content/uploads/2026/07/Estatuto-Social-CrediSIS-Central-23.03.2026.1.pdf"
   },
   {
     "id_entidade": "ent-credisis-credibras",
@@ -6002,7 +6134,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-credit-agricole",
@@ -6048,7 +6181,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Cr%C3%A9dit_Agricole_2020_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Cr%C3%A9dit_Agricole_2020_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-creditag",
@@ -6089,7 +6223,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-creluz",
@@ -6137,7 +6272,8 @@
     "ref_imagem": "https://creluz.com.br/distribuicao/nossa-historia",
     "imagem": "https://creluz.com.br/static/images/site/creluz/creluz-primario.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://creluz.com.br/distribuicao/estatuto-social"
   },
   {
     "id_entidade": "ent-cresol",
@@ -6181,7 +6317,8 @@
     "ref_imagem": "https://www.cresol.com.br/institucional/",
     "imagem": "https://cresol.com.br/wp-content/uploads/2022/04/Logo-horizontal-branco.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cresol-central-sc-rs",
@@ -6224,7 +6361,8 @@
     "ref_imagem": "https://www.cresol.com.br",
     "imagem": "https://cresol.com.br/wp-content/uploads/2022/04/Logo-horizontal-branco.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-cresol-excelencia",
@@ -6268,7 +6406,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-dfa",
@@ -6312,7 +6451,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Dairy_Farmers_of_America_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dairy_Farmers_of_America_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-dalia",
@@ -6355,7 +6495,8 @@
     "ref_imagem": "https://dalia.com.br/parque-dalia/",
     "imagem": "https://dalia.com.br/wp-content/uploads/memorial.jpg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-datev",
@@ -6401,7 +6542,8 @@
     "ref_imagem": "https://www.datev.de/",
     "imagem": "https://www.datev.de/content/dam/markenassets/themen-und-produktgruppen/jubiläum-60-jahre-datev/signet-und-key-visual/1-signet-60-jahre-mit-logo/online---rgb/DATEV-60-Jahre-Signet-3zu1_RGB.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-denacoop",
@@ -6447,7 +6589,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Órgão público de fomento)"
   },
   {
     "id_entidade": "ent-dacr",
@@ -6495,7 +6638,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-leclerc",
@@ -6541,7 +6685,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/E.Leclerc",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/14/E.Leclerc_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-edeka",
@@ -6588,7 +6733,8 @@
     "ref_imagem": "https://de.wikipedia.org/wiki/Edeka",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Edeka_Logo_Aktuell.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-hogar-obrero",
@@ -6638,7 +6784,8 @@
     "ref_imagem": "ACI, foto de 1913 da primeira moradia coletiva construída pela cooperativa (Archivo Histórico del Cooperativismo Argentino/EHO)",
     "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdTxdwOVyKiW_Yr-GcJHkXpnzNUU0ShZUZbomOBj23IE8PfE6rkrwuQuUAwOcIoYhcY5AfWfnzevi3iqGtbeAVWsAq2q5Jo-ighEoFhlAjfNyGfqkuMJIZq7R-KDddHbpaXIoK6c9y4n4VzcM8WjW-bT8EuUAc_pMp2FBPJl9ZNXUKiD9RmWjZFfdokio/s818/entidade-ent-hogar-obrero.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-elege",
@@ -6687,7 +6834,8 @@
     "ref_imagem": "https://www.elege.com.br",
     "imagem": "https://www.elege.com.br/wp-content/themes/elege/images/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca desmutualizada"
   },
   {
     "id_entidade": "ent-euricse",
@@ -6734,7 +6882,8 @@
     "ref_imagem": "https://euricse.eu/en/",
     "imagem": "https://euricse.eu/wp-content/themes/hgblu_euricse/assets/img/logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-expocacer",
@@ -6779,7 +6928,8 @@
     "ref_imagem": "https://expocacer.com.br/",
     "imagem": "https://expocacer.com.br/wp-content/uploads/2024/05/EXPOCACER-branca.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://expocacer.com.br/wp-content/uploads/2026/07/ESTATUTO-SOCIAL-VERSAO-SITE.pdf"
   },
   {
     "id_entidade": "ent-expodireto",
@@ -6823,7 +6973,8 @@
     "ref_imagem": "https://www.expodireto.cotrijal.com.br",
     "imagem": "https://www.expodireto.cotrijal.com.br/img/logomarca-v2.webp",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Feira)"
   },
   {
     "id_entidade": "ent-febecoop",
@@ -6869,7 +7020,8 @@
     "ref_imagem": "https://febecoop.be/",
     "imagem": "https://febecoop.be/wp-content/themes/febecoop/src/ASSETS/IMAGES/common/VECTOR/logo_Febecoop.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-fecoagro-rs",
@@ -6913,7 +7065,8 @@
     "ref_imagem": "https://www.fecoagrors.com.br/",
     "imagem": "https://static.wixstatic.com/media/4ef5bc_d561db69fe1340299a39a5e4d5f300fa~mv2.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-fecoagro-sc",
@@ -6961,7 +7114,8 @@
     "ref_imagem": "https://www.fecoagro.coop.br/",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.fecoagro.coop.br/site2024/wp-content/uploads/2024/09/ESTATUTO-SOCIAL-Aprovado-22.12.2022.pdf"
   },
   {
     "id_entidade": "ent-fecoergs",
@@ -7006,7 +7160,8 @@
     "ref_imagem": "https://www.fecoergs.com.br",
     "imagem": "https://www.fecoergs.com.br/images/logoHead-somoscoop.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-fecoerusc",
@@ -7051,7 +7206,8 @@
     "ref_imagem": "https://www.fecoerusc.org.br/",
     "imagem": "http://fecoerusc.org.br/imagens/logo-rodape.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-vsk",
@@ -7091,7 +7247,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-fetranscoop",
@@ -7129,7 +7286,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-folksam",
@@ -7174,7 +7332,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Folksam_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Folksam_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-fonterra",
@@ -7217,7 +7376,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/File:Fonterra_Logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/en/7/7a/Fonterra_Logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-frencoop",
@@ -7262,7 +7422,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Frente parlamentar (sem personalidade jurídica))"
   },
   {
     "id_entidade": "ent-frieslandcampina",
@@ -7307,7 +7468,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:FrieslandCampina_Logo.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/da/FrieslandCampina_Logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-frimesa",
@@ -7358,7 +7520,8 @@
     "ref_imagem": "https://www.frimesa.com.br/",
     "imagem": "https://frimesa.com.br/wp-content/themes/frimesa/assets/images/logo_frimesa.svg",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-frisia",
@@ -7408,7 +7571,8 @@
     "ref_imagem": "https://www.frisia.coop.br/nossa-essencia.html",
     "imagem": "https://www.frisia.coop.br/assets/images/menu-logo.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-espriu",
@@ -7453,7 +7617,8 @@
     "ref_imagem": "https://www.fundacionespriu.coop/",
     "imagem": "https://www.fundacionespriu.coop/sites/default/files/Grupo%20655.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-sobotiste",
@@ -7490,7 +7655,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-gbv",
@@ -7531,7 +7697,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-granja-uniao",
@@ -7576,7 +7743,8 @@
     "ref_imagem": "https://vinicolagaribaldi.com.br",
     "imagem": "https://vinicolagaribaldi.com.br/wp-content/themes/garibaldi/assets/src/images/brand/logo_herobanner.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca da Cooperativa Vinícola Garibaldi (ver linha própria)"
   },
   {
     "id_entidade": "ent-bpce",
@@ -7622,7 +7790,8 @@
     "ref_imagem": "https://fr.wikipedia.org/wiki/File:Groupe_BPCE_%28logo%29.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/fr/0/0a/Groupe_BPCE_%28logo%29.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-credit-mutuel",
@@ -7670,7 +7839,8 @@
     "ref_imagem": "https://fr.wikipedia.org/wiki/Crédit_mutuel",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cr%C3%A9dit_Mutuel_2022_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-growmark",
@@ -7715,7 +7885,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Growmark_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Growmark_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-iccrea",
@@ -7761,7 +7932,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/Iccrea_Banca",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Iccrea_Banca_logo_2023.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-healthpartners",
@@ -7805,7 +7977,8 @@
     "ref_imagem": "https://www.healthpartners.com/",
     "imagem": "https://www.healthpartners.com/content/dam/brand-identity/logos/internal/healthpartners-park-nicollet/hp/hp-1line-h/hp-1h-rgb.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-heranca-holandesa",
@@ -7855,7 +8028,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca Unium"
   },
   {
     "id_entidade": "ent-holambra-agroindutria",
@@ -7893,7 +8067,8 @@
     "ref_imagem": "https://www.holambra.com.br/",
     "imagem": "https://www.holambra.com.br/assets/images/holambra.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-aci-asia-pacifico",
@@ -7940,7 +8115,8 @@
     "ref_imagem": "https://icaap.coop/about-us/",
     "imagem": "https://icaap.coop/wp-content/uploads/elementor/thumbs/ICA_reg_Asia_Pacific_2021-puh48zgr620xnetm6j1um5nwbztvej33f9mpeyhog0.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-aci-africa",
@@ -7986,7 +8162,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:International_Cooperative_Alliance_vertical_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/62/International_Cooperative_Alliance_vertical_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-icmif",
@@ -8032,7 +8209,8 @@
     "ref_imagem": "https://www.icmif.org/",
     "imagem": "https://www.icmif.org/wp-content/uploads/2025/09/cropped-icmif-colour-variants-Nick_icmif-white.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-iffco",
@@ -8079,7 +8257,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Iffco_logo.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Iffco_logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-inacoop",
@@ -8121,7 +8300,8 @@
     "ref_imagem": "https://www.inacoop.org.uy",
     "imagem": "https://static.wixstatic.com/media/356d79_9f1e14609f404ad0a0e49a4c44623a9e~mv2.png/v1/crop/x_273,y_287,w_703,h_211/fill/w_732,h_220,al_c,q_85/Inacoop%2BPresidenciaProTempore.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-inaes",
@@ -8162,7 +8342,8 @@
     "ref_imagem": "https://www.argentina.gob.ar/inaes",
     "imagem": "https://www.argentina.gob.ar/sites/default/files/styles/isologo/public/imagenEncabezado/logo_web_inaes5_1.png?itok=6KKBPuDD",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-incra",
@@ -8209,7 +8390,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logo_INCRA.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_INCRA.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Autarquia)"
   },
   {
     "id_entidade": "ent-infracoop",
@@ -8254,7 +8436,8 @@
     "ref_imagem": "https://www.infracoop.com.br/inicial",
     "imagem": "https://www.infracoop.com.br/images/infracoopLogoNome.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-integrada",
@@ -8301,7 +8484,8 @@
     "ref_imagem": "https://www.integrada.coop.br/",
     "imagem": "https://www.integrada.coop.br/img/logo_coop_integrada.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-itambe",
@@ -8352,7 +8536,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca desmutualizada"
   },
   {
     "id_entidade": "ent-zen-noh",
@@ -8396,7 +8581,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:JA_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/JA_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-justa-trama",
@@ -8443,7 +8629,8 @@
     "ref_imagem": "https://www.justatrama.com.br",
     "imagem": "https://justatrama.com.br/wp-content/uploads/2026/06/logo_preta2-1024x451-1.png.webp",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-kf",
@@ -8489,7 +8676,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:KF_logo.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/27/KF_logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-degania",
@@ -8533,7 +8721,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-kncu",
@@ -8578,7 +8767,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_Native_Cooperative_Union.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kilimanjaro_Native_Cooperative_Union.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-kribhco",
@@ -8625,7 +8815,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Kribhco_logo.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kribhco_logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-land-o-lakes",
@@ -8669,7 +8860,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Land_O%E2%80%99Lakes_Logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Land_O%E2%80%99Lakes_Logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-languiru",
@@ -8711,7 +8903,8 @@
     "ref_imagem": "https://www.linkedin.com/company/cooplanguiru/home/",
     "imagem": "https://media.licdn.com/dms/image/v2/D4E0BAQFXy6njYonjLg/company-logo_400_400/company-logo_400_400/0/1689102550274/cooplanguiru_logo?e=1792627200&v=beta&t=twX2GpCJRBIRHnkhyWgJAVChZQa8TcuMlY4uR2VBSnU",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-lar",
@@ -8757,7 +8950,8 @@
     "ref_imagem": "https://www.lar.ind.br/institucional/",
     "imagem": "https://www.lar.ind.br/wp-content/themes/lar-by-housecricket/images/logo.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-legacoop",
@@ -8805,7 +8999,8 @@
     "ref_imagem": "https://www.legacoop.coop/",
     "imagem": "https://www.legacoop.coop/wp-content/uploads/2023/03/Legacoop_nuovo_logo_negaativo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-leite-paulista",
@@ -8849,7 +9044,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca desmutualizada"
   },
   {
     "id_entidade": "ent-liberty-mutual",
@@ -8893,7 +9089,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Liberty_Mutual_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Liberty_Mutual_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-ovos-liva",
@@ -8938,7 +9135,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca da Nater Coop (ver linha da Coopeavi)"
   },
   {
     "id_entidade": "ent-mass-specc",
@@ -8983,7 +9181,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-massmutual",
@@ -9027,7 +9226,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:MassMutual_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/MassMutual_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-memorial-amstad",
@@ -9072,7 +9272,8 @@
     "ref_imagem": "https://www.memorialamstad.com",
     "imagem": "https://static.wixstatic.com/media/64b30d_b9f797c9ed794258a6c2d4211f7acc8e~mv2.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Memorial)"
   },
   {
     "id_entidade": "ent-metsaliitto",
@@ -9118,7 +9319,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Mets%C3%A4_logo_2012_horizontal.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mets%C3%A4_logo_2012_horizontal.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-migros",
@@ -9166,7 +9368,8 @@
     "ref_imagem": "https://de.wikipedia.org/wiki/Migros",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Migros.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-minasul",
@@ -9209,7 +9412,8 @@
     "ref_imagem": "https://www.minasul.com.br/pt/institucional/historia",
     "imagem": "https://minasul.com.br/img/minasul-logo-nova.jpg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.minasul.com.br/arquivos/Estatuto_Minasul.pdf"
   },
   {
     "id_entidade": "ent-mondragon",
@@ -9254,7 +9458,8 @@
     "ref_imagem": "https://www.mondragon-corporation.com/en/about-us/",
     "imagem": "https://www.mondragon-corporation.com/wp-content/uploads/2020/05/cropped-logo_out_es_.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-forca-cooperativa",
@@ -9294,7 +9499,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Monumento)"
   },
   {
     "id_entidade": "ent-desjardins",
@@ -9345,7 +9551,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Desjardins_Group_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Desjardins_Group_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-mpt",
@@ -9388,7 +9595,8 @@
     "ref_imagem": "https://mpt.mp.br",
     "imagem": "https://mpt.mp.br/++theme++mpt/images/logo_padrao.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Órgão de fiscalização)"
   },
   {
     "id_entidade": "ent-museu-imigracao-japonesa",
@@ -9432,7 +9640,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Museu_Hist%C3%B3rico_da_Imigra%C3%A7%C3%A3o_Japonesa_no_Brasil_01.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Museu_Hist%C3%B3rico_da_Imigra%C3%A7%C3%A3o_Japonesa_no_Brasil_01.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Museu)"
   },
   {
     "id_entidade": "ent-coopeavi",
@@ -9475,7 +9684,8 @@
     "ref_imagem": "https://nater.coop.br/a-nater-coop/",
     "imagem": "https://nater.coop.br/wp-content/uploads/2024/03/Vector.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-nationwide",
@@ -9520,7 +9730,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Nationwide_Insurance.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nationwide_Insurance.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-navy-federal",
@@ -9567,7 +9778,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Navy_Federal_Credit_Union_Logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Navy_Federal_Credit_Union_Logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-ncua",
@@ -9609,7 +9821,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:NCUA_official_seal.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/NCUA_official_seal.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-ncui",
@@ -9657,7 +9870,8 @@
     "ref_imagem": "https://ncui.coop/",
     "imagem": "https://ncui.coop/assets/img/sitelogo.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-new-harmony",
@@ -9703,7 +9917,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Downtown_new_harmony_indiana.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Downtown_new_harmony_indiana.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-nippon-life",
@@ -9747,7 +9962,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Nippon_Life_Insurance_Company_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nippon_Life_Insurance_Company_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-nacf",
@@ -9791,7 +10007,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:NACF_(NongHyup)_Logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/NACF_(NongHyup)_Logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-northwestern-mutual",
@@ -9835,7 +10052,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/File:Northwestern_Mutual_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/en/2/2f/Northwestern_Mutual_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-nova-alianca",
@@ -9883,7 +10101,8 @@
     "ref_imagem": "https://www.novaalianca.coop.br",
     "imagem": "https://www.novaalianca.coop.br/site/img/nova-alianca-logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-nova-petropolis",
@@ -9930,7 +10149,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Nova_Petropolis%2C_Rio_Grande_do_Sul%2C_Brazil..jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Nova_Petropolis%2C_Rio_Grande_do_Sul%2C_Brazil..jpg",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Lugar)"
   },
   {
     "id_entidade": "ent-nreca",
@@ -9978,7 +10198,8 @@
     "ref_imagem": "https://www.electric.coop/",
     "imagem": "https://www.electric.coop/wp-content/uploads/2017/01/NRECA-Logo-INVESTED-600x315.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-obos",
@@ -10021,7 +10242,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Obos_logo.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Obos_logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-ocb",
@@ -10068,7 +10290,8 @@
     "ref_imagem": "https://somoscooperativismo.coop.br/institucional/ocb",
     "imagem": "https://somoscooperativismo.coop.br/images/portal/sistema-ocb_casas.svg",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Entidade de representação)"
   },
   {
     "id_entidade": "ent-ocean-spray",
@@ -10113,7 +10336,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Ocean_Spray_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Ocean_Spray_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-oit",
@@ -10161,7 +10385,8 @@
     "ref_imagem": "https://www.ilo.org/",
     "imagem": "https://www.ilo.org/themes/custom/ilo/node_modules/@ilo-org/brand-assets/dist/assets/logo_en_horizontal_blue.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-op-group",
@@ -10207,7 +10432,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:OP_Financial_Group.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/OP_Financial_Group.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-pv",
@@ -10252,7 +10478,8 @@
     "ref_imagem": "https://pvgroup.coop/fr",
     "imagem": "https://pvgroup.coop/sites/default/files/2025-10/logo-pv.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-pellervo",
@@ -10302,7 +10529,8 @@
     "ref_imagem": "https://pellervo.fi/en/",
     "imagem": "https://pellervo.fi/wp-content/uploads/2023/03/cropped-Pellervo_logo-1-190x54.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-rochdale",
@@ -10349,7 +10577,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Rochdale_Pioneers_Museum%2C_Toad_Lane%2C_Rochdale%2C_Lancashire_-_geograph.org.uk_-_2251258.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Rochdale_Pioneers_Museum%2C_Toad_Lane%2C_Rochdale%2C_Lancashire_-_geograph.org.uk_-_2251258.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-central-credito-1925",
@@ -10396,7 +10625,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.sicredi.com.br/media/coop/filer_public/2026/02/27/estatuto_social_2026.pdf"
   },
   {
     "id_entidade": "ent-rabobank",
@@ -10444,7 +10674,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Rabobank_text_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rabobank_text_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-rbi",
@@ -10490,7 +10721,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logo_Raiffeisen_Bank_International_RBI_relaunch_2023.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Raiffeisen_Bank_International_RBI_relaunch_2023.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-recm",
@@ -10526,7 +10758,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-bvr",
@@ -10575,7 +10808,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:BVR_logo_neu.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/BVR_logo_neu.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-reducoes-jesuiticas",
@@ -10611,7 +10845,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Redu%C3%A7%C3%A3o_de_S%C3%A3o_Jo%C3%A3o_Batista.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Redu%C3%A7%C3%A3o_de_S%C3%A3o_Jo%C3%A3o_Batista.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Experiência precursora)"
   },
   {
     "id_entidade": "ent-rewe",
@@ -10657,7 +10892,8 @@
     "ref_imagem": "https://de.wikipedia.org/wiki/Rewe_Group",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Rewe-group.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-museu-rochdale",
@@ -10701,7 +10937,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Rochdale_Pioneers_Museum_A_29_July_2017.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Rochdale_Pioneers_Museum_A_29_July_2017.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-rodacoop",
@@ -10746,7 +10983,8 @@
     "ref_imagem": "https://rodacoop.com.br",
     "imagem": "https://rodacoop.com.br/wp-content/uploads/2026/04/logo-roda-scaled.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-s-group",
@@ -10793,7 +11031,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/S_Group",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/S_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-sacmi",
@@ -10842,7 +11081,8 @@
     "ref_imagem": "https://sacmi.com/en-US/Corporate",
     "imagem": "https://sacmi.com/SacmiCorporate/media/Corporate/Icon/Icon-Sacmi.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-sancor",
@@ -10882,7 +11122,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Sancor_coop_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sancor_coop_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-santa-clara",
@@ -10925,7 +11166,8 @@
     "ref_imagem": "https://www.coopsantaclara.com.br/blog/santa-clara-apresenta-lancamentos-na-expoagas-e-aposta-em-produtos-de-saudabilidade-e-proteinas",
     "imagem": "https://coopsantaclara.com.br/media/4150/legenda-1-credito-divulgacao-santa-clara.jpeg",
     "evidenciar": true,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-seikatsu",
@@ -10971,7 +11213,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/Seikatsu_Club_Consumers%27_Co-operative_Union",
     "imagem": "https://en.wikipedia.org/wiki/Special:FilePath/Seikatsu_logo.gif",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-selita",
@@ -11017,7 +11260,8 @@
     "ref_imagem": "https://selita.coop.br",
     "imagem": "https://selita.coop.br/wp-content/uploads/2023/09/Logo-original-sem-selos@4x-1-1024x726.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-senaes",
@@ -11064,7 +11308,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Órgão público de fomento)"
   },
   {
     "id_entidade": "ent-sescoop",
@@ -11110,7 +11355,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Serviço social autônomo)"
   },
   {
     "id_entidade": "ent-show-rural",
@@ -11154,7 +11400,8 @@
     "ref_imagem": "https://showrural.com.br",
     "imagem": "https://showrural.com.br/images/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Feira)"
   },
   {
     "id_entidade": "ent-cecremge",
@@ -11200,7 +11447,8 @@
     "ref_imagem": "https://www.sicoob.com.br/web/sicoobcentralcecremge",
     "imagem": "https://www.sicoob.com.br/image/layout_set_logo?img_id=162366734&t=1791301636525",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.sicoob.com.br/documents/2059255/2059261/Estatuto+Social+-+Sicoob+Central+Cecremge+2024.pdf/7e3484ae-6871-d7a5-79ea-21a4ed9652aa"
   },
   {
     "id_entidade": "ent-crediminas",
@@ -11247,7 +11495,8 @@
     "ref_imagem": "https://www.sicoob.com.br/web/sicoobcentralcrediminas",
     "imagem": "https://www.sicoob.com.br/image/layout_set_logo?img_id=190659737",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-sicoob-confederacao",
@@ -11293,7 +11542,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logotipo_do_Sicoob.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Logotipo_do_Sicoob.svg",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-coopemata",
@@ -11338,7 +11588,8 @@
     "ref_imagem": "https://www.sicoob.com.br/web/sicoobcoopemata/para-voce",
     "imagem": "https://www.sicoob.com.br/image/layout_set_logo?img_id=2347577&t=1791233454609",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.sicoob.com.br/web/sicoobcoopemata/sicoob-coopemata/normativos"
   },
   {
     "id_entidade": "ent-coopercredi",
@@ -11380,7 +11631,8 @@
     "ref_imagem": "https://www.sicoob.com.br/web/sicoobcoopercred/sicoob-coopercred",
     "imagem": "https://www.sicoob.com.br/image/layout_set_logo?img_id=4147713&t=1791233142839",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.sicoob.com.br/documents/d/sicoobcoopercred/estatuto-social-juceg?download=true"
   },
   {
     "id_entidade": "ent-sicoob-credicampo",
@@ -11424,7 +11676,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.sicoob.com.br/web/sicoobcredicampo/estatuto-social-e-regimento-eleitoral/-/document_library/0nuu9xM6yVmS/view_file/154127201"
   },
   {
     "id_entidade": "ent-credicitrus",
@@ -11469,7 +11722,8 @@
     "ref_imagem": "https://sicoobcredicitrus.com.br/quem-somos/",
     "imagem": "https://sicoobcredicitrus.com.br/wp-content/uploads/2020/08/logo-sicoob-credicitrus2.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://sicoobcredicitrus.com.br/wp-content/uploads/2025/09/Estatuto-Social-Aprovado-pela-AGE-16.4.2025.pdf"
   },
   {
     "id_entidade": "ent-credicom",
@@ -11516,7 +11770,8 @@
     "ref_imagem": "https://www.sicoob.com.br/web/sicoobcredicom",
     "imagem": "https://www.sicoob.com.br/image/layout_set_logo?img_id=157006990&t=1791223263036",
     "evidenciar": true,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.sicoob.com.br/documents/46451716/189527253/3.+Estatuto+Social+Credicom.pdf/9ef6fdb2-e597-7ed4-0272-1c465244ec60?t=1710338668048&download=true"
   },
   {
     "id_entidade": "ent-sicoob-credilivre",
@@ -11560,7 +11815,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.sicoob.com.br/documents/11803424/0/Estatuto+Social+Aprovado+na+AGE+de+30+09+2025.pdf/2b40094f-2271-d34a-7f93-7ae4f9c5a3a1?t=1771513196711"
   },
   {
     "id_entidade": "ent-sicoob-credipel",
@@ -11604,7 +11860,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.sicoob.com.br/web/sicoobcredipel/relatorios/-/document_library/O3r9u4hoQPtB/view/205552715"
   },
   {
     "id_entidade": "ent-sicoob-frutal",
@@ -11648,7 +11905,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.sicoob.com.br/web/sicoobfrutal/portal-do-cooperado/-/document_library/3zgPLbj2SMxv/view_file/263797779"
   },
   {
     "id_entidade": "ent-sicoob-nossocredito",
@@ -11692,7 +11950,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.sicoob.com.br:443/web/sicoobnossocredito/relatorios/-/document_library/O3r9u4hoQPtB/view_file/322907081?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_O3r9u4hoQPtB_fileEntryId=322907081"
   },
   {
     "id_entidade": "ent-sicoob-sao-paulo",
@@ -11737,7 +11996,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.sicoob.com.br/web/sicoobcentralsp/relatorios"
   },
   {
     "id_entidade": "ent-sicoob-sarom",
@@ -11782,7 +12042,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.sicoob.com.br/documents/20131212/95818353/Estatuto+Social+Sicoob+Sarom+-+25.04.2025.pdf/e672290a-ca83-3410-96c3-2ed3fa93d7e0?t=1758139841884"
   },
   {
     "id_entidade": "ent-sicoob-uniao-central",
@@ -11826,7 +12087,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.sicoob.com.br:443/web/sicoobuniaocentral/publicacoes/-/document_library/O3r9u4hoQPtB/view_file/319230489?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_O3r9u4hoQPtB_fileEntryId=319230489"
   },
   {
     "id_entidade": "ent-unimais",
@@ -11874,7 +12136,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.sicoob.com.br/documents/61202741/144164182/Estatuto+Social+23_05_2025_+Registrada+JUCESP.pdf/634c5dd8-f8c2-a589-079a-116893d612b5?t=1760475307293&download=true"
   },
   {
     "id_entidade": "ent-sicredi-integracao",
@@ -11917,7 +12180,8 @@
     "ref_imagem": "https://www.sicredi.com.br/coop/integracaorsscmg/",
     "imagem": "https://www.sicredi.com.br/coop/static/assets/header/logo-svg2.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.sicredi.com.br/media/coop/filer_public/2025/01/17/estatuto.pdf"
   },
   {
     "id_entidade": "ent-sicredi-pioneira",
@@ -11967,7 +12231,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logotipo_do_Sicredi_%282016%29.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_do_Sicredi_%282016%29.svg",
     "evidenciar": true,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://sicredipioneira.com.br/files/estatuto-social-sicredi-pioneira_2025.pdf"
   },
   {
     "id_entidade": "ent-ailos",
@@ -12011,7 +12276,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Ailos_h_pos_d_RGB.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ailos_h_pos_d_RGB.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-sistema-ocb",
@@ -12058,7 +12324,8 @@
     "ref_imagem": "https://somoscooperativismo.coop.br",
     "imagem": "https://somoscooperativismo.coop.br/images/portal/sistema-ocb_casas.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Entidade de representação)"
   },
   {
     "id_entidade": "ent-ocb-ac",
@@ -12106,7 +12373,8 @@
     "ref_imagem": "https://www.somoscooperativismo-ac.coop.br/",
     "imagem": "https://www.somoscooperativismo-ac.coop.br/images/marca-sistema-ocb---versao-positiva-colorida-horizontal---ac---2.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-al",
@@ -12153,7 +12421,8 @@
     "ref_imagem": "https://somoscooperativismo-al.coop.br/",
     "imagem": "https://somoscooperativismo-al.coop.br/images/marca-sistema-ocb---versao-positiva-colorida-horizontal---al-2.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-am",
@@ -12201,7 +12470,8 @@
     "ref_imagem": "https://www.somoscooperativismo-am.coop.br/",
     "imagem": "https://www.somoscooperativismo-am.coop.br/images/marca-sistema-ocb---versao-positiva-colorida-horizontal---am---2.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-ap",
@@ -12249,7 +12519,8 @@
     "ref_imagem": "https://amapa.coop.br/",
     "imagem": "https://amapa.coop.br/wp-content/uploads/2020/12/logo_horizontalpng.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-ce",
@@ -12296,7 +12567,8 @@
     "ref_imagem": "https://www.somoscooperativismo-ce.coop.br/",
     "imagem": "https://www.somoscooperativismo-ce.coop.br/images/marca-sistema-ocb---versao-positiva-colorida-horizontal---ce-21.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocdf",
@@ -12343,7 +12615,8 @@
     "ref_imagem": "https://www.somoscooperativismo-df.coop.br/",
     "imagem": "https://www.somoscooperativismo-df.coop.br/images/marca-sistemaocbdf.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-es",
@@ -12391,7 +12664,8 @@
     "ref_imagem": "https://portal.ocbes.coop.br/pt/",
     "imagem": "https://portal.ocbes.coop.br/public/site/img/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-go",
@@ -12439,7 +12713,8 @@
     "ref_imagem": "https://www.goiascooperativo.coop.br/ocb-go/",
     "imagem": "https://www.goiascooperativo.coop.br/wp-content/themes/sescoop/assets/images/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-ma",
@@ -12486,7 +12761,8 @@
     "ref_imagem": "https://somoscooperativismo-ma.coop.br/",
     "imagem": "https://somoscooperativismo-ma.coop.br/images/marca-sistema-ocb---versao-positiva-colorida-horizontal---ma.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-ms",
@@ -12533,7 +12809,8 @@
     "ref_imagem": "https://www.somoscooperativismo-ms.coop.br/",
     "imagem": "https://somoscooperativismo-ms.coop.br/images/marca-sistema-ocb---versao-positiva-colorida-horizontal---ms-2.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-mt",
@@ -12581,7 +12858,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-pa",
@@ -12629,7 +12907,8 @@
     "ref_imagem": "https://www.paracooperativo.coop.br/",
     "imagem": "https://paracooperativo.coop.br/images/marca-sistema-ocb---versao-positiva-colorida-horizontal---pa-2.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-pb",
@@ -12678,7 +12957,8 @@
     "ref_imagem": "https://www.paraibacooperativo.coop.br",
     "imagem": "https://www.paraibacooperativo.coop.br/assets/img/logo-ocb2.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-pe",
@@ -12725,7 +13005,8 @@
     "ref_imagem": "https://www.somoscooperativismo-pe.coop.br/",
     "imagem": "https://www.somoscooperativismo-pe.coop.br/images/marca-sistema-ocb---versao-positiva-colorida-horizontal---pe---2.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-pi",
@@ -12767,7 +13048,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-rj",
@@ -12816,7 +13098,8 @@
     "ref_imagem": "https://rio.coop/",
     "imagem": "https://rio.coop/wp-content/uploads/2024/03/sistema_ocb_rj_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-ro",
@@ -12862,7 +13145,8 @@
     "ref_imagem": "https://rondonia.coop.br",
     "imagem": "https://rondonia.coop.br/wp-content/uploads/2026/05/marca-Sistema-OCB-vers%EF%BF%BDo-positiva-colorida-horizontal-RO-1-1-1.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-rr",
@@ -12909,7 +13193,8 @@
     "ref_imagem": "https://www.ocbrr.coop.br/",
     "imagem": "https://www.ocbrr.coop.br/media/plg_jspeed/cache/images/b695e921bd6879246b750a308027439aa94e931b.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-to",
@@ -12955,7 +13240,8 @@
     "ref_imagem": "https://somoscooperativismo-to.coop.br/institucional/ocb-to",
     "imagem": "https://somoscooperativismo-to.coop.br/images/Logo/logo-sistemaocbto.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-oceb",
@@ -13002,7 +13288,8 @@
     "ref_imagem": "https://somoscooperativismo-ba.coop.br/institucional/sistema-oceb/",
     "imagem": "https://somoscooperativismo-ba.coop.br/images/2023/09/27/marca-oceb---versao-positiva-colorida-vertical---ba.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocemg",
@@ -13051,7 +13338,8 @@
     "ref_imagem": "https://sistemaocemg.coop.br/",
     "imagem": "https://sistemaocemg.coop.br/wp-content/themes/ocemg/src/assets/images/general/logo.png",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocepar",
@@ -13099,7 +13387,8 @@
     "ref_imagem": "https://paranacooperativo.coop.br",
     "imagem": "https://paranacooperativo.coop.br/images/marca-sistema-ocepar---versao-positiva-colorida-horizontal---pr-2.svg",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocergs",
@@ -13148,7 +13437,8 @@
     "ref_imagem": "https://somoscooperativismo-rs.coop.br/",
     "imagem": "https://somoscooperativismo-rs.coop.br/images/portal/logo-sistemaocergrs-col.webp",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-rn",
@@ -13194,7 +13484,8 @@
     "ref_imagem": "https://somoscooperativismo-rn.coop.br/institucional/sistema-ocern/",
     "imagem": "https://somoscooperativismo-rn.coop.br/images/Logo/logo-sistemaocbrn1.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocesc",
@@ -13243,7 +13534,8 @@
     "ref_imagem": "https://sistemaocesc.coop.br/",
     "imagem": "https://sistemaocesc.coop.br/images/marca-sistema-ocesc---versao-positiva-colorida-horizontal---sc-2.svg",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocb-se",
@@ -13289,7 +13581,8 @@
     "ref_imagem": "https://somoscooperativismo-se.coop.br/",
     "imagem": "https://somoscooperativismo-se.coop.br/images/marca-sistema-ocese---versao-positiva-colorida-horizontal---se---2.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-ocesp",
@@ -13334,7 +13627,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Organização estadual (OCE))"
   },
   {
     "id_entidade": "ent-fenwick",
@@ -13374,7 +13668,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-state-farm",
@@ -13421,7 +13716,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:State_Farm_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/State_Farm_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-sunkist",
@@ -13466,7 +13762,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Sunkist_Growers_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sunkist_Growers_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-susep",
@@ -13512,7 +13809,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Autarquia reguladora)"
   },
   {
     "id_entidade": "ent-tecnoshow",
@@ -13556,7 +13854,8 @@
     "ref_imagem": "https://tecnoshowcomigo.com.br",
     "imagem": "https://tecnoshowcomigo.com.br/assets/images/new-logo-white.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Feira)"
   },
   {
     "id_entidade": "ent-coop-group",
@@ -13605,7 +13904,8 @@
     "ref_imagem": "https://en.wikipedia.org/wiki/Co-op_Group",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Co-Operative_clover_leaf_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-ufsm",
@@ -13654,7 +13954,8 @@
     "ref_imagem": "https://www.ufsm.br/",
     "imagem": "https://www.ufsm.br/app/themes/ufsm/images/brasao.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Universidade federal)"
   },
   {
     "id_entidade": "ent-ufv",
@@ -13704,7 +14005,8 @@
     "ref_imagem": "https://www.ufv.br/",
     "imagem": "https://www.ufv.br/wp-content/themes/portalnovo/assets/images/logotipoUFV2.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Universidade federal)"
   },
   {
     "id_entidade": "ent-unicafes",
@@ -13751,7 +14053,8 @@
     "ref_imagem": "https://www.unicafes.org.br",
     "imagem": "https://www.unicafes.org.br/imgs/logomarca.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Entidade de representação)"
   },
   {
     "id_entidade": "ent-unicopas",
@@ -13795,7 +14098,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Entidade de representação)"
   },
   {
     "id_entidade": "ent-unicred",
@@ -13839,7 +14143,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logotipo_do_Unicred.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logotipo_do_Unicred.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unicred-uniao",
@@ -13881,7 +14186,8 @@
     "ref_imagem": "https://www.unicred.com.br/uniao/institucional/sistema-unicred/a-unicred",
     "imagem": "https://www.unicred.com.br/_next/static/media/unicred_logo_colored.752fb12a.webp",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.unicred.com.br/site/1659719549287-estatuto-social-2022pdf.pdf"
   },
   {
     "id_entidade": "ent-uniforja",
@@ -13928,7 +14234,8 @@
     "ref_imagem": "https://uniforja.com.br/sobre/",
     "imagem": "https://uniforja.com.br/wp-content/uploads/2026/10/logo-uniforja-26-anos-1.png",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-belem",
@@ -13976,7 +14283,8 @@
     "ref_imagem": "https://www.unimed.coop.br/site/web/unimedbelem",
     "imagem": "https://www.unimed.coop.br/site/image/layout_set_logo?img_id=21157434&t=1791098621182",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-bh",
@@ -14020,7 +14328,8 @@
     "ref_imagem": "https://www.unimedbh.com.br/",
     "imagem": "https://www.unimedbh.com.br/sites/default/files/styles/coh_x_small/public/logo-unimed-belo-horizonte_3.webp?itok=ZDXMaS1z",
     "evidenciar": true,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://static.unimedbh.io/portal/uploads/ESTATUTO_SOCIAL_11.03.2026.pdf"
   },
   {
     "id_entidade": "ent-unimed-campinas",
@@ -14067,7 +14376,8 @@
     "ref_imagem": "https://www.unimedcampinas.com.br/",
     "imagem": "https://d24ux3x5lhpqgy.cloudfront.net/assets/images/logo/logo-unimed-campinas.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-cuiaba",
@@ -14114,7 +14424,8 @@
     "ref_imagem": "https://unimed.coop.br/site/web/cuiaba/institucional",
     "imagem": "https://unimed.coop.br/site/image/layout_set_logo?img_id=20912748&t=1791184268119",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-curitiba",
@@ -14158,7 +14469,8 @@
     "ref_imagem": "https://www.unimedcuritiba.com.br/institucional",
     "imagem": "https://www.unimedcuritiba.com.br/sites/default/files/styles/medium/s3/2023-02/unimed-curitiba_box-pinheiro-250px_logo.png.webp",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-brasil",
@@ -14206,7 +14518,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logotipo_da_Unimed_%282022%29.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Logotipo_da_Unimed_%282022%29.svg",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-fortaleza",
@@ -14254,7 +14567,8 @@
     "ref_imagem": "https://www.unimedfortaleza.com.br/",
     "imagem": "https://www.unimedfortaleza.com.br/resources/images/marca-unimed-principal.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.unimedfortaleza.com.br/portaluploads/uploads/2023/09/ESTATUTO-SOCIAL-UNIMED-FORTALEZA-SET-2023.pdf"
   },
   {
     "id_entidade": "ent-unimed-goiania",
@@ -14301,7 +14615,8 @@
     "ref_imagem": "https://www.unimedgoiania.coop.br",
     "imagem": "https://www.unimedgoiania.coop.br/wps/wcm/connect/43fc9234-6d8c-4494-adc2-df20f36065cd/logo-unimed-2022-portal.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-43fc9234-6d8c-4494-adc2-df20f36065cd-oMsH6pa",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://unimedgoiania.coop.br/wps/wcm/connect/a86a1b4f-8fbf-45f2-8700-75d054792d9f/Estatuto+Social+Unimed+Goi%C3%A2nia+25.6.2026+-+chancelado+pela+JUCEG.pdf?MOD=AJPERES&attachment=true&id=1785953969549"
   },
   {
     "id_entidade": "ent-unimed-florianopolis",
@@ -14348,7 +14663,8 @@
     "ref_imagem": "https://www.unimed.coop.br/site/web/florianopolis/home",
     "imagem": "https://www.unimed.coop.br/site/image/layout_set_logo?img_id=22834515&t=1791035214547",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.unimed.coop.br/site/documents/4086700/0/Estatuto+Social+-+atualizado+ap%C3%B3s+AGE+de+26.03.2026+%281%29.pdf/ec3e52ab-de0d-12e4-c41f-33a93e20d5b5?t=1779286847210"
   },
   {
     "id_entidade": "ent-unimed-jp",
@@ -14396,7 +14712,8 @@
     "ref_imagem": "https://www.unimedjp.com.br",
     "imagem": "https://www.unimedjp.com.br/imagens/logo-unimed.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-jf",
@@ -14440,7 +14757,8 @@
     "ref_imagem": "https://www.unimedjf.coop.br/",
     "imagem": "https://www.unimedjf.coop.br/Imagens/MasterPage/logo_unimed_atualizada.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "https://www.unimedjf.coop.br/conteudos/A-Unimed/Estatuto-Social"
   },
   {
     "id_entidade": "ent-unimed-londrina",
@@ -14488,7 +14806,8 @@
     "ref_imagem": "https://www.unimedlondrina.com.br/",
     "imagem": "https://www.unimedlondrina.com.br/img/desktop/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-mercosul",
@@ -14532,7 +14851,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logotipo_da_Unimed_%282022%29.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Logotipo_da_Unimed_%282022%29.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-natal",
@@ -14580,7 +14900,8 @@
     "ref_imagem": "https://www.unimed.coop.br/site/web/natal",
     "imagem": "https://www.unimed.coop.br/site/image/layout_set_logo?img_id=23005497",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.unimed.coop.br/site/documents/17546243/89413498/Estatuto+Social+Unimed_2026.pdf/1e3b1faa-8fb8-f194-02b9-67a46df074b0?t=1782503080450"
   },
   {
     "id_entidade": "ent-unimed-paulistana",
@@ -14622,7 +14943,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": true,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-poa",
@@ -14669,7 +14991,8 @@
     "ref_imagem": "https://unimed.coop.br/site/pt/web/portoalegre/a-unimed/porto-alegre",
     "imagem": "https://unimed.coop.br/site/image/layout_set_logo?img_id=53104853",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-recife",
@@ -14717,7 +15040,8 @@
     "ref_imagem": "https://www.unimedrecife.com.br",
     "imagem": "https://www.unimedrecife.com.br/view/images/marca-unimed-recife.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-rio",
@@ -14766,7 +15090,8 @@
     "ref_imagem": "https://www.unimedrio.com.br/",
     "imagem": "https://www.unimedrio.com.br/images/thumbnail_Unimed-rio_box.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://captacaodecooperados.unimedrio.com.br/wp-content/uploads/2021/08/estat_soc_unimed-rio_2020-2024.pdf"
   },
   {
     "id_entidade": "ent-unimed-santos",
@@ -14811,7 +15136,8 @@
     "ref_imagem": "https://www.unimed.coop.br/site/web/santos",
     "imagem": "https://www.unimed.coop.br/site/image/layout_set_logo?img_id=24627163&t=1791187605269",
     "evidenciar": true,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-rio-preto",
@@ -14858,7 +15184,8 @@
     "ref_imagem": "https://www.unimedriopreto.com.br/",
     "imagem": "https://www.unimedriopreto.com.br/static/css/images/logoUnimed.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-nordeste-rs",
@@ -14902,7 +15229,8 @@
     "ref_imagem": "https://www.unimedserragaucha.com.br",
     "imagem": "https://www.unimedserragaucha.com.br/img/logo.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.unimedserragaucha.com.br/direct/download/22518"
   },
   {
     "id_entidade": "ent-unimed-uberlandia",
@@ -14949,7 +15277,8 @@
     "ref_imagem": "https://www.unimed.coop.br/site/web/uberlandia",
     "imagem": "https://www.unimed.coop.br/site/image/layout_set_logo?img_id=89277347&t=1791315917259",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unimed-vitoria",
@@ -14997,7 +15326,8 @@
     "ref_imagem": "https://www.unimed.coop.br/site/web/vitoria",
     "imagem": "https://www.unimed.coop.br/site/image/layout_set_logo?img_id=21236983&t=1791035213048",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.unimed.coop.br/site/documents/3034276/12103672/Estatuto+Social+Unimed+Vit%C3%B3ria+2026.pdf/2fa52f15-a2ce-7105-ec6d-cc2a6c64ed87?t=1789508002174"
   },
   {
     "id_entidade": "ent-uniodonto-bh",
@@ -15040,7 +15370,8 @@
     "ref_imagem": "https://uniodontobh.com.br/",
     "imagem": "https://uniodontobh.com.br/wp-content/uploads/2021/08/logobhnovo.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-uniodonto-brasil",
@@ -15083,7 +15414,8 @@
     "ref_imagem": "https://www.uniodonto.coop.br/",
     "imagem": "https://www.uniodonto.coop.br/wp-content/uploads/2022/10/Uniodonto-originais-da-marca-rgb-Asset-3.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-unipol",
@@ -15132,7 +15464,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Logo_Unipol_2025.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_Unipol_2025.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-uniprime",
@@ -15176,7 +15509,8 @@
     "ref_imagem": "https://www.uniprime.com.br",
     "imagem": "https://www.uniprime.com.br/themes/oficial/images/logo-uniprime.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.uniprime.com.br/uploads/files/2024/01/estatuto-social-uniprime-central-nacional-1704998578.pdf"
   },
   {
     "id_entidade": "ent-uniprime-pioneira",
@@ -15219,7 +15553,8 @@
     "ref_imagem": "https://www.uniprime.com.br",
     "imagem": "https://www.uniprime.com.br/themes/oficial/images/logo-uniprime.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "https://www.uniprime.com.br/uploads/files/2026/04/estatuto-social-1777319369.pdf"
   },
   {
     "id_entidade": "ent-unisol",
@@ -15266,7 +15601,8 @@
     "ref_imagem": "https://www.unisolbrasil.org.br",
     "imagem": "https://unisolbrasil.org.br/wp-content/uploads/2022/02/logo-1.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: não é cooperativa (Central de empreendimentos solidários)"
   },
   {
     "id_entidade": "ent-unium",
@@ -15314,7 +15650,8 @@
     "ref_imagem": "",
     "imagem": "",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca de intercooperação (Frísia, Castrolanda e Capal)"
   },
   {
     "id_entidade": "ent-ulccs",
@@ -15359,7 +15696,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Ulccs.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ulccs.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-valio",
@@ -15405,7 +15743,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Valion_ensimm%C3%A4inen_logo.jpg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Valion_ensimm%C3%A4inen_logo.jpg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-veiling",
@@ -15448,7 +15787,8 @@
     "ref_imagem": "https://veiling.com.br/",
     "imagem": "https://veiling.com.br/wp-content/uploads/elementor/thumbs/VeilingHolambra_MarcaPrincipal_Laranja-qgujos2k0eoj8rz62h6ww6ktt8972npnuqlau65kb8.png",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-veneza",
@@ -15495,7 +15835,8 @@
     "ref_imagem": "https://venezalacteos.com.br",
     "imagem": "https://venezalacteos.com.br/wp-content/uploads/2024/02/logo-veneza-1.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: marca da Nater Coop (ver linha da Coopeavi)"
   },
   {
     "id_entidade": "ent-viacredi",
@@ -15540,7 +15881,8 @@
     "ref_imagem": "https://www.viacredi.coop.br/sua-cooperativa/a-cooperativa",
     "imagem": "https://www.viacredi.coop.br/wp-content/uploads/2022/03/logo_viacredi_pos.svg",
     "evidenciar": false,
-    "conferido": true
+    "conferido": true,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-vinicola-aurora",
@@ -15587,7 +15929,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Vin%C3%ADcola_Aurora_logo_cinza.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Vin%C3%ADcola_Aurora_logo_cinza.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-vinicola-garibaldi",
@@ -15634,7 +15977,8 @@
     "ref_imagem": "https://vinicolagaribaldi.com.br",
     "imagem": "https://vinicolagaribaldi.com.br/wp-content/themes/garibaldi/assets/src/images/brand/logo_herobanner.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não localizado"
   },
   {
     "id_entidade": "ent-womens-guild",
@@ -15675,7 +16019,8 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:Co-operative_Women%27s_Guild_Western_Section_Officials_in_1926.png",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Co-operative_Women%27s_Guild_Western_Section_Officials_in_1926.png",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   },
   {
     "id_entidade": "ent-zenkyoren",
@@ -15723,6 +16068,7 @@
     "ref_imagem": "https://commons.wikimedia.org/wiki/File:JA_Kyosai_logo.svg",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/JA_Kyosai_logo.svg",
     "evidenciar": false,
-    "conferido": false
+    "conferido": false,
+    "estatuto_social": "não se aplica: entidade estrangeira"
   }
 ]
